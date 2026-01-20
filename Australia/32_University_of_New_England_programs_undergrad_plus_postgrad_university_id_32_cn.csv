@@ -1,0 +1,113 @@
+﻿university_id,degree_level,major_name_en,major_name_cn,is_active,notes
+32,bachelor,Bachelor of Accounting,会计学士,1,https://www.une.edu.au/study/courses/bachelor-of-accounting
+32,bachelor,Bachelor of Accounting/Bachelor of Laws,会计学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-accounting-bachelor-of-laws
+32,bachelor,Bachelor of Agribusiness,农业商务学士,1,https://www.une.edu.au/study/courses/bachelor-of-agribusiness
+32,bachelor,Bachelor of Agriculture,农业学士,1,https://www.une.edu.au/study/courses/bachelor-of-agriculture
+32,bachelor,Bachelor of Agriculture/Bachelor of Business,农业学士/商学学士,1,https://www.une.edu.au/study/courses/bachelor-of-agriculture-bachelor-of-business
+32,bachelor,Bachelor of Agriculture/Bachelor of Laws,农业学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-agriculture-bachelor-of-laws
+32,bachelor,Bachelor of Animal Science,动物科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-animal-science
+32,bachelor,Bachelor of Arts,文学学士,1,https://www.une.edu.au/study/courses/bachelor-of-arts
+32,bachelor,Bachelor of Arts/Bachelor of Business,文学学士/商学学士,1,https://www.une.edu.au/study/courses/bachelor-of-arts-bachelor-of-business
+32,bachelor,Bachelor of Arts/Bachelor of Laws,文学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-arts-bachelor-of-laws
+32,bachelor,Bachelor of Arts/Bachelor of Science,文学学士/理学学士,1,https://www.une.edu.au/study/courses/bachelor-of-arts-bachelor-of-science
+32,bachelor,Bachelor of Biomedical Science,生物医学科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-biomedical-science
+32,bachelor,Bachelor of Business,商学学士,1,https://www.une.edu.au/study/courses/bachelor-of-business
+32,bachelor,Bachelor of Business/Bachelor of Economics,商学学士/经济学学士,1,https://www.une.edu.au/study/courses/bachelor-of-business-bachelor-of-economics
+32,bachelor,Bachelor of Business/Bachelor of Laws,商学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-business-bachelor-of-laws
+32,bachelor,Bachelor of Clinical Exercise Physiology,临床运动生理学学士,1,https://www.une.edu.au/study/courses/bachelor-of-clinical-exercise-physiology
+32,bachelor,Bachelor of Community Services,社区服务学士,1,https://www.une.edu.au/study/courses/bachelor-of-community-services
+32,bachelor,Bachelor of Computer Science,计算机科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-computer-science
+32,bachelor,Bachelor of Computer Science/Bachelor of Laws,计算机科学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-computer-science-bachelor-of-laws
+32,bachelor,Bachelor of Counselling,咨询学士,1,https://www.une.edu.au/study/courses/bachelor-of-counselling
+32,bachelor,Bachelor of Criminology,犯罪学学士,1,https://www.une.edu.au/study/courses/bachelor-of-criminology
+32,bachelor,Bachelor of Criminology/Bachelor of Laws,犯罪学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-criminology-bachelor-of-laws
+32,bachelor,Bachelor of Digital Marketing,数字营销学士,1,https://www.une.edu.au/study/courses/bachelor-of-digital-marketing
+32,bachelor,Bachelor of Economics,经济学学士,1,https://www.une.edu.au/study/courses/bachelor-of-economics
+32,bachelor,Bachelor of Economics/Bachelor of Laws,经济学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-economics-bachelor-of-laws
+32,bachelor,Bachelor of Education (Early Childhood and Primary),教育学学士（幼儿与小学教育）,1,https://www.une.edu.au/study/courses/bachelor-of-education-early-childhood-and-primary
+32,bachelor,Bachelor of Education (Early Childhood Education and Care),教育学学士（幼儿教育与照护）,1,https://www.une.edu.au/study/courses/bachelor-of-education-early-childhood-education-and-care
+32,bachelor,Bachelor of Education (In-service Conversion),教育学学士（在职转专业）,1,https://www.une.edu.au/study/courses/bachelor-of-education-in-service-conversion
+32,bachelor,Bachelor of Education (K-12 Teaching),教育学学士（K-12教学）,1,https://www.une.edu.au/study/courses/bachelor-of-education-k-12-teaching
+32,bachelor,Bachelor of Education (K-6 Teaching),教育学学士（K-6教学）,1,https://www.une.edu.au/study/courses/bachelor-of-education-k-6-teaching
+32,bachelor,Bachelor of Education (Secondary Arts),教育学学士（中学教育：文科）,1,https://www.une.edu.au/study/courses/bachelor-of-education-secondary-arts
+32,bachelor,Bachelor of Education (Secondary STEM),教育学学士（中学教育：STEM）,1,https://www.une.edu.au/study/courses/bachelor-of-education-secondary-stem
+32,bachelor,Bachelor of Educational Studies,教育研究学士,1,https://www.une.edu.au/study/courses/bachelor-of-educational-studies
+32,bachelor,Bachelor of Environmental Science and Master of Natural Resource Management,环境科学学士/自然资源管理硕士,1,https://www.une.edu.au/study/courses/bachelor-of-environmental-science-and-master-of-natural-resource-management
+32,bachelor,Bachelor of Environmental Science,环境科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-environmental-science
+32,bachelor,Bachelor of Environmental Science/Bachelor of Laws,环境科学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-environmental-science-bachelor-of-laws
+32,bachelor,Bachelor of Exercise and Sports Science,运动与体育科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-exercise-and-sports-science
+32,bachelor,Bachelor of GeoScience,地球科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-geoscience
+32,bachelor,Bachelor of Historical Inquiry and Practice,历史研究与实践学士,1,https://www.une.edu.au/study/courses/bachelor-of-historical-inquiry-and-practice
+32,bachelor,Bachelor of Information Technology,信息技术学士,1,https://www.une.edu.au/study/courses/bachelor-of-information-technology
+32,bachelor,Bachelor of International Studies,国际研究学士,1,https://www.une.edu.au/study/courses/bachelor-of-international-studies
+32,bachelor,Bachelor of Language Studies,语言研究学士,1,https://www.une.edu.au/study/courses/bachelor-of-language-studies
+32,bachelor,Bachelor of Languages,语言学士,1,https://www.une.edu.au/study/courses/bachelor-of-languages
+32,bachelor,Bachelor of Laws (3 Years),法学学士（3年制）,1,https://www.une.edu.au/study/courses/bachelor-of-laws-3-years
+32,bachelor,Bachelor of Laws (4 Years),法学学士（4年制）,1,https://www.une.edu.au/study/courses/bachelor-of-laws-4-years
+32,bachelor,Bachelor of Legal Studies,法律研究学士,1,https://www.une.edu.au/study/courses/bachelor-of-legal-studies
+32,bachelor,Bachelor of Media and Communications,媒体与传播学士,1,https://www.une.edu.au/study/courses/bachelor-of-media-and-communications
+32,bachelor,Bachelor of Media and Communications/Bachelor of Laws,媒体与传播学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-media-and-communications-bachelor-of-laws
+32,bachelor,Bachelor of Medical Science and Doctor of Medicine,医学科学学士/医学博士,1,https://www.une.edu.au/study/courses/bachelor-of-medical-science-and-doctor-of-medicine
+32,bachelor,Bachelor of Music,音乐学士,1,https://www.une.edu.au/study/courses/bachelor-of-music
+32,bachelor,Bachelor of Nursing,护理学学士,1,https://www.une.edu.au/study/courses/bachelor-of-nursing
+32,bachelor,Bachelor of Nutrition and Health Science,营养与健康科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-nutrition-and-health-science
+32,bachelor,Bachelor of Organisational Leadership,组织领导力学士,1,https://www.une.edu.au/study/courses/bachelor-of-organisational-leadership
+32,bachelor,Bachelor of Pharmacy with Honours,药学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-pharmacy-with-honours
+32,bachelor,Bachelor of Psychological Science,心理科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-psychological-science
+32,bachelor,Bachelor of Rural Science,农村科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-rural-science
+32,bachelor,Bachelor of Science,理学学士,1,https://www.une.edu.au/study/courses/bachelor-of-science
+32,bachelor,Bachelor of Science/Bachelor of Laws,理学学士/法学学士,1,https://www.une.edu.au/study/courses/bachelor-of-science-bachelor-of-laws
+32,bachelor,Bachelor of Scientific Studies,科学研究学士,1,https://www.une.edu.au/study/courses/bachelor-of-scientific-studies
+32,bachelor,Bachelor of Social Science,社会科学学士,1,https://www.une.edu.au/study/courses/bachelor-of-social-science
+32,bachelor,Bachelor of Social Work,社会工作学士,1,https://www.une.edu.au/study/courses/bachelor-of-social-work
+32,bachelor,Bachelor of Special and Inclusive Education (Primary),Special and Inclusive Education学士（小学）,1,https://www.une.edu.au/study/courses/bachelor-of-special-and-inclusive-education-primary
+32,bachelor,Bachelor of Sustainability,可持续发展学士,1,https://www.une.edu.au/study/courses/bachelor-of-sustainability
+32,bachelor,Bachelor of Urban and Regional Planning,城乡与区域规划学士,1,https://www.une.edu.au/study/courses/bachelor-of-urban-and-regional-planning
+32,bachelor,Bachelor of Zoology,动物学学士,1,https://www.une.edu.au/study/courses/bachelor-of-zoology
+32,bachelor,Bachelor of Agribusiness with Honours,农业商务（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-agribusiness-with-honours
+32,bachelor,Bachelor of Arts with Honours,文学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-arts-with-honours
+32,bachelor,Bachelor of Computer Science with Honours,计算机科学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-computer-science-with-honours
+32,bachelor,Bachelor of Criminology with Honours,犯罪学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-criminology-with-honours
+32,bachelor,Bachelor of Economics with Honours,经济学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-economics-with-honours
+32,bachelor,Bachelor of Health with Honours,健康科学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-health-with-honours
+32,bachelor,Bachelor of Human and Community Services with Honours,人类与社区服务（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-human-and-community-services-with-honours
+32,bachelor,Bachelor of International Studies with Honours,国际研究（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-international-studies-with-honours
+32,bachelor,Bachelor of Media and Communications with Honours,媒体与传播（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-media-and-communications-with-honours
+32,bachelor,Bachelor of Medical Science with Honours,医学科学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-medical-science-with-honours
+32,bachelor,Bachelor of Music with Honours,音乐（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-music-with-honours
+32,bachelor,Bachelor of Psychology with Honours,心理学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-psychology-with-honours
+32,bachelor,Bachelor of Science with Honours,理学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-science-with-honours
+32,bachelor,Bachelor of Social Science with Honours,社会科学（荣誉）学士,1,https://www.une.edu.au/study/courses/bachelor-of-social-science-with-honours
+32,master,Master of Applied Linguistics,应用语言学硕士,1,https://www.une.edu.au/study/courses/master-of-applied-linguistics
+32,master,Master of Artificial Intelligence,人工智能硕士,1,https://www.une.edu.au/study/courses/master-of-artificial-intelligence
+32,master,Master of Arts,文学硕士,1,https://www.une.edu.au/study/courses/master-of-arts
+32,master,Master of Business Administration (International),工商管理硕士（国际）（MBA）,1,https://www.une.edu.au/study/courses/master-of-business-administration-international
+32,master,Master of Business Administration,工商管理硕士（MBA）,1,https://www.une.edu.au/study/courses/master-of-business-administration
+32,master,Master of Computer Science,计算机科学硕士,1,https://www.une.edu.au/study/courses/master-of-computer-science
+32,master,Master of Counselling,咨询硕士,1,https://www.une.edu.au/study/courses/master-of-counselling
+32,master,Master of Cybersecurity and Computing,网络安全与计算硕士,1,https://www.une.edu.au/study/courses/master-of-cybersecurity-and-computing
+32,master,Master of Cybersecurity,网络安全硕士,1,https://www.une.edu.au/study/courses/master-of-cybersecurity
+32,master,Master of Data Science,数据科学硕士,1,https://www.une.edu.au/study/courses/master-of-data-science
+32,master,Master of Economic and Regional Development,经济与区域发展硕士,1,https://www.une.edu.au/study/courses/master-of-economic-and-regional-development
+32,master,Master of Economics,经济学硕士,1,https://www.une.edu.au/study/courses/master-of-economics
+32,master,Master of Environmental Science and Management,环境科学与管理硕士,1,https://www.une.edu.au/study/courses/master-of-environmental-science-and-management
+32,master,Master of History,历史学硕士,1,https://www.une.edu.au/study/courses/master-of-history
+32,master,Master of Information Technology,信息技术硕士,1,https://www.une.edu.au/study/courses/master-of-information-technology
+32,master,Master of Laws,法学硕士,1,https://www.une.edu.au/study/courses/master-of-laws
+32,master,Master of Natural Resource Management,自然资源管理硕士,1,https://www.une.edu.au/study/courses/master-of-natural-resource-management
+32,master,Master of Neuroscience and Business,神经科学与商业硕士,1,https://www.une.edu.au/study/courses/master-of-neuroscience-and-business
+32,master,Master of Neuroscience and Criminology,神经科学与犯罪学硕士,1,https://www.une.edu.au/study/courses/master-of-neuroscience-and-criminology
+32,master,Master of Neuroscience and Education,神经科学与教育硕士,1,https://www.une.edu.au/study/courses/master-of-neuroscience-and-education
+32,master,Master of Neuroscience,神经科学硕士,1,https://www.une.edu.au/study/courses/master-of-neuroscience
+32,master,Master of Nursing Practice (Preregistration),护理实践硕士（注册前）,1,https://www.une.edu.au/study/courses/master-of-nursing-practice-preregistration
+32,master,Master of Professional Accounting,专业会计硕士,1,https://www.une.edu.au/study/courses/master-of-professional-accounting
+32,master,Master of Professional Psychology,专业心理学硕士,1,https://www.une.edu.au/study/courses/master-of-professional-psychology
+32,master,Master of Psychology (Clinical) Advanced Entry,心理学硕士（临床）（高级入学）,1,https://www.une.edu.au/study/courses/master-of-psychology-clinical-advanced-entry
+32,master,Master of Public Health (One Health),公共卫生硕士（同一健康）,1,https://www.une.edu.au/study/courses/master-of-public-health-one-health
+32,master,Master of Science in Agriculture,农业科学硕士,1,https://www.une.edu.au/study/courses/master-of-science-in-agriculture
+32,master,Master of Scientific Studies,科学研究硕士,1,https://www.une.edu.au/study/courses/master-of-scientific-studies
+32,master,Master of Social Work (Qualifying),社会工作硕士（资格型）,1,https://www.une.edu.au/study/courses/master-of-social-work-qualifying
+32,master,Master of Strategic Leadership in Risk and Emergency Management,风险与应急管理战略领导力硕士,1,https://www.une.edu.au/study/courses/master-of-strategic-leadership-in-risk-and-emergency-management
+32,master,Master of Teaching (Primary),教学硕士（小学）,1,https://www.une.edu.au/study/courses/master-of-teaching-primary
+32,master,Master of Teaching (Secondary),教学硕士（中学）,1,https://www.une.edu.au/study/courses/master-of-teaching-secondary
+32,master,Master of Urban and Regional Planning,城乡与区域规划硕士,1,https://www.une.edu.au/study/courses/master-of-urban-and-regional-planning

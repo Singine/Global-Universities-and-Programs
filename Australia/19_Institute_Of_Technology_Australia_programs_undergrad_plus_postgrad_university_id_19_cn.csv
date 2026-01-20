@@ -1,0 +1,11 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+19,Certificate III in Carpentry (CPC30220),木工三级证书（CPC30220）,bachelor,1,https://www.iota.edu.au/cpc30220
+19,Certificate III in Painting and Decorating (CPC30620),油漆与装饰三级证书（CPC30620）,bachelor,1,https://www.iota.edu.au/cpc30620 | CRICOS 116806J
+19,Certificate III in Engineering - Fabrication Trade (MEM31922),工程三级证书（制造加工贸易方向）（MEM31922）,bachelor,1,https://www.iota.edu.au/mem31922
+19,Diploma of Civil Construction Design (RII50520),土木施工设计文凭（RII50520）,bachelor,1,https://www.iota.edu.au/RII50520
+19,Diploma of Leadership and Management (BSB50420),领导力与管理文凭（BSB50420）,bachelor,1,https://www.iota.edu.au/BSB50420 | CRICOS 104208H
+19,Diploma of Information Technology (ICT50220),信息技术文凭（ICT50220）,bachelor,1,https://www.iota.edu.au/ICT50220 | CRICOS 105134B
+19,Advanced Diploma of Human Resource Management (BSB60320),人力资源管理高级文凭（BSB60320）,bachelor,1,https://www.iota.edu.au/bsb60320 | CRICOS 105716B
+19,Advanced Diploma of Information Technology (Telecommunications Eng) (ICT60220),信息技术高级文凭（电信工程方向）（ICT60220）,bachelor,1,https://www.iota.edu.au/ict60220 | CRICOS 107292E
+19,Advanced Diploma of Civil Construction Design (RII60520),土木施工设计高级文凭（RII60520）,bachelor,1,https://www.iota.edu.au/rii60520 | (Page shows code line 'RII50520 | 112338J')
+19,Graduate Diploma of Management (Learning) (BSB80120),管理学研究生文凭（学习方向）（BSB80120）,master,1,https://www.iota.edu.au/bsb80120 | CRICOS 110339B

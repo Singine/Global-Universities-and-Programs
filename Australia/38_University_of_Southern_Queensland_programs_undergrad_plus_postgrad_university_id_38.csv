@@ -1,0 +1,34 @@
+﻿university_id,degree_level,major_name_en,major_name_cn,is_active,notes
+38,bachelor,Bachelor of Accounting,会计学学士,1,source=UniSQ Handbook; program_code=BACT; url=https://handbook-guide.unisq.edu.au/program/2025/BACT
+38,bachelor,Bachelor of Arts and Bachelor of Laws,文学学士与法学学士（双学位）,1,source=UniSQ Handbook; program_code=BALW; url=https://handbook-guide.unisq.edu.au/program/2025/balw
+38,bachelor,Bachelor of Arts and Bachelor of Science,文学学士与理学学士（双学位）,1,source=UniSQ Handbook; program_code=BASC; url=https://handbook-guide.unisq.edu.au/program/2025/BASC
+38,bachelor,Bachelor of Business and Bachelor of Information Technology,商学学士与信息技术学士（双学位）,1,source=UniSQ Handbook; program_code=BZIT; url=https://handbook-guide.unisq.edu.au/program/2025/bzit
+38,bachelor,Bachelor of Business and Bachelor of Laws,商学学士与法学学士（双学位）,1,source=UniSQ Handbook; program_code=BZLW; url=https://handbook-guide.unisq.edu.au/program/2025/bzlw
+38,bachelor,Bachelor of Clinical Exercise Physiology (Honours),临床运动生理学学士（荣誉）,1,source=UniSQ Handbook; program_code=BSEH; url=https://handbook-guide.unisq.edu.au/program/2025/bseh
+38,bachelor,Bachelor of Creative Arts (Honours),创意艺术学士（荣誉）,1,source=UniSQ Handbook; program_code=BCAH; url=https://handbook-guide.unisq.edu.au/program/2025/bcah
+38,bachelor,Bachelor of Environmental Science,环境科学学士,1,source=UniSQ Handbook; program_code=BENV; url=https://handbook-guide.unisq.edu.au/program/2025/benv
+38,bachelor,Bachelor of General Education Studies,通识教育研究学士,1,source=UniSQ Handbook; program_code=BGES; url=https://handbook-guide.unisq.edu.au/program/2025/BGES; Exit Award only; not available for new admissions (per handbook).
+38,bachelor,Bachelor of Human Services,人类服务学士,1,source=UniSQ Handbook; program_code=BHSP; url=https://handbook-guide.unisq.edu.au/program/2025/bhsp
+38,bachelor,Bachelor of Information Technology,信息技术学士,1,source=UniSQ Handbook; program_code=BITC; url=https://handbook-guide.unisq.edu.au/program/2025/BITC
+38,bachelor,Bachelor of Multidisciplinary Studies,跨学科研究学士,1,source=UniSQ Handbook; program_code=BMDS; url=https://handbook-guide.unisq.edu.au/program/2025/BMDS; Suspended; not available for new admissions (per handbook).
+38,bachelor,Bachelor of Occupational Therapy (Honours),职业治疗学学士（荣誉）,1,source=UniSQ Handbook; program_code=BOTH; url=https://handbook-guide.unisq.edu.au/program/2025/both
+38,bachelor,Bachelor of Physiotherapy (Honours),物理治疗学学士（荣誉）,1,source=UniSQ Handbook; program_code=BPTH; url=https://handbook-guide.unisq.edu.au/program/2025/bpth
+38,bachelor,Bachelor of Science (Honours),理学学士（荣誉）,1,source=UniSQ Handbook; program_code=BSCI; url=https://handbook-guide.unisq.edu.au/program/2025/bsci
+38,bachelor,Bachelor of Social Work (Honours),社会工作学士（荣誉）,1,source=UniSQ Handbook; program_code=BSWH; url=https://handbook-guide.unisq.edu.au/program/2025/bswh
+38,bachelor,Bachelor of Surveying (Honours),测量学学士（荣誉）,1,source=UniSQ Handbook; program_code=BSPH; url=https://handbook-guide.unisq.edu.au/program/2025/BSPH
+38,bachelor,Bachelor of Surveying Technology,测量技术学士,1,source=UniSQ Handbook; program_code=BSUR; url=https://handbook-guide.unisq.edu.au/program/2025/bsur
+38,bachelor,Bachelor of Urban and Regional Planning (Honours),城市与区域规划学士（荣誉）,1,source=UniSQ Handbook; program_code=BURP; url=https://handbook-guide.unisq.edu.au/program/2025/BURP
+38,bachelor,Bachelor of Visual Art,视觉艺术学士,1,source=UniSQ Handbook; program_code=BVSA; url=https://handbook-guide.unisq.edu.au/program/2025/bvsa
+38,master,Master of Business Administration,工商管理硕士,1,source=UniSQ Handbook; program_code=MBAL; url=https://handbook-guide.unisq.edu.au/program/2025/mbal
+38,master,Master of Business Administration Aviation (MAVN),航空工商管理硕士（MBA）,1,source=UniSQ Handbook; program_code=MAVN; url=https://handbook-guide.unisq.edu.au/program/2025/mavn
+38,master,Master of Cyber Security,网络安全硕士,1,source=UniSQ Handbook; program_code=MCYS; url=https://handbook-guide.unisq.edu.au/program/2025/mcys
+38,master,Master of Data Science,数据科学硕士,1,source=UniSQ Handbook; program_code=MADS; url=https://handbook-guide.unisq.edu.au/program/2025/MADS
+38,master,Master of Education,教育学硕士,1,source=UniSQ Handbook; program_code=MEDF; url=https://handbook-guide.unisq.edu.au/program/2025/MEDF
+38,master,Master of Engineering Practice,工程实践硕士,1,source=UniSQ Handbook; program_code=MEPR; url=https://handbook-guide.unisq.edu.au/program/2025/mepr
+38,master,Master of Information Systems,信息系统硕士,1,source=UniSQ Handbook; program_code=MINS; url=https://handbook-guide.unisq.edu.au/program/2025/mins
+38,master,Master of Laws,法学硕士,1,source=UniSQ Handbook; program_code=MLAW; url=https://handbook-guide.unisq.edu.au/program/2025/mlaw
+38,master,Master of Nursing,护理学硕士,1,source=UniSQ Handbook; program_code=MNSG; url=https://handbook-guide.unisq.edu.au/program/2025/MNSG
+38,master,Master of Organisational Project Management,组织项目管理硕士,1,source=UniSQ Handbook; program_code=MPPM; url=https://handbook-guide.unisq.edu.au/program/2025/mppm
+38,master,Master of Professional Psychology,专业心理学硕士,1,source=UniSQ Handbook; program_code=MPPZ; url=https://handbook-guide.unisq.edu.au/program/2025/mppz
+38,master,Master of Science,理学硕士,1,source=UniSQ Handbook; program_code=MSCN; url=https://handbook-guide.unisq.edu.au/program/2025/mscn
+38,master,Master of Editing and Publishing,编辑与出版硕士,1,source=UniSQ Handbook; program_code=MAEP; url=https://handbook-guide.unisq.edu.au/program/2025/maep; Teach-out; not available for new admissions (per handbook).

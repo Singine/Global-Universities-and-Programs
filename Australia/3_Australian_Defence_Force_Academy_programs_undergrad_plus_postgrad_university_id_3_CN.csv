@@ -1,0 +1,44 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+3,Bachelor of Aeronautical Engineering (Honours),航空工程（荣誉）学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Arts,文学学士,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Arts (Honours),文学学士（荣誉）,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Arts - Business (major),文学学士—商业（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Arts - Geography (major),文学学士—地理学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Arts - History (major),文学学士—历史学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Arts - Indo-Pacific Studies (major),文学学士—印太研究（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Arts - International & Political Studies (IPS) (major),文学学士—国际与政治研究（IPS）（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-arts-canberra
+3,Bachelor of Business,商学学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees/non-technical/bachelor-business
+3,Bachelor of Business (Honours),商学学士（荣誉）,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Civil Engineering (Honours),土木工程（荣誉）学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Computing & Cyber Security,计算机与网络安全学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Computing & Cyber Security (Honours),计算机与网络安全学士（荣誉）,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Electrical Engineering (Honours),电气工程（荣誉）学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Mechanical Engineering (Honours),机械工程（荣誉）学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Naval Architecture Engineering (Honours),船舶与海洋工程（荣誉）学士,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Science,理学学士,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science (Honours),理学学士（荣誉）,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Bachelor of Science - Aviation (major),理学学士—航空（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Chemistry (major),理学学士—化学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Computer Science (major),理学学士—计算机科学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Geography (major),理学学士—地理学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Mathematics (major),理学学士—数学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Oceanography (major),理学学士—海洋学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Science - Physics (major),理学学士—物理学（主修）,bachelor,1,https://www.unsw.edu.au/study/undergraduate/bachelor-of-science-canberra
+3,Bachelor of Technology (Aeronautical Engineering),技术学士（航空工程）,bachelor,1,https://www.unsw.edu.au/canberra/study-with-us/undergraduate/degrees
+3,Master of Business (Canberra),商业硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-business
+3,Master of Capability Management (Canberra),能力管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-capability-management
+3,Master of Cyber Security (Canberra),网络安全硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-cyber-security-canberra
+3,"Master of Cyber Security, Strategy and Diplomacy (Canberra)",网络安全、战略与外交硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-cyber-security-strategy-and-diplomacy
+3,Master of Decision Analytics (Canberra),决策分析硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-decision-analytics
+3,Master of Logistics Management (Canberra),物流管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-logistics-management
+3,Master of Project Management (Canberra),项目管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-project-management-canberra
+3,Master of Security and Defence Management (Canberra),安全与国防管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-security-and-defence-management
+3,Master of Space Engineering (Canberra),航天工程硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-space-engineering
+3,Master of Space Operations (Canberra),航天运行硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-space-operations
+3,Master of Special Operations and Irregular Warfare (Canberra),特种作战与非正规战争硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-special-operations-and-irregular-warfare
+3,Master of Strategic People Management (Canberra),战略人力资源管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-strategic-people-management
+3,Master of Strategy and Security (Canberra),战略与安全硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-strategy-and-security-canberra
+3,Master of Sustainment Management (Canberra),保障管理硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-sustainment-management
+3,Master of Systems Engineering (Canberra),系统工程硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-systems-engineering
+3,Master of War Studies (Canberra),战争研究硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-war-studies
+3,Master of Workforce Planning (Canberra),人力规划硕士（堪培拉）,master,1,https://www.unsw.edu.au/study/postgraduate/master-of-workforce-planning

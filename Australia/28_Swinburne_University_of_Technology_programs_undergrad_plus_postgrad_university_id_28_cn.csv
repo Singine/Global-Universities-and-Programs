@@ -1,0 +1,63 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+28,Bachelor of Arts,文学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-arts/
+28,Bachelor of Science,理学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-science/
+28,Bachelor of Business,商学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-business/
+28,Bachelor of Business (Professional),商学学士（职业实践）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-business-professional/
+28,Bachelor of Accounting,会计学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-accounting/
+28,Bachelor of Design,设计学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-design/
+28,Bachelor of Computer Science,计算机科学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-computer-science/
+28,Bachelor of Data Science,数据科学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-data-science/
+28,Bachelor of Cyber Security,网络安全学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-cyber-security/
+28,Bachelor of Biomedical Science,生物医学科学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-biomedical-science/
+28,Bachelor of Media and Communication,媒体与传播学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-media-and-communication/
+28,Bachelor of Media and Communication (Professional),媒体与传播学士（职业实践）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-media-and-communication-professional/
+28,Bachelor of Media and Communication (Online),媒体与传播学士（在线）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-media-and-communication-online/
+28,Bachelor of Games and Interactivity,游戏与交互学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-games-and-interactivity/
+28,Bachelor of Education Studies,教育研究学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-education-studies/
+28,Bachelor of Engineering (Honours),工程学（荣誉）学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-honours/
+28,Bachelor of Engineering Technology,工程技术学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-technology/
+28,Bachelor of Engineering (Civil and Infrastructure) (Honours),工程学（荣誉）学士（土木与基础设施工程）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-honours-civil-and-infrastructure-uobaghdad/
+28,Bachelor of Engineering (Honours) / Bachelor of Science,工程学（荣誉）学士 / 理学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-honours-bachelor-of-science/
+28,Bachelor of Engineering (Honours) / Bachelor of Business,工程学（荣誉）学士 / 商学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-honours-bachelor-of-business/
+28,Bachelor of Engineering (Honours) / Bachelor of Arts,工程学（荣誉）学士 / 文学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-engineering-honours-bachelor-of-arts/
+28,Bachelor of Business Analytics / Bachelor of Cyber Security,商业分析学士 / 网络安全学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-business-analytics-bachelor-of-cyber-security/
+28,Bachelor of Laws / Bachelor of Cyber Security,法学学士 / 网络安全学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-laws-bachelor-of-cyber-security/
+28,Bachelor of Criminal Justice and Criminology / Bachelor of Cyber Security,刑事司法与犯罪学学士 / 网络安全学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-criminal-justice-and-criminology-bachelor-of-cyber-security/
+28,Bachelor of Media and Communication / Bachelor of Business,媒体与传播学士 / 商学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-media-and-communication-bachelor-of-business/
+28,Bachelor of Laws / Bachelor of Media and Communication,法学学士 / 媒体与传播学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-laws-bachelor-of-media-and-communication/
+28,Bachelor of Health Science (Professional),健康科学学士（职业实践）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-health-science-professional/
+28,Bachelor of Health Science / Bachelor of Science,健康科学学士 / 理学学士,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-health-science-bachelor-of-science/
+28,Bachelor of Computer Science - Major in Cyber Security,计算机科学学士（主修网络安全）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-computer-science/cybersecurity/
+28,Bachelor of Health Science - Major in Biomedical Science,健康科学学士（主修生物医学科学）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-health-science/biomedical-science/
+28,Bachelor of Media and Communication - Major in Journalism,媒体与传播学士（主修新闻学）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-media-and-communication/journalism/
+28,Bachelor of Business Analytics - Major in Cyber Security Management,商业分析学士（主修网络安全管理）,bachelor,1,https://www.swinburne.edu.au/course/undergraduate/bachelor-of-business-analytics/cyber-security-management/
+28,Master of Business Administration,工商管理硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-business-administration/
+28,Master of Business Administration (Swinburne Online),工商管理硕士（斯威本在线）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-business-administration-swinburne-online/
+28,Master of Information Technology,信息技术硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-information-technology/
+28,Master of Data Science,数据科学硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-data-science/
+28,Master of Professional Accounting,职业实践 会计学硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-professional-accounting/
+28,Master of Professional Accounting (Extended),职业会计硕士（延伸课程）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-professional-accounting-extended/
+28,Master of Finance,金融硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-finance/
+28,Master of Marketing,市场营销硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-marketing/
+28,Master of Human Resource Management,人力资源管理硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-human-resource-management/
+28,Master of Project Management,项目管理硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-project-management/
+28,Master of Business Information Systems,商业信息系统硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-business-information-systems/
+28,Master of Media and Communication,媒体与传播硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-media-and-communication/
+28,Master of Design,设计硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-design/
+28,Master of Architecture,建筑学硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-architecture/
+28,Master of Architecture and Urban Design,建筑与城市设计硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-architecture-and-urban-design/
+28,Master of Engineering Science,工程科学硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-engineering-science/
+28,Master of Professional Engineering,职业工程硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-professional-engineering/
+28,Master of Teaching (Secondary),教学硕士（中学）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-teaching-secondary/
+28,Master of Teaching (Primary),教学硕士（小学）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-teaching-primary-swinburne-online/
+28,Master of Dietetics,营养与膳食学硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-dietetics/
+28,Master of Occupational Therapy,职业治疗硕士,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-occupational-therapy/
+28,Master of Engineering Science (Civil Engineering specialisation),工程科学硕士（土木工程 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-engineering-science/civil-engineering/
+28,Master of Engineering Science (Electronics and Telecommunications specialisation),工程科学硕士（电子与电信 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-engineering-science/electronics-and-telecommunications/
+28,Master of Information Technology (Data Analytics specialisation),信息技术硕士（数据分析 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-information-technology/data-analytics/
+28,Master of Business Information Systems (Business Analytics specialisation),商业信息系统硕士（商业分析 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-business-information-systems/business-analytics/
+28,Master of Marketing (Business Analytics specialisation),市场营销硕士（商业分析 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-marketing/business-analytics/
+28,Master of Human Resource Management (Business Analytics specialisation),人力资源管理硕士（商业分析 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-human-resource-management/business-analytics/
+28,Master of Human Resource Management (Digital Marketing specialisation),人力资源管理硕士（数字营销 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-human-resource-management/digital-marketing/
+28,Master of Media and Communication (Strategic Communication specialisation),媒体与传播硕士（战略传播 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-media-and-communication/strategic-communication/
+28,Master of Social Impact (Business Analytics specialisation),社会影响力硕士（商业分析 方向）,master,1,https://www.swinburne.edu.au/course/postgraduate/master-of-social-impact/business-analytics/

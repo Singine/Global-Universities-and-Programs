@@ -1,0 +1,483 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+2716,Accounting and Finance BSc,会计与金融（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/accounting-finance-degree-bsc
+2716,Accounting and Finance with Placement Year BSc,会计与金融（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/accounting-finance-with-placement-year-degree-bsc
+2716,Accounting and Finance with Study Abroad Year BSc,会计与金融（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/accounting-finance-with-study-abroad-year-degree-bsc
+2716,Accounting and Taxation BSc,会计与税务（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/accounting-taxation-degree-bsc
+2716,Accounting and Taxation with Placement Year BSc,会计与税务（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/accounting-taxation-with-placement-year-degree-bsc
+2716,Acoustical Engineering BEng,声学工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-beng
+2716,Acoustical Engineering MEng,声学工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/acoustical-engineering-degree-meng
+2716,Aeronautics and Astronautics / Aerodynamics MEng,Aeronautics与Astronautics/空气动力学（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/aeronautics-astronautics-aerodynamics-degree-meng
+2716,Aeronautics and Astronautics / Spacecraft Engineering MEng,Aeronautics与Astronautics/航天器工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/aeronautics-astronautics-spacecraft-engineering-degree-meng
+2716,Aeronautics and Astronautics BEng,航空航天工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-beng
+2716,Aeronautics and Astronautics MEng,航空航天工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/aeronautics-astronautics-degree-meng
+2716,Aerospace Electronic Engineering BEng,航空航天电子工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-beng
+2716,Aerospace Electronic Engineering MEng,航空航天电子工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/aerospace-electronic-engineering-degree-meng
+2716,Ancient History BA,古代史（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-degree-ba
+2716,Ancient History and History BA,古代史与历史学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-history-degree-ba
+2716,Ancient History and History with Year Abroad BA,古代史与历史学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-history-with-year-abroad-degree-ba
+2716,Ancient History with Year Abroad BA,古代史（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-with-year-abroad-degree-ba
+2716,Archaeology BA,考古学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/archaeology-degree-ba
+2716,Archaeology and Ancient History BA,考古学与古代史（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-archaeology-degree-ba
+2716,Archaeology and Ancient History with Year Abroad BA,考古学与古代史（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/ancient-history-archaeology-with-year-abroad-degree-ba
+2716,Archaeology and Anthropology BA,考古学与人类学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/archaeology-anthropology-degree-ba
+2716,Archaeology and Anthropology with Year Abroad BA,考古学与人类学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/archaeology-anthropology-with-year-abroad-degree-ba
+2716,Archaeology with Year Abroad BA,考古学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/archaeology-with-year-abroad-degree-ba
+2716,Artificial Intelligence BEng,人工智能（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-beng
+2716,Artificial Intelligence MEng,人工智能（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/artificial-intelligence-degree-meng
+2716,Astrophysics with Year Abroad MPhys,天体物理学（海外交流年）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/astrophysics-with-year-abroad-degree-mphys
+2716,Audiology BSc,听力学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/audiology-degree-bsc
+2716,Audiology MSci,听力学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/audiology-degree-msci
+2716,Biochemistry BSc,生物化学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/biochemistry-degree-bsc
+2716,Biochemistry MSci,生物化学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/biochemistry-degree-msci
+2716,Biology BSc,生物学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/biology-degree-bsc
+2716,Biology MSci,生物学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/biology-degree-msci
+2716,Biology and Marine Biology BSc,生物学与海洋生物学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-bsc
+2716,Biology and Marine Biology MSci,生物学与海洋生物学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/biology-marine-biology-degree-msci
+2716,Biomedical Engineering BEng,生物医学工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-beng
+2716,Biomedical Engineering MEng,生物医学工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/biomedical-engineering-degree-meng
+2716,Biomedical Engineering with Industrial Studies MEng,生物医学工程（工业实践）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/biomedical-engineering-with-industrial-studies-degree-meng
+2716,Biomedical Sciences BSc,生物医学科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-bsc
+2716,Biomedical Sciences MSci,生物医学科学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/biomedical-sciences-degree-msci
+2716,Business Analytics BSc,商业分析（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-analytics-degree-bsc
+2716,Business Analytics with Placement Year BSc,商业分析（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-analytics-with-placement-year-degree-bsc
+2716,Business Analytics with Study Abroad Year BSc,商业分析（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-analytics-with-study-abroad-year-degree-bsc
+2716,Business Entrepreneurship BSc,创业管理（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-entrepreneurship-degree-bsc
+2716,Business Entrepreneurship with Placement Year BSc,创业管理（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-entrepreneurship-with-placement-year-degree-bsc
+2716,Business Entrepreneurship with Study Abroad Year BSc,创业管理（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-entrepreneurship-with-study-abroad-year-degree-bsc
+2716,Business Management BSc,工商管理（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-degree-bsc
+2716,Business Management and Accounting BSc,工商管理与会计学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-accounting-degree-bsc
+2716,Business Management and Accounting with Placement Year BSc,工商管理与会计学（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-accounting-with-placement-year-degree-bsc
+2716,Business Management and Human Resource Management BSc,工商管理与人力资源管理（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-human-resource-management-degree-bsc
+2716,Business Management and Human Resource Management with Placement Year BSc,工商管理与人力资源管理（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-human-resource-management-with-placement-year-degree-bsc
+2716,Business Management with Placement Year BSc,工商管理（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-with-placement-year-degree-bsc
+2716,Business Management with Study Abroad Year BSc,工商管理（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-management-with-study-abroad-year-degree-bsc
+2716,Business and Artificial Intelligence BSc,商业与人工智能（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/business-artificial-intelligence-degree-bsc
+2716,Cardiac Physiology (Healthcare Science) BSc,心脏生理学（健康科学）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/cardiac-physiology-healthcare-science-degree-bsc
+2716,Chemical Engineering BEng,化学工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/chemical-engineering-degree-beng
+2716,Chemical Engineering MEng,化学工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/chemical-engineering-degree-meng
+2716,Chemistry (Digital Methods and Computational Modelling) BSc,化学（数字化方法与计算建模）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-digital-methods-computational-modelling-degree-bsc
+2716,Chemistry (Digital Methods and Computational Modelling) MChem,化学（数字化方法与计算建模）（MChem）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-digital-methods-computational-modelling-degree-mchem
+2716,Chemistry BSc,化学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-degree-bsc
+2716,Chemistry MChem,化学（MChem）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-degree-mchem
+2716,Chemistry with External Placement MChem,化学（校外实习）（MChem）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-with-external-placement-degree-mchem
+2716,Chemistry with Medicinal Chemistry BSc,化学（药物化学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-with-medicinal-chemistry-degree-bsc
+2716,Chemistry with Medicinal Chemistry MChem,化学（药物化学方向）（MChem）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-with-medicinal-chemistry-degree-mchem
+2716,Chemistry with Year-Long Industry Experience MChem,化学（产业实习年）（MChem）,bachelor,1,https://www.southampton.ac.uk/courses/chemistry-with-year-long-industry-experience-degree-mchem
+2716,Civil Engineering BEng,土木工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/civil-engineering-degree-beng
+2716,Civil Engineering MEng,土木工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/civil-engineering-degree-meng
+2716,Civil Engineering with Architectural Design MEng,土木工程（Architectural设计方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/civil-engineering-architectural-design-degree-meng
+2716,Computer Engineering BEng,计算机工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/computer-engineering-degree-beng
+2716,Computer Engineering MEng,计算机工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/computer-engineering-degree-meng
+2716,Computer Science BSc,计算机科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/computer-science-degree-bsc
+2716,Computer Science MEng,计算机科学（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/computer-science-degree-meng
+2716,Computer Science with Artificial Intelligence MEng,计算机科学（人工智能方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/computer-science-with-artificial-intelligence-degree-meng
+2716,Computer Science with Cyber Security MEng,计算机科学（网络安全方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/computer-science-with-cyber-security-degree-meng
+2716,Creative Computing BSc,创意计算（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/creative-computing-degree-bsc
+2716,Criminology BSc,犯罪学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/criminology-degree-bsc
+2716,Criminology and Psychology BSc,犯罪学与心理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/criminology-psychology-degree-bsc
+2716,Economics BA,经济学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/economics-degree-ba
+2716,Economics BSc,经济学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-degree-bsc
+2716,Economics MEcon,经济学（MEcon）,bachelor,1,https://www.southampton.ac.uk/courses/economics-degree-mecon
+2716,Economics and Accounting BSc,经济学与会计学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-accounting-degree-bsc
+2716,Economics and Actuarial Science BSc,经济学与精算学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-actuarial-science-degree-bsc
+2716,Economics and Business Management BSc,经济学与工商管理（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc
+2716,Economics and Finance BSc,经济与金融（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-finance-degree-bsc
+2716,Economics with Data Science BSc,经济学（数据科学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc
+2716,Education BSc,教育学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/education-degree-bsc
+2716,Education and Psychology BSc,教育学与心理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/education-psychology-degree-bsc
+2716,Electrical Engineering BEng,电气工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/electrical-engineering-degree-beng
+2716,Electrical Engineering MEng,电气工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electrical-engineering-degree-meng
+2716,Electrical and Electronic Engineering BEng,电气与电子工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-beng
+2716,Electrical and Electronic Engineering MEng,电气与电子工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electrical-electronic-engineering-degree-meng
+2716,Electronic Engineering BEng,电子工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-degree-beng
+2716,Electronic Engineering MEng,电子工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-degree-meng
+2716,Electronic Engineering with Artificial Intelligence MEng,电子工程（人工智能方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-artificial-intelligence-degree-meng
+2716,Electronic Engineering with Computer Systems MEng,电子工程（计算机系统方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-computer-systems-degree-meng
+2716,Electronic Engineering with Mobile and Secure Systems MEng,电子工程（移动与安全系统方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-mobile-secure-systems-degree-meng
+2716,Electronic Engineering with Nanotechnology MEng,电子工程（纳米技术方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-nanotechnology-degree-meng
+2716,Electronic Engineering with Photonics MEng,电子工程（光子学方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-photonics-degree-meng
+2716,Electronic Engineering with Wireless Communications MEng,电子工程（无线通信方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/electronic-engineering-with-wireless-communications-degree-meng
+2716,English BA,英语语言文学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-degree-ba
+2716,English Language and Linguistics BA,英语语言与语言学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-language-linguistics-degree-ba
+2716,English Language and Linguistics with Year Abroad BA,英语语言与语言学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-language-linguistics-with-year-abroad-degree-ba
+2716,English Language and Literature BA,英语语言与文学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-language-literature-degree-ba
+2716,English and History BA,英语语言文学与历史学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-history-degree-ba
+2716,English and History with Year Abroad BA,英语语言文学与历史学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-history-with-year-abroad-degree-ba
+2716,English and Modern Languages BA,英语语言文学与现代语言（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-english-degree-ba
+2716,English with Creative Writing BA,英语语言文学（创意写作方向）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/english-with-creative-writing-degree-ba
+2716,Environmental Geoscience BSc,环境地球科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-bsc
+2716,Environmental Geoscience MSci,环境地球科学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/environmental-geoscience-degree-msci
+2716,Environmental Science BSc,环境科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/environmental-science-degree-bsc
+2716,European Legal Studies LLB,欧洲法律研究（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/european-legal-studies-degree-llb
+2716,Fashion Design BA,时尚设计（BA）,bachelor,1,https://www.southampton.ac.uk/courses/fashion-design-degree-ba
+2716,Fashion Marketing with Management BA,时尚营销（管理方向）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/fashion-marketing-with-management-degree-ba
+2716,Film Studies BA,电影研究（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-studies-degree-ba
+2716,Film Studies with Year Abroad BA,电影研究（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-studies-with-year-abroad-degree-ba
+2716,Film and English BA,电影与英语语言文学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-english-degree-ba
+2716,Film and English with Year Abroad BA,电影与英语语言文学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-english-with-year-abroad-degree-ba
+2716,Film and History BA,电影与历史学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-history-degree-ba
+2716,Film and History with Year Abroad BA,电影与历史学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-history-with-year-abroad-degree-ba
+2716,"Film, TV and Digital Media BA",电影、电视与数字媒体（BA）,bachelor,1,https://www.southampton.ac.uk/courses/film-tv-digital-media-degree-ba
+2716,Finance and Financial Technology BSc,金融学与金融科技（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/finance-financial-technology-degree-bsc
+2716,Finance and Financial Technology with Placement Year BSc,金融学与金融科技（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/finance-financial-technology-with-placement-year-degree-bsc
+2716,Finance and Financial Technology with Study Abroad Year BSc,金融学与金融科技（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/finance-financial-technology-with-study-abroad-year-degree-bsc
+2716,Fine Art BA,纯艺术（BA）,bachelor,1,https://www.southampton.ac.uk/courses/fine-art-degree-ba
+2716,Games Design and Art BA,游戏设计与艺术（BA）,bachelor,1,https://www.southampton.ac.uk/courses/games-design-art-degree-ba
+2716,Geography BA,地理学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/geography-degree-ba
+2716,Geography BSc,地理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/geography-degree-bsc
+2716,Geology BSc,地质学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/geology-degree-bsc
+2716,Geology MSci,地质学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/geology-degree-msci
+2716,Graphic Communication BA,视觉传播（BA）,bachelor,1,https://www.southampton.ac.uk/courses/graphic-communication-degree-ba
+2716,History BA,历史学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/history-degree-ba
+2716,History and Modern Languages BA,历史学与现代语言（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-history-degree-ba
+2716,History with Year Abroad BA,历史学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/history-with-year-abroad-degree-ba
+2716,Human Geography BA,人文地理学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/human-geography-degree-ba
+2716,International Business BSc,国际商务（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/international-business-degree-bsc
+2716,International Legal Studies LLB,国际法律研究（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/international-legal-studies-degree-llb
+2716,International Relations BSc,国际关系（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/international-relations-degree-bsc
+2716,"Language, Culture and Communication BA",语言、文化与传播（BA）,bachelor,1,https://www.southampton.ac.uk/courses/language-culture-communication-degree-ba
+2716,Law Accelerated Programme JD Pathway LLB,法学加速项目JD路径（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/law-accelerated-programme-jd-pathway-degree-llb
+2716,Law Accelerated Programme LLB,法学加速项目（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/law-accelerated-programme-degree-llb
+2716,Law LLB,法学（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/law-degree-llb
+2716,Law with Psychology LLB,法学（心理学方向）（LLB）,bachelor,1,https://www.southampton.ac.uk/courses/law-with-psychology-degree-llb
+2716,Liberal Arts BA,博雅教育（BA）,bachelor,1,https://www.southampton.ac.uk/courses/liberal-arts-degree-ba
+2716,Luxury Brand Management BA,奢侈品品牌管理（BA）,bachelor,1,https://www.southampton.ac.uk/courses/luxury-brand-management-degree-ba
+2716,Marine Biology BSc,海洋生物学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/marine-biology-degree-bsc
+2716,Marine Biology MSci,海洋生物学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/marine-biology-degree-msci
+2716,Marine Biology with Oceanography BSc,海洋生物学（海洋学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-bsc
+2716,Marine Biology with Oceanography MSci,海洋生物学（海洋学方向）（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/marine-biology-with-oceanography-degree-msci
+2716,Maritime Engineering BEng,海事工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/maritime-engineering-degree-beng
+2716,Maritime Engineering MEng,海事工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/maritime-engineering-degree-meng
+2716,Marketing BSc,市场营销（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/marketing-degree-bsc
+2716,Marketing with Placement Year BSc,市场营销（实习年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/marketing-with-placement-year-degree-bsc
+2716,Marketing with Study Abroad Year BSc,市场营销（海外交流年）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/marketing-with-study-abroad-year-degree-bsc
+2716,Mathematical Physics MMath,数理物理（MMath）,bachelor,1,https://www.southampton.ac.uk/courses/mathematical-physics-degree-mmath
+2716,Mathematical Sciences BSc,数学科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematical-sciences-degree-bsc
+2716,Mathematics BSc,数学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-degree-bsc
+2716,Mathematics MMath,数学（MMath）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-degree-mmath
+2716,Mathematics with Actuarial Science BSc,数学（精算学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-actuarial-science-degree-bsc
+2716,Mathematics with Computer Science BSc,数学（计算机科学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-computer-science-degree-bsc
+2716,Mathematics with Data Science BSc,数学（数据科学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/maths-with-data-science-degree-bsc
+2716,Mathematics with Finance BSc,数学（金融学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-finance-degree-bsc
+2716,Mathematics with French BSc,数学（法语方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-french-degree-bsc
+2716,Mathematics with German BSc,数学（德语方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-german-degree-bsc
+2716,Mathematics with Spanish BSc,数学（西班牙语方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-spanish-degree-bsc
+2716,Mathematics with Statistics BSc,数学（统计学方向）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-with-statistics-degree-bsc
+2716,"Mathematics, Operational Research, Statistics and Economics BSc",数学、运筹学、统计学与经济学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-operational-research-statistics-economics-degree-bsc
+2716,"Mathematics, Operational Research, Statistics and Economics MMORSE",数学、运筹学、统计学与经济学（MMORSE）,bachelor,1,https://www.southampton.ac.uk/courses/mathematics-operational-research-statistics-economics-degree-mmorse
+2716,Mechanical Engineering / Aerospace Engineering MEng,机械工程/航空航天工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-aerospace-engineering-degree-meng
+2716,Mechanical Engineering / Automotive Engineering MEng,机械工程/汽车工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-automotive-engineering-degree-meng
+2716,Mechanical Engineering / Biomedical Engineering MEng,机械工程/生物医学工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-biomedical-engineering-degree-meng
+2716,Mechanical Engineering / Manufacturing MEng,机械工程/制造（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-manufacturing-degree-meng
+2716,Mechanical Engineering / Mechatronics MEng,机械工程/机电一体化（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-mechatronics-degree-meng
+2716,Mechanical Engineering / Sustainable Energy Systems MEng,机械工程/可持续能源系统（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-sustainable-energy-systems-degree-meng
+2716,Mechanical Engineering BEng,机械工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-beng
+2716,Mechanical Engineering MEng,机械工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechanical-engineering-degree-meng
+2716,Mechatronic Engineering BEng,机电一体化工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-beng
+2716,Mechatronic Engineering MEng,机电一体化工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/mechatronic-engineering-degree-meng
+2716,Medical Engineering BEng,医疗工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/medical-engineering-degree-beng
+2716,Medical Engineering MEng,医疗工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/medical-engineering-degree-meng
+2716,Medical Engineering with Industrial Placement Year BEng,医疗工程（工业实习年方向）（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/medical-engineering-with-industrial-placement-year-degree-beng
+2716,Medical Engineering with Industrial Placement Year MEng,医疗工程（工业实习年方向）（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/medical-engineering-with-industrial-placement-year-degree-meng
+2716,Medicine BM4 Graduate Entry BMBS,医学BM4研究生入学（BMBS）,bachelor,1,https://www.southampton.ac.uk/courses/medicine-bm4-graduate-entry-degree-bmbs
+2716,Medicine BM5 BMBS,医学BM5（BMBS）,bachelor,1,https://www.southampton.ac.uk/courses/medicine-bm5-degree-bmbs
+2716,Medicine BM6 Widening Participation BMBS,医学BM6扩大参与（BMBS）,bachelor,1,https://www.southampton.ac.uk/courses/medicine-bm6-widening-participation-degree-bmbs
+2716,Microbiology BSc,微生物学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/microbiology-degree-bsc
+2716,Microbiology MSci,微生物学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/microbiology-masters-msci
+2716,Midwifery BSc,助产学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/midwifery-degree-bsc
+2716,Modern History and Politics BA,现代史与政治学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/modern-history-politics-degree-ba
+2716,Modern History and Politics with Year Abroad BA,现代史与政治学（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/modern-history-politics-with-year-abroad-degree-ba
+2716,"Modern Languages (1 language: French, German or Spanish) BA",现代语言（1语言：法语、德语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-french-german-spanish-degree-ba
+2716,"Modern Languages (2 languages: French, German, Portuguese or Spanish) BA",现代语言（2语言：法语、德语、葡萄牙语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/two-modern-languages-french-german-spanish-portuguese-degree-ba
+2716,"Modern Languages (3 languages: Chinese, French, German, Portuguese or Spanish) BA",现代语言（3语言：中文、法语、德语、葡萄牙语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/three-modern-languages-degree-ba
+2716,Modern Languages (French and German) and Linguistics MLang,现代语言(French与German)与语言学（MLang）,bachelor,1,https://www.southampton.ac.uk/courses/french-and-german-linguistic-studies-degree-mlang
+2716,Modern Languages (French and Spanish) and Linguistics BA,现代语言(French与Spanish)与语言学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/french-and-spanish-linguistic-studies-degree-ba
+2716,Modern Languages (French) and Philosophy BA,现代语言（法语）与哲学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/french-and-philosophy-degree-ba
+2716,"Modern Languages and Business Management (1 language: French, German or Spanish) BSc",现代语言与工商管理（1语言：法语、德语或西班牙语）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-business-management-degree-bsc
+2716,"Modern Languages and Linguistics (1 Language: French, German or Spanish) BA",现代语言与语言学（1语言：法语、德语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-linguistics-french-german-spanish-degree-ba
+2716,"Modern Languages and Linguistics (2 languages: French, German or Spanish) BA",现代语言与语言学（2语言：法语、德语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/two-modern-languages-linguistics-french-german-spanish-degree-ba
+2716,Modern Languages and Philosophy (1 language: French or German) BA,现代语言与哲学（1语言：法语或德语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-philosophy-french-german-degree-ba
+2716,"Modern Languages and Politics (1 language: French, German or Spanish) BA",现代语言与政治学（1语言：法语、德语或西班牙语）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/one-modern-language-politics-french-german-spanish-degree-ba
+2716,Music BA,音乐（BA）,bachelor,1,https://www.southampton.ac.uk/courses/music-degree-ba
+2716,Music and Business Management BA,音乐与工商管理（BA）,bachelor,1,https://www.southampton.ac.uk/courses/music-business-management-degree-ba
+2716,Music and Business Management with Year Abroad BA,音乐与工商管理（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/music-business-management-with-year-abroad-degree-ba
+2716,Music with Year Abroad BA,音乐（海外交流年）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/music-with-year-abroad-degree-ba
+2716,Neuroscience BSc,神经科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/neuroscience-degree-bsc
+2716,Neuroscience MSci,神经科学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/neuroscience-degree-msci
+2716,Nursing (Adult and Child) MNurs,护理学（成人与儿童）（MNurs）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-adult-child-degree-mnurs
+2716,Nursing (Adult) BSc,护理学（成人）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-adult-degree-bsc
+2716,Nursing (Child and Mental Health) MNurs,护理学（儿童与心理健康健康）（MNurs）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-child-mental-health-degree-mnurs
+2716,Nursing (Child) BSc,护理学（儿童）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-child-degree-bsc
+2716,Nursing (Mental Health and Adult) MNurs,护理学（心理健康健康与成人）（MNurs）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-adult-mental-health-degree-mnurs
+2716,Nursing (Mental Health) BSc,护理学（心理健康健康）（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/nursing-mental-health-degree-bsc
+2716,Occupational Therapy BSc,作业治疗（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/occupational-therapy-degree-bsc
+2716,Oceanography BSc,海洋学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/oceanography-degree-bsc
+2716,Oceanography MSci,海洋学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/oceanography-degree-msci
+2716,Particle Physics with Research Year Abroad MPhys,粒子物理学（研究年海外方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/particle-physics-with-research-year-abroad-degree-mphys
+2716,Pharmacology BSc,药理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/pharmacology-degree-bsc
+2716,Pharmacology and Drug Discovery MSci,药理学与药物发现（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/pharmacology-drug-discovery-degree-msci
+2716,Philosophy BA,哲学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-degree-ba
+2716,Philosophy and Economics BA,哲学与经济学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/economics-philosophy-degree-ba
+2716,Philosophy and English BA,哲学与英语语言文学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-english-degree-ba
+2716,Philosophy and History BA,哲学与历史学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-history-degree-ba
+2716,Philosophy and Politics BA,哲学与政治学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-politics-degree-ba
+2716,"Philosophy, Ethics and Religion BA",哲学、Ethics与Religion（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-ethics-religion-degree-ba
+2716,"Philosophy, Politics and Economics BA",哲学、政治学与经济学（BA）,bachelor,1,https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba
+2716,Physical Geography BSc,Physical Geography（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/physical-geography-degree-bsc
+2716,Physics BSc,物理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/physics-degree-bsc
+2716,Physics MPhys,物理学（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-degree-mphys
+2716,Physics with Artificial Intelligence MPhys,物理学（人工智能方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-artificial-intelligence-masters-mphys
+2716,Physics with Astronomy MPhys,物理学（Astronomy方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-astronomy-degree-mphys
+2716,Physics with Industrial Placement MPhys,物理学（工业实习）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-industrial-placement-degree-mphys
+2716,Physics with Mathematics MPhys,物理学（数学方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-mathematics-degree-mphys
+2716,Physics with Quantum Science and Technologies MPhys,物理学（Quantum科学与技术方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-quantum-science-technologies-degree-mphys
+2716,Physics with Space Science MPhys,物理学（Space科学方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-space-science-degree-mphys
+2716,Physics with Year of Experimental Research MPhys,物理学（年Experimental研究方向）（MPhys）,bachelor,1,https://www.southampton.ac.uk/courses/physics-with-year-of-experimental-research-degree-mphys
+2716,Physiotherapy BSc,物理治疗（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/physiotherapy-degree-bsc
+2716,Politics BSc,政治学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/politics-degree-bsc
+2716,Politics and Economics BSc,政治学与经济学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/politics-economics-degree-bsc
+2716,Politics and International Relations BSc,政治与国际关系（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/politics-international-relations-degree-bsc
+2716,Population Sciences BSc,Population科学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/population-sciences-degree-bsc
+2716,Psychology BSc,心理学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/psychology-degree-bsc
+2716,Sociology BSc,社会学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/sociology-degree-bsc
+2716,Sociology and Criminology BSc,社会学与犯罪学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/sociology-criminology-degree-bsc
+2716,Software Engineering BEng,软件工程（BEng）,bachelor,1,https://www.southampton.ac.uk/courses/software-engineering-degree-beng
+2716,Software Engineering MEng,软件工程（MEng）,bachelor,1,https://www.southampton.ac.uk/courses/software-engineering-degree-meng
+2716,Sustainable Luxury (Textiles) BA,可持续奢侈品（Textiles）（BA）,bachelor,1,https://www.southampton.ac.uk/courses/sustainable-luxury-textiles-degree-ba
+2716,Zoology BSc,动物学（BSc）,bachelor,1,https://www.southampton.ac.uk/courses/zoology-degree-bsc
+2716,Zoology MSci,动物学（MSci）,bachelor,1,https://www.southampton.ac.uk/courses/zoology-degree-msci
+2716,Accounting and Finance MSc,会计与金融（MSc）,master,1,https://www.southampton.ac.uk/courses/accounting-finance-masters-msc
+2716,Accounting and Management MSc,会计学与管理（MSc）,master,1,https://www.southampton.ac.uk/courses/accounting-management-masters-msc
+2716,Acoustical and Vibration Engineering MSc,Acoustical与Vibration工程（MSc）,master,1,https://www.southampton.ac.uk/courses/acoustical-vibration-engineering-masters-msc
+2716,Actuarial Science MSc,精算学（MSc）,master,1,https://www.southampton.ac.uk/courses/actuarial-science-masters-msc
+2716,Advanced Audiology MSc,高级Audiology（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-audiology-masters-msc
+2716,Advanced Biological Sciences MRes,高级Biological科学（MRes）,master,1,https://www.southampton.ac.uk/courses/advanced-biological-sciences-masters-mres
+2716,Advanced Chemical Engineering MSc,高级化学工程（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-chemical-engineering-masters-msc
+2716,Advanced Clinical Practice (Advanced Allied Health Practitioner) MSc,高级临床实践（高级Allied健康从业实践）（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-clinical-practice-advanced-allied-health-practitioner-masters-msc
+2716,Advanced Clinical Practice (Advanced Critical Care Practitioner) MSc,高级临床实践（高级CriticalCare从业实践）（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-clinical-practice-advanced-critical-care-practitioner-masters-msc
+2716,Advanced Clinical Practice (Advanced Neonatal Nurse Practitioner) MSc,高级临床实践（高级NeonatalNurse从业实践）（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-clinical-practice-advanced-neonatal-nurse-practitioner-masters-msc
+2716,Advanced Clinical Practice (Advanced Nurse Practitioner) MSc,高级临床实践（高级Nurse从业实践）（MSc）,master,1,https://www.southampton.ac.uk/courses/advanced-clinical-practice-advanced-nurse-practitioner-masters-msc
+2716,Advanced Clinical Practice and Supervision (Senior Wellbeing Practitioner) PGDip,高级临床实践与Supervision（Senior Wellbeing Practitioner）（PGDip）,master,1,https://www.southampton.ac.uk/courses/advanced-clinical-practice-supervision-senior-wellbeing-practitioner-masters-pgdip
+2716,Advanced Health Assessment and Prescribing PGCert,高级健康Assessment与Prescribing（PGCert）,master,1,https://www.southampton.ac.uk/courses/advanced-health-assessment-prescribing-masters-pgcert
+2716,Advanced Supervision PGCert,高级Supervision（PGCert）,master,1,https://www.southampton.ac.uk/courses/advanced-supervision-masters-pgcert
+2716,Aerodynamics and Computation MSc,空气动力学与Computation（MSc）,master,1,https://www.southampton.ac.uk/courses/aerodynamics-computation-masters-msc
+2716,Allergy MSc,过敏（MSc）,master,1,https://www.southampton.ac.uk/courses/allergy-masters-msc
+2716,Allergy PGCert,过敏（PGCert）,master,1,https://www.southampton.ac.uk/courses/allergy-pgcert
+2716,Allergy PGDip,过敏（PGDip）,master,1,https://www.southampton.ac.uk/courses/allergy-pgdip
+2716,Amputation and Prosthetic Rehabilitation MSc,Amputation与Prosthetic Rehabilitation（MSc）,master,1,https://www.southampton.ac.uk/courses/amputation-prosthetic-rehabilitation-masters-msc
+2716,Applied Coastal and Offshore Geoscience MSc,应用Coastal与Offshore地球科学（MSc）,master,1,https://www.southampton.ac.uk/courses/applied-coastal-offshore-geoscience-masters-msc
+2716,Applied Linguistics MA,应用语言学（MA）,master,1,https://www.southampton.ac.uk/courses/applied-linguistics-masters-ma
+2716,Applied Statistics MSc,应用统计学（MSc）,master,1,https://www.southampton.ac.uk/courses/applied-statistics-masters-msc
+2716,Archaeology Bioarchaeology MSc,考古学Bioarchaeology（MSc）,master,1,https://www.southampton.ac.uk/courses/archaeology-bioarchaeology-masters-msc
+2716,Archaeology MSc,考古学（MSc）,master,1,https://www.southampton.ac.uk/courses/archaeology-masters-msc
+2716,Archaeology Palaeoanthropology MSc,考古学Palaeoanthropology（MSc）,master,1,https://www.southampton.ac.uk/courses/archaeology-palaeoanthropology-masters-msc
+2716,Artificial Intelligence MSc,人工智能（MSc）,master,1,https://www.southampton.ac.uk/courses/artificial-intelligence-masters-msc
+2716,Arts and Cultural Leadership MA,Arts与文化领导力（MA）,master,1,https://www.southampton.ac.uk/courses/arts-cultural-leadership-masters-ma
+2716,Audiology with Clinical Placement MSc,听力学（临床实习方向）（MSc）,master,1,https://www.southampton.ac.uk/courses/audiology-with-clinical-placement-masters-msc
+2716,Banking and Finance MSc,Banking与金融学（MSc）,master,1,https://www.southampton.ac.uk/courses/international-banking-financial-studies-masters-msc
+2716,Big Data Biology MRes,Big数据生物学（MRes）,master,1,https://www.southampton.ac.uk/courses/big-data-biology-masters-mres
+2716,Biodiversity and Conservation MSc,Biodiversity与Conservation（MSc）,master,1,https://www.southampton.ac.uk/courses/biodiversity-conservation-masters-msc
+2716,Biomedical Engineering MSc,生物医学工程（MSc）,master,1,https://www.southampton.ac.uk/courses/biomedical-engineering-masters-msc
+2716,Biomedical Sciences by Research MSc,生物医学科学研究（MSc）,master,1,https://www.southampton.ac.uk/courses/biomedical-sciences-by-research-masters-msc
+2716,Business Analytics and Finance MSc,商业分析与金融学（MSc）,master,1,https://www.southampton.ac.uk/courses/business-analytics-finance-masters-msc
+2716,Business Analytics and Management Science MSc,商业分析与管理科学（MSc）,master,1,https://www.southampton.ac.uk/courses/business-analytics-management-science-masters-msc
+2716,Business Strategy and Innovation Management MSc,商业Strategy与创新管理（MSc）,master,1,https://www.southampton.ac.uk/courses/business-strategy-innovation-management-masters-msc
+2716,Business and Heritage Management MSc,商业与文化遗产管理（MSc）,master,1,https://www.southampton.ac.uk/courses/business-heritage-management-masters-msc
+2716,Cancer Biology and Immunology MSc,Cancer生物学与Immunology（MSc）,master,1,https://www.southampton.ac.uk/courses/cancer-biology-immunology-masters-msc
+2716,Chemistry MSc,化学（MSc）,master,1,https://www.southampton.ac.uk/courses/chemistry-masters-msc
+2716,Chemistry by Research MSc,化学研究（MSc）,master,1,https://www.southampton.ac.uk/courses/chemistry-by-research-masters-msc
+2716,Civil Engineering MSc,土木工程（MSc）,master,1,https://www.southampton.ac.uk/courses/civil-engineering-masters-msc
+2716,Clinical Exercise Physiology MSc,Clinical Exercise Physiology（MSc）,master,1,https://www.southampton.ac.uk/courses/clinical-exercise-physiology-masters-msc
+2716,Clinical Psychology MSc,临床心理学（MSc）,master,1,https://www.southampton.ac.uk/courses/clinical-psychology-masters-msc
+2716,Clinical and Health Research MRes,临床与健康研究（MRes）,master,1,https://www.southampton.ac.uk/courses/clinical-health-research-masters-mres
+2716,Cognitive behavioural therapy (CBT) (Anxiety and Depression) PGDip,认知行为治疗（CBT）（Anxiety与Depression）（PGDip）,master,1,https://www.southampton.ac.uk/courses/cbt-anxiety-and-depression-pgdip
+2716,Cognitive behavioural therapy (CBT) (Severe Mental Health) PGCert,认知行为治疗（CBT）（Severe心理健康健康）（PGCert）,master,1,https://www.southampton.ac.uk/courses/cbt-severe-mental-health-pgcert
+2716,Cognitive behavioural therapy (CBT) (Severe Mental Health) PGDip,认知行为治疗（CBT）（Severe心理健康健康）（PGDip）,master,1,https://www.southampton.ac.uk/courses/cbt-severe-mental-health-pgdip
+2716,Communication Design MA,Communication设计（MA）,master,1,https://www.southampton.ac.uk/courses/communication-design-masters-ma
+2716,Computational Engineering Design (Advanced Mechanical Engineering Science) MSc,Computational工程设计（高级机械工程科学）（MSc）,master,1,https://www.southampton.ac.uk/courses/computational-engineering-design-advanced-mechanical-engineering-science-masters-msc
+2716,Computer Science MSc,计算机科学（MSc）,master,1,https://www.southampton.ac.uk/courses/computer-science-masters-msc
+2716,Contemporary Curating MA,Contemporary Curating（MA）,master,1,https://www.southampton.ac.uk/courses/contemporary-curating-masters-ma
+2716,Creative Technologies MSc,Creative技术（MSc）,master,1,https://www.southampton.ac.uk/courses/creative-technologies-masters-msc
+2716,Creative Writing MA,创意写作（MA）,master,1,https://www.southampton.ac.uk/courses/creative-writing-masters-ma
+2716,Cultural Heritage Studies (Heritage and Museums) MA,文化文化遗产研究（文化遗产与Museums）（MA）,master,1,https://www.southampton.ac.uk/courses/cultural-heritage-studies-heritage-museums-masters-ma
+2716,Cultural Heritage Studies (Heritage and Public History) MA,文化文化遗产研究（文化遗产与公共历史）（MA）,master,1,https://www.southampton.ac.uk/courses/cultural-heritage-studies-heritage-public-history-masters-ma
+2716,Cultural Heritage Studies (Heritage and the Arts) MA,文化文化遗产研究（文化遗产与Arts）（MA）,master,1,https://www.southampton.ac.uk/courses/cultural-heritage-studies-heritage-the-arts-masters-ma
+2716,Cultural Heritage Studies MA,文化文化遗产研究（MA）,master,1,https://www.southampton.ac.uk/courses/cultural-heritage-studies-masters-ma
+2716,Cyber Security MSc,网络安全（MSc）,master,1,https://www.southampton.ac.uk/courses/cyber-security-masters-msc
+2716,Data Analytics for Government MSc,数据分析Government（MSc）,master,1,https://www.southampton.ac.uk/courses/data-analytics-for-government-masters-msc
+2716,Data Science MSc,数据科学（MSc）,master,1,https://www.southampton.ac.uk/courses/data-science-masters-msc
+2716,Data and Decision Analytics MSc,数据与Decision分析（MSc）,master,1,https://www.southampton.ac.uk/courses/data-decision-analytics-masters-msc
+2716,Design Innovation and Technology MA,设计创新与技术（MA）,master,1,https://www.southampton.ac.uk/courses/design-innovation-technology-masters-ma
+2716,Design Innovation and Technology MSc,设计创新与技术（MSc）,master,1,https://www.southampton.ac.uk/courses/design-innovation-technology-masters-msc
+2716,Design Management MA,设计管理（MA）,master,1,https://www.southampton.ac.uk/courses/design-management-masters-ma
+2716,Digital Business MSc,数字化商业（MSc）,master,1,https://www.southampton.ac.uk/courses/digital-business-masters-msc
+2716,Digital Chemistry MSc,数字化化学（MSc）,master,1,https://www.southampton.ac.uk/courses/digital-chemistry-masters-msc
+2716,Digital Humanities (Data Science) MSc,数字化Humanities（数据科学）（MSc）,master,1,https://www.southampton.ac.uk/courses/digital-humanities-data-science-masters-msc
+2716,Digital Marketing MSc,数字化营销（MSc）,master,1,https://www.southampton.ac.uk/courses/digital-marketing-masters-msc
+2716,Digital Media MA,数字化Media（MA）,master,1,https://www.southampton.ac.uk/courses/digital-media-masters-ma
+2716,Digital Strategy and Information Systems MSc,数字化Strategy与信息系统（MSc）,master,1,https://www.southampton.ac.uk/courses/digital-strategy-information-systems-masters-msc
+2716,E-textiles and Wearable Technologies MSc,E-textiles与Wearable技术（MSc）,master,1,https://www.southampton.ac.uk/courses/e-textiles-wearable-technologies-masters-msc
+2716,Economics MRes,经济学（MRes）,master,1,https://www.southampton.ac.uk/courses/economics-masters-mres
+2716,Economics MSc,经济学（MSc）,master,1,https://www.southampton.ac.uk/courses/economics-masters-msc
+2716,Education (Online) MSc,教育学（Online）（MSc）,master,1,https://www.southampton.ac.uk/courses/education-online-masters-msc
+2716,Education MSc,教育学（MSc）,master,1,https://www.southampton.ac.uk/courses/education-masters-msc
+2716,Education Management and Leadership MSc,教育学管理与领导力（MSc）,master,1,https://www.southampton.ac.uk/courses/education-management-and-leadership-masters-msc
+2716,Education Mental Health Practitioner PGDip,教育学心理健康健康从业实践（PGDip）,master,1,https://www.southampton.ac.uk/courses/education-mental-health-practitioner-pgdip
+2716,Education Practice and Innovation MSc,教育学实践与创新（MSc）,master,1,https://www.southampton.ac.uk/courses/education-practice-innovation-masters-msc
+2716,Electrical Power Systems MSc,电气Power系统（MSc）,master,1,https://www.southampton.ac.uk/courses/electrical-power-systems-masters-msc
+2716,Electrochemistry and Battery Technologies MSc,Electrochemistry与Battery技术（MSc）,master,1,https://www.southampton.ac.uk/courses/electrochemistry-battery-technologies-masters-msc
+2716,Electronic Engineering MSc,电子工程（MSc）,master,1,https://www.southampton.ac.uk/courses/electronic-engineering-masters-msc
+2716,"Energy and Sustainability: Energy, Environment and Buildings MSc",能源与可持续发展：能源、环境与Buildings（MSc）,master,1,https://www.southampton.ac.uk/courses/energy-sustainability-energy-environment-buildings-masters-msc
+2716,"Energy and Sustainability: Energy, Resources and Climate Change MSc",能源与可持续发展：能源、资源与Climate Change（MSc）,master,1,https://www.southampton.ac.uk/courses/energy-sustainability-energy-resources-climate-change-masters-msc
+2716,Engineering Materials (Advanced Mechanical Engineering Science) MSc,工程Materials（高级机械工程科学）（MSc）,master,1,https://www.southampton.ac.uk/courses/engineering-materials-advanced-mechanical-engineering-science-masters-msc
+2716,English Literary Studies (Eighteenth Century) MA,英语文学研究（Eighteenth Century）（MA）,master,1,https://www.southampton.ac.uk/courses/english-literary-studies-eighteenth-century-masters-ma
+2716,English Literary Studies (Nineteenth Century) MA,英语文学研究（Nineteenth Century）（MA）,master,1,https://www.southampton.ac.uk/courses/english-literary-studies-nineteenth-century-masters-ma
+2716,English Literary Studies (Postcolonial and World Literatures) MA,英语文学研究（Postcolonial与World Literatures）（MA）,master,1,https://www.southampton.ac.uk/courses/english-literary-studies-postcolonial-world-literatures-masters-ma
+2716,English Literary Studies (Twentieth Century and Contemporary) MA,英语文学研究（Twentieth Century与Contemporary）（MA）,master,1,https://www.southampton.ac.uk/courses/english-literary-studies-twentieth-century-contemporary-masters-ma
+2716,English Literary Studies MA,英语文学研究（MA）,master,1,https://www.southampton.ac.uk/courses/english-literary-studies-masters-ma
+2716,Environmental Consultancy MSc,环境Consultancy（MSc）,master,1,https://www.southampton.ac.uk/courses/environmental-consultancy-masters-msc
+2716,Environmental Monitoring and Assessment MSc,环境Monitoring与Assessment（MSc）,master,1,https://www.southampton.ac.uk/courses/environmental-monitoring-assessment-masters-msc
+2716,Environmental Pollution Control MSc,Environmental Pollution Control（MSc）,master,1,https://www.southampton.ac.uk/courses/environmental-pollution-control-masters-msc
+2716,European Master's in Embedded Computing Systems MSc,European Master's in Embedded Computing Systems（MSc）,master,1,https://www.southampton.ac.uk/courses/european-masters-in-embedded-computing-systems-masters-msc
+2716,Evolution: From the Galapagos to the 21st Century MRes,Evolution：FromGalapagos21stCentury（MRes）,master,1,https://www.southampton.ac.uk/courses/evolution-from-the-galapagos-to-the-21st-century-masters-mres
+2716,Fashion Design MA,时尚设计（MA）,master,1,https://www.southampton.ac.uk/courses/fashion-design-masters-ma
+2716,Fashion Management MA,时尚管理（MA）,master,1,https://www.southampton.ac.uk/courses/fashion-management-masters-ma
+2716,Fashion Marketing and Branding MA,时尚营销与Branding（MA）,master,1,https://www.southampton.ac.uk/courses/fashion-marketing-branding-masters-ma
+2716,Film Studies MA,电影研究（MA）,master,1,https://www.southampton.ac.uk/courses/film-studies-masters-ma
+2716,Film and Cultural Management MA,电影与文化管理（MA）,master,1,https://www.southampton.ac.uk/courses/film-cultural-management-masters-ma
+2716,Finance MSc,金融学（MSc）,master,1,https://www.southampton.ac.uk/courses/finance-masters-msc
+2716,Finance and Econometrics MSc,金融学与Econometrics（MSc）,master,1,https://www.southampton.ac.uk/courses/finance-econometrics-masters-msc
+2716,Finance and Economics MSc,金融学与经济学（MSc）,master,1,https://www.southampton.ac.uk/courses/finance-economics-masters-msc
+2716,Finance and Investment MSc,金融学与Investment（MSc）,master,1,https://www.southampton.ac.uk/courses/international-financial-markets-masters-msc
+2716,Fine Art MA,纯艺术（MA）,master,1,https://www.southampton.ac.uk/courses/fine-art-masters-ma
+2716,Genomics MSc,Genomics（MSc）,master,1,https://www.southampton.ac.uk/courses/genomics-masters-msc
+2716,Geographical Information Systems and Remote Sensing MSc,Geographical信息系统与Remote Sensing（MSc）,master,1,https://www.southampton.ac.uk/courses/geographical-information-systems-remote-sensing-masters-msc
+2716,Geophysics MSc,Geophysics（MSc）,master,1,https://www.southampton.ac.uk/courses/geophysics-masters-msc
+2716,Gerontology (Distance Learning) MSc,老年学（Distance Learning）（MSc）,master,1,https://www.southampton.ac.uk/courses/gerontology-distance-learning-masters-msc
+2716,Gerontology (Distance Learning) PGCert,老年学（Distance Learning）（PGCert）,master,1,https://www.southampton.ac.uk/courses/gerontology-distance-learning-pgcert
+2716,Gerontology (Distance Learning) PGDip,老年学（Distance Learning）（PGDip）,master,1,https://www.southampton.ac.uk/courses/gerontology-distance-learning-pgdip
+2716,Gerontology MSc,老年学（MSc）,master,1,https://www.southampton.ac.uk/courses/gerontology-masters-msc
+2716,Gerontology PGCert,老年学（PGCert）,master,1,https://www.southampton.ac.uk/courses/gerontology-pgcert
+2716,Gerontology: Research MSc,老年学：研究（MSc）,master,1,https://www.southampton.ac.uk/courses/gerontology-research-masters-msc
+2716,Global Advertising and Branding MA,全球Advertising与Branding（MA）,master,1,https://www.southampton.ac.uk/courses/global-advertising-branding-masters-ma
+2716,Global Ageing and Policy (Distance Learning) MSc,全球老龄化与政策（Distance Learning）（MSc）,master,1,https://www.southampton.ac.uk/courses/global-ageing-policy-distance-learning-masters-msc
+2716,Global Ageing and Policy (Distance Learning) PGCert,全球老龄化与政策（Distance Learning）（PGCert）,master,1,https://www.southampton.ac.uk/courses/global-ageing-and-policy-distance-learning-pgcert
+2716,Global Ageing and Policy (Distance Learning) PGDip,全球老龄化与政策（Distance Learning）（PGDip）,master,1,https://www.southampton.ac.uk/courses/global-ageing-and-policy-distance-learning-pgdip
+2716,Global Business Ethics and Philosophy of Management MA,全球商业Ethics与哲学管理（MA）,master,1,https://www.southampton.ac.uk/courses/global-business-ethics-philosophy-of-management-masters-ma
+2716,"Global Challenges - History, Policy and Practice MA",全球Challenges历史、政策与实践（MA）,master,1,https://www.southampton.ac.uk/courses/global-challenges-history-policy-practice-degree-MA
+2716,Global Executive Master of Business Administration MBA,全球Executive硕士商业管理（MBA）,master,1,https://www.southampton.ac.uk/courses/global-executive-masters-mba
+2716,Global Health MSc,全球健康（MSc）,master,1,https://www.southampton.ac.uk/courses/global-health-masters-msc
+2716,Global Marine Resource Management MSc,全球海洋Resource管理（MSc）,master,1,https://www.southampton.ac.uk/courses/global-marine-resource-management-masters-msc
+2716,Global Media and Publishing Management MA,全球Media与Publishing管理（MA）,master,1,https://www.southampton.ac.uk/courses/global-media-publishing-management-masters-ma
+2716,"Global Sociology: Challenges, Interventions and Action MSc",全球社会学：Challenges、Interventions与Action（MSc）,master,1,https://www.southampton.ac.uk/courses/global-sociology-challenges-interventions-action-masters-msc
+2716,Health Psychology MSc,健康心理学（MSc）,master,1,https://www.southampton.ac.uk/courses/health-psychology-masters-msc
+2716,Higher Archaeological Practice MSc,Higher Archaeological Practice（MSc）,master,1,https://www.southampton.ac.uk/courses/higher-archaeological-practice-masters-msc
+2716,History MA,历史学（MA）,master,1,https://www.southampton.ac.uk/courses/history-masters-ma
+2716,"Holocaust: History, Experience, Heritage MA",Holocaust：历史学、Experience、文化遗产（MA）,master,1,https://www.southampton.ac.uk/courses/holocaust-history-experience-heritage-masters-ma
+2716,Human Factors and Ergonomics MSc,人文Factors与Ergonomics（MSc）,master,1,https://www.southampton.ac.uk/courses/human-factors-ergonomics-degree-msc
+2716,Human Resource Management MSc,人力资源管理（MSc）,master,1,https://www.southampton.ac.uk/courses/human-resource-management-masters-msc
+2716,International Accounting and Governance MSc,国际会计与Governance（MSc）,master,1,https://www.southampton.ac.uk/courses/international-accounting-governance-masters-msc
+2716,International Accounting and Sustainability MSc,国际会计与可持续发展（MSc）,master,1,https://www.southampton.ac.uk/courses/international-accounting-sustainability-masters-msc
+2716,International Commercial and Corporate Law LLM,国际Commercial与Corporate法学（LLM）,master,1,https://www.southampton.ac.uk/courses/international-commercial-corporate-law-masters-llm
+2716,International Criminology and Criminal Justice MSc,国际Criminology与Criminal Justice（MSc）,master,1,https://www.southampton.ac.uk/courses/international-criminology-criminal-justice-masters-msc
+2716,International Entrepreneurship and Management MSc,国际Entrepreneurship与管理（MSc）,master,1,https://www.southampton.ac.uk/courses/international-entrepreneurship-management-masters-msc
+2716,International Law and Human Rights LLM,国际法学与人文Rights（LLM）,master,1,https://www.southampton.ac.uk/courses/international-law-human-rights-masters-llm
+2716,International Management MSc,国际管理（MSc）,master,1,https://www.southampton.ac.uk/courses/international-management-masters-msc
+2716,International Music Management MA,国际音乐管理（MA）,master,1,https://www.southampton.ac.uk/courses/international-music-management-masters-ma
+2716,International Security and Risk MSc,国际安全与Risk（MSc）,master,1,https://www.southampton.ac.uk/courses/international-security-risk-masters-msc
+2716,Internet of Things MSc,Internet of Things（MSc）,master,1,https://www.southampton.ac.uk/courses/internet-of-things-masters-msc
+2716,Languages and Cultures MA,语言与Cultures（MA）,master,1,https://www.southampton.ac.uk/courses/languages-cultures-masters-ma
+2716,Laws LLM,Laws（LLM）,master,1,https://www.southampton.ac.uk/courses/laws-masters-llm
+2716,Leadership and Management in Health and Social Care MSc,领导力与管理健康与社会Care（MSc）,master,1,https://www.southampton.ac.uk/courses/leadership-management-in-health-social-care-masters-msc
+2716,Logistics and Supply Chain Analytics MSc,Logistics与Supply Chain Analytics（MSc）,master,1,https://www.southampton.ac.uk/courses/logistics-supply-chain-analytics-masters-msc
+2716,Low Intensity Cognitive Behavioural Therapy with IAPT PWP Status PGCert,LowIntensity认知行为治疗（IAPT PWP Status方向）（PGCert）,master,1,https://www.southampton.ac.uk/courses/low-intensity-cognitive-behavioural-therapy-with-iapt-pwp-status-pgcert
+2716,Luxury Brand Management MA,奢侈品品牌管理（MA）,master,1,https://www.southampton.ac.uk/courses/luxury-brand-management-masters-ma
+2716,MBA Master of Business Administration MBA,硕士商业管理（MBA）,master,1,https://www.southampton.ac.uk/courses/master-of-business-administration-masters-mba
+2716,Machine Learning MSc,Machine Learning（MSc）,master,1,https://www.southampton.ac.uk/courses/machine-learning-masters-msc
+2716,Management MSc,管理（MSc）,master,1,https://www.southampton.ac.uk/courses/management-masters-msc
+2716,Management and Artificial Intelligence MSc,管理与人工智能（MSc）,master,1,https://www.southampton.ac.uk/courses/management-artificial-intelligence-masters-msc
+2716,Marine Environment and Resources MSc,海洋环境与资源（MSc）,master,1,https://www.southampton.ac.uk/courses/marine-environment-resources-masters-msc
+2716,Maritime Archaeology MSc,海事考古学（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-archaeology-masters-msc
+2716,Maritime Engineering Science: Advanced Computational Engineering MSc,海事工程科学：高级Computational工程（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-engineering-science-advanced-computational-engineering-masters-msc
+2716,Maritime Engineering Science: Marine Engineering and Autonomy MSc,海事工程科学：海洋工程与Autonomy（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-engineering-science-marine-engineering-autonomy-masters-msc
+2716,Maritime Engineering Science: Naval Architecture MSc,海事工程科学：Naval Architecture（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-engineering-science-naval-architecture-masters-msc
+2716,Maritime Engineering Science: Ocean Energy & Offshore Engineering MSc,海事工程科学：Ocean能源与Offshore工程（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-engineering-science-ocean-energy-offshore-engineering-masters-msc
+2716,Maritime Engineering Science: Yacht and High-performance Craft MSc,海事工程科学：Yacht与High-performance Craft（MSc）,master,1,https://www.southampton.ac.uk/courses/maritime-engineering-science-yacht-high-performance-craft-masters-msc
+2716,Maritime Law LLM,海事法（LLM）,master,1,https://www.southampton.ac.uk/courses/maritime-law-masters-llm
+2716,Marketing Analytics MSc,市场营销分析（MSc）,master,1,https://www.southampton.ac.uk/courses/marketing-analytics-masters-msc
+2716,Marketing Management MSc,市场营销管理（MSc）,master,1,https://www.southampton.ac.uk/courses/marketing-management-masters-msc
+2716,Mechatronics (Advanced Mechanical Engineering Science) MSc,机电一体化（高级机械工程科学）（MSc）,master,1,https://www.southampton.ac.uk/courses/mechatronics-advanced-mechanical-engineering-science-masters-msc
+2716,"Medical Technology, Innovation and Design MSc",Medical技术、创新与设计（MSc）,master,1,https://www.southampton.ac.uk/courses/medical-technology-innovation-design-masters-msc
+2716,Micro and Nanotechnology MSc,Micro与纳米技术（MSc）,master,1,https://www.southampton.ac.uk/courses/micro-nanotechnology-masters-msc
+2716,Microelectronics Systems Design MSc,Microelectronics系统设计（MSc）,master,1,https://www.southampton.ac.uk/courses/microelectronics-systems-design-masters-msc
+2716,Mobile Communications and Smart Networking MSc,Mobile通信与Smart Networking（MSc）,master,1,https://www.southampton.ac.uk/courses/mobile-communications-smart-networking-masters-msc
+2716,Music (Composition) MMus,音乐（Composition）（MMus）,master,1,https://www.southampton.ac.uk/courses/music-composition-masters-mmus
+2716,Music (Education) MMus,音乐（教育学）（MMus）,master,1,https://www.southampton.ac.uk/courses/music-education-masters-mmus
+2716,Music (Musicology) MMus,音乐（Musicology）（MMus）,master,1,https://www.southampton.ac.uk/courses/music-musicology-masters-mmus
+2716,Music (Performance) MMus,音乐（Performance）（MMus）,master,1,https://www.southampton.ac.uk/courses/music-performance-masters-mmus
+2716,Neonatology MSc,Neonatology（MSc）,master,1,https://www.southampton.ac.uk/courses/neonatology-masters-msc
+2716,Nursing Studies MSc,护理学研究（MSc）,master,1,https://www.southampton.ac.uk/courses/nursing-studies-masters-msc
+2716,Nursing: Adult MSc,成人护理（MSc）,master,1,https://www.southampton.ac.uk/courses/nursing-adult-masters-msc
+2716,Nursing: Child MSc,儿童护理（MSc）,master,1,https://www.southampton.ac.uk/courses/nursing-child-masters-msc
+2716,Nursing: Mental Health MSc,精神健康护理（MSc）,master,1,https://www.southampton.ac.uk/courses/nursing-mental-health-masters-msc
+2716,Ocean and Earth Science by Research MSc,Ocean与Earth科学研究（MSc）,master,1,https://www.southampton.ac.uk/courses/ocean-earth-science-by-research-masters-msc
+2716,Oceanography MSc,海洋学（MSc）,master,1,https://www.southampton.ac.uk/courses/oceanography-masters-msc
+2716,Online Teaching PGCert,Online Teaching（PGCert）,master,1,https://www.southampton.ac.uk/courses/online-teaching-pgcert
+2716,Operational Research and Data Science MSc,运筹学与数据科学（MSc）,master,1,https://www.southampton.ac.uk/courses/operational-research-masters-msc
+2716,Operational Research and Finance MSc,运筹学与金融学（MSc）,master,1,https://www.southampton.ac.uk/courses/operational-research-finance-masters-msc
+2716,Optical Engineering MSc,Optical工程（MSc）,master,1,https://www.southampton.ac.uk/courses/optical-engineering-masters-msc
+2716,PGCE Art and Design PGCE,艺术与设计（PGCE）,master,1,https://www.southampton.ac.uk/courses/art-and-design-pgce
+2716,PGCE Biology PGCE,生物学（PGCE）,master,1,https://www.southampton.ac.uk/courses/biology-pgce
+2716,PGCE Chemistry PGCE,化学（PGCE）,master,1,https://www.southampton.ac.uk/courses/chemistry-pgce
+2716,PGCE Design and Technology PGCE,设计与技术（PGCE）,master,1,https://www.southampton.ac.uk/courses/design-technology-masters-pgce
+2716,PGCE English PGCE,英语语言文学（PGCE）,master,1,https://www.southampton.ac.uk/courses/english-pgce
+2716,PGCE English with Drama PGCE,英语语言文学（Drama方向）（PGCE）,master,1,https://www.southampton.ac.uk/courses/english-with-drama-pgcert
+2716,PGCE English with SEND PGCE,英语语言文学（SEND方向）（PGCE）,master,1,https://www.southampton.ac.uk/courses/english-with-send-masters-pgcert
+2716,PGCE Geography PGCE,地理学（PGCE）,master,1,https://www.southampton.ac.uk/courses/geography-pgce
+2716,PGCE History PGCE,历史学（PGCE）,master,1,https://www.southampton.ac.uk/courses/history-pgce
+2716,PGCE Mathematics PGCE,数学（PGCE）,master,1,https://www.southampton.ac.uk/courses/secondary-mathematics-pgce
+2716,PGCE Modern Languages PGCE,现代语言（PGCE）,master,1,https://www.southampton.ac.uk/courses/modern-languages-pgce
+2716,PGCE Physical Education PGCE,Physical教育学（PGCE）,master,1,https://www.southampton.ac.uk/courses/physical-education-pgce
+2716,PGCE Physics PGCE,物理学（PGCE）,master,1,https://www.southampton.ac.uk/courses/physics-pgce
+2716,PGCE Primary PGCE,Primary（PGCE）,master,1,https://www.southampton.ac.uk/courses/primary-pgce
+2716,PGCE Secondary PGCE,Secondary（PGCE）,master,1,https://www.southampton.ac.uk/courses/secondary-pgce
+2716,Philosophy MA,哲学（MA）,master,1,https://www.southampton.ac.uk/courses/philosophy-masters-ma
+2716,Politics MSc,政治学（MSc）,master,1,https://www.southampton.ac.uk/courses/politics-degree-msc
+2716,Professional Practice in Health Sciences MSc,Professional实践健康科学（MSc）,master,1,https://www.southampton.ac.uk/courses/professional-practice-in-health-sciences-masters-msc
+2716,Project Management MSc,Project管理（MSc）,master,1,https://www.southampton.ac.uk/courses/project-management-masters-msc
+2716,Propulsion and Engine Systems Engineering (Advanced Mechanical Engineering Science) MSc,Propulsion与Engine系统工程（高级机械工程科学）（MSc）,master,1,https://www.southampton.ac.uk/courses/propulsion-engine-systems-engineering-advanced-mechanical-engineering-science-masters-msc
+2716,Psychological Practitioner in Homelessness PGCert,Psychological从业实践Homelessness（PGCert）,master,1,https://www.southampton.ac.uk/courses/psychological-practitioner-homelessness-pgcert
+2716,Psychology MSc,心理学（MSc）,master,1,https://www.southampton.ac.uk/courses/psychology-masters-msc
+2716,Psychology: Cognitive Psychology MSc,心理学：认知心理学（MSc）,master,1,https://www.southampton.ac.uk/courses/cognitive-psychology-masters-msc
+2716,Psychology: Research Methods MSc,心理学：研究方法（MSc）,master,1,https://www.southampton.ac.uk/courses/psychology-research-methods-masters-msc
+2716,Psychology: Social Psychology MSc,心理学：社会心理学（MSc）,master,1,https://www.southampton.ac.uk/courses/social-psychology-masters-msc
+2716,Public Administration MPA,公共管理（MPA）,master,1,https://www.southampton.ac.uk/courses/public-administration-masters-mpa
+2716,Public Health MPH,公共卫生（MPH）,master,1,https://www.southampton.ac.uk/courses/public-health-masters-mph
+2716,Public Health PGCert,公共卫生（PGCert）,master,1,https://www.southampton.ac.uk/courses/public-health-pgcert
+2716,Public Health PGDip,公共卫生（PGDip）,master,1,https://www.southampton.ac.uk/courses/public-health-pgdip
+2716,Race Car Aerodynamics MSc,Race Car Aerodynamics（MSc）,master,1,https://www.southampton.ac.uk/courses/race-car-aerodynamics-masters-msc
+2716,Risk Management MSc,风险管理（MSc）,master,1,https://www.southampton.ac.uk/courses/risk-management-masters-msc
+2716,Risk and Finance MSc,Risk与金融学（MSc）,master,1,https://www.southampton.ac.uk/courses/risk-finance-masters-msc
+2716,Robotics and Autonomous Systems MSc,Robotics与Autonomous系统（MSc）,master,1,https://www.southampton.ac.uk/courses/robotics-autonomous-systems-masters-msc
+2716,Shipping Finance MSc,Shipping金融（MSc）,master,1,https://www.southampton.ac.uk/courses/shipping-finance-masters-msc
+2716,Social Research Methods with Applied Statistics MSc,社会研究方法（应用统计学方向）（MSc）,master,1,https://www.southampton.ac.uk/courses/social-research-methods-with-applied-statistics-masters-msc
+2716,Social Research Methods with Demography MSc,社会研究方法（Demography方向）（MSc）,master,1,https://www.southampton.ac.uk/courses/social-research-methods-with-demography-masters-msc
+2716,Software Engineering MSc,软件工程（MSc）,master,1,https://www.southampton.ac.uk/courses/software-engineering-masters-msc
+2716,Space Systems Engineering MSc,Space系统工程（MSc）,master,1,https://www.southampton.ac.uk/courses/space-systems-engineering-masters-msc
+2716,Statistics MSc,统计学（MSc）,master,1,https://www.southampton.ac.uk/courses/statistics-masters-msc
+2716,Statistics with Applications in Medicine MSc,统计学（Applications医学方向）（MSc）,master,1,https://www.southampton.ac.uk/courses/statistics-with-applications-in-medicine-masters-msc
+2716,Strategic Operations and Supply Chain Management MSc,Strategic Operations与Supply Chain Management（MSc）,master,1,https://www.southampton.ac.uk/courses/strategic-operations-supply-chain-management-masters-msc
+2716,Sustainability MSc,可持续发展（MSc）,master,1,https://www.southampton.ac.uk/courses/sustainability-masters-msc
+2716,Sustainable Energy Technologies MSc,可持续能源技术（MSc）,master,1,https://www.southampton.ac.uk/courses/sustainable-energy-technologies-masters-msc
+2716,Sustainable Finance MSc,可持续金融（MSc）,master,1,https://www.southampton.ac.uk/courses/sustainable-finance-masters-msc
+2716,"Systems, Control and Signal Processing MSc",系统、Control与Signal Processing（MSc）,master,1,https://www.southampton.ac.uk/courses/systems-control-signal-processing-masters-msc
+2716,TESOL MA,TESOL（MA）,master,1,https://www.southampton.ac.uk/courses/tesol-masters-ma
+2716,TESOL for Experienced Teachers MA,TESOL for Experienced Teachers（MA）,master,1,https://www.southampton.ac.uk/courses/tesol-for-experienced-teachers-masters-ma
+2716,Textile Design MA,Textile设计（MA）,master,1,https://www.southampton.ac.uk/courses/textile-design-masters-ma
+2716,Translation Technology & Digital Communication MA,Translation技术与数字化Communication（MA）,master,1,https://www.southampton.ac.uk/courses/translation-technology-digital-communication-masters-ma
+2716,Transportation Planning and Engineering: Behaviour MSc,交通规划与工程：Behaviour（MSc）,master,1,https://www.southampton.ac.uk/courses/transportation-planning-engineering-behaviour-masters-msc
+2716,Transportation Planning and Engineering: Infrastructure MSc,交通规划与工程：Infrastructure（MSc）,master,1,https://www.southampton.ac.uk/courses/transportation-planning-engineering-infrastructure-masters-msc
+2716,Transportation Planning and Engineering: Operations MSc,交通规划与工程：Operations（MSc）,master,1,https://www.southampton.ac.uk/courses/transportation-planning-engineering-operations-masters-msc
+2716,Water Resources Management MSc,Water资源管理（MSc）,master,1,https://www.southampton.ac.uk/courses/water-resources-management-masters-msc
+2716,Widening Participation and Evaluation PGCert,扩大参与与Evaluation（PGCert）,master,1,https://www.southampton.ac.uk/courses/widening-participation-evaluation-masters-pgcert
+2716,Wildlife Conservation MRes,Wildlife Conservation（MRes）,master,1,https://www.southampton.ac.uk/courses/wildlife-conservation-masters-mres

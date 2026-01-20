@@ -1,0 +1,469 @@
+﻿university_id,degree_level,major_name_en,major_name_cn,is_active,notes
+31,bachelor,Bachelor of Arts (B-ARTS),文学学士（B-ARTS）,1,https://handbook.unimelb.edu.au/2026/courses/b-arts
+31,bachelor,Bachelor of Science (B-SCI),科学学士（B-SCI）,1,https://handbook.unimelb.edu.au/2026/courses/b-sci
+31,bachelor,Bachelor of Commerce (B-COM),商学学士（B-COM）,1,https://handbook.unimelb.edu.au/2026/courses/b-com
+31,bachelor,Bachelor of Biomedicine (B-BMED),生物医学学士（B-BMED）,1,https://handbook.unimelb.edu.au/2026/courses/b-bmed
+31,bachelor,Bachelor of Agriculture (B-AGR),农业学士（B-AGR）,1,https://handbook.unimelb.edu.au/2026/courses/b-agr
+31,bachelor,Bachelor of Music (B-MUS),音乐学士（B-MUS）,1,https://handbook.unimelb.edu.au/2026/courses/b-mus
+31,bachelor,Bachelor of Design (B-DES),设计学士（B-DES）,1,https://handbook.unimelb.edu.au/2026/courses/b-des
+31,bachelor,Bachelor of Music (Degree with Honours) (BH-MUS),音乐学士（Degree with Honours；BH-MUS）,1,https://handbook.unimelb.edu.au/2026/courses/bh-mus
+31,bachelor,Bachelor of Agriculture (Degree with Honours) (BH-AGR),农业学士（Degree with Honours；BH-AGR）,1,https://handbook.unimelb.edu.au/2026/courses/bh-agr
+31,bachelor,Diploma in General Studies (D-GENST),General 研究文凭（D-GENST）,1,https://handbook.unimelb.edu.au/2026/courses/d-genst
+31,bachelor,Bachelor of Commerce (Degree with Honours) (BH-COM),商学学士（Degree with Honours；BH-COM）,1,https://handbook.unimelb.edu.au/2026/courses/bh-com
+31,bachelor,Diploma in Mathematical Sciences (D-MATHSC),Mathematical Sciences文凭（D-MATHSC）,1,https://handbook.unimelb.edu.au/2026/courses/d-mathsc
+31,bachelor,Bachelor of Fine Arts (Production) (B-FAPRO),美术学士（制作；B-FAPRO）,1,https://handbook.unimelb.edu.au/2026/courses/b-fapro
+31,bachelor,Bachelor of Fine Arts (Theatre) (B-FATH),美术学士（戏剧；B-FATH）,1,https://handbook.unimelb.edu.au/2026/courses/b-fath
+31,bachelor,Bachelor of Fine Arts (Degree with Honours) (BH-FA),美术学士（Degree with Honours；BH-FA）,1,https://handbook.unimelb.edu.au/2026/courses/bh-fa
+31,bachelor,Diploma in Languages (D-LANG),Languages文凭（D-LANG）,1,https://handbook.unimelb.edu.au/2026/courses/d-lang
+31,bachelor,Bachelor of Science (Degree with Honours) (BH-SCI),科学学士（Degree with Honours；BH-SCI）,1,https://handbook.unimelb.edu.au/2026/courses/bh-sci
+31,bachelor,Bachelor of Biomedicine (Degree with Honours) (BH-BMED),生物医学学士（Degree with Honours；BH-BMED）,1,https://handbook.unimelb.edu.au/2026/courses/bh-bmed
+31,bachelor,Bachelor of Fine Arts (Animation) (B-FAANIM),美术学士（Animation；B-FAANIM）,1,https://handbook.unimelb.edu.au/2026/courses/b-faanim
+31,bachelor,Bachelor of Arts (Extended) (B-ARTSEXT),文学学士（延伸；B-ARTSEXT）,1,https://handbook.unimelb.edu.au/2026/courses/b-artsext
+31,bachelor,Bachelor of Science (Extended) (B-SCIEXT),科学学士（延伸；B-SCIEXT）,1,https://handbook.unimelb.edu.au/2026/courses/b-sciext
+31,bachelor,Bachelor of Fine Arts (Visual Art) (B-FAVISART),美术学士（Visual Art；B-FAVISART）,1,https://handbook.unimelb.edu.au/2026/courses/b-favisart
+31,bachelor,Bachelor of Fine Arts (Acting) (B-FAACTING),美术学士（Acting；B-FAACTING）,1,https://handbook.unimelb.edu.au/2026/courses/b-faacting
+31,bachelor,Diploma in Computing (D-COMP),Computing文凭（D-COMP）,1,https://handbook.unimelb.edu.au/2026/courses/d-comp
+31,bachelor,Bachelor of Fine Arts (Music Theatre) (B-FAMUSTH),美术学士（音乐 戏剧；B-FAMUSTH）,1,https://handbook.unimelb.edu.au/2026/courses/b-famusth
+31,bachelor,Bachelor of Fine Arts (Screenwriting) (B-FASCWRI),美术学士（Screenwriting；B-FASCWRI）,1,https://handbook.unimelb.edu.au/2026/courses/b-fascwri
+31,bachelor,Bachelor of Science (Extended) (B-SCIEXTD),科学学士（延伸；B-SCIEXTD）,1,https://handbook.unimelb.edu.au/2026/courses/b-sciextd
+31,bachelor,Bachelor of Design (Degree with Honours) (BH-DES),设计学士（Degree with Honours；BH-DES）,1,https://handbook.unimelb.edu.au/2026/courses/bh-des
+31,bachelor,Diploma in Music (D-MUSIC),音乐文凭（D-MUSIC）,1,https://handbook.unimelb.edu.au/2026/courses/d-music
+31,bachelor,Bachelor of Fine Arts (Dance) (B-FADANCE),美术学士（Dance；B-FADANCE）,1,https://handbook.unimelb.edu.au/2026/courses/b-fadance
+31,bachelor,Bachelor of Fine Arts (Film and Television) (B-FAFILMTV),美术学士（Film、Television；B-FAFILMTV）,1,https://handbook.unimelb.edu.au/2026/courses/b-fafilmtv
+31,bachelor,Bachelor of Oral Health (841AC),口腔健康学士（841AC）,1,https://handbook.unimelb.edu.au/2026/courses/841ac
+31,bachelor,Diploma in Science (D-SCI),科学文凭（D-SCI）,1,https://handbook.unimelb.edu.au/2026/courses/d-sci
+31,bachelor,Bachelor of Medical Science (Degree with Honours) (BH-MEDSCI),Medical 科学学士（Degree with Honours；BH-MEDSCI）,1,https://handbook.unimelb.edu.au/2026/courses/bh-medsci
+31,master,Doctor of Clinical Dentistry (ME-DCD),临床 Dentistry博士（ME-DCD）,1,https://handbook.unimelb.edu.au/2026/courses/me-dcd
+31,master,Doctor of Dental Surgery (MC-DDENSUR),Dental Surgery博士（MC-DDENSUR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ddensur
+31,master,Doctor of Medicine (MC-DMED),医学博士（MC-DMED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dmed
+31,master,Doctor of Optometry (MC-DOPTOM),Optometry博士（MC-DOPTOM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-doptom
+31,master,Doctor of Physiotherapy (MC-DPHYSIO),物理治疗博士（MC-DPHYSIO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dphysio
+31,master,Doctor of Veterinary Medicine (MC-DVETMED),兽医 医学博士（MC-DVETMED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dvetmed
+31,master,Executive Master of Arts (MC-EMA),Executive Master of 文学（MC-EMA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ema
+31,master,Executive Master of Public Administration (MC-EMPA),Executive Master of 公共 Administration（MC-EMPA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-empa
+31,master,Graduate Certificate in Aboriginal Health in Rural Communities (GC-AHRC),Aboriginal 健康 in Rural Communities研究生证书（GC-AHRC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ahrc
+31,master,Graduate Certificate in Adolescent Health and Wellbeing (GC-ADOLHW),Adolescent 健康 与 Wellbeing研究生证书（GC-ADOLHW）,1,https://handbook.unimelb.edu.au/2026/courses/gc-adolhw
+31,master,Graduate Certificate in Advanced Social Work (GC-ASW),高级 社会工作研究生证书（GC-ASW）,1,https://handbook.unimelb.edu.au/2026/courses/gc-asw
+31,master,Graduate Certificate in Advanced Veterinary Practice (GC-AVETPR),高级 兽医 实践研究生证书（GC-AVETPR）,1,https://handbook.unimelb.edu.au/2026/courses/gc-avetpr
+31,master,Graduate Certificate in Agricultural Sciences (GC-AGSC),农业科学研究生证书（GC-AGSC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-agsc
+31,master,Graduate Certificate in Applied Business Analytics (GC-APBUSA),应用 商业分析研究生证书（GC-APBUSA）,1,https://handbook.unimelb.edu.au/2026/courses/gc-apbusa
+31,master,Graduate Certificate in Arboriculture (GC-ARBCULT),Arboriculture研究生证书（GC-ARBCULT）,1,https://handbook.unimelb.edu.au/2026/courses/gc-arbcult
+31,master,Graduate Certificate in Arts (GC-ARTS),文学研究生证书（GC-ARTS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-arts
+31,master,Graduate Certificate in Arts (Advanced) (GCA-ARTS),文学研究生证书（高级；GCA-ARTS）,1,https://handbook.unimelb.edu.au/2026/courses/gca-arts
+31,master,Graduate Certificate in Bushfire Planning and Management (GC-BFIREPM),Bushfire 规划 与 管理学研究生证书（GC-BFIREPM）,1,https://handbook.unimelb.edu.au/2026/courses/gc-bfirepm
+31,master,Graduate Certificate in Business (GC-BUS),商业研究生证书（GC-BUS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-bus
+31,master,Graduate Certificate in Business Administration (GC-BAOL),商业 Administration研究生证书（GC-BAOL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-baol
+31,master,Graduate Certificate in Business Administration (GC-BA),商业 Administration研究生证书（GC-BA）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ba
+31,master,Graduate Certificate in Business Analytics (GC-BUSANA),商业分析研究生证书（GC-BUSANA）,1,https://handbook.unimelb.edu.au/2026/courses/gc-busana
+31,master,Graduate Certificate in Cancer Nursing (GC-CNCRNUR),Cancer 护理研究生证书（GC-CNCRNUR）,1,https://handbook.unimelb.edu.au/2026/courses/gc-cncrnur
+31,master,Graduate Certificate in Cancer Sciences (GC-CNCRSC),癌症科学研究生证书（GC-CNCRSC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-cncrsc
+31,master,Graduate Certificate in Climate Change and Health (GC-CCHLTH),气候 Change 与 健康研究生证书（GC-CCHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-cchlth
+31,master,Graduate Certificate in Clinical Education (GC-CLINED),临床 教育研究生证书（GC-CLINED）,1,https://handbook.unimelb.edu.au/2026/courses/gc-clined
+31,master,Graduate Certificate in Clinical Rehabilitation (GC-CLINRHB),临床康复研究生证书（GC-CLINRHB）,1,https://handbook.unimelb.edu.au/2026/courses/gc-clinrhb
+31,master,Graduate Certificate in Clinical Research (N12AA),临床 研究研究生证书（N12AA）,1,https://handbook.unimelb.edu.au/2026/courses/n12aa
+31,master,Graduate Certificate in Clinical Ultrasound (GC-CLINUS),临床 Ultrasound研究生证书（GC-CLINUS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-clinus
+31,master,Graduate Certificate in Critical Care Nursing (GC-CCN),Critical Care 护理研究生证书（GC-CCN）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ccn
+31,master,Graduate Certificate in Critical Care Nursing (Emergency) (GC-CCNEM),Critical Care 护理研究生证书（Emergency；GC-CCNEM）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ccnem
+31,master,Graduate Certificate in Cyber Security (GC-CYBSCMO),Cyber Security研究生证书（GC-CYBSCMO）,1,https://handbook.unimelb.edu.au/2026/courses/gc-cybscmo
+31,master,Graduate Certificate in Dental Public Health (GC-DPHLTH),Dental 公共卫生研究生证书（GC-DPHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dphlth
+31,master,Graduate Certificate in Dental Therapy (Advanced Clinical Practice) (GC-DTACP),Dental Therapy研究生证书（高级 临床 实践；GC-DTACP）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dtacp
+31,master,Graduate Certificate in Design for Health and Wellbeing (GC-DHW),设计 for 健康 与 Wellbeing研究生证书（GC-DHW）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dhw
+31,master,Graduate Certificate in Digital Engineering (Infrastructure) (GC-DIENGIN),Digital 工程研究生证书（Infrastructure；GC-DIENGIN）,1,https://handbook.unimelb.edu.au/2026/courses/gc-diengin
+31,master,Graduate Certificate in Digital Transformation of Health (GC-DTHLTH),Digital Transformation of 健康研究生证书（GC-DTHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dthlth
+31,master,Graduate Certificate in Disaster and Terror Medicine (GC-DTM),Disaster 与 Terror 医学研究生证书（GC-DTM）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dtm
+31,master,Graduate Certificate in Domestic & Gender-Based Violence Research and Practice (GC-DGBVRP),Domestic 与 Gender-Based Violence 研究 与 实践研究生证书（GC-DGBVRP）,1,https://handbook.unimelb.edu.au/2026/courses/gc-dgbvrp
+31,master,Graduate Certificate in Early Childhood Research (GC-ECHRES),Early Childhood 研究研究生证书（GC-ECHRES）,1,https://handbook.unimelb.edu.au/2026/courses/gc-echres
+31,master,Graduate Certificate in Educational Research (GC-EDRES),Educational 研究研究生证书（GC-EDRES）,1,https://handbook.unimelb.edu.au/2026/courses/gc-edres
+31,master,Graduate Certificate in Education (Learning Difficulties) (GC-EDLD),教育研究生证书（Learning Difficulties；GC-EDLD）,1,https://handbook.unimelb.edu.au/2026/courses/gc-edld
+31,master,Graduate Certificate in English for the Global Workplace (GC-ENGGWRK),English for the 全球 Workplace研究生证书（GC-ENGGWRK）,1,https://handbook.unimelb.edu.au/2026/courses/gc-enggwrk
+31,master,Graduate Certificate in Entrepreneurship (GC-ENTR),创业研究生证书（GC-ENTR）,1,https://handbook.unimelb.edu.au/2026/courses/gc-entr
+31,master,Graduate Certificate in Environment (GC-ENV),环境研究生证书（GC-ENV）,1,https://handbook.unimelb.edu.au/2026/courses/gc-env
+31,master,Graduate Certificate in Environmental Design (GC-ENVDES),Environmental 设计研究生证书（GC-ENVDES）,1,https://handbook.unimelb.edu.au/2026/courses/gc-envdes
+31,master,Graduate Certificate in Evaluation (GC-EVALO),Evaluation研究生证书（GC-EVALO）,1,https://handbook.unimelb.edu.au/2026/courses/gc-evalo
+31,master,Graduate Certificate in Food Science (GC-FOODSC),食品科学研究生证书（GC-FOODSC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-foodsc
+31,master,Graduate Certificate in Garden Design (GC-GARDES),Garden 设计研究生证书（GC-GARDES）,1,https://handbook.unimelb.edu.au/2026/courses/gc-gardes
+31,master,Graduate Certificate in Genomics and Health (GC-GENOHLT),Genomics 与 健康研究生证书（GC-GENOHLT）,1,https://handbook.unimelb.edu.au/2026/courses/gc-genohlt
+31,master,Graduate Certificate in Gerontology (GC-GERON),Gerontology研究生证书（GC-GERON）,1,https://handbook.unimelb.edu.au/2026/courses/gc-geron
+31,master,Graduate Certificate in Green Infrastructure (GC-GRINFRA),Green Infrastructure研究生证书（GC-GRINFRA）,1,https://handbook.unimelb.edu.au/2026/courses/gc-grinfra
+31,master,Graduate Certificate in Health and Human Services (GC-HHS),健康 与 Human Services研究生证书（GC-HHS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-hhs
+31,master,Graduate Certificate in Health Economics and Economic Evaluation (GC-HLTHEEE),健康 经济学 与 Economic Evaluation研究生证书（GC-HLTHEEE）,1,https://handbook.unimelb.edu.au/2026/courses/gc-hltheee
+31,master,Graduate Certificate in Health Leadership (GC-HTHLEAD),健康 Leadership研究生证书（GC-HTHLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/gc-hthlead
+31,master,Graduate Certificate in Indigenous Business Leadership (GC-IBL),Indigenous 商业 Leadership研究生证书（GC-IBL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ibl
+31,master,Graduate Certificate in Indigenous Research and Leadership (GC-IRL),Indigenous 研究 与 Leadership研究生证书（GC-IRL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-irl
+31,master,Graduate Certificate in Infectious Disease Epidemiology (GC-IDEPI),Infectious Disease 流行病学研究生证书（GC-IDEPI）,1,https://handbook.unimelb.edu.au/2026/courses/gc-idepi
+31,master,Graduate Certificate in Innovation Practice (GC-INNOVP),Innovation 实践研究生证书（GC-INNOVP）,1,https://handbook.unimelb.edu.au/2026/courses/gc-innovp
+31,master,Graduate Certificate in International Education (IB) (GC-INTEDIB),国际 教育研究生证书（IB；GC-INTEDIB）,1,https://handbook.unimelb.edu.au/2026/courses/gc-intedib
+31,master,Graduate Certificate in Journalism (Advanced) (GCA-JOURN),新闻学研究生证书（高级；GCA-JOURN）,1,https://handbook.unimelb.edu.au/2026/courses/gca-journ
+31,master,Graduate Certificate in Language and Cultural Literacy (GC-LANGCL),Language 与 Cultural Literacy研究生证书（GC-LANGCL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-langcl
+31,master,Graduate Certificate in Managing Youth Self-Harm and Suicide (GC-MANYSHS),Managing Youth Self-Harm 与 Suicide研究生证书（GC-MANYSHS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-manyshs
+31,master,Graduate Certificate in Marketing (423AA),市场营销研究生证书（423AA）,1,https://handbook.unimelb.edu.au/2026/courses/423aa
+31,master,Graduate Certificate in Mathematics Education (Years 7-10) (GC-MTHED10),数学 教育研究生证书（Years 7-10；GC-MTHED10）,1,https://handbook.unimelb.edu.au/2026/courses/gc-mthed10
+31,master,Graduate Certificate in Mindful and Compassionate Care (GC-MCC),Mindful 与 Compassionate Care研究生证书（GC-MCC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-mcc
+31,master,Graduate Certificate in Modern Languages Education (GC-MLED),现代语言教育研究生证书（GC-MLED）,1,https://handbook.unimelb.edu.au/2026/courses/gc-mled
+31,master,Graduate Certificate in Narrative Therapy and Community Work (GC-NTCW),Narrative Therapy 与 Community 工作研究生证书（GC-NTCW）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ntcw
+31,master,Graduate Certificate in Nursing Practice (Paediatric Intensive Care) (GC-NPPIC),护理 实践研究生证书（Paediatric Intensive Care；GC-NPPIC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-nppic
+31,master,Graduate Certificate in Paediatric Intensive Care Nursing (GC-PAEICN),Paediatric Intensive Care 护理研究生证书（GC-PAEICN）,1,https://handbook.unimelb.edu.au/2026/courses/gc-paeicn
+31,master,Graduate Certificate in Paediatric Nursing (GC-PAEN),Paediatric 护理研究生证书（GC-PAEN）,1,https://handbook.unimelb.edu.au/2026/courses/gc-paen
+31,master,Graduate Certificate in Physiotherapy (Exercise and Women's Health) (GC-PHTYEWH),物理治疗研究生证书（Exercise、Women's 健康；GC-PHTYEWH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-phtyewh
+31,master,Graduate Certificate in Physiotherapy (Paediatrics) (GC-PHTYPAE),物理治疗研究生证书（Paediatrics；GC-PHTYPAE）,1,https://handbook.unimelb.edu.au/2026/courses/gc-phtypae
+31,master,Graduate Certificate in Physiotherapy (Pelvic Floor Physiotherapy) (GC-PHTYPFP),物理治疗研究生证书（Pelvic Floor 物理治疗；GC-PHTYPFP）,1,https://handbook.unimelb.edu.au/2026/courses/gc-phtypfp
+31,master,Graduate Certificate in Primary Care Nursing (GC-PCN),Primary Care 护理研究生证书（GC-PCN）,1,https://handbook.unimelb.edu.au/2026/courses/gc-pcn
+31,master,Graduate Certificate in Professional Skills for Scientists (GC-PROFSC),专业 Skills for Scientists研究生证书（GC-PROFSC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-profsc
+31,master,Graduate Certificate in Public Health (GC-PHMO),公共卫生研究生证书（GC-PHMO）,1,https://handbook.unimelb.edu.au/2026/courses/gc-phmo
+31,master,Graduate Certificate in Public Health (GC-PUBHLTH),公共卫生研究生证书（GC-PUBHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-pubhlth
+31,master,Graduate Certificate in Publishing and Communications (Advanced) (GCA-PUBCOM),Publishing 与 Communications研究生证书（高级；GCA-PUBCOM）,1,https://handbook.unimelb.edu.au/2026/courses/gca-pubcom
+31,master,Graduate Certificate in Science (GC-SC),科学研究生证书（GC-SC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-sc
+31,master,Graduate Certificate in Science (Advanced) (GCA-SCI),科学研究生证书（高级；GCA-SCI）,1,https://handbook.unimelb.edu.au/2026/courses/gca-sci
+31,master,Graduate Certificate in Science Education (Years 7-10) (GC-SCIED10),科学 教育研究生证书（Years 7-10；GC-SCIED10）,1,https://handbook.unimelb.edu.au/2026/courses/gc-scied10
+31,master,Graduate Certificate in Sexual Health (GC-SEXHLTH),Sexual 健康研究生证书（GC-SEXHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-sexhlth
+31,master,Graduate Certificate in Small Animal Emergency and Critical Care (GC-SAECC),Small 动物 Emergency 与 Critical Care研究生证书（GC-SAECC）,1,https://handbook.unimelb.edu.au/2026/courses/gc-saecc
+31,master,Graduate Certificate in Social Change Leadership (GC-SCL),社会 Change Leadership研究生证书（GC-SCL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-scl
+31,master,Graduate Certificate in Sports Medicine (GC-SPMED),Sports 医学研究生证书（GC-SPMED）,1,https://handbook.unimelb.edu.au/2026/courses/gc-spmed
+31,master,Graduate Certificate in Supply Chain and Operations Management (GC-SCOM),供应链 与 Operations 管理学研究生证书（GC-SCOM）,1,https://handbook.unimelb.edu.au/2026/courses/gc-scom
+31,master,Graduate Certificate in Sustainable Business (GC-SUSTBUS),Sustainable 商业研究生证书（GC-SUSTBUS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-sustbus
+31,master,Graduate Certificate in Tertiary Education (Management) (GC-TEDMGT),Tertiary 教育研究生证书（管理学；GC-TEDMGT）,1,https://handbook.unimelb.edu.au/2026/courses/gc-tedmgt
+31,master,Graduate Certificate in TESOL (GC-TESOL),对外英语教学（TESOL）研究生证书（GC-对外英语教学（TESOL））,1,https://handbook.unimelb.edu.au/2026/courses/gc-tesol
+31,master,Graduate Certificate in Translation (GC-TRANS),翻译研究生证书（GC-TRANS）,1,https://handbook.unimelb.edu.au/2026/courses/gc-trans
+31,master,Graduate Certificate in University Teaching (697AA),University 教学研究生证书（697AA）,1,https://handbook.unimelb.edu.au/2026/courses/697aa
+31,master,Graduate Certificate in Urban and Cultural Heritage (GC-UCH),Urban 与 Cultural Heritage研究生证书（GC-UCH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-uch
+31,master,Graduate Certificate in Urban Horticulture (GC-URBHORT),Urban Horticulture研究生证书（GC-URBHORT）,1,https://handbook.unimelb.edu.au/2026/courses/gc-urbhort
+31,master,Graduate Certificate in Visual Art (842AA),Visual Art研究生证书（842AA）,1,https://handbook.unimelb.edu.au/2026/courses/842aa
+31,master,Graduate Certificate in Wellbeing Science (GC-WBSCI),Wellbeing 科学研究生证书（GC-WBSCI）,1,https://handbook.unimelb.edu.au/2026/courses/gc-wbsci
+31,master,Graduate Certificate in Youth Mental Health (GC-YMHMO),Youth Mental 健康研究生证书（GC-YMHMO）,1,https://handbook.unimelb.edu.au/2026/courses/gc-ymhmo
+31,master,Graduate Certificate in Youth Mental Health (GC-YOUTHMH),Youth Mental 健康研究生证书（GC-YOUTHMH）,1,https://handbook.unimelb.edu.au/2026/courses/gc-youthmh
+31,master,Graduate Diploma in Actuarial Science (GD-ACTSC),精算学研究生文凭（GD-ACTSC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-actsc
+31,master,Graduate Diploma in Adolescent Health and Wellbeing (GD-ADOLHW),Adolescent 健康 与 Wellbeing研究生文凭（GD-ADOLHW）,1,https://handbook.unimelb.edu.au/2026/courses/gd-adolhw
+31,master,Graduate Diploma in Agricultural Sciences (GD-AGSC),农业科学研究生文凭（GD-AGSC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-agsc
+31,master,Graduate Diploma in Analytics Management (GD-ANAMGT),分析 管理学研究生文凭（GD-ANAMGT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-anamgt
+31,master,Graduate Diploma in Applied Business Analytics (GD-APBUSA),应用 商业分析研究生文凭（GD-APBUSA）,1,https://handbook.unimelb.edu.au/2026/courses/gd-apbusa
+31,master,Graduate Diploma in Arts (GD-ARTS),文学研究生文凭（GD-ARTS）,1,https://handbook.unimelb.edu.au/2026/courses/gd-arts
+31,master,Graduate Diploma in Arts (Advanced) (GDA-ARTS),文学研究生文凭（高级；GDA-ARTS）,1,https://handbook.unimelb.edu.au/2026/courses/gda-arts
+31,master,Graduate Diploma in Arts and Cultural Management (Advanced) (GDA-ACM),文学 与 Cultural 管理学研究生文凭（高级；GDA-ACM）,1,https://handbook.unimelb.edu.au/2026/courses/gda-acm
+31,master,Graduate Diploma in Asian Law (726AA),Asian 法学研究生文凭（726AA）,1,https://handbook.unimelb.edu.au/2026/courses/726aa
+31,master,Graduate Diploma in Banking and Finance Law (968AB),银行与金融法研究生文凭（968AB）,1,https://handbook.unimelb.edu.au/2026/courses/968ab
+31,master,Graduate Diploma in Biostatistics (GD-BIOSTAT),生物统计学研究生文凭（GD-BIOSTAT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-biostat
+31,master,Graduate Diploma in Built Environments (GD-BLTENV),Built Environments研究生文凭（GD-BLTENV）,1,https://handbook.unimelb.edu.au/2026/courses/gd-bltenv
+31,master,Graduate Diploma in Built Environments (Advanced) (GDA-BLTENV),Built Environments研究生文凭（高级；GDA-BLTENV）,1,https://handbook.unimelb.edu.au/2026/courses/gda-bltenv
+31,master,Graduate Diploma in Business Administration (GD-BAOL),商业 Administration研究生文凭（GD-BAOL）,1,https://handbook.unimelb.edu.au/2026/courses/gd-baol
+31,master,Graduate Diploma in Business Administration (GD-BA),商业 Administration研究生文凭（GD-BA）,1,https://handbook.unimelb.edu.au/2026/courses/gd-ba
+31,master,Graduate Diploma in Business Analytics (GD-BUSANA),商业分析研究生文凭（GD-BUSANA）,1,https://handbook.unimelb.edu.au/2026/courses/gd-busana
+31,master,Graduate Diploma in Clinical Dentistry (Implants) (GD-CDIMPL),临床 Dentistry研究生文凭（Implants；GD-CDIMPL）,1,https://handbook.unimelb.edu.au/2026/courses/gd-cdimpl
+31,master,Graduate Diploma in Clinical Education (GD-CLINED),临床 教育研究生文凭（GD-CLINED）,1,https://handbook.unimelb.edu.au/2026/courses/gd-clined
+31,master,Graduate Diploma in Clinical Psychology (GD-CLINPSY),临床心理学研究生文凭（GD-CLINPSY）,1,https://handbook.unimelb.edu.au/2026/courses/gd-clinpsy
+31,master,Graduate Diploma in Clinical Rehabilitation (GD-CLINRHB),临床康复研究生文凭（GD-CLINRHB）,1,https://handbook.unimelb.edu.au/2026/courses/gd-clinrhb
+31,master,Graduate Diploma in Clinical Research (N34AA),临床 研究研究生文凭（N34AA）,1,https://handbook.unimelb.edu.au/2026/courses/n34aa
+31,master,Graduate Diploma in Clinical Ultrasound (GD-CLINUS),临床 Ultrasound研究生文凭（GD-CLINUS）,1,https://handbook.unimelb.edu.au/2026/courses/gd-clinus
+31,master,Graduate Diploma in Communications Law (518AB),Communications 法学研究生文凭（518AB）,1,https://handbook.unimelb.edu.au/2026/courses/518ab
+31,master,Graduate Diploma in Computer Science (GD-CS),计算机科学研究生文凭（GD-CS）,1,https://handbook.unimelb.edu.au/2026/courses/gd-cs
+31,master,Graduate Diploma in Construction Law (189AA),建造 法学研究生文凭（189AA）,1,https://handbook.unimelb.edu.au/2026/courses/189aa
+31,master,Graduate Diploma in Corporate Law (GD-CORPLAW),Corporate 法学研究生文凭（GD-CORPLAW）,1,https://handbook.unimelb.edu.au/2026/courses/gd-corplaw
+31,master,Graduate Diploma in Data Science (GD-DATASC),数据科学研究生文凭（GD-DATASC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-datasc
+31,master,Graduate Diploma in Disaster and Terror Medicine (GD-DTM),Disaster 与 Terror 医学研究生文凭（GD-DTM）,1,https://handbook.unimelb.edu.au/2026/courses/gd-dtm
+31,master,Graduate Diploma in Dispute Resolution (498AB),Dispute Resolution研究生文凭（498AB）,1,https://handbook.unimelb.edu.au/2026/courses/498ab
+31,master,Graduate Diploma in Early Childhood Teaching (GD-ECTCH),Early Childhood 教学研究生文凭（GD-ECTCH）,1,https://handbook.unimelb.edu.au/2026/courses/gd-ectch
+31,master,Graduate Diploma in Economics (GD-ECO),经济学研究生文凭（GD-ECO）,1,https://handbook.unimelb.edu.au/2026/courses/gd-eco
+31,master,Graduate Diploma in Employment and Labour Relations Law (188AA),Employment 与 Labour Relations 法学研究生文凭（188AA）,1,https://handbook.unimelb.edu.au/2026/courses/188aa
+31,master,Graduate Diploma in Energy and Resources Law (GD-ENRSLAW),Energy 与 Resources 法学研究生文凭（GD-ENRSLAW）,1,https://handbook.unimelb.edu.au/2026/courses/gd-enrslaw
+31,master,Graduate Diploma in Environment (GD-ENV),环境研究生文凭（GD-ENV）,1,https://handbook.unimelb.edu.au/2026/courses/gd-env
+31,master,Graduate Diploma in Environmental Law (GD-ENVLAW),Environmental 法学研究生文凭（GD-ENVLAW）,1,https://handbook.unimelb.edu.au/2026/courses/gd-envlaw
+31,master,Graduate Diploma in Food Science (GD-FOODSC),食品科学研究生文凭（GD-FOODSC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-foodsc
+31,master,Graduate Diploma in Foundational Data Science (GD-FDATASC),Foundational 数据科学研究生文凭（GD-FDATASC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-fdatasc
+31,master,Graduate Diploma in Genomics and Health (GD-GENOHLT),Genomics 与 健康研究生文凭（GD-GENOHLT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-genohlt
+31,master,Graduate Diploma in Global Competition and Consumer Law (GD-GCCLAW),全球 Competition 与 Consumer 法学研究生文凭（GD-GCCLAW）,1,https://handbook.unimelb.edu.au/2026/courses/gd-gcclaw
+31,master,Graduate Diploma in Government Law (178AA),Government 法学研究生文凭（178AA）,1,https://handbook.unimelb.edu.au/2026/courses/178aa
+31,master,Graduate Diploma in Health and Medical Law (343AA),健康 与 Medical 法学研究生文凭（343AA）,1,https://handbook.unimelb.edu.au/2026/courses/343aa
+31,master,Graduate Diploma in Hearing Health Care (GD-HHC),Hearing 健康 Care研究生文凭（GD-HHC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-hhc
+31,master,Graduate Diploma in Human Rights Law (636AA),Human Rights 法学研究生文凭（636AA）,1,https://handbook.unimelb.edu.au/2026/courses/636aa
+31,master,Graduate Diploma in Intellectual Property Law (276AA),Intellectual Property 法学研究生文凭（276AA）,1,https://handbook.unimelb.edu.au/2026/courses/276aa
+31,master,Graduate Diploma in International Economic Law (891AA),国际 Economic 法学研究生文凭（891AA）,1,https://handbook.unimelb.edu.au/2026/courses/891aa
+31,master,Graduate Diploma in International Law (323AA),国际 法学研究生文凭（323AA）,1,https://handbook.unimelb.edu.au/2026/courses/323aa
+31,master,Graduate Diploma in International Tax (191AA),国际 税务研究生文凭（191AA）,1,https://handbook.unimelb.edu.au/2026/courses/191aa
+31,master,Graduate Diploma in Journalism (Advanced) (GDA-JOURN),新闻学研究生文凭（高级；GDA-JOURN）,1,https://handbook.unimelb.edu.au/2026/courses/gda-journ
+31,master,Graduate Diploma in Laws (GD-LAWS),Laws研究生文凭（GD-LAWS）,1,https://handbook.unimelb.edu.au/2026/courses/gd-laws
+31,master,Graduate Diploma in Marketing (GD-MKTG),市场营销研究生文凭（GD-MKTG）,1,https://handbook.unimelb.edu.au/2026/courses/gd-mktg
+31,master,Graduate Diploma in Mental Health Nursing Practice (GD-MHNP),Mental 健康 护理 实践研究生文凭（GD-MHNP）,1,https://handbook.unimelb.edu.au/2026/courses/gd-mhnp
+31,master,Graduate Diploma in Music (GD-MUS),音乐研究生文凭（GD-MUS）,1,https://handbook.unimelb.edu.au/2026/courses/gd-mus
+31,master,Graduate Diploma in Perioperative Medicine (GD-PERIMED),Perioperative 医学研究生文凭（GD-PERIMED）,1,https://handbook.unimelb.edu.au/2026/courses/gd-perimed
+31,master,Graduate Diploma in Physiotherapy (Paediatrics) (GD-PHTYPAE),物理治疗研究生文凭（Paediatrics；GD-PHTYPAE）,1,https://handbook.unimelb.edu.au/2026/courses/gd-phtypae
+31,master,Graduate Diploma in Property Valuation (702PA),Property Valuation研究生文凭（702PA）,1,https://handbook.unimelb.edu.au/2026/courses/702pa
+31,master,Graduate Diploma in Psychology (340AA),心理学研究生文凭（340AA）,1,https://handbook.unimelb.edu.au/2026/courses/340aa
+31,master,Graduate Diploma in Psychology (Advanced) (GDA-PSYCH),心理学研究生文凭（高级；GDA-PSYCH）,1,https://handbook.unimelb.edu.au/2026/courses/gda-psych
+31,master,Graduate Diploma in Publishing and Communications (Advanced) (GDA-PUBCOM),Publishing 与 Communications研究生文凭（高级；GDA-PUBCOM）,1,https://handbook.unimelb.edu.au/2026/courses/gda-pubcom
+31,master,Graduate Diploma in Science (GD-SC),科学研究生文凭（GD-SC）,1,https://handbook.unimelb.edu.au/2026/courses/gd-sc
+31,master,Graduate Diploma in Science (Advanced) (GDA-SCI),科学研究生文凭（高级；GDA-SCI）,1,https://handbook.unimelb.edu.au/2026/courses/gda-sci
+31,master,Graduate Diploma in Sports Law (893AA),Sports 法学研究生文凭（893AA）,1,https://handbook.unimelb.edu.au/2026/courses/893aa
+31,master,Graduate Diploma in Sports Medicine (GD-SPMED),Sports 医学研究生文凭（GD-SPMED）,1,https://handbook.unimelb.edu.au/2026/courses/gd-spmed
+31,master,Graduate Diploma in Surgical Anatomy (GD-SURGANT),Surgical Anatomy研究生文凭（GD-SURGANT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-surgant
+31,master,Graduate Diploma in Tax (187AA),税务研究生文凭（187AA）,1,https://handbook.unimelb.edu.au/2026/courses/187aa
+31,master,Graduate Diploma in Urban Horticulture (GD-URBHORT),Urban Horticulture研究生文凭（GD-URBHORT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-urbhort
+31,master,Graduate Diploma in Veterinary Professional Leadership and Management (GD-VPLMGT),兽医 专业 Leadership 与 管理学研究生文凭（GD-VPLMGT）,1,https://handbook.unimelb.edu.au/2026/courses/gd-vplmgt
+31,master,Graduate Diploma in Youth Mental Health (GD-YMHMO),Youth Mental 健康研究生文凭（GD-YMHMO）,1,https://handbook.unimelb.edu.au/2026/courses/gd-ymhmo
+31,master,Graduate Diploma in Youth Mental Health (GD-YOUTHMH),Youth Mental 健康研究生文凭（GD-YOUTHMH）,1,https://handbook.unimelb.edu.au/2026/courses/gd-youthmh
+31,master,Juris Doctor (MC-JURISD),法律博士（JD）（MC-JURISD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-jurisd
+31,master,Master of Actuarial Science (MC-ACTSC),精算学硕士（MC-ACTSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-actsc
+31,master,Master of Actuarial Science (Enhanced) (MC-ACTSCEN),精算学硕士（强化；MC-ACTSCEN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-actscen
+31,master,Master of Actuarial Science (Extended) (MC-ACTSCEX),精算学硕士（延伸；MC-ACTSCEX）,1,https://handbook.unimelb.edu.au/2026/courses/mc-actscex
+31,master,Master of Adolescent Health and Wellbeing (MC-ADOLHW),Adolescent 健康 与 Wellbeing硕士（MC-ADOLHW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-adolhw
+31,master,Master of Advanced Nursing (MC-AN),高级 护理硕士（MC-AN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-an
+31,master,Master of Advanced Nursing Practice (MC-ANP),高级 护理 实践硕士（MC-ANP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-anp
+31,master,Master of Advanced Nursing Practice/Master of Public Health (MC-ADVNPPH),高级 护理 实践/Master of 公共卫生硕士（MC-ADVNPPH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-advnpph
+31,master,Master of Advanced Nursing Practice (Nurse Practitioner) (MC-ANPNP),高级 护理 实践硕士（Nurse Practitioner；MC-ANPNP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-anpnp
+31,master,Master of Advanced Social Work (MC-ASW),高级 社会工作硕士（MC-ASW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-asw
+31,master,Master of Agricultural Sciences (MC-AGSC),农业科学硕士（MC-AGSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-agsc
+31,master,Master of Analytics Management (MC-ANAMGT),分析 管理学硕士（MC-ANAMGT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-anamgt
+31,master,Master of Applied Business Analytics (MC-APBUSA),应用 商业分析硕士（MC-APBUSA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-apbusa
+31,master,Master of Applied Data Analytics (MC-APPDA),应用 数据 分析硕士（MC-APPDA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-appda
+31,master,Master of Applied Econometrics (MC-AEMTRCS),应用 Econometrics硕士（MC-AEMTRCS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-aemtrcs
+31,master,Master of Applied Econometrics (MC-APPECON),应用 Econometrics硕士（MC-APPECON）,1,https://handbook.unimelb.edu.au/2026/courses/mc-appecon
+31,master,Master of Applied Econometrics (Enhanced) (MC-AECOENH),应用 Econometrics硕士（强化；MC-AECOENH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-aecoenh
+31,master,Master of Applied Linguistics (MC-APLING),应用 语言学硕士（MC-APLING）,1,https://handbook.unimelb.edu.au/2026/courses/mc-apling
+31,master,Master of Applied Positive Psychology (MC-APP),应用 Positive 心理学硕士（MC-APP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-app
+31,master,Master of Applied Psychology (MC-AP),应用 心理学硕士（MC-AP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ap
+31,master,Master of Architectural Engineering (MC-ARCHENG),Architectural 工程硕士（MC-ARCHENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-archeng
+31,master,Master of Architecture (MC-ARCH),建筑学硕士（MC-ARCH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-arch
+31,master,Master of Architecture/Master of Construction Management (MC-ARCHCM),建筑学/Master of 建造 管理学硕士（MC-ARCHCM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-archcm
+31,master,Master of Architecture/Master of Landscape Architecture (MC-ARCLARC),建筑学/Master of 景观建筑硕士（MC-ARCLARC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-arclarc
+31,master,Master of Architecture/Master of Property (MC-ARCPROP),建筑学/Master of Property硕士（MC-ARCPROP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-arcprop
+31,master,Master of Architecture/Master of Urban Cultural Heritage (MC-ARCHUCH),建筑学/Master of Urban Cultural Heritage硕士（MC-ARCHUCH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-archuch
+31,master,Master of Architecture/Master of Urban Design (MC-ARCHUD),建筑学/Master of Urban 设计硕士（MC-ARCHUD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-archud
+31,master,Master of Architecture/Master of Urban Planning (MC-ARCHUP),建筑学/Master of 城市规划硕士（MC-ARCHUP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-archup
+31,master,Master of Art Curatorship (038AB),Art Curatorship硕士（038AB）,1,https://handbook.unimelb.edu.au/2026/courses/038ab
+31,master,Master of Arts and Cultural Management (175AA),文学 与 Cultural 管理学硕士（175AA）,1,https://handbook.unimelb.edu.au/2026/courses/175aa
+31,master,Master of Banking and Finance Law (526AA),银行与金融法硕士（526AA）,1,https://handbook.unimelb.edu.au/2026/courses/526aa
+31,master,Master of Biomedical Engineering (MC-BIOMENG),生物医学工程硕士（MC-BIOMENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-biomeng
+31,master,Master of Biomedical Science (MC-BMEDSC),Biomedical 科学硕士（MC-BMEDSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-bmedsc
+31,master,Master of Biostatistics (991AA),生物统计学硕士（991AA）,1,https://handbook.unimelb.edu.au/2026/courses/991aa
+31,master,Master of Biostatistics (Enhanced) (MC-BIOSENH),生物统计学硕士（强化；MC-BIOSENH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-biosenh
+31,master,Master of Biotechnology (MC-SCIBIT),Biotechnology硕士（MC-SCIBIT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scibit
+31,master,Master of Business (MC-BUS),商业硕士（MC-BUS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-bus
+31,master,Master of Business Administration (MC-BAPT),商业 Administration硕士（MC-BAPT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-bapt
+31,master,Master of Business Administration (MC-BA218),商业 Administration硕士（MC-BA218）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ba218
+31,master,Master of Business Administration (MC-BAPTME),商业 Administration硕士（MC-BAPTME）,1,https://handbook.unimelb.edu.au/2026/courses/mc-baptme
+31,master,Master of Business Administration (MC-BA),商业 Administration硕士（MC-BA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ba
+31,master,Master of Business Administration (MC-BAEV),商业 Administration硕士（MC-BAEV）,1,https://handbook.unimelb.edu.au/2026/courses/mc-baev
+31,master,Master of Business Administration (MC-BAOL),商业 Administration硕士（MC-BAOL）,1,https://handbook.unimelb.edu.au/2026/courses/mc-baol
+31,master,Master of Business Administration/Master of Marketing (MC-BAMKTG),商业 Administration/Master of 市场营销硕士（MC-BAMKTG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-bamktg
+31,master,Master of Business Administration (Senior Executive) (MC-BASE),商业 Administration硕士（Senior Executive；MC-BASE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-base
+31,master,Master of Business Analytics (MC-BUSANA),商业分析硕士（MC-BUSANA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-busana
+31,master,Master of Cancer Sciences (MC-CNCRSC),癌症科学硕士（MC-CNCRSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cncrsc
+31,master,Master of Chemical Engineering (MC-CHEMENG),化学工程硕士（MC-CHEMENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-chemeng
+31,master,Master of Civil Engineering (MC-CIVENG),土木工程硕士（MC-CIVENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-civeng
+31,master,Master of Climate Science (MC-CLIMSCI),气候 科学硕士（MC-CLIMSCI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-climsci
+31,master,Master of Clinical Audiology (305BB),临床 听力学硕士（305BB）,1,https://handbook.unimelb.edu.au/2026/courses/305bb
+31,master,Master of Clinical Dentistry (MC-CLIND),临床 Dentistry硕士（MC-CLIND）,1,https://handbook.unimelb.edu.au/2026/courses/mc-clind
+31,master,Master of Clinical Education (MC-CLINED),临床 教育硕士（MC-CLINED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-clined
+31,master,Master of Clinical Rehabilitation (MC-CLINRHB),临床康复硕士（MC-CLINRHB）,1,https://handbook.unimelb.edu.au/2026/courses/mc-clinrhb
+31,master,Master of Clinical Research (N01AA),临床 研究硕士（N01AA）,1,https://handbook.unimelb.edu.au/2026/courses/n01aa
+31,master,Master of Clinical Ultrasound (MC-CU),临床 Ultrasound硕士（MC-CU）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cu
+31,master,Master of Commerce (Accounting) (MC-COMACT),商学硕士（会计；MC-COMACT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-comact
+31,master,Master of Commerce (Actuarial Science) (MC-COMACTS),商学硕士（精算学；MC-COMACTS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-comacts
+31,master,"Master of Commerce (Decision, Risk and Financial Sciences) (MC-COMDRFS)",商学硕士（Decision、Risk、Financial Sciences；MC-COMDRFS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-comdrfs
+31,master,Master of Commerce (Economics) (MC-COMECO),商学硕士（经济学；MC-COMECO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-comeco
+31,master,Master of Commerce (Finance) (MC-COMFIN),商学硕士（金融；MC-COMFIN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-comfin
+31,master,Master of Commerce (Management) (MC-COMMGMT),商学硕士（管理学；MC-COMMGMT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-commgmt
+31,master,Master of Commerce (Marketing) (MC-COMMKTG),商学硕士（市场营销；MC-COMMKTG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-commktg
+31,master,Master of Commercial Law (504AA),Commercial 法学硕士（504AA）,1,https://handbook.unimelb.edu.au/2026/courses/504aa
+31,master,Master of Computer Science (MC-CS),计算机科学硕士（MC-CS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cs
+31,master,Master of Construction Law (195AA),建造 法学硕士（195AA）,1,https://handbook.unimelb.edu.au/2026/courses/195aa
+31,master,Master of Construction Management (MC-CM),建造 管理学硕士（MC-CM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cm
+31,master,Master of Construction Management/Master of Property (MC-CMPROP),建造 管理学/Master of Property硕士（MC-CMPROP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cmprop
+31,master,Master of Contemporary Art (MC-CTPYART),Contemporary Art硕士（MC-CTPYART）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ctpyart
+31,master,Master of Contemporary Chinese Studies (MC-CONTCS),Contemporary Chinese 研究硕士（MC-CONTCS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-contcs
+31,master,Master of Creative Arts Therapy (MC-CAT),Creative 文学 Therapy硕士（MC-CAT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cat
+31,master,"Master of Creative Writing, Publishing and Editing (D01LF)","Creative Writing, Publishing 与 Editing硕士（D01LF）",1,https://handbook.unimelb.edu.au/2026/courses/d01lf
+31,master,Master of Criminology (274AB),犯罪学硕士（274AB）,1,https://handbook.unimelb.edu.au/2026/courses/274ab
+31,master,Master of Cultural Materials Conservation (MC-CULMC),Cultural Materials Conservation硕士（MC-CULMC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-culmc
+31,master,Master of Cyber Security (MC-CYBSCMO),Cyber Security硕士（MC-CYBSCMO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-cybscmo
+31,master,Master of Dance (MC-DNCE),Dance硕士（MC-DNCE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dnce
+31,master,Master of Data Science (MC-DATASC),数据科学硕士（MC-DATASC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-datasc
+31,master,Master of Design and Production (MC-DESPROD),设计与制作硕士（MC-DESPROD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-desprod
+31,master,Master of Development Studies (097AB),发展 研究硕士（097AB）,1,https://handbook.unimelb.edu.au/2026/courses/097ab
+31,master,Master of Digital Infrastructure Engineering (MC-DINFENG),Digital Infrastructure 工程硕士（MC-DINFENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dinfeng
+31,master,Master of Digital Marketing (MC-DMKTG),Digital 市场营销硕士（MC-DMKTG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-dmktg
+31,master,Master of Economics (MC-ECO),经济学硕士（MC-ECO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-eco
+31,master,Master of Ecosystem Management and Conservation (MC-ECOSMC),Ecosystem 管理学 与 Conservation硕士（MC-ECOSMC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ecosmc
+31,master,Master of Education (MC-ED),教育硕士（MC-ED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ed
+31,master,Master of Education (MC-EDMO),教育硕士（MC-EDMO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-edmo
+31,master,Master of Educational Psychology (312AA),Educational 心理学硕士（312AA）,1,https://handbook.unimelb.edu.au/2026/courses/312aa
+31,master,Master of Education in Evidence-Based Teaching (MC-EDEBT),教育 in Evidence-Based 教学硕士（MC-EDEBT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-edebt
+31,master,Master of Electrical Engineering (MC-ELECENG),电气工程硕士（MC-ELECENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-eleceng
+31,master,Master of Employment and Labour Relations Law (510AA),Employment 与 Labour Relations 法学硕士（510AA）,1,https://handbook.unimelb.edu.au/2026/courses/510aa
+31,master,Master of Energy and Resources Law (MC-ENRSLAW),Energy 与 Resources 法学硕士（MC-ENRSLAW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-enrslaw
+31,master,Master of Energy Systems (MC-ENGYSYS),Energy 系统硕士（MC-ENGYSYS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-engysys
+31,master,Master of Engineering (MC-ENG),工程硕士（MC-ENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-eng
+31,master,Master of Engineering Management (761EM),工程 管理学硕士（761EM）,1,https://handbook.unimelb.edu.au/2026/courses/761em
+31,master,Master of Engineering Structures (746ST),工程 Structures硕士（746ST）,1,https://handbook.unimelb.edu.au/2026/courses/746st
+31,master,Master of Entrepreneurship (MC-ENTRPSP),创业硕士（MC-ENTRPSP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-entrpsp
+31,master,Master of Entrepreneurship (Enhanced) (MC-ETRENH),创业硕士（强化；MC-ETRENH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-etrenh
+31,master,Master of Environment (MC-ENV),环境硕士（MC-ENV）,1,https://handbook.unimelb.edu.au/2026/courses/mc-env
+31,master,Master of Environmental Engineering (MC-ENVENG),环境工程硕士（MC-ENVENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-enveng
+31,master,Master of Environmental Law (MC-ENVLAW),Environmental 法学硕士（MC-ENVLAW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-envlaw
+31,master,Master of Environmental Science (MC-ENVSC),Environmental 科学硕士（MC-ENVSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-envsc
+31,master,Master of Environmental Systems Engineering (MC-ENSYSEN),Environmental 系统 工程硕士（MC-ENSYSEN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ensysen
+31,master,Master of Epidemiology (570AA),流行病学硕士（570AA）,1,https://handbook.unimelb.edu.au/2026/courses/570aa
+31,master,Master of Evaluation (MC-EVALO),Evaluation硕士（MC-EVALO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-evalo
+31,master,Master of Film and Television (MC-FILMTV),Film 与 Television硕士（MC-FILMTV）,1,https://handbook.unimelb.edu.au/2026/courses/mc-filmtv
+31,master,Master of Finance (MC-FINANCE),金融硕士（MC-FINANCE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-finance
+31,master,Master of Finance (Enhanced) (MC-FINENH),金融硕士（强化；MC-FINENH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-finenh
+31,master,Master of Food and Packaging Innovation (MC-FOODPI),Food 与 Packaging Innovation硕士（MC-FOODPI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-foodpi
+31,master,Master of Food Science (439FS),食品科学硕士（439FS）,1,https://handbook.unimelb.edu.au/2026/courses/439fs
+31,master,Master of Genetic Counselling (MC-GENCOUN),Genetic Counselling硕士（MC-GENCOUN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-gencoun
+31,master,Master of Genomics and Health (MC-GENOHLT),Genomics 与 健康硕士（MC-GENOHLT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-genohlt
+31,master,Master of Geography (MC-GEOG),地理学硕士（MC-GEOG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-geog
+31,master,Master of Geoscience (MC-GEOSC),地球科学硕士（MC-GEOSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-geosc
+31,master,Master of Global Competition and Consumer Law (MC-GCCLAW),全球 Competition 与 Consumer 法学硕士（MC-GCCLAW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-gcclaw
+31,master,Master of Global Media Communication (MC-GMCOM),全球媒体传播硕士（MC-GMCOM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-gmcom
+31,master,Master of Health and Human Services (MC-HHS),健康 与 Human Services硕士（MC-HHS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-hhs
+31,master,Master of Health and Medical Law (507AA),健康 与 Medical 法学硕士（507AA）,1,https://handbook.unimelb.edu.au/2026/courses/507aa
+31,master,Master of Human Rights Law (MC-HUMRLAW),Human Rights 法学硕士（MC-HUMRLAW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-humrlaw
+31,master,Master of Indigenous Business Leadership (MC-IBL),Indigenous 商业 Leadership硕士（MC-IBL）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ibl
+31,master,Master of Industrial Engineering (MC-INDENG),Industrial 工程硕士（MC-INDENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-indeng
+31,master,Master of Information Systems (MC-IS),信息系统硕士（MC-IS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-is
+31,master,Master of Information Technology (MC-IT),信息 Technology硕士（MC-IT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-it
+31,master,Master of Instructional Leadership (MC-INSLEAD),Instructional Leadership硕士（MC-INSLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-inslead
+31,master,Master of Intellectual Property Law (277AA),Intellectual Property 法学硕士（277AA）,1,https://handbook.unimelb.edu.au/2026/courses/277aa
+31,master,Master of International Business (MC-IB),国际商务硕士（MC-IB）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ib
+31,master,Master of International Education (International Baccalaureate) (MC-INTEDIB),国际 教育硕士（国际 Baccalaureate；MC-INTEDIB）,1,https://handbook.unimelb.edu.au/2026/courses/mc-intedib
+31,master,Master of International Journalism (MC-INTJOUR),国际 新闻学硕士（MC-INTJOUR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-intjour
+31,master,Master of International Relations (MC-IR),国际 Relations硕士（MC-IR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ir
+31,master,Master of International Tax (192AA),国际 税务硕士（192AA）,1,https://handbook.unimelb.edu.au/2026/courses/192aa
+31,master,Master of Journalism (MC-JOURN),新闻学硕士（MC-JOURN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-journ
+31,master,Master of Landscape Architecture (MC-LARCH),景观建筑硕士（MC-LARCH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-larch
+31,master,Master of Landscape Architecture/Master of Urban Design (MC-LARCHUD),景观建筑/Master of Urban 设计硕士（MC-LARCHUD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-larchud
+31,master,Master of Landscape Architecture/Master of Urban Planning (MC-LARCHUP),景观建筑/Master of 城市规划硕士（MC-LARCHUP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-larchup
+31,master,Master of Law and Development (635AA),法学 与 发展硕士（635AA）,1,https://handbook.unimelb.edu.au/2026/courses/635aa
+31,master,Master of Laws (502CW),Laws硕士（502CW）,1,https://handbook.unimelb.edu.au/2026/courses/502cw
+31,master,Master of Leadership for Development (MC-LEADDEV),Leadership for 发展硕士（MC-LEADDEV）,1,https://handbook.unimelb.edu.au/2026/courses/mc-leaddev
+31,master,Master of Learning Intervention (MC-LI),Learning Intervention硕士（MC-LI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-li
+31,master,Master of Management (MC-MGMT),管理学硕士（MC-MGMT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmt
+31,master,Master of Management (Accounting) (MC-MGMTACT),管理学硕士（会计；MC-MGMTACT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtact
+31,master,Master of Management (Accounting and Finance) (MC-MGMTAFN),管理学硕士（会计、金融；MC-MGMTAFN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtafn
+31,master,Master of Management (Entrepreneurship and Innovation) (MC-MGMTEIN),管理学硕士（创业、Innovation；MC-MGMTEIN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtein
+31,master,Master of Management (Finance) (MC-MGMTFIN),管理学硕士（金融；MC-MGMTFIN）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtfin
+31,master,Master of Management (Human Resources) (MC-MGMTHRE),管理学硕士（Human Resources；MC-MGMTHRE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmthre
+31,master,Master of Management (Marketing) (MC-MGMTMKT),管理学硕士（市场营销；MC-MGMTMKT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtmkt
+31,master,Master of Management (Supply Chain Management) (MC-MGMTSCM),管理学硕士（供应链 管理学；MC-MGMTSCM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mgmtscm
+31,master,Master of Marketing (294BE),市场营销硕士（294BE）,1,https://handbook.unimelb.edu.au/2026/courses/294be
+31,master,Master of Marketing (294FN),市场营销硕士（294FN）,1,https://handbook.unimelb.edu.au/2026/courses/294fn
+31,master,Master of Marketing (294PN),市场营销硕士（294PN）,1,https://handbook.unimelb.edu.au/2026/courses/294pn
+31,master,Master of Marketing Communications (MC-MKTCOMM),市场营销 Communications硕士（MC-MKTCOMM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mktcomm
+31,master,Master of Mechanical Engineering (MC-MECHENG),机械工程硕士（MC-MECHENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mecheng
+31,master,Master of Mechatronics Engineering (MC-MTRNENG),Mechatronics 工程硕士（MC-MTRNENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mtrneng
+31,master,Master of Medical Studies (MC-MS),Medical 研究硕士（MC-MS）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ms
+31,master,Master of Medical Studies (Enhanced) (MC-MSE),Medical 研究硕士（强化；MC-MSE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mse
+31,master,Master of Medical Technology Innovation (MC-MTI),Medical Technology Innovation硕士（MC-MTI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mti
+31,master,Master of Modern Languages Education (MC-MLED),现代语言教育硕士（MC-MLED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-mled
+31,master,Master of Music (Opera Performance) (MC-MUSOP),音乐硕士（Opera Performance；MC-MUSOP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-musop
+31,master,Master of Music (Orchestral Performance) (MC-MUSORP),音乐硕士（Orchestral Performance；MC-MUSORP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-musorp
+31,master,Master of Music (Performance Teaching) (MC-MUSPT),音乐硕士（Performance 教学；MC-MUSPT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-muspt
+31,master,Master of Music Therapy (M04AA),音乐 Therapy硕士（M04AA）,1,https://handbook.unimelb.edu.au/2026/courses/m04aa
+31,master,Master of Narrative Therapy and Community Work (MC-NTCW),Narrative Therapy 与 Community 工作硕士（MC-NTCW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ntcw
+31,master,Master of Nursing Science (MC-NURSC),护理学硕士（MC-NURSC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-nursc
+31,master,Master of Physiotherapy (Paediatrics) (MC-PHTYPAE),物理治疗硕士（Paediatrics；MC-PHTYPAE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-phtypae
+31,master,Master of Physiotherapy (Pelvic Health) (MC-PHTYPH),物理治疗硕士（Pelvic 健康；MC-PHTYPH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-phtyph
+31,master,Master of Private Law (MC-PRIVLAW),Private 法学硕士（MC-PRIVLAW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-privlaw
+31,master,Master of Production Design (MC-PRODDES),制作 设计硕士（MC-PRODDES）,1,https://handbook.unimelb.edu.au/2026/courses/mc-proddes
+31,master,Master of Professional Psychology (MC-PROPSYC),专业 心理学硕士（MC-PROPSYC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-propsyc
+31,master,Master of Property (MC-PROP),Property硕士（MC-PROP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-prop
+31,master,Master of Property/Master of Urban Planning (MC-PROPUP),Property/Master of 城市规划硕士（MC-PROPUP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-propup
+31,master,Master of Psychiatry (MC-PO),Psychiatry硕士（MC-PO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-po
+31,master,Master of Psychiatry (342AA),Psychiatry硕士（342AA）,1,https://handbook.unimelb.edu.au/2026/courses/342aa
+31,master,Master of Psychology (Clinical Neuropsychology) (527CN),心理学硕士（临床 Neuropsychology；527CN）,1,https://handbook.unimelb.edu.au/2026/courses/527cn
+31,master,Master of Psychology (Clinical Psychology) (527CL),心理学硕士（临床心理学；527CL）,1,https://handbook.unimelb.edu.au/2026/courses/527cl
+31,master,Master of Psychology (Educational and Developmental) (MC-PSYCHED),心理学硕士（Educational、Developmental；MC-PSYCHED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-psyched
+31,master,Master of Public and International Law (511AA),公共 与 国际 法学硕士（511AA）,1,https://handbook.unimelb.edu.au/2026/courses/511aa
+31,master,Master of Public Health (244CW),公共卫生硕士（244CW）,1,https://handbook.unimelb.edu.au/2026/courses/244cw
+31,master,Master of Public Health (MC-PHMO),公共卫生硕士（MC-PHMO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-phmo
+31,master,Master of Public Policy and Management (344AB),公共 政策 与 管理学硕士（344AB）,1,https://handbook.unimelb.edu.au/2026/courses/344ab
+31,master,Master of Publishing and Communications (MC-PUBCOM),Publishing 与 Communications硕士（MC-PUBCOM）,1,https://handbook.unimelb.edu.au/2026/courses/mc-pubcom
+31,master,Master of Science (Bioinformatics) (MC-SCIBIF),科学硕士（Bioinformatics；MC-SCIBIF）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scibif
+31,master,Master of Science (BioSciences) (MC-SCIBIO),科学硕士（BioSciences；MC-SCIBIO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scibio
+31,master,Master of Science (Chemistry) (MC-SCICHE),科学硕士（化学；MC-SCICHE）,1,https://handbook.unimelb.edu.au/2026/courses/mc-sciche
+31,master,Master of Science (Computer Science) (MC-SCICMP),科学硕士（计算机科学；MC-SCICMP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scicmp
+31,master,Master of Science (Earth Sciences) (MC-SCIEAR),科学硕士（Earth Sciences；MC-SCIEAR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-sciear
+31,master,Master of Science (Epidemiology) (MC-SCIEPI),科学硕士（流行病学；MC-SCIEPI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-sciepi
+31,master,Master of Science (Mathematics and Statistics) (MC-SCIMAT),科学硕士（数学、统计学；MC-SCIMAT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scimat
+31,master,Master of Science (Physics) (MC-SCIPHY),科学硕士（物理学；MC-SCIPHY）,1,https://handbook.unimelb.edu.au/2026/courses/mc-sciphy
+31,master,Master of Screen Producing (MC-SCPROD),Screen Producing硕士（MC-SCPROD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scprod
+31,master,Master of Screenwriting (MC-SCWR),Screenwriting硕士（MC-SCWR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scwr
+31,master,Master of Social Change Leadership (MC-SCL),社会 Change Leadership硕士（MC-SCL）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scl
+31,master,Master of Social Policy (706AA),社会 政策硕士（706AA）,1,https://handbook.unimelb.edu.au/2026/courses/706aa
+31,master,Master of Social Work (MC-SOCW),社会工作硕士（MC-SOCW）,1,https://handbook.unimelb.edu.au/2026/courses/mc-socw
+31,master,Master of Software Engineering (MC-SOFTENG),软件工程硕士（MC-SOFTENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-softeng
+31,master,Master of Spatial Engineering (MC-SPATENG),Spatial 工程硕士（MC-SPATENG）,1,https://handbook.unimelb.edu.au/2026/courses/mc-spateng
+31,master,Master of Speech Pathology (MC-SPCHPTH),言语病理学硕士（MC-SPCHPTH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-spchpth
+31,master,Master of Sports Medicine (MC-SPMED),Sports 医学硕士（MC-SPMED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-spmed
+31,master,Master of Supply Chain Management (MC-SCM150),供应链 管理学硕士（MC-SCM150）,1,https://handbook.unimelb.edu.au/2026/courses/mc-scm150
+31,master,Master of Surgical Education (MC-SURGED),Surgical 教育硕士（MC-SURGED）,1,https://handbook.unimelb.edu.au/2026/courses/mc-surged
+31,master,Master of Tax (742AB),税务硕士（742AB）,1,https://handbook.unimelb.edu.au/2026/courses/742ab
+31,master,Master of Teaching (Early Childhood) (MC-TEACHEC),教学硕士（Early Childhood；MC-TEACHEC）,1,https://handbook.unimelb.edu.au/2026/courses/mc-teachec
+31,master,Master of Teaching (Early Childhood and Primary) (MC-TCHECP),教学硕士（Early Childhood、Primary；MC-TCHECP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-tchecp
+31,master,Master of Teaching (Early Childhood and Primary) (MC-TEACHEP),教学硕士（Early Childhood、Primary；MC-TEACHEP）,1,https://handbook.unimelb.edu.au/2026/courses/mc-teachep
+31,master,Master of Teaching (Primary) (MC-TEACHPR),教学硕士（Primary；MC-TEACHPR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-teachpr
+31,master,Master of Teaching (Secondary) (MC-TEACHSA),教学硕士（Secondary；MC-TEACHSA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-teachsa
+31,master,Master of Teaching (Secondary) Internship (MC-TEACHSI),教学 Internship硕士（Secondary；MC-TEACHSI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-teachsi
+31,master,Master of TESOL (MC-TESOL),对外英语教学（TESOL）硕士（MC-对外英语教学（TESOL））,1,https://handbook.unimelb.edu.au/2026/courses/mc-tesol
+31,master,Master of Theatre (Directing) (MC-THTRDIR),戏剧硕士（Directing；MC-THTRDIR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-thtrdir
+31,master,Master of Theatre (Dramaturgy) (MC-THTRDRA),戏剧硕士（Dramaturgy；MC-THTRDRA）,1,https://handbook.unimelb.edu.au/2026/courses/mc-thtrdra
+31,master,Master of Theatre (Writing) (MC-THTRWRI),戏剧硕士（Writing；MC-THTRWRI）,1,https://handbook.unimelb.edu.au/2026/courses/mc-thtrwri
+31,master,Master of Translation and Interpreting (MC-TRANINT),翻译 与 Interpreting硕士（MC-TRANINT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-tranint
+31,master,Master of Urban and Cultural Heritage (MC-UCH),Urban 与 Cultural Heritage硕士（MC-UCH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-uch
+31,master,Master of Urban Design (MC-URBDES),Urban 设计硕士（MC-URBDES）,1,https://handbook.unimelb.edu.au/2026/courses/mc-urbdes
+31,master,Master of Urban Horticulture (MC-URBHORT),Urban Horticulture硕士（MC-URBHORT）,1,https://handbook.unimelb.edu.au/2026/courses/mc-urbhort
+31,master,Master of Urban Planning (MC-URPL),城市规划硕士（MC-URPL）,1,https://handbook.unimelb.edu.au/2026/courses/mc-urpl
+31,master,Master of Urban Planning/Master of Urban Design (MC-UPUD),城市规划/Master of Urban 设计硕士（MC-UPUD）,1,https://handbook.unimelb.edu.au/2026/courses/mc-upud
+31,master,Master of Veterinary Studies (MC-VETSTDR),兽医 研究硕士（MC-VETSTDR）,1,https://handbook.unimelb.edu.au/2026/courses/mc-vetstdr
+31,master,Master of Youth Mental Health (MC-YMHMO),Youth Mental 健康硕士（MC-YMHMO）,1,https://handbook.unimelb.edu.au/2026/courses/mc-ymhmo
+31,master,Master of Youth Mental Health (MC-YOUTHMH),Youth Mental 健康硕士（MC-YOUTHMH）,1,https://handbook.unimelb.edu.au/2026/courses/mc-youthmh
+31,master,Professional Certificate in Analytics Management (PR-ANAMGT),专业 Certificate in 分析 管理学（PR-ANAMGT）,1,https://handbook.unimelb.edu.au/2026/courses/pr-anamgt
+31,master,Professional Certificate in Business Administration (PR-BAOL),专业 Certificate in 商业 Administration（PR-BAOL）,1,https://handbook.unimelb.edu.au/2026/courses/pr-baol
+31,master,Professional Certificate in Business Administration (PR-BA),专业 Certificate in 商业 Administration（PR-BA）,1,https://handbook.unimelb.edu.au/2026/courses/pr-ba
+31,master,Professional Certificate in Business Analytics (PR-BUSANA),专业 Certificate in 商业分析（PR-BUSANA）,1,https://handbook.unimelb.edu.au/2026/courses/pr-busana
+31,master,Professional Certificate in Digital Transformation of Health (PR-DTHLTH),专业 Certificate in Digital Transformation of 健康（PR-DTHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/pr-dthlth
+31,master,Professional Certificate in Educational Neuroscience (PR-EDNEURO),专业 Certificate in Educational 神经科学（PR-EDNEURO）,1,https://handbook.unimelb.edu.au/2026/courses/pr-edneuro
+31,master,Professional Certificate in Education (CLIL) (GC-EDCLIL),专业 Certificate in 教育（CLIL；GC-EDCLIL）,1,https://handbook.unimelb.edu.au/2026/courses/gc-edclil
+31,master,Professional Certificate in Evidence-Based Teaching (PR-EBT),专业 Certificate in Evidence-Based 教学（PR-EBT）,1,https://handbook.unimelb.edu.au/2026/courses/pr-ebt
+31,master,Professional Certificate in Indigenous Research (GC-IRPRO),专业 Certificate in Indigenous 研究（GC-IRPRO）,1,https://handbook.unimelb.edu.au/2026/courses/gc-irpro
+31,master,Professional Certificate in Innovation Practice (PR-INVPRAC),专业 Certificate in Innovation 实践（PR-INVPRAC）,1,https://handbook.unimelb.edu.au/2026/courses/pr-invprac
+31,master,Professional Certificate in Instructional Leadership (GC-INSLEAD),专业 Certificate in Instructional Leadership（GC-INSLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/gc-inslead
+31,master,Professional Certificate in Introductory Academic Program (PR-IAP),专业 Certificate in Introductory Academic Program（PR-IAP）,1,https://handbook.unimelb.edu.au/2026/courses/pr-iap
+31,master,Professional Certificate in Language and Cultural Literacy (PR-LANGCL),专业 Certificate in Language 与 Cultural Literacy（PR-LANGCL）,1,https://handbook.unimelb.edu.au/2026/courses/pr-langcl
+31,master,Professional Certificate in Language Assessment (PR-LANGASS),专业 Certificate in Language Assessment（PR-LANGASS）,1,https://handbook.unimelb.edu.au/2026/courses/pr-langass
+31,master,Professional Certificate in Leadership (PR-LDSHIP),专业 Certificate in Leadership（PR-LDSHIP）,1,https://handbook.unimelb.edu.au/2026/courses/pr-ldship
+31,master,Professional Certificate in Positive Education (PR-POSED),专业 Certificate in Positive 教育（PR-POSED）,1,https://handbook.unimelb.edu.au/2026/courses/pr-posed
+31,master,Professional Certificate in Translation (PR-TRANS),专业 Certificate in 翻译（PR-TRANS）,1,https://handbook.unimelb.edu.au/2026/courses/pr-trans
+31,master,Professional Certificate in Treaty (PR-TREATY),专业 Certificate in Treaty（PR-TREATY）,1,https://handbook.unimelb.edu.au/2026/courses/pr-treaty
+31,master,Professional Certificate in Wellbeing Coaching (PR-WBCOACH),专业 Certificate in Wellbeing Coaching（PR-WBCOACH）,1,https://handbook.unimelb.edu.au/2026/courses/pr-wbcoach
+31,master,Professional Certificate in Wellbeing Leadership (PR-WBLEAD),专业 Certificate in Wellbeing Leadership（PR-WBLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/pr-wblead
+31,master,Professional Certificate in Wellbeing Science (PR-WBSCI),专业 Certificate in Wellbeing 科学（PR-WBSCI）,1,https://handbook.unimelb.edu.au/2026/courses/pr-wbsci
+31,master,Specialist Certificate in Advanced Social Work (SC-ASW),高级 社会工作专项证书（SC-ASW）,1,https://handbook.unimelb.edu.au/2026/courses/sc-asw
+31,master,Specialist Certificate in Anterior and Dry Eye Disorders (SC-ADED),Anterior 与 Dry Eye Disorders专项证书（SC-ADED）,1,https://handbook.unimelb.edu.au/2026/courses/sc-aded
+31,master,Specialist Certificate in Cancer Nursing (SC-CNCRNUR),Cancer 护理专项证书（SC-CNCRNUR）,1,https://handbook.unimelb.edu.au/2026/courses/sc-cncrnur
+31,master,Specialist Certificate in Cancer Sciences (SC-CNCRSC),癌症科学专项证书（SC-CNCRSC）,1,https://handbook.unimelb.edu.au/2026/courses/sc-cncrsc
+31,master,Specialist Certificate in Clinical Leadership (SC-CLNLEAD),临床 Leadership专项证书（SC-CLNLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/sc-clnlead
+31,master,Specialist Certificate in Clinical Rehabilitation (SC-CLINRHB),临床康复专项证书（SC-CLINRHB）,1,https://handbook.unimelb.edu.au/2026/courses/sc-clinrhb
+31,master,Specialist Certificate in Clinical Ultrasound (SC-CLINUS),临床 Ultrasound专项证书（SC-CLINUS）,1,https://handbook.unimelb.edu.au/2026/courses/sc-clinus
+31,master,Specialist Certificate in Clinical Ultrasound (Practical) (SC-CLINUSP),临床 Ultrasound专项证书（Practical；SC-CLINUSP）,1,https://handbook.unimelb.edu.au/2026/courses/sc-clinusp
+31,master,Specialist Certificate in Criminology (Forensic Disability) (SC-CRIMFD),犯罪学专项证书（Forensic Disability；SC-CRIMFD）,1,https://handbook.unimelb.edu.au/2026/courses/sc-crimfd
+31,master,Specialist Certificate in Critical Care Nursing (SC-CCNURS),Critical Care 护理专项证书（SC-CCNURS）,1,https://handbook.unimelb.edu.au/2026/courses/sc-ccnurs
+31,master,Specialist Certificate in Cross-Cultural Conservation and Heritage (SC-CCCONS),Cross-Cultural Conservation 与 Heritage专项证书（SC-CCCONS）,1,https://handbook.unimelb.edu.au/2026/courses/sc-cccons
+31,master,Specialist Certificate in Design for Health and Wellbeing (SC-DHW),设计 for 健康 与 Wellbeing专项证书（SC-DHW）,1,https://handbook.unimelb.edu.au/2026/courses/sc-dhw
+31,master,Specialist Certificate in Disaster and Terror Medicine (SC-DTM),Disaster 与 Terror 医学专项证书（SC-DTM）,1,https://handbook.unimelb.edu.au/2026/courses/sc-dtm
+31,master,Specialist Certificate in Disaster Health Management (SC-DHM),Disaster 健康 管理学专项证书（SC-DHM）,1,https://handbook.unimelb.edu.au/2026/courses/sc-dhm
+31,master,Specialist Certificate in Empowering Health in Aboriginal Communities (SC-EHAC),Empowering 健康 in Aboriginal Communities专项证书（SC-EHAC）,1,https://handbook.unimelb.edu.au/2026/courses/sc-ehac
+31,master,Specialist Certificate in Global Competition Law (SC-GCLAW),全球 Competition 法学专项证书（SC-GCLAW）,1,https://handbook.unimelb.edu.au/2026/courses/sc-gclaw
+31,master,Specialist Certificate in Health and Human Services (SC-HHS),健康 与 Human Services专项证书（SC-HHS）,1,https://handbook.unimelb.edu.au/2026/courses/sc-hhs
+31,master,Specialist Certificate in Implementation Science (SC-IMPSC),Implementation 科学专项证书（SC-IMPSC）,1,https://handbook.unimelb.edu.au/2026/courses/sc-impsc
+31,master,Specialist Certificate in Inclusive Music Teaching (SC-IMUSTCH),Inclusive 音乐 教学专项证书（SC-IMUSTCH）,1,https://handbook.unimelb.edu.au/2026/courses/sc-imustch
+31,master,Specialist Certificate in Law (Digital Law and Technological Innovation) (SC-LAWDT),法学专项证书（Digital 法学、Technological Innovation；SC-LAWDT）,1,https://handbook.unimelb.edu.au/2026/courses/sc-lawdt
+31,master,Specialist Certificate in Legal Leadership (SC-LGLLEAD),法律领导力专项证书（SC-LGLLEAD）,1,https://handbook.unimelb.edu.au/2026/courses/sc-lgllead
+31,master,Specialist Certificate in Paediatric Critical Care Nursing (SC-PAECCN),Paediatric Critical Care 护理专项证书（SC-PAECCN）,1,https://handbook.unimelb.edu.au/2026/courses/sc-paeccn
+31,master,Specialist Certificate in Paediatric Nursing (SC-PAEN),Paediatric 护理专项证书（SC-PAEN）,1,https://handbook.unimelb.edu.au/2026/courses/sc-paen
+31,master,Specialist Certificate in Public Administration (Advanced) (SC-PAADV),公共 Administration专项证书（高级；SC-PAADV）,1,https://handbook.unimelb.edu.au/2026/courses/sc-paadv
+31,master,Specialist Certificate in Public Health (SC-PUBHLTH),公共卫生专项证书（SC-PUBHLTH）,1,https://handbook.unimelb.edu.au/2026/courses/sc-pubhlth
+31,master,Specialist Certificate in Registered Nurse Prescribing (SC-RNP),注册护士处方专项证书（SC-RNP）,1,https://handbook.unimelb.edu.au/2026/courses/sc-rnp
+31,master,Specialist Certificate in Research Practice for Scientists (SC-RESPRSC),研究 实践 for Scientists专项证书（SC-RESPRSC）,1,https://handbook.unimelb.edu.au/2026/courses/sc-resprsc
+31,master,Specialist Certificate in Research Practice (HASS) (SC-RPHASS),研究 实践专项证书（HASS；SC-RPHASS）,1,https://handbook.unimelb.edu.au/2026/courses/sc-rphass
+31,master,Specialist Certificate in Service Navigation (SC-SERVNAV),服务导航专项证书（SC-SERVNAV）,1,https://handbook.unimelb.edu.au/2026/courses/sc-servnav
+31,master,Specialist Certificate in Tax (SC-TAX),税务专项证书（SC-TAX）,1,https://handbook.unimelb.edu.au/2026/courses/sc-tax
+31,master,Specialist Certificate in Urban and Cultural Heritage (SC-UCH),Urban 与 Cultural Heritage专项证书（SC-UCH）,1,https://handbook.unimelb.edu.au/2026/courses/sc-uch

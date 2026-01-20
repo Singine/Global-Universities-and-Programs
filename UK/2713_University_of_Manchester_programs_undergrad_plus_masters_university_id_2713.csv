@@ -1,0 +1,691 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+2713,Accounting BSc,会计学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07808/bsc-accounting/
+2713,Accounting and Finance BAEcon,会计与金融（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05151/baecon-accounting-and-finance/
+2713,Accounting with Industrial/Professional Experience BSc,会计学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09937/bsc-accounting-with-industrial-professional-experience/
+2713,Actuarial Science and Mathematics BSc,精算学与数学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07383/bsc-actuarial-science-and-mathematics/
+2713,Adult Nursing BNurs,成人护理（BNurs）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10971/bnurs-adult-nursing/
+2713,Aerospace Engineering BEng,航空航天工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03333/beng-aerospace-engineering/
+2713,Aerospace Engineering MEng,航空航天工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03826/meng-aerospace-engineering/
+2713,Aerospace Engineering with an Integrated Foundation Year BEng/MEng,航空航天工程（含综合预科年）（BEng/MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12948/beng-meng-aerospace-engineering-with-an-integrated-foundation-year/
+2713,Aerospace Engineering with Industrial Experience MEng,航空航天工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03827/meng-aerospace-engineering-with-industrial-experience/
+2713,American Studies BA,美国研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12037/ba-american-studies/
+2713,American Studies BA,美国研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11806/ba-american-studies/
+2713,Ancient History BA,古代 历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00169/ba-ancient-history/
+2713,Ancient History and Archaeology BA,古代 历史学与考古学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00167/ba-ancient-history-and-archaeology/
+2713,Ancient History and History BA,古代 历史学与历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10353/ba-ancient-history-and-history/
+2713,Arabic and French BA,阿拉伯语与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/20081/ba-arabic-and-french/
+2713,Arabic and Spanish BA,阿拉伯语与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/20086/ba-arabic-and-spanish/
+2713,Arabic Studies BA,阿拉伯语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00173/ba-arabic-studies/
+2713,Archaeology BA,考古学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00175/ba-archaeology/
+2713,Archaeology and Anthropology BA,考古学与人类学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00043/ba-archaeology-and-anthropology/
+2713,Architecture BA,建筑学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00178/ba-architecture/
+2713,Architecture with Foundation Year BA,建筑学（含预科年）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21083/ba-architecture-with-foundation-year/
+2713,Art History and English Literature BA,艺术史与英国文学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12152/ba-art-history-and-english-literature/
+2713,Art History and French BA,艺术史与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12766/ba-art-history-and-french/
+2713,Art History and History BA,艺术史与历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10356/ba-art-history-and-history/
+2713,Art History and Italian BA,艺术史与意大利语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12768/ba-art-history-and-italian/
+2713,Biochemistry BSc,生物化学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00521/bsc-biochemistry/
+2713,Biochemistry MSci,生物化学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10110/msci-biochemistry/
+2713,Biochemistry with a Modern Language BSc,生物化学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00520/bsc-biochemistry-with-a-modern-language/
+2713,Biochemistry with Entrepreneurship BSc,生物化学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18037/bsc-biochemistry-with-entrepreneurship/
+2713,Biochemistry with Industrial/Professional Experience BSc,生物化学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00519/bsc-biochemistry-with-industrial-professional-experience/
+2713,Biology BSc,生物学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00524/bsc-biology/
+2713,Biology MSci,生物学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10111/msci-biology/
+2713,Biology with a Modern Language BSc,生物学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00527/bsc-biology-with-a-modern-language/
+2713,Biology with Entrepreneurship BSc,生物学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18038/bsc-biology-with-entrepreneurship/
+2713,Biology with Industrial/Professional Experience BSc,生物学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00526/bsc-biology-with-industrial-professional-experience/
+2713,Biology with Science & Society BSc,生物学（科学与社会）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00485/bsc-biology-with-science-and-society/
+2713,Biology with Science and Society with Industrial/Professional Experience BSc,生物学（科学，含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08165/bsc-biology-with-science-and-society-with-industrial-professional-experience/
+2713,Biomedical Sciences BSc,生物医学科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00532/bsc-biomedical-sciences/
+2713,Biomedical Sciences MSci,生物医学科学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10112/msci-biomedical-sciences/
+2713,Biomedical Sciences with a Modern Language BSc,生物医学科学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06245/bsc-biomedical-sciences-with-a-modern-language/
+2713,Biomedical Sciences with Entrepreneurship BSc,生物医学科学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18039/bsc-biomedical-sciences-with-entrepreneurship/
+2713,Biomedical Sciences with Industrial/Professional Experience BSc,生物医学科学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00531/bsc-biomedical-sciences-with-industrial-professional-experience/
+2713,Biosciences with a Foundation Year,生物科学（含预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00456/biosciences-with-a-foundation-year/
+2713,Biotechnology BSc,生物技术（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08662/bsc-biotechnology/
+2713,Biotechnology MSci,生物技术（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10114/msci-biotechnology/
+2713,Biotechnology with Entrepreneurship BSc,生物技术（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18051/bsc-biotechnology-with-entrepreneurship/
+2713,Biotechnology with Industrial/Professional Experience BSc,生物技术（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08669/bsc-biotechnology-with-industrial-professional-experience/
+2713,Business Accounting with Industrial/Professional Experience BSc,商业会计（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12812/bsc-business-accounting-with-industrial-professional-experience/
+2713,Chemical Engineering BEng,化学工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03340/beng-chemical-engineering/
+2713,Chemical Engineering MEng,化学工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03848/meng-chemical-engineering/
+2713,Chemical Engineering with an Integrated Foundation Year BEng/MEng,化学工程（含综合预科年）（BEng/MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12951/beng-meng-chemical-engineering-with-an-integrated-foundation-year/
+2713,Chemical Engineering with Energy and Environment MEng,化学工程（能源，环境）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09050/meng-chemical-engineering-with-energy-and-environment/
+2713,Chemical Engineering with Industrial Experience MEng,化学工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03849/meng-chemical-engineering-with-industrial-experience/
+2713,Chemical Engineering with Study in Europe MEng,化学工程（欧洲交流学习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03850/meng-chemical-engineering-with-study-in-europe/
+2713,Chemistry BSc,化学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00544/bsc-chemistry/
+2713,Chemistry MChem,化学（MChem）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01449/mchem-chemistry/
+2713,Chemistry with an Integrated Foundation Year BSc/MChem,化学（含综合预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12956/bsc-mchem-chemistry-with-an-integrated-foundation-year/
+2713,Chemistry with Industrial Experience MChem,化学（含工业实习）（MChem）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01450/mchem-chemistry-with-industrial-experience/
+2713,Chemistry with International Study MChem,化学（国际交流）（MChem）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09453/mchem-chemistry-with-international-study/
+2713,Chemistry with Medicinal Chemistry BSc,化学（药物化学）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00539/bsc-chemistry-with-medicinal-chemistry/
+2713,Chemistry with Medicinal Chemistry MChem,化学（药物化学）（MChem）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01443/mchem-chemistry-with-medicinal-chemistry/
+2713,Children's Nursing BNurs,儿童 护理学（BNurs）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10972/bnurs-childrens-nursing/
+2713,Chinese Studies BA,中文 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00058/ba-chinese-studies/
+2713,Civil and Structural Engineering MEng,土木与结构工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03858/meng-civil-and-structural-engineering/
+2713,Civil and Structural Engineering with Industrial Experience MEng,土木与结构工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21195/meng-civil-and-structural-engineering-with-industrial-experience/
+2713,Civil Engineering BEng,土木工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03343/beng-civil-engineering/
+2713,Civil Engineering MEng,土木工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03869/meng-civil-engineering/
+2713,Civil Engineering (Enterprise) MEng,土木工程 （创业方向）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03873/meng-civil-engineering-enterprise/
+2713,Civil Engineering with an Integrated Foundation Year BEng/MEng,土木工程（含综合预科年）（BEng/MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12949/beng-meng-civil-engineering-with-an-integrated-foundation-year/
+2713,Civil Engineering with Industrial Experience MEng,土木工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03875/meng-civil-engineering-with-industrial-experience/
+2713,Classical Studies BA,古典学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00183/ba-classical-studies/
+2713,Classics BA,古典学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00184/ba-classics/
+2713,Cognitive Neuroscience and Psychology BSc,认知神经科学与心理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/20942/bsc-cognitive-neuroscience-and-psychology/
+2713,Comparative Religion and Social Anthropology BA,比较 宗教学与社会人类学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12806/ba-comparative-religion-and-social-anthropology/
+2713,Computer Science BSc,计算机科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00560/bsc-computer-science/
+2713,Computer Science and Mathematics BSc,计算机科学与数学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00558/bsc-computer-science-and-mathematics/
+2713,Computer Science and Mathematics with Industrial Experience BSc,计算机科学与数学（含工业实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00490/bsc-computer-science-and-mathematics-with-industrial-experience/
+2713,Computer Science with an Integrated Foundation Year BSc,计算机科学（含综合预科年）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12952/bsc-computer-science-with-an-integrated-foundation-year/
+2713,Computer Science with Industrial Experience BSc,计算机科学（含工业实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00559/bsc-computer-science-with-industrial-experience/
+2713,Criminology BA,犯罪学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21803/ba-criminology/
+2713,Criminology and Data Analytics BASS,犯罪学与数据分析（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18108/bass-criminology-and-data-analytics/
+2713,Criminology with International Study BA,犯罪学（国际交流）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21808/ba-criminology-with-international-study/
+2713,"Cultural, Creative and Media Industries BA","文化, 创意与媒体 产业（BA）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21695/ba-cultural-creative-and-media-industries/
+2713,Data Science and Economics BAEcon,数据科学与经济学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21873/baecon-data-science-and-economics/
+2713,Dental Hygiene and Therapy BSc,口腔卫生与治疗（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/20060/bsc-dental-hygiene-and-therapy/
+2713,Dentistry (first-year entry) BDS,牙科 （一年级入学）（BDS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00398/bds-dentistry-first-year-entry/
+2713,"Digital Media, Culture and Society BA","数字化 媒体, 文化与社会（BA）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21197/ba-digital-media-culture-and-society/
+2713,Drama BA,戏剧（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00198/ba-drama/
+2713,Drama and English Literature BA,戏剧与英国文学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06613/ba-drama-and-english-literature/
+2713,Drama and Film Studies BA,戏剧与电影研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12655/ba-drama-and-film-studies/
+2713,Earth and Planetary Sciences BSc,地球与行星科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12106/bsc-earth-and-planetary-sciences/
+2713,Earth and Planetary Sciences MEarthSci,地球与行星科学（MEarthSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12107/mearthsci-earth-and-planetary-sciences/
+2713,Earth and Planetary Sciences with an Integrated Foundation Year BSc/MEarthSci,地球与行星科学（含综合预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12957/bsc-mearthsci-earth-and-planetary-sciences-with-an-integrated-foundation-year/
+2713,Earth and Planetary Sciences with a Research Placement MEarthSci,地球与行星科学（含实习）（MEarthSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12788/mearthsci-earth-and-planetary-sciences-with-a-research-placement/
+2713,Earth and Planetary Sciences with Industrial Experience MEarthSci,地球与行星科学（含工业实习）（MEarthSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12109/mearthsci-earth-and-planetary-sciences-with-industrial-experience/
+2713,Earth and Planetary Sciences with International Study MEarthSci,地球与行星科学（国际交流）（MEarthSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12111/mearthsci-earth-and-planetary-sciences-with-international-study/
+2713,East Asian Studies BA,东亚研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09735/ba-east-asian-studies/
+2713,East Asian Studies with International Study BA,东亚研究（国际交流）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12801/ba-east-asian-studies-with-international-study/
+2713,Economics BAEcon,经济学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05134/baecon-economics/
+2713,Economics BSc,经济学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10224/bsc-economics/
+2713,Economics and Finance BAEcon,经济学与金融学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05136/baecon-economics-and-finance/
+2713,Economics and Philosophy BAEcon,经济学与哲学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08811/baecon-economics-and-philosophy/
+2713,Economics and Politics BAEcon,经济学与政治学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05137/baecon-economics-and-politics/
+2713,Economics and Sociology BAEcon,经济学与社会学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05139/baecon-economics-and-sociology/
+2713,Education BSc,教育学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12384/bsc-education/
+2713,"Education, Leadership and Culture BA","教育学, 领导力与文化（BA）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21192/ba-education-leadership-and-culture/
+2713,Educational Psychology BSc,教育心理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11534/bsc-educational-psychology/
+2713,Egyptology UGCert,埃及学（UGCert）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07735/ugcert-egyptology/
+2713,Egyptology UGDip,埃及学（UGDip）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09116/ugdip-egyptology/
+2713,"Electrical, Electronic & Mechatronic Engineering with an Integrated Foundation Year BEng/MEng","电气, 电子与机电一体化工程（含综合预科年）（BEng/MEng）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12950/beng-meng-electrical-electronic-and-mechatronic-engineering-with-an-integrated-foundation-year/
+2713,Electrical and Electronic Engineering BEng,电子电气工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03363/beng-electrical-and-electronic-engineering/
+2713,Electrical and Electronic Engineering MEng,电子电气工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03894/meng-electrical-and-electronic-engineering/
+2713,Electrical and Electronic Engineering with Industrial Experience BEng,电子电气工程（含工业实习）（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03364/beng-electrical-and-electronic-engineering-with-industrial-experience/
+2713,Electrical and Electronic Engineering with Industrial Experience MEng,电子电气工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03893/meng-electrical-and-electronic-engineering-with-industrial-experience/
+2713,English Language BA,英语语言（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00212/ba-english-language/
+2713,English Language and English Literature BA,英语语言与英国文学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10352/ba-english-language-and-english-literature/
+2713,English Literature BA,英国文学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00060/ba-english-literature/
+2713,English Literature and American Studies BA,英国文学与美国研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07914/ba-english-literature-and-american-studies/
+2713,English Literature and French BA,英国文学与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12159/ba-english-literature-and-french/
+2713,English Literature and German BA,英国文学与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12158/ba-english-literature-and-german/
+2713,English Literature and History BA,英国文学与历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10357/ba-english-literature-and-history/
+2713,English Literature and Spanish BA,英国文学与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12141/ba-english-literature-and-spanish/
+2713,English Literature with Creative Writing BA,英国文学（创意写作）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09248/ba-english-literature-with-creative-writing/
+2713,Environmental Management BSc,环境管理（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12385/bsc-environmental-management/
+2713,Environmental Management with Professional Placement BSc,环境管理（含实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12662/bsc-environmental-management-with-professional-placement/
+2713,Environmental Science BSc,环境科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12124/bsc-environmental-science/
+2713,Environmental Science MEnvSci,环境科学（MEnvSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12316/menvsci-environmental-science/
+2713,Environmental Science with an Integrated Foundation Year BSc/MEnvSci,环境科学（含综合预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12958/bsc-menvsci-environmental-science-with-an-integrated-foundation-year/
+2713,Environmental Science with a Research Placement MEnvSci,环境科学（含实习）（MEnvSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12794/menvsci-environmental-science-with-a-research-placement/
+2713,Environmental Science with Industrial Experience MEnvSci,环境科学（含工业实习）（MEnvSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12319/menvsci-environmental-science-with-industrial-experience/
+2713,Environmental Science with International Study MEnvSci,环境科学（国际交流）（MEnvSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12322/menvsci-environmental-science-with-international-study/
+2713,Fashion Buying and Merchandising BSc,时尚 采购与商品管理（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09665/bsc-fashion-buying-and-merchandising/
+2713,Fashion Management BSc,时尚 管理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09662/bsc-fashion-management/
+2713,Fashion Marketing BSc,时尚 市场营销（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09663/bsc-fashion-marketing/
+2713,Fashion Product Innovation BSc,时尚产品创新（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21522/bsc-fashion-product-innovation/
+2713,Film Studies and East Asian Studies BA,电影研究与东亚研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11788/ba-film-studies-and-east-asian-studies/
+2713,Film Studies and English Language BA,电影研究与英语语言（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11789/ba-film-studies-and-english-language/
+2713,Film Studies and English Literature BA,电影研究与英国文学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11790/ba-film-studies-and-english-literature/
+2713,Film Studies and French BA,电影研究与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11791/ba-film-studies-and-french/
+2713,Film Studies and History BA,电影研究与历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11793/ba-film-studies-and-history/
+2713,Film Studies and History of Art BA,电影研究与艺术史（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11794/ba-film-studies-and-history-of-art/
+2713,Film Studies and Spanish BA,电影研究与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11802/ba-film-studies-and-spanish/
+2713,Finance BAEcon,金融学（BAEcon）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05153/baecon-finance/
+2713,French and Chinese BA,法语与中文（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00063/ba-french-and-chinese/
+2713,French and German BA,法语与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00303/ba-french-and-german/
+2713,French and Italian BA,法语与意大利语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00304/ba-french-and-italian/
+2713,French and Japanese BA,法语与日语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06810/ba-french-and-japanese/
+2713,French and Russian BA,法语与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00305/ba-french-and-russian/
+2713,French and Spanish BA,法语与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00306/ba-french-and-spanish/
+2713,French Studies BA,法语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00230/ba-french-studies/
+2713,Genetics BSc,遗传学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00571/bsc-genetics/
+2713,Genetics MSci,遗传学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10120/msci-genetics/
+2713,Genetics with a Modern Language BSc,遗传学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00573/bsc-genetics-with-a-modern-language/
+2713,Genetics with Entrepreneurship BSc,遗传学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18042/bsc-genetics-with-entrepreneurship/
+2713,Genetics with Industrial/Professional Experience BSc,遗传学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00572/bsc-genetics-with-industrial-professional-experience/
+2713,Geography BA,地理学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00232/ba-geography/
+2713,Geography BSc,地理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00575/bsc-geography/
+2713,Geography with International Study BA,地理学（国际交流）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08208/ba-geography-with-international-study/
+2713,Geography with International Study BSc,地理学（国际交流）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08209/bsc-geography-with-international-study/
+2713,Geography with Professional Placement BA,地理学（含实习）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12675/ba-geography-with-professional-placement/
+2713,Geography with Professional Placement BSc,地理学（含实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12676/bsc-geography-with-professional-placement/
+2713,German and Russian BA,德语与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00309/ba-german-and-russian/
+2713,German and Spanish BA,德语与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00310/ba-german-and-spanish/
+2713,German Studies BA,德语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00237/ba-german-studies/
+2713,Global Development BSc,全球发展（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/20251/bsc-global-development/
+2713,Global Development with International Study BSc,全球发展（国际交流）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21403/bsc-global-development-with-international-study/
+2713,Global Health (intercalated) BSc,全球健康 （插读）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09161/bsc-global-health-intercalated/
+2713,Healthcare Science (Audiology) BSc,医疗健康 科学 （听力学）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09104/bsc-healthcare-science-audiology/
+2713,History BA,历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00255/ba-history/
+2713,History and American Studies BA,历史学与美国研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07913/ba-history-and-american-studies/
+2713,History and French BA,历史学与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00257/ba-history-and-french/
+2713,History and German BA,历史学与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00258/ba-history-and-german/
+2713,History and Russian BA,历史学与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00096/ba-history-and-russian/
+2713,History and Sociology BA,历史学与社会学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00260/ba-history-and-sociology/
+2713,History and Spanish BA,历史学与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00261/ba-history-and-spanish/
+2713,History of Art BA,艺术史（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00251/ba-history-of-art/
+2713,Immunology BSc,免疫学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10284/bsc-immunology/
+2713,Immunology MSci,免疫学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10282/msci-immunology/
+2713,Immunology with a Modern Language BSc,免疫学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10292/bsc-immunology-with-a-modern-language/
+2713,Immunology with Entrepreneurship BSc,免疫学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18050/bsc-immunology-with-entrepreneurship/
+2713,Immunology with Industrial/Professional Experience BSc,免疫学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10291/bsc-immunology-with-industrial-professional-experience/
+2713,Information Technology Management for Business BSc,信息技术 管理学 商科（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06246/bsc-information-technology-management-for-business/
+2713,Information Technology Management for Business with Industrial Experience BSc,信息技术 管理学 商科（含工业实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06247/bsc-information-technology-management-for-business-with-industrial-experience/
+2713,"International Business, Finance and Economics BSc","国际商务, 金融学与经济学（BSc）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09224/bsc-international-business-finance-and-economics/
+2713,"International Business, Finance and Economics with Industrial/Professional Experience BSc","国际商务, 金融学与经济学（含工业/职业实践）（BSc）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09963/bsc-international-business-finance-and-economics-with-industrial-professional-experience/
+2713,International Disaster Management & Humanitarian Response BSc,国际 灾害管理与人道主义响应（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10113/bsc-international-disaster-management-and-humanitarian-response/
+2713,International Disaster Management and Humanitarian Response and Arabic BSc,国际灾害管理与人道主义响应与阿拉伯语（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12774/bsc-international-disaster-management-and-humanitarian-response-and-arabic/
+2713,International Disaster Management and Humanitarian Response and Chinese BSc,国际灾害管理与人道主义响应与中文（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12775/bsc-international-disaster-management-and-humanitarian-response-and-chinese/
+2713,International Disaster Management and Humanitarian Response and French BSc,国际灾害管理与人道主义响应与法语（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12776/bsc-international-disaster-management-and-humanitarian-response-and-french/
+2713,International Disaster Management and Humanitarian Response and Spanish BSc,国际灾害管理与人道主义响应与西班牙语（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12782/bsc-international-disaster-management-and-humanitarian-response-and-spanish/
+2713,International Management BSc,国际管理（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18515/bsc-international-management/
+2713,Italian and Spanish BA,意大利语与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00314/ba-italian-and-spanish/
+2713,Italian Studies BA,意大利语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00268/ba-italian-studies/
+2713,Japanese Studies BA,日语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06751/ba-japanese-studies/
+2713,Law LLB,法学（LLB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12446/llb-law/
+2713,Law with Criminology LLB,法学（犯罪学）（LLB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18870/llb-law-with-criminology/
+2713,Law with International Study LLB,法学（国际交流）（LLB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12451/llb-law-with-international-study/
+2713,Law with Politics LLB,法学（政治学）（LLB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18869/llb-law-with-politics/
+2713,Liberal Arts BA,博雅教育（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17859/ba-liberal-arts/
+2713,Liberal Arts with International Study BA,博雅教育（国际交流）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/19115/ba-liberal-arts-with-international-study/
+2713,Life Sciences BSc,生命科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00585/bsc-life-sciences/
+2713,Life Sciences with a Modern Language BSc,生命科学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00584/bsc-life-sciences-with-a-modern-language/
+2713,Life Sciences with Entrepreneurship BSc,生命科学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18043/bsc-life-sciences-with-entrepreneurship/
+2713,Life Sciences with Industrial/Professional Experience BSc,生命科学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00583/bsc-life-sciences-with-industrial-professional-experience/
+2713,Linguistics BA,语言学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00291/ba-linguistics/
+2713,Linguistics and Arabic BA,语言学与阿拉伯语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10006/ba-linguistics-and-arabic/
+2713,Linguistics and Chinese BA,语言学与中文（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06817/ba-linguistics-and-chinese/
+2713,Linguistics and French BA,语言学与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12162/ba-linguistics-and-french/
+2713,Linguistics and German BA,语言学与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12163/ba-linguistics-and-german/
+2713,Linguistics and Italian BA,语言学与意大利语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12164/ba-linguistics-and-italian/
+2713,Linguistics and Japanese BA,语言学与日语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06819/ba-linguistics-and-japanese/
+2713,Linguistics and Portuguese BA,语言学与葡萄牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00101/ba-linguistics-and-portuguese/
+2713,Linguistics and Russian BA,语言学与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00292/ba-linguistics-and-russian/
+2713,Linguistics and Sociology BA,语言学与社会学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00289/ba-linguistics-and-sociology/
+2713,Linguistics and Spanish BA,语言学与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00290/ba-linguistics-and-spanish/
+2713,Management BSc,管理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03519/bsc-management/
+2713,Management (Accounting & Finance) with Industrial/Professional Experience BSc,管理学 （会计学与金融学）（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09965/bsc-management-accounting-and-finance-with-industrial-professional-experience/
+2713,Management (Accounting and Finance) BSc,管理学 （会计与金融）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03520/bsc-management-accounting-and-finance/
+2713,Management (Human Resources) BSc,管理学 （人类 资源）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03525/bsc-management-human-resources/
+2713,Management (Human Resources) with Industrial/Professional Experience BSc,管理学 （人类 资源）（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09966/bsc-management-human-resources-with-industrial-professional-experience/
+2713,"Management (Innovation, Strategy and Entrepreneurship) BSc","管理学 （创新, 战略与创业）（BSc）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11245/bsc-management-innovation-strategy-and-entrepreneurship/
+2713,"Management (Innovation, Strategy and Entrepreneurship) with Industrial / Professional Experience BSc","管理学 （创新, 战略与创业）（含职业实践）（BSc）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11242/bsc-management-innovation-strategy-and-entrepreneurship-with-industrial---professional-experience/
+2713,Management (International Business Economics) BSc,管理学 （国际商务 经济学）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03527/bsc-management-international-business-economics/
+2713,Management (International Business Economics) with Industrial/Professional Experience BSc,管理学 （国际商务 经济学）（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09967/bsc-management-international-business-economics-with-industrial-professional-experience/
+2713,Management (Marketing) BSc,管理学 （市场营销）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03528/bsc-management-marketing/
+2713,Management (Marketing) with Industrial/Professional Experience BSc,管理学 （市场营销）（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09970/bsc-management-marketing-with-industrial-professional-experience/
+2713,Management with Industrial/Professional Experience BSc,管理学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09964/bsc-management-with-industrial-professional-experience/
+2713,Master of Planning with Real Estate MPRE,硕士 规划（房地产）（MPRE）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09631/mpre-master-of-planning-with-real-estate/
+2713,Materials Science and Engineering BSc,材料科学与工程（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09894/bsc-materials-science-and-engineering/
+2713,Materials Science and Engineering MEng,材料科学与工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09895/meng-materials-science-and-engineering/
+2713,Materials Science and Engineering with Biomaterials MEng,材料科学与工程（生物材料）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09896/meng-materials-science-and-engineering-with-biomaterials/
+2713,Materials Science and Engineering with Metallurgy MEng,材料科学与工程（冶金学）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09898/meng-materials-science-and-engineering-with-metallurgy/
+2713,Materials Science and Engineering with Nanomaterials MEng,材料科学与工程（纳米材料）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12661/meng-materials-science-and-engineering-with-nanomaterials/
+2713,Materials Science and Engineering with Polymers MEng,材料科学与工程（高分子材料）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09897/meng-materials-science-and-engineering-with-polymers/
+2713,Materials Science and Engineering with Textiles Technology MEng,材料科学与工程（纺织技术）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09900/meng-materials-science-and-engineering-with-textiles-technology/
+2713,Materials Science with an Integrated Foundation Year BSc/MEng,材料科学（含综合预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12959/bsc-meng-materials-science-with-an-integrated-foundation-year/
+2713,Mathematics BSc,数学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00590/bsc-mathematics/
+2713,Mathematics MMath,数学（MMath）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01688/mmath-mathematics/
+2713,Mathematics and Philosophy BSc,数学与哲学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00595/bsc-mathematics-and-philosophy/
+2713,Mathematics and Physics BSc,数学与物理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00592/bsc-mathematics-and-physics/
+2713,Mathematics and Physics MMath&Phys,数学与物理学（MMath&Phys）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01684/mmathphys-mathematics-and-physics/
+2713,Mathematics and Statistics BSc,数学与统计学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07101/bsc-mathematics-and-statistics/
+2713,Mathematics and Statistics MMath,数学与统计学（MMath）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07102/mmath-mathematics-and-statistics/
+2713,Mathematics with an Integrated Foundation Year BSc,数学（含综合预科年）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12960/bsc-mathematics-with-an-integrated-foundation-year/
+2713,Mathematics with Finance BSc,数学（金融学）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00495/bsc-mathematics-with-finance/
+2713,Mathematics with Placement Year BSc,数学（含实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12645/bsc-mathematics-with-placement-year/
+2713,Mechanical Engineering BEng,机械工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03389/beng-mechanical-engineering/
+2713,Mechanical Engineering MEng,机械工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03921/meng-mechanical-engineering/
+2713,Mechanical Engineering with an Integrated Foundation Year BEng/MEng,机械工程（含综合预科年）（BEng/MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12947/beng-meng-mechanical-engineering-with-an-integrated-foundation-year/
+2713,Mechanical Engineering with Industrial Experience MEng,机械工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03919/meng-mechanical-engineering-with-industrial-experience/
+2713,Mechatronic Engineering BEng,机电一体化工程（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03394/beng-mechatronic-engineering/
+2713,Mechatronic Engineering MEng,机电一体化工程（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03927/meng-mechatronic-engineering/
+2713,Mechatronic Engineering with Industrial Experience BEng,机电一体化工程（含工业实习）（BEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03395/beng-mechatronic-engineering-with-industrial-experience/
+2713,Mechatronic Engineering with Industrial Experience MEng,机电一体化工程（含工业实习）（MEng）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/03928/meng-mechatronic-engineering-with-industrial-experience/
+2713,Medical Biochemistry BSc,医学（/医用）生物化学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00602/bsc-medical-biochemistry/
+2713,Medical Biochemistry MSci,医学（/医用）生物化学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10121/msci-medical-biochemistry/
+2713,Medical Biochemistry with Industrial/Professional Experience BSc,医学（/医用）生物化学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00600/bsc-medical-biochemistry-with-industrial-professional-experience/
+2713,Medical Physiology BSc,医学（/医用）生理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00643/bsc-medical-physiology/
+2713,Medical Physiology MSci,医学（/医用）生理学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10127/msci-medical-physiology/
+2713,Medical Physiology with a Modern Language BSc,医学（/医用）生理学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00646/bsc-medical-physiology-with-a-modern-language/
+2713,Medical Physiology with Entrepreneurship BSc,医学（/医用）生理学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18047/bsc-medical-physiology-with-entrepreneurship/
+2713,Medical Physiology with Industrial/Professional Experience BSc,医学（/医用）生理学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00645/bsc-medical-physiology-with-industrial-professional-experience/
+2713,Medicine MBChB,医学（MBChB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01428/mbchb-medicine/
+2713,Medicine (Graduate Entry) MBChB,医学 （研究生入学）（MBChB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21177/mbchb-medicine-graduate-entry/
+2713,Mental Health Nursing BNurs,心理健康 护理学（BNurs）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10973/bnurs-mental-health-nursing/
+2713,Microbiology BSc,微生物学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00609/bsc-microbiology/
+2713,Microbiology MSci,微生物学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10122/msci-microbiology/
+2713,Microbiology with a Modern Language BSc,微生物学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00608/bsc-microbiology-with-a-modern-language/
+2713,Microbiology with Entrepreneurship BSc,微生物学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18044/bsc-microbiology-with-entrepreneurship/
+2713,Microbiology with Industrial/Professional Experience BSc,微生物学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00607/bsc-microbiology-with-industrial-professional-experience/
+2713,Middle Eastern Studies BA,中东研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07729/ba-middle-eastern-studies/
+2713,Midwifery BMidwif,助产学（BMidwif）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11660/bmidwif-midwifery/
+2713,Modern History with Economics BA,现代 历史学（经济学）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00340/ba-modern-history-with-economics/
+2713,Modern Language and Business & Management (Arabic) BA,现代语言与商科与管理学 （阿拉伯语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07730/ba-modern-language-and-business-and-management-arabic/
+2713,Modern Language and Business & Management (Chinese) BA,现代语言与商科与管理学 （中文）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/05123/ba-modern-language-and-business-and-management-chinese/
+2713,Modern Language and Business & Management (French) BA,现代语言与商科与管理学 （法语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00075/ba-modern-language-and-business-and-management-french/
+2713,Modern Language and Business & Management (German) BA,现代语言与商科与管理学 （德语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00076/ba-modern-language-and-business-and-management-german/
+2713,Modern Language and Business & Management (Italian) BA,现代语言与商科与管理学 （意大利语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00077/ba-modern-language-and-business-and-management-italian/
+2713,Modern Language and Business & Management (Japanese) BA,现代语言与商科与管理学 （日语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06820/ba-modern-language-and-business-and-management-japanese/
+2713,Modern Language and Business & Management (Portuguese) BA,现代语言与商科与管理学 （葡萄牙语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00102/ba-modern-language-and-business-and-management-portuguese/
+2713,Modern Language and Business & Management (Russian) BA,现代语言与商科与管理学 （俄语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00078/ba-modern-language-and-business-and-management-russian/
+2713,Modern Language and Business & Management (Spanish) BA,现代语言与商科与管理学 （西班牙语）（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00079/ba-modern-language-and-business-and-management-spanish/
+2713,Molecular Biology BSc,分子生物学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00614/bsc-molecular-biology/
+2713,Molecular Biology MSci,分子生物学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10123/msci-molecular-biology/
+2713,Molecular Biology with a Modern Language BSc,分子生物学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00613/bsc-molecular-biology-with-a-modern-language/
+2713,Molecular Biology with Entrepreneurship BSc,分子生物学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18092/bsc-molecular-biology-with-entrepreneurship/
+2713,Molecular Biology with Industrial/Professional Experience BSc,分子生物学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00612/bsc-molecular-biology-with-industrial-professional-experience/
+2713,Music MusB,音乐（MusB）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/02397/musb-music/
+2713,Neuroscience BSc,神经科学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00617/bsc-neuroscience/
+2713,Neuroscience MSci,神经科学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10124/msci-neuroscience/
+2713,Neuroscience with a Modern Language BSc,神经科学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00616/bsc-neuroscience-with-a-modern-language/
+2713,Neuroscience with Entrepreneurship BSc,神经科学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18045/bsc-neuroscience-with-entrepreneurship/
+2713,Neuroscience with Industrial/Professional Experience BSc,神经科学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00615/bsc-neuroscience-with-industrial-professional-experience/
+2713,Optometry MSci,视光学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/21273/msci-optometry/
+2713,Pharmacology BSc,药理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00634/bsc-pharmacology/
+2713,Pharmacology MSci,药理学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10125/msci-pharmacology/
+2713,Pharmacology with a Modern Language BSc,药理学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00633/bsc-pharmacology-with-a-modern-language/
+2713,Pharmacology with Entrepreneurship BSc,药理学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18046/bsc-pharmacology-with-entrepreneurship/
+2713,Pharmacology with Industrial/Professional Experience BSc,药理学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00632/bsc-pharmacology-with-industrial-professional-experience/
+2713,Pharmacy MPharm,药学（MPharm）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/01695/mpharm-pharmacy/
+2713,Pharmacy with a Preparatory (Foundation) Year MPharm,药学（预科 （预科） 年）（MPharm）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/07958/mpharm-pharmacy-with-a-preparatory-foundation-year/
+2713,Philosophy BA,哲学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00350/ba-philosophy/
+2713,Philosophy and Criminology BASS,哲学与犯罪学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08851/bass-philosophy-and-criminology/
+2713,Philosophy and Politics BASS,哲学与政治学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08831/bass-philosophy-and-politics/
+2713,Philosophy and Religion BA,哲学与宗教学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/13042/ba-philosophy-and-religion/
+2713,Physics BSc,物理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00638/bsc-physics/
+2713,Physics MPhys,物理学（MPhys）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/02021/mphys-physics/
+2713,Physics with an Integrated Foundation Year BSc/MPhys,物理学（含综合预科年）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12955/bsc-mphys-physics-with-an-integrated-foundation-year/
+2713,Physics with Astrophysics BSc,物理学（天体物理学）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00639/bsc-physics-with-astrophysics/
+2713,Physics with Astrophysics MPhys,物理学（天体物理学）（MPhys）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/02024/mphys-physics-with-astrophysics/
+2713,Physics with Study in Europe MPhys,物理学（欧洲交流学习）（MPhys）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/02026/mphys-physics-with-study-in-europe/
+2713,Physics with Theoretical Physics BSc,物理学（理论物理）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00642/bsc-physics-with-theoretical-physics/
+2713,Physics with Theoretical Physics MPhys,物理学（理论物理）（MPhys）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/02029/mphys-physics-with-theoretical-physics/
+2713,Planning MPlan,规划（MPlan）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/09931/mplan-planning/
+2713,Planning and Real Estate BSc,规划与房地产（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12105/bsc-planning-and-real-estate/
+2713,Planning and Real Estate with Professional Placement BSc,规划与房地产（含实习）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12663/bsc-planning-and-real-estate-with-professional-placement/
+2713,Planning and Real Estate with Professional Placement MPRE,规划与房地产（含实习）（MPRE）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12664/mpre-planning-and-real-estate-with-professional-placement/
+2713,Planning with Professional Placement MPlan,规划（含实习）（MPlan）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/12665/mplan-planning-with-professional-placement/
+2713,"Politics, Philosophy and Economics BA","政治学, 哲学与经济学（BA）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00154/ba-politics-philosophy-and-economics/
+2713,Politics and Arabic BA,政治学与阿拉伯语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11157/ba-politics-and-arabic/
+2713,Politics and Chinese BA,政治学与中文（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11161/ba-politics-and-chinese/
+2713,Politics and Criminology BASS,政治学与犯罪学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08832/bass-politics-and-criminology/
+2713,Politics and Data Analytics BASS,政治学与数据分析（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18110/bass-politics-and-data-analytics/
+2713,Politics and French BA,政治学与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11162/ba-politics-and-french/
+2713,Politics and German BA,政治学与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11163/ba-politics-and-german/
+2713,Politics and International Relations BSocSc,政治学与国际关系（BSocSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00675/bsocsc-politics-and-international-relations/
+2713,Politics and Italian BA,政治学与意大利语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11164/ba-politics-and-italian/
+2713,Politics and Japanese BA,政治学与日语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11165/ba-politics-and-japanese/
+2713,Politics and Modern History BA,政治学与现代 历史学（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00353/ba-politics-and-modern-history/
+2713,Politics and Portuguese BA,政治学与葡萄牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11166/ba-politics-and-portuguese/
+2713,Politics and Russian BA,政治学与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11167/ba-politics-and-russian/
+2713,Politics and Social Anthropology BASS,政治学与社会人类学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08830/bass-politics-and-social-anthropology/
+2713,Politics and Sociology BASS,政治学与社会学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08829/bass-politics-and-sociology/
+2713,Politics and Spanish BA,政治学与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11168/ba-politics-and-spanish/
+2713,Psychology BSc,心理学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00653/bsc-psychology/
+2713,Public Health (on campus) BSc,公共卫生 （在校）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/19642/bsc-public-health-on-campus/
+2713,"Religions, Theology and Ethics BA",宗教、神学与伦理（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17846/ba-religions-theology-and-ethics/
+2713,Russian and Spanish BA,俄语与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00318/ba-russian-and-spanish/
+2713,Russian Studies BA,俄语 研究（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00357/ba-russian-studies/
+2713,Social Anthropology BSocSc,社会人类学（BSocSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00676/bsocsc-social-anthropology/
+2713,Social Anthropology and Criminology BASS,社会人类学与犯罪学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08850/bass-social-anthropology-and-criminology/
+2713,Social Anthropology and Data Analytics BASS,社会人类学与数据分析（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18111/bass-social-anthropology-and-data-analytics/
+2713,Social Anthropology and Philosophy BASS,社会人类学与哲学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08849/bass-social-anthropology-and-philosophy/
+2713,Social Anthropology and Sociology BASS,社会人类学与社会学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08846/bass-social-anthropology-and-sociology/
+2713,Sociology BSocSc,社会学（BSocSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00678/bsocsc-sociology/
+2713,Sociology and Arabic BA,社会学与阿拉伯语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17981/ba-sociology-and-arabic/
+2713,Sociology and Chinese BA,社会学与中文（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17982/ba-sociology-and-chinese/
+2713,Sociology and Criminology BASS,社会学与犯罪学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08848/bass-sociology-and-criminology/
+2713,Sociology and Data Analytics BASS,社会学与数据分析（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18107/bass-sociology-and-data-analytics/
+2713,Sociology and French BA,社会学与法语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17983/ba-sociology-and-french/
+2713,Sociology and German BA,社会学与德语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17984/ba-sociology-and-german/
+2713,Sociology and Italian BA,社会学与意大利语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17985/ba-sociology-and-italian/
+2713,Sociology and Japanese BA,社会学与日语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17986/ba-sociology-and-japanese/
+2713,Sociology and Philosophy BASS,社会学与哲学（BASS）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/08847/bass-sociology-and-philosophy/
+2713,Sociology and Portuguese BA,社会学与葡萄牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17987/ba-sociology-and-portuguese/
+2713,Sociology and Russian BA,社会学与俄语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17988/ba-sociology-and-russian/
+2713,Sociology and Spanish BA,社会学与西班牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/17989/ba-sociology-and-spanish/
+2713,"Spanish, Portuguese and Latin American Studies BA","西班牙语, 葡萄牙语与拉丁语 美国研究（BA）",bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00249/ba-spanish-portuguese-and-latin-american-studies/
+2713,Spanish and Chinese BA,西班牙语与中文（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00071/ba-spanish-and-chinese/
+2713,Spanish and Japanese BA,西班牙语与日语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/06818/ba-spanish-and-japanese/
+2713,Spanish and Portuguese BA,西班牙语与葡萄牙语（BA）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00104/ba-spanish-and-portuguese/
+2713,Speech and Language Therapy BSc,言语与语言治疗（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/11331/bsc-speech-and-language-therapy/
+2713,Zoology BSc,动物学（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00663/bsc-zoology/
+2713,Zoology MSci,动物学（MSci）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/10129/msci-zoology/
+2713,Zoology with a Modern Language BSc,动物学（现代语言）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00665/bsc-zoology-with-a-modern-language/
+2713,Zoology with Entrepreneurship BSc,动物学（创业方向）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/18049/bsc-zoology-with-entrepreneurship/
+2713,Zoology with Industrial/Professional Experience BSc,动物学（含工业/职业实践）（BSc）,bachelor,1,https://www.manchester.ac.uk/study/undergraduate/courses/2026/00664/bsc-zoology-with-industrial-professional-experience/
+2713,Accounting MSc,会计学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10867/msc-accounting/
+2713,Accounting and Finance MSc,会计与金融（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02061/msc-accounting-and-finance/
+2713,Adult Nursing MSc,成人护理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18749/msc-adult-nursing/
+2713,Advanced Chemical Engineering MSc,高级 化学工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07354/msc-advanced-chemical-engineering/
+2713,Advanced Clinical Optometric Practice MSc,高级 临床 视光 实践（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18940/msc-advanced-clinical-optometric-practice/
+2713,Advanced Clinical Practice (Paediatrics) MSc,高级 临床 实践 （儿科）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12526/msc-advanced-clinical-practice-paediatrics/
+2713,Advanced Computer Science MSc,高级 计算机科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/
+2713,Advanced Control and Systems Engineering MSc,高级 控制与系统 工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04166/msc-advanced-control-and-systems-engineering/
+2713,Advanced Control and Systems Engineering with Extended Research MSc,高级 控制与系统 工程（加强研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12729/msc-advanced-control-and-systems-engineering-with-extended-research/
+2713,Advanced Electrical Power Systems Engineering MSc,高级 电气 电力系统工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09718/msc-advanced-electrical-power-systems-engineering/
+2713,Advanced Engineering Materials MSc,先进工程材料（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04169/msc-advanced-engineering-materials/
+2713,Advanced Leadership for Professional Practice (Allied Health Profession) MSc,高级 领导力 专业实践 （相关健康专业）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12762/msc-advanced-leadership-for-professional-practice-allied-health-profession/
+2713,Advanced Leadership for Professional Practice (Nursing) MSc,高级 领导力 专业实践 （护理学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12148/msc-advanced-leadership-for-professional-practice-nursing/
+2713,Advanced Manufacturing Technology & Systems Management MSc,先进制造技术与系统 管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04172/msc-advanced-manufacturing-technology-and-systems-management/
+2713,Advanced Process Integration and Design MSc,高级 过程集成与设计（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09760/msc-advanced-process-integration-and-design/
+2713,Aerospace Engineering MSc,航空航天工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08025/msc-aerospace-engineering/
+2713,Analytical Chemistry and Measurement Science (online) MSc/PGDip/PGCert,分析化学与测量科学 （在线）（MSc/PGDip/PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19383/msc-pgdip-pgcert-analytical-chemistry-and-measurement-science-online/
+2713,Anthropological Research MA,人类学研究（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01086/ma-anthropological-research/
+2713,Applied AI for Medical Imaging MSc,医学影像人工智能应用（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21876/msc-applied-ai-for-medical-imaging/
+2713,Applied Mathematics MSc,应用 数学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09128/msc-applied-mathematics/
+2713,Approaches to Mental Health Theory CPD,心理健康理论方法（CPD）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09979/approaches-to-mental-health-theory-cpd/
+2713,Approved Mental Health Professional Practice PGCert,认可精神健康专业人员（AMHP） 实践（PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09977/pgcert-approved-mental-health-professional-practice/
+2713,Architecture MArch,建筑学（MArch）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09342/march-architecture/
+2713,Architecture and Adaptive Reuse MA,建筑学与适应性再利用（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20076/ma-architecture-and-adaptive-reuse/
+2713,Architecture and Urbanism MA,建筑学与城市主义（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07785/ma-architecture-and-urbanism/
+2713,Art Gallery and Museum Studies MA,美术馆与博物馆学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01100/ma-art-gallery-and-museum-studies/
+2713,Artificial Intelligence MSc,人工智能（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21574/msc-artificial-intelligence/
+2713,"Arts, Culture and the Environment MA",艺术、文化与环境（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21532/ma-arts-culture-and-the-environment/
+2713,"Arts Management, Policy and Practice MA","艺术 管理学, 政策与实践（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/08035/ma-arts-management-policy-and-practice/
+2713,Audiology MSc,听力学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21448/msc-audiology/
+2713,Audiology Short Courses,听力学 短期课程,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09771/audiology-short-courses/
+2713,Best Interest Assessor,利益评估员（BIA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21841/best-interest-assessor/
+2713,Biochemistry MSc,生物化学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08171/msc-biochemistry/
+2713,Bioinformatics and Systems Biology MSc,生物信息学与系统生物学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08854/msc-bioinformatics-and-systems-biology/
+2713,Biological Sciences MSc,生物科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02036/msc-biological-sciences/
+2713,Biomaterials MSc,生物材料（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08839/msc-biomaterials/
+2713,Biotechnology and Enterprise MSc,生物技术与创业方向（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07778/msc-biotechnology-and-enterprise/
+2713,Business Analysis and Strategic Management MSc,商业分析与战略管理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09839/msc-business-analysis-and-strategic-management/
+2713,Business Analytics: Operational Research and Risk Analysis MSc,商业分析：运筹学与风险分析（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09454/msc-business-analytics-operational-research-and-risk-analysis/
+2713,Business Psychology MSc,商科 心理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09994/msc-business-psychology/
+2713,Cancer Research and Molecular Biomedicine MSc,肿瘤研究与分子生物医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08861/msc-cancer-research-and-molecular-biomedicine/
+2713,Cardiovascular Health and Disease (Research) MSc,心血管健康与疾病 （研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19771/msc-cardiovascular-health-and-disease-research/
+2713,Cell Biology MSc,细胞生物学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08168/msc-cell-biology/
+2713,Chemistry MSc,化学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08492/msc-chemistry/
+2713,Classics and Ancient History MA,古典学与古代 历史学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07915/ma-classics-and-ancient-history/
+2713,"Climate Change: Science, Society and Solutions MSc","气候变化：科学, 社会与解决方案（MSc）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/20311/msc-climate-change-science-society-and-solutions/
+2713,Clinical and Health Psychology MSc,临床与健康 心理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08070/msc-clinical-and-health-psychology/
+2713,Clinical Biochemistry MSc,临床生物化学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02113/msc-clinical-biochemistry/
+2713,Clinical Biochemistry CPD PG Credit,临床生物化学 CPD 研究生学分,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11072/pg-credit-clinical-biochemistry-cpd/
+2713,Clinical Data Science PGCert,临床 数据科学（PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20306/pgcert-clinical-data-science/
+2713,Clinical Dentistry (Paediatric Dentistry) MSc,临床 牙科 （儿童牙科）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11762/msc-clinical-dentistry-paediatric-dentistry/
+2713,Clinical Immunology MSc,临床免疫学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09859/msc-clinical-immunology/
+2713,Clinical Research MClin Res,临床研究（MClin Res）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08175/mclin-res-clinical-research/
+2713,Cognitive Neuroscience and Neuropsychology MRes,认知神经科学与神经心理学（MRes）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18907/mres-cognitive-neuroscience-and-neuropsychology/
+2713,Commercial Project Management MSc,商业 项目管理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04201/msc-commercial-project-management/
+2713,Communications and Signal Processing MSc,通信与信号处理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12034/msc-communications-and-signal-processing/
+2713,Communications and Signal Processing with Extended Research MSc,通信与信号处理（加强研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12727/msc-communications-and-signal-processing-with-extended-research/
+2713,Composition (Electroacoustic Music and Interactive Media) MusM,作曲 （电子声学音乐与互动媒体）（MusM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10164/musm-composition-electroacoustic-music-and-interactive-media/
+2713,Composition (Instrumental and Vocal music) MusM,作曲 （器乐与声乐）（MusM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10163/musm-composition-instrumental-and-vocal-music/
+2713,Computational and Corpus Linguistics MSc,计算与语料库语言学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21198/msc-computational-and-corpus-linguistics/
+2713,Computer-Aided Drug Discovery for Cancer Therapeutics MSc,计算机辅助 药物发现 肿瘤治疗（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21890/msc-computer-aided-drug-discovery-for-cancer-therapeutics/
+2713,Construction Project Management MSc,建筑 项目管理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04218/msc-construction-project-management/
+2713,Corporate Governance LLM,公司治理（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/05861/llm-corporate-governance/
+2713,CPD Occupational Hygiene,CPD 职业卫生,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19639/cpd-occupational-hygiene/
+2713,Creative and Cultural Industries MA,创意与文化产业（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20176/ma-creative-and-cultural-industries/
+2713,Creative Writing MA,创意写作（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01125/ma-creative-writing/
+2713,Criminology MA,犯罪学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09778/ma-criminology/
+2713,Criminology MRes,犯罪学（MRes）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09782/mres-criminology/
+2713,Cyber Security MSc,网络安全（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21575/msc-cyber-security/
+2713,Data Analytics and Social Statistics (online) MSc,数据分析与社会 统计学 （在线）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20191/msc-data-analytics-and-social-statistics-online/
+2713,Data Science (Business and Management) MSc,数据科学 （商科与管理学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11426/msc-data-science-business-and-management/
+2713,Data Science (Computer Science Data Informatics) MSc,数据科学 （计算机科学 数据信息学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11552/msc-data-science-computer-science-data-informatics/
+2713,Data Science (Earth and Environmental Analytics) MSc,数据科学 （地球与环境 分析）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18096/msc-data-science-earth-and-environmental-analytics/
+2713,Data Science (Mathematics) MSc,数据科学 （数学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11428/msc-data-science-mathematics/
+2713,Data Science (Social Analytics) MSc,数据科学 （社会 分析）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11424/msc-data-science-social-analytics/
+2713,Data Science (Urban Analytics) MSc,数据科学 （城市分析）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11425/msc-data-science-urban-analytics/
+2713,Deaf Education MSc/PGDip,聋人教育（MSc/PGDip）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11972/msc-pgdip-deaf-education/
+2713,Deaf Education (International Pathway) PGCert,聋人教育 （国际 方向）（PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19732/pgcert-deaf-education-international-pathway/
+2713,Developmental Biology and Stem Cells (Research) MSc,发育生物学与干细胞 （研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21620/msc-developmental-biology-and-stem-cells-research/
+2713,Development Economics and Policy MSc,发展 经济学与政策（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06012/msc-development-economics-and-policy/
+2713,Development Finance MSc,发展 金融学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06537/msc-development-finance/
+2713,Digital Development MSc,数字化 发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19200/msc-digital-development/
+2713,Digital Marketing MSc,数字营销（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20294/msc-digital-marketing/
+2713,"Digital Media, Culture and Society MA","数字化 媒体, 文化与社会（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/20641/ma-digital-media-culture-and-society/
+2713,"Digital Technologies, Communication and Education MA","数字技术, 传播与教育学（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/07022/ma-digital-technologies-communication-and-education/
+2713,Digital Transformation MSc,数字化转型（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21605/msc-digital-transformation/
+2713,Economics MA,经济学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08084/ma-economics/
+2713,Economics MSc,经济学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01380/msc-economics/
+2713,Economics and Data Science MSc,经济学与数据科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21299/msc-economics-and-data-science/
+2713,Educational Leadership MA,教育领导力（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08289/ma-educational-leadership/
+2713,Educational Leadership in Practice MA,教育领导力 实践（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12465/ma-educational-leadership-in-practice/
+2713,Education for a Sustainable Environment MA,可持续环境教育（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20017/ma-education-for-a-sustainable-environment/
+2713,Egyptology MA,埃及学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12560/ma-egyptology/
+2713,Electrical Power Systems Engineering MSc,电气 电力系统工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07875/msc-electrical-power-systems-engineering/
+2713,Endodontics MSc (Clin),牙髓病学（MSc (Clin)）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07772/msc-clin-endodontics/
+2713,Endodontics (Dental Specialties) MSc,牙髓病学 （牙科专科）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02147/msc-endodontics-dental-specialties/
+2713,Engineering Project Management MSc,工程项目管理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04259/msc-engineering-project-management/
+2713,Engineers Teach Physics,工程师教物理,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20249/engineers-teach-physics/
+2713,English Literature and American Studies MA,英国文学与美国研究（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11541/ma-english-literature-and-american-studies/
+2713,Environmental Governance MSc,环境 治理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06967/msc-environmental-governance/
+2713,Environmental Impact Assessment & Management MSc,环境影响评估与管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09424/msc-environmental-impact-assessment-and-management/
+2713,"Environmental Monitoring, Modelling and Reconstruction MSc",环境监测、建模与重构（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02180/msc-environmental-monitoring-modelling-and-reconstruction/
+2713,Experimental Psychology with Data Science MRes,实验心理学（数据科学）（MRes）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18906/mres-experimental-psychology-with-data-science/
+2713,Film Studies MA,电影研究（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10153/ma-film-studies/
+2713,Finance MSc,金融学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01383/msc-finance/
+2713,Financial Crime and Compliance in Digital Societies (top-up) (blended learning) MSc,金融犯罪与合规 数字社会 （升本衔接） （混合式学习）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18646/msc-financial-crime-and-compliance-in-digital-societies-top-up-blended-learning/
+2713,Financial Economics MSc,财务与金融 经济学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07946/msc-financial-economics/
+2713,Financial Management MSc,财务与金融 管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21681/msc-financial-management/
+2713,Fixed and Removable Prosthodontics MSc (Clin),固定与可摘修复学（MSc (Clin)）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07770/msc-clin-fixed-and-removable-prosthodontics/
+2713,Fixed and Removable Prosthodontics (Dental Specialties) MSc,固定与可摘修复学 （牙科专科）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02149/msc-fixed-and-removable-prosthodontics-dental-specialties/
+2713,Forensic Psychology and Mental Health MSc,法医心理学与心理健康（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09847/msc-forensic-psychology-and-mental-health/
+2713,"Gender, Sexuality and Culture MA/PGDip",性别、性与文化（MA/PGDip）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01167/ma-pgdip-gender-sexuality-and-culture/
+2713,Genomic Medicine MSc,基因组医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10140/msc-genomic-medicine/
+2713,Genomic Medicine CPD PG Credit,基因组医学 CPD 研究生学分,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10210/pg-credit-genomic-medicine-cpd/
+2713,Geographical Information Science MSc,地理信息科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07053/msc-geographical-information-science/
+2713,Geoscience for Sustainable Energy MSc,地球科学 可持续 能源（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19005/msc-geoscience-for-sustainable-energy/
+2713,Global Development MSc,全球发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20470/msc-global-development/
+2713,Global Development (Development Management) MSc,全球发展 （发展 管理学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20472/msc-global-development-development-management/
+2713,Global Development (Environment and Climate Change) MSc,全球发展 （环境与气候变化）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20488/msc-global-development-environment-and-climate-change/
+2713,"Global Development (Globalisation, Trade & Industry) MSc","全球发展 （全球化, 贸易与产业）（MSc）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/20490/msc-global-development-globalisation-trade-and-industry/
+2713,"Global Development (Migration, Mobility & Displacement) MSc",全球发展 （移民、流动与流离失所）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20492/msc-global-development-migration-mobility-and-displacement/
+2713,"Global Development (Politics, Governance and Development Policy) MSc","全球发展 （政治学, 治理与发展 政策）（MSc）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/20494/msc-global-development-politics-governance-and-development-policy/
+2713,Global Development (Poverty and Inequality) MSc,全球发展 （贫困与不平等）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20496/msc-global-development-poverty-and-inequality/
+2713,Global Executive MBA MBA,全球高管MBA（EMBA）（MBA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19377/mba-global-executive-mba/
+2713,Global Health MSc,全球健康（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12666/msc-global-health/
+2713,Global Health (Disaster Management) MSc,全球健康 （灾害管理）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21349/msc-global-health-disaster-management/
+2713,Global Health (Emergency Medical Response) MSc,全球健康 （紧急医疗救援）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21347/msc-global-health-emergency-medical-response/
+2713,Global Health (Humanitarian Response) MSc,全球健康 （人道主义响应）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21351/msc-global-health-humanitarian-response/
+2713,Global Heritage Management MA,全球遗产管理（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21805/ma-global-heritage-management/
+2713,Global Urban Development and Planning MSc,全球 城市 发展与规划（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08212/msc-global-urban-development-and-planning/
+2713,"Governance, Politics and Policy MA","治理, 政治学与政策（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/21884/ma-governance-politics-and-policy/
+2713,"Governance, Politics and Policy (Research) MA","治理, 政治学与政策 （研究）（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/21888/ma-governance-politics-and-policy-research/
+2713,Green Infrastructure MSc,绿色基础设施（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18589/msc-green-infrastructure/
+2713,Health and Social Care MRes/PGDip/PGCert,健康与社会照护（MRes/PGDip/PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08181/mres-pgdip-pgcert-health-and-social-care/
+2713,Healthcare Ethics and Law (online) MA,医疗健康 伦理与法学 （在线）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01203/ma-healthcare-ethics-and-law-online/
+2713,Health Data Science MSc,健康 数据科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10076/msc-health-data-science/
+2713,Health Informatics (UCL/UoM Joint Award) MSc/PGDip/PGCert,健康信息学 （UCL/曼大联合学位）（MSc/PGDip/PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12478/msc-pgdip-pgcert-health-informatics-ucl-uom-joint-award/
+2713,Health Psychology MSc,健康 心理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10060/msc-health-psychology/
+2713,History MA,历史学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01197/ma-history/
+2713,"History of Science, Technology and Medicine MA","历史学 科学, 技术与医学（MA）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/21319/ma-history-of-science-technology-and-medicine/
+2713,Humanitarianism and Conflict Response MA,人道主义与冲突应对（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08264/ma-humanitarianism-and-conflict-response/
+2713,Humanitarian Practice MSc/PGDip/PGCert,人道主义实践（MSc/PGDip/PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11956/msc-pgdip-pgcert-humanitarian-practice/
+2713,Human Resource Development (International Development) MSc,人力资源发展 （国际发展）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07862/msc-human-resource-development-international-development/
+2713,Human Resource Management (International Development) MSc,人力资源管理 （国际发展）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07866/msc-human-resource-management-international-development/
+2713,Human Resource Management and Industrial Relations MSc,人力资源管理与劳动关系（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02222/msc-human-resource-management-and-industrial-relations/
+2713,Human Rights - Law/Political Science Pathway (Research Route) MA,人权 - 法学/政治学 方向 （研究路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06158/ma-human-rights-law-political-science-pathway-research-route/
+2713,Human Rights - Law/Political Science Pathway (Standard Route) MA,人权 - 法学/政治学 方向 （标准路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06160/ma-human-rights-law-political-science-pathway-standard-route/
+2713,Human Rights - Political Science (Research Route) MA,人权 - 政治学 （研究路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06159/ma-human-rights-political-science-research-route/
+2713,Human Rights - Political Science (Standard Route) MA,人权 - 政治学 （标准路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01362/ma-human-rights-political-science-standard-route/
+2713,Immunology MSc,免疫学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21758/msc-immunology/
+2713,Implementation Strategy in Dental Services (CPD),牙科服务实施战略（CPD）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08284/implementation-strategy-in-dental-services-cpd/
+2713,Independent Prescribing (Short Course),独立处方（Short Course）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09815/independent-prescribing-short-course/
+2713,Infection Biology MSc,感染生物学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18915/msc-infection-biology/
+2713,Injectables in Aesthetic Medicine (BCDG),医学美容注射（BCDG）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19207/injectables-in-aesthetic-medicine-bcdg/
+2713,Innovation Management and Entrepreneurship MSc,创新 管理学与创业（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08199/msc-innovation-management-and-entrepreneurship/
+2713,Intellectual Property Law LLM,知识产权法（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01061/llm-intellectual-property-law/
+2713,Intercultural Communication MA,跨文化传播（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08815/ma-intercultural-communication/
+2713,International Business and Commercial Law LLM,国际商务与商业 法学（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07991/llm-international-business-and-commercial-law/
+2713,International Business and Management MSc,国际商务与管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12805/msc-international-business-and-management/
+2713,International Commercial and Technology Law (online) LLM,国际 商业与技术 法学 （在线）（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20501/llm-international-commercial-and-technology-law-online/
+2713,International Development: Public Policy and Management MSc,国际发展：公共 政策与管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01211/msc-international-development-public-policy-and-management/
+2713,International Disaster Management MSc,国际 灾害管理（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09910/msc-international-disaster-management/
+2713,International Disaster Management and Humanitarian Response - January Intake MSc,国际灾害管理与人道主义响应 - 1月入学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18347/msc-international-disaster-management-and-humanitarian-response-january-intake/
+2713,International Disaster Management and Humanitarian Response - September Intake MSc,国际灾害管理与人道主义响应 - 9月入学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18346/msc-international-disaster-management-and-humanitarian-response-september-intake/
+2713,International Economic Law LLM,国际 经济 法学（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18222/llm-international-economic-law/
+2713,International Education MA,国际 教育学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13005/ma-international-education/
+2713,International Education (Curriculum and Pedagogy) MA,国际 教育学 （课程与教学法）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21191/ma-international-education-curriculum-and-pedagogy/
+2713,"International Education (Equity, Diversity and Inclusion) MA",国际 教育学 （公平、多元与包容）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13007/ma-international-education-equity-diversity-and-inclusion/
+2713,International Education (Higher Education) MA,国际 教育学 （高等教育）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13008/ma-international-education-higher-education/
+2713,International Education (TESOL) MA,国际 教育学 （对外英语教学）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13009/ma-international-education-tesol/
+2713,International Fashion Marketing MSc,国际 时尚 市场营销（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09907/msc-international-fashion-marketing/
+2713,International Fashion Retailing MSc,国际 时尚 零售（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04317/msc-international-fashion-retailing/
+2713,International Fashion Retailing (Entrepreneurship and Innovation) MSc,国际 时尚 零售 （创业与创新）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18728/msc-international-fashion-retailing-entrepreneurship-and-innovation/
+2713,International Financial Law LLM,国际 财务与金融 法学（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01060/llm-international-financial-law/
+2713,International Human Resource Management and Comparative Industrial Relations MSc,国际 人力资源管理与比较 劳动关系（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07065/msc-international-human-resource-management-and-comparative-industrial-relations/
+2713,International Political Economy (Research) MA,国际 政治经济学 （研究）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10877/ma-international-political-economy-research/
+2713,International Political Economy (Standard) MA,国际 政治经济学 （标准）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10876/ma-international-political-economy-standard/
+2713,International Relations (Research) MA,国际关系 （研究）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10873/ma-international-relations-research/
+2713,International Relations (Standard) MA,国际关系 （标准）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10872/ma-international-relations-standard/
+2713,Investigative Ophthalmology and Vision Science MSc,研究型眼科学与视觉科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08335/msc-investigative-ophthalmology-and-vision-science/
+2713,Law LLM,法学（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08446/llm-law/
+2713,Library and Archive Studies MA,图书馆与档案学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20436/ma-library-and-archive-studies/
+2713,Linguistics MA,语言学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01233/ma-linguistics/
+2713,Machine Learning MSc,机器学习（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21576/msc-machine-learning/
+2713,Management MRes,管理学（MRes）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02059/mres-management/
+2713,Management MSc,管理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08633/msc-management/
+2713,Management and Implementation of Development Projects MSc,管理学与实施 发展 项目（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02242/msc-management-and-implementation-of-development-projects/
+2713,Management and Information Systems: Change and Development MSc,管理学与信息系统：变革与发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01388/msc-management-and-information-systems-change-and-development/
+2713,Management and Information Systems: Change and Development (Distance Learning) MSc,管理学与信息系统：变革与发展 （远程 学习）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08003/msc-management-and-information-systems-change-and-development-distance-learning/
+2713,Management of Projects MSc,管理学 项目（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04332/msc-management-of-projects/
+2713,Manchester Global MBA MBA,曼彻斯特 全球 MBA（MBA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08504/mba-manchester-global-mba/
+2713,Marketing MSc,市场营销（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02247/msc-marketing/
+2713,Master of Landscape Architecture MLA,景观建筑学硕士（MLA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19210/mla-master-of-landscape-architecture/
+2713,Master of Leadership for Development (online) Master's,发展领导力硕士 （在线）（MLD）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/17857/masters-master-of-leadership-for-development-online/
+2713,Master of Public Health (on campus) MPH,公共卫生硕士 （在校）（MPH）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21021/mph-master-of-public-health-on-campus/
+2713,Materials Engineering for Sustainability in Demanding Environments MSc,材料工程 可持续发展 苛刻环境（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21734/msc-materials-engineering-for-sustainability-in-demanding-environments/
+2713,Mathematical Finance MSc,数学 金融学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02250/msc-mathematical-finance/
+2713,Mechanical Engineering Design MSc,机械工程 设计（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04342/msc-mechanical-engineering-design/
+2713,Medical and Health Education PGCert,医学与健康 教育学（PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13030/pgcert-medical-and-health-education/
+2713,Medical and Molecular Virology MSc,医学与分子病毒学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18112/msc-medical-and-molecular-virology/
+2713,Medical Microbiology MSc,医学 微生物学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08939/msc-medical-microbiology/
+2713,Medical Physics in Cancer Radiation Therapy MSc,医学 物理学 肿瘤学 放射治疗（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21394/msc-medical-physics-in-cancer-radiation-therapy/
+2713,Mental Health and Wellbeing in Education MSc,心理健康与福祉与身心健康 教育学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21795/msc-mental-health-and-wellbeing-in-education/
+2713,Model-based Drug Development,基于模型的药物开发,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18317/model-based-drug-development/
+2713,Model-based Drug Development - Pharmacokinetic and Pharmacodynamic Modelling MSc,基于模型的药物开发 - 药代动力学与药效动力学 建模（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08749/msc-model-based-drug-development-pharmacokinetic-and-pharmacodynamic-modelling/
+2713,Modern and Contemporary Literature MA,现代与当代文学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11543/ma-modern-and-contemporary-literature/
+2713,Modern Languages and Cultures MA,现代 语言与文化（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11966/ma-modern-languages-and-cultures/
+2713,Molecular Pathology of Cancer MSc,分子病理学 肿瘤学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21321/msc-molecular-pathology-of-cancer/
+2713,Music (Ethnomusicology) MusM,音乐 （民族音乐学）（MusM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10159/musm-music-ethnomusicology/
+2713,Music (Musicology) MusM,音乐 （音乐学）（MusM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10158/musm-music-musicology/
+2713,Music (Performance Studies) MusM,音乐 （表演研究）（MusM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20871/musm-music-performance-studies/
+2713,Nanomaterials MSc,纳米材料（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11998/msc-nanomaterials/
+2713,Nanomedicine MSc,纳米医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21719/msc-nanomedicine/
+2713,"Nature Recovery, Restoration and Rewilding MSc",自然恢复、生态修复与再野化（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21491/msc-nature-recovery-restoration-and-rewilding/
+2713,Neuroimaging for Clinical & Cognitive Neuroscience MSc,神经影像学 临床与认知神经科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09754/msc-neuroimaging-for-clinical-and-cognitive-neuroscience/
+2713,Neuroscience MSc,神经科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08173/msc-neuroscience/
+2713,Nuclear Science and Technology MSc,核科学与技术（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02275/msc-nuclear-science-and-technology/
+2713,Occupational Health PPD,职业健康（PPD）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21312/occupational-health-ppd/
+2713,Occupational Hygiene MSc,职业卫生（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07884/msc-occupational-hygiene/
+2713,Occupational Medicine,职业 医学,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08020/occupational-medicine/
+2713,Occupational Medicine MSc,职业 医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07886/msc-occupational-medicine/
+2713,Oncology Research MSc,肿瘤学 研究（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21322/msc-oncology-research/
+2713,"Operations, Project and Supply Chain Management MSc","运营, 项目与供应链管理（MSc）",master,1,https://www.manchester.ac.uk/study/masters/courses/list/07783/msc-operations-project-and-supply-chain-management/
+2713,Optometry and Ophthalmology CPD units,视光学与眼科学 CPD单元（CPD）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08607/optometry-and-ophthalmology-cpd-units/
+2713,Oral and Maxillofacial Surgery MSc (Clin),口腔颌面外科（MSc (Clin)）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07776/msc-clin-oral-and-maxillofacial-surgery/
+2713,Oral and Maxillofacial Surgery (Dental Specialties) MSc/PGDip,口腔颌面外科 （牙科专科）（MSc/PGDip）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02152/msc-pgdip-oral-and-maxillofacial-surgery-dental-specialties/
+2713,Organisational Change and Development MSc,组织变革与发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02303/msc-organisational-change-and-development/
+2713,Organisational Psychology MSc,组织 心理学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02302/msc-organisational-psychology/
+2713,Orthodontics MSc (Clin),正畸学（MSc (Clin)）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07773/msc-clin-orthodontics/
+2713,Peace and Conflict Studies MA,和平与冲突研究（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09784/ma-peace-and-conflict-studies/
+2713,Periodontology MSc (Clin),牙周病学（MSc (Clin)）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08444/msc-clin-periodontology/
+2713,Personal Professional Development (Public Health and Primary Care),个人职业发展 （公共卫生与基层医疗）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/03229/personal-professional-development-public-health-and-primary-care/
+2713,Petroleum Geoscience MSc,石油地球科学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19721/msc-petroleum-geoscience/
+2713,PGCE Primary,小学教育（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02846/pgce-primary/
+2713,PGCE Primary 5-11 with Lead Programme Partners,小学教育 5-11（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09289/pgce-primary-5-11-with-lead-programme-partners/
+2713,PGCE Secondary Biology,中学教育 生物学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11519/pgce-secondary-biology/
+2713,PGCE Secondary Business Education,中学教育 商科 教育学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11518/pgce-secondary-business-education/
+2713,PGCE Secondary Business Education (14-19) with Lead Programme Partners,中学教育 商科 教育学 （14-19）（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09322/pgce-secondary-business-education-14-19-with-lead-programme-partners/
+2713,PGCE Secondary Chemistry,中学教育 化学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11520/pgce-secondary-chemistry/
+2713,PGCE Secondary Economics and Business Education,中学教育 经济学与商科 教育学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11528/pgce-secondary-economics-and-business-education/
+2713,PGCE Secondary Economics and Business Education (14-19) with Lead Programme Partners,中学教育 经济学与商科 教育学 （14-19）（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/17843/pgce-secondary-economics-and-business-education-14-19-with-lead-programme-partners/
+2713,PGCE Secondary English,中学教育 英语（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11521/pgce-secondary-english/
+2713,PGCE Secondary English with Lead Programme Partners,中学教育 英语（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09324/pgce-secondary-english-with-lead-programme-partners/
+2713,PGCE Secondary French,中学教育 法语（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11522/pgce-secondary-french/
+2713,PGCE Secondary French with Lead Programme Partners,中学教育 法语（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09326/pgce-secondary-french-with-lead-programme-partners/
+2713,PGCE Secondary Geography,中学教育 地理学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11649/pgce-secondary-geography/
+2713,PGCE Secondary Geography with Lead Programme Partners,中学教育 地理学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09803/pgce-secondary-geography-with-lead-programme-partners/
+2713,PGCE Secondary German,中学教育 德语（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11523/pgce-secondary-german/
+2713,PGCE Secondary German with Lead Programme Partners,中学教育 德语（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09327/pgce-secondary-german-with-lead-programme-partners/
+2713,PGCE Secondary History,中学教育 历史学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11650/pgce-secondary-history/
+2713,PGCE Secondary History with Lead Programme Partners,中学教育 历史学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09799/pgce-secondary-history-with-lead-programme-partners/
+2713,PGCE Secondary Mathematics,中学教育 数学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11524/pgce-secondary-mathematics/
+2713,PGCE Secondary Mathematics with Economics,中学教育 数学（经济学）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18844/pgce-secondary-mathematics-with-economics/
+2713,PGCE Secondary Mathematics with Lead Programme Partners,中学教育 数学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09325/pgce-secondary-mathematics-with-lead-programme-partners/
+2713,PGCE Secondary Physics,中学教育 物理学（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11526/pgce-secondary-physics/
+2713,PGCE Secondary Physics with Maths,中学教育 物理学（数学）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11525/pgce-secondary-physics-with-maths/
+2713,PGCE Secondary Science: Biology with Lead Programme Partners,中学教育 科学：生物学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09319/pgce-secondary-science-biology-with-lead-programme-partners/
+2713,PGCE Secondary Science: Chemistry with Lead Programme Partners,中学教育 科学：化学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09320/pgce-secondary-science-chemistry-with-lead-programme-partners/
+2713,PGCE Secondary Science: Physics with Lead Programme Partners,中学教育 科学：物理学（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09321/pgce-secondary-science-physics-with-lead-programme-partners/
+2713,PGCE Secondary Spanish,中学教育 西班牙语（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11527/pgce-secondary-spanish/
+2713,PGCE Secondary Spanish with Lead Programme Partners,中学教育 西班牙语（合作培养）（PGCE）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09328/pgce-secondary-spanish-with-lead-programme-partners/
+2713,Pharmaceutical Technology and Quality Assurance MSc,制药技术与质量保证（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09912/msc-pharmaceutical-technology-and-quality-assurance/
+2713,Philosophy MA,哲学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10048/ma-philosophy/
+2713,Physician Associate Studies MSc,医师助理研究（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21593/msc-physician-associate-studies/
+2713,Planning MSc,规划（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09421/msc-planning/
+2713,Playwriting MA,剧作（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12563/ma-playwriting/
+2713,Political Economy (Research Route) MA,政治经济学 （研究路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07048/ma-political-economy-research-route/
+2713,Political Economy (Standard Route) MA,政治经济学 （标准路径）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06969/ma-political-economy-standard-route/
+2713,Politics MA,政治学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01177/ma-politics/
+2713,Politics (Research) MA,政治学 （研究）（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21881/ma-politics-research/
+2713,Pollution and Environmental Control MSc,污染与环境 控制（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02325/msc-pollution-and-environmental-control/
+2713,Pollution and Environmental Control (online) MSc,污染与环境 控制 （在线）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21020/msc-pollution-and-environmental-control-online/
+2713,Polymer Materials Science and Engineering MSc,高分子材料 材料科学与工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04380/msc-polymer-materials-science-and-engineering/
+2713,Precision Medicine MSc,精准医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/13018/msc-precision-medicine/
+2713,Primary Mental Health Care PGCert,小学教育 心理健康 照护（PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08259/pgcert-primary-mental-health-care/
+2713,Psychology of Education MEd,教育心理学（MEd）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01527/med-psychology-of-education/
+2713,Public Health MRes,公共卫生（MRes）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/05995/mres-public-health/
+2713,Public Health (Online) MPH,公共卫生 （在线）（MPH）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/06002/mph-public-health-online/
+2713,Public International Law LLM,公共 国际 法学（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09644/llm-public-international-law/
+2713,Pure Mathematics MSc,纯 数学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12519/msc-pure-mathematics/
+2713,Pure Mathematics and Mathematical Logic MSc,纯 数学与数理逻辑（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09110/msc-pure-mathematics-and-mathematical-logic/
+2713,Quantitative Finance MSc,定量金融（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10251/msc-quantitative-finance/
+2713,Real Estate (online) MSc,房地产 （在线）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10005/msc-real-estate-online/
+2713,Real Estate Development MSc,房地产 发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09632/msc-real-estate-development/
+2713,Real Estate Finance and Investment MSc,房地产 金融学与投资（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21405/msc-real-estate-finance-and-investment/
+2713,Renewable Energy and Clean Technology MSc,可再生 能源与清洁技术（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09009/msc-renewable-energy-and-clean-technology/
+2713,Renewable Energy and Clean Technology with Extended Research MSc,可再生 能源与清洁技术（加强研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12728/msc-renewable-energy-and-clean-technology-with-extended-research/
+2713,Reproduction and Pregnancy (Research) MSc,生殖与妊娠 （研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21621/msc-reproduction-and-pregnancy-research/
+2713,Research Methods with Education MSc,研究 方法（教育学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11841/msc-research-methods-with-education/
+2713,Research Methods with Human Geography MSc,研究 方法（人类 地理学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11843/msc-research-methods-with-human-geography/
+2713,Research Methods with International Development MSc,研究 方法（国际发展）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11845/msc-research-methods-with-international-development/
+2713,Research Methods with Planning and Environmental Management MSc,研究 方法（规划，环境管理）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/11847/msc-research-methods-with-planning-and-environmental-management/
+2713,Robotics MSc,机器人（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20967/msc-robotics/
+2713,Robotics with Extended Research MSc,机器人（加强研究）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21031/msc-robotics-with-extended-research/
+2713,Science and Health Communication MSc,科学与健康 传播（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18658/msc-science-and-health-communication/
+2713,Screenwriting MA,编剧（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09832/ma-screenwriting/
+2713,Security and International Law LLM,安全与国际法（LLM）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09658/llm-security-and-international-law/
+2713,Skin Ageing and Aesthetic Medicine MSc,皮肤老化与医学美容（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09805/msc-skin-ageing-and-aesthetic-medicine/
+2713,Social Anthropology MA,社会人类学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01311/ma-social-anthropology/
+2713,Social Network Analysis MSc,社会网络分析（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18274/msc-social-network-analysis/
+2713,Social Research Methods and Statistics MSc,社会 研究 方法与统计学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07982/msc-social-research-methods-and-statistics/
+2713,Social Research Methods and Statistics with Computational Social Science MSc,社会 研究 方法与统计学（计算社会科学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21638/msc-social-research-methods-and-statistics-with-computational-social-science/
+2713,Social Research Methods and Statistics with Demography MSc,社会 研究 方法与统计学（人口学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21639/msc-social-research-methods-and-statistics-with-demography/
+2713,Social Work MA,社会工作（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01315/ma-social-work/
+2713,Sociological Research MSc,社会学 研究（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02356/msc-sociological-research/
+2713,Sociology MA,社会学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01317/ma-sociology/
+2713,Specialist Practice (Cancer) MSc,专科实践 （肿瘤学）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10985/msc-specialist-practice-cancer/
+2713,Statistics MSc,统计学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/02362/msc-statistics/
+2713,Structural Engineering MSc,结构工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04410/msc-structural-engineering/
+2713,Subsurface Energy Engineering MSc,地下能源工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/12561/msc-subsurface-energy-engineering/
+2713,Sustainable Business MSc,可持续 商科（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21277/msc-sustainable-business/
+2713,Sustainable Electrical Power Systems Engineering (online) MSc/PGDip/PGCert,可持续 电气 电力系统工程 （在线）（MSc/PGDip/PGCert）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20892/msc-pgdip-pgcert-sustainable-electrical-power-systems-engineering-online/
+2713,TESOL MA,对外英语教学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/01367/ma-tesol/
+2713,Textile Technology (Technical Textiles) MSc,纺织 技术 （产业用纺织品）（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/08611/msc-textile-technology-technical-textiles/
+2713,Thermal Power & Fluid Engineering MSc,热能动力与流体工程（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/04435/msc-thermal-power-and-fluid-engineering/
+2713,Tissue Engineering for Regenerative Medicine MSc,组织工程 再生医学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/18797/msc-tissue-engineering-for-regenerative-medicine/
+2713,Transformative Oncology MSc,转化肿瘤学（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/19218/msc-transformative-oncology/
+2713,Translation and Interpreting Studies MA,翻译与口译研究（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/07006/ma-translation-and-interpreting-studies/
+2713,Transport and Urban Planning MSc,交通与城市规划（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/21554/msc-transport-and-urban-planning/
+2713,Urban Design and International Planning MSc,城市设计与国际 规划（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09915/msc-urban-design-and-international-planning/
+2713,Urban Regeneration and Development MSc,城市更新与发展（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/09505/msc-urban-regeneration-and-development/
+2713,Urban Studies MSc,城市 研究（MSc）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/20299/msc-urban-studies/
+2713,Visual Anthropology MA,视觉人类学（MA）,master,1,https://www.manchester.ac.uk/study/masters/courses/list/10029/ma-visual-anthropology/

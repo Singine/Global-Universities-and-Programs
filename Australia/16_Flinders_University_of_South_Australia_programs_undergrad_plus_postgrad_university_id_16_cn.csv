@@ -1,0 +1,190 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+16,Bachelor of Accounting,会计学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-accounting
+16,Bachelor of Allied Health (Occupational Therapy),联合健康学士（职业治疗）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-allied-health-occupational-therapy
+16,Bachelor of Allied Health (Physiotherapy),联合健康学士（物理治疗）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-allied-health-physiotherapy
+16,Bachelor of Allied Health (Speech Pathology),联合健康学士（言语病理学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-allied-health-speech-pathology
+16,Bachelor of Archaeology,考古学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-archaeology
+16,Bachelor of Archaeology (Honours) 1 year,考古学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-archaeology
+16,Bachelor of Arts,文学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-arts
+16,Bachelor of Arts (Honours) 1 year,文学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-arts
+16,Bachelor of Arts and Science,文理学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-arts-science
+16,Bachelor of Business,商学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business
+16,Bachelor of Business (Honours) 1 year,商学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-business
+16,Bachelor of Business (Online),商学学士（在线）,bachelor,1,https://www.flinders.edu.au/online/courses/bachelor-business
+16,Bachelor of Business Analytics,商业分析学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business-analytics
+16,Bachelor of Business majoring in Event Management and Tourism,商学学士（主修：活动管理与旅游）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/event-management-tourism
+16,Bachelor of Business majoring in Human Resource Management,商学学士（主修：人力资源管理）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/human-resource-management
+16,Bachelor of Business majoring in International Business,商学学士（主修：国际商务）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/international-business
+16,Bachelor of Business majoring in Leading Change,商学学士（主修：Leading 变革）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/leading-change
+16,Bachelor of Business majoring in Management,商学学士（主修：管理）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/management
+16,Bachelor of Business majoring in Marketing,商学学士（主修：市场营销）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/marketing
+16,Bachelor of Business majoring in Small Business Leadership,商学学士（主修：小企业领导力）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/small-business-leadership
+16,Bachelor of Business majoring in Sports Management,商学学士（主修：体育管理）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-business/sports-management
+16,"Bachelor of Clinical Sciences, Doctor of Medicine",临床科学（医学博士）学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-clinical-sciences-doctor-medicine
+16,Bachelor of Commerce,商业学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-commerce
+16,Bachelor of Commerce (Honours) 1 year,商业学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-commerce
+16,Bachelor of Computer Science,计算机科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-computer-science
+16,Bachelor of Computer Science (Artificial Intelligence),计算机科学学士（人工智能）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-computer-science-artificial-intelligence
+16,Bachelor of Computing and Mathematical Sciences (Honours),计算与数学科学学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-computing-mathematical-sciences-honours
+16,Bachelor of Creative Arts (Costume Design),创意艺术学士（服装设计）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-costume-design
+16,Bachelor of Creative Arts (Costume Design) (VET pathway),创意艺术学士（服装设计；职业教育与培训（VET）路径）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-costume-design-vet-pathway
+16,Bachelor of Creative Arts (Dance),创意艺术学士（舞蹈）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-dance
+16,Bachelor of Creative Arts (Fashion),创意艺术学士（时尚）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-fashion
+16,Bachelor of Creative Arts (Fashion) (VET pathway),创意艺术学士（时尚；职业教育与培训（VET）路径）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-fashion-vet-pathway
+16,Bachelor of Creative Arts (Honours) 1 year,创意艺术学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-creative-arts
+16,Bachelor of Creative Arts (Interior Design),创意艺术学士（室内设计）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-interior-design
+16,Bachelor of Creative Arts (Visual Arts),创意艺术学士（视觉艺术）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-arts-visual-arts
+16,Bachelor of Creative Industries (Honours) 1 year,创意产业学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-creative-industries
+16,Bachelor of Creative Writing,创意写作学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-creative-writing
+16,Bachelor of Criminology,Criminology学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-criminology
+16,Bachelor of Criminology (Honours),Criminology学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-criminology-honours
+16,Bachelor of Criminology (Honours) 1 year,Criminology学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-criminology
+16,Bachelor of Design and Technology (Honours) 1 year,设计与技术学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-design-technology
+16,Bachelor of Disability and Community Inclusion,残障与社区融合学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-disability-community-inclusion
+16,Bachelor of Disability and Developmental Education,残障与发展性教育学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-disability-developmental-education
+16,Bachelor of Disability and Developmental Education (Online),残障与发展性教育学士（在线）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-disability-developmental-education-online
+16,Bachelor of Early Childhood Education (Birth - 5),幼儿教育 (Birth学士（5)）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-early-childhood-education-birth-5
+16,Bachelor of Early Childhood Education (Birth - 8),幼儿教育 (Birth学士（8)）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-early-childhood-education-birth-8
+16,Bachelor of Education (Honours) 1 year,教育学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-education
+16,Bachelor of Education (Inclusive Education),教育学士（融合教育）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-education-inclusive
+16,Bachelor of Education (Primary),教育学士（小学教育）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-education-primary
+16,Bachelor of Education (Secondary Health and Physical Education),教育学士（中学健康与体育教育）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-education-secondary-health-physical-education
+16,Bachelor of Education (Secondary),教育学士（中学教育）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-education-secondary
+16,Bachelor of Engineering (Biomedical) (Honours),工程学士（荣誉；生物医学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-biomedical-honours
+16,Bachelor of Engineering (Civil) (Honours),工程学士（荣誉；土木工程）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-civil-honours
+16,Bachelor of Engineering (Electrical and Electronic) (Honours),工程学士（荣誉；电气与电子工程）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-electrical-electronic-honours
+16,Bachelor of Engineering (Environmental) (Honours),工程学士（荣誉；环境）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-environmental-honours
+16,Bachelor of Engineering (Honours) - Flexible Entry,工程学士（荣誉；灵活入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-honours-flexible-entry
+16,Bachelor of Engineering (Honours) - General Entry,工程学士（荣誉；常规入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-honours-general-entry
+16,Bachelor of Engineering (Maritime) (Honours),工程学士（荣誉；海事）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-maritime-honours
+16,Bachelor of Engineering (Mechanical) (Honours),工程学士（荣誉；机械工程）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-mechanical-honours
+16,Bachelor of Engineering (Robotics) (Honours),工程学士（荣誉；机器人）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-robotics-honours
+16,Bachelor of Engineering (Software) (Honours),工程学士（荣誉；软件工程）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-software-honours
+16,Bachelor of Engineering Science,工程科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-science
+16,Bachelor of Engineering Science majoring in Design and User Experience,工程科学学士（主修：设计与用户体验）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-science/design-user-experience
+16,Bachelor of Engineering Technology (Advanced Manufacturing and Digital Design),工程技术学士（先进制造与数字化设计）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-technology-advanced-manufacturing-digital-design
+16,Bachelor of Engineering Technology (Systems and Security) / Bachelor of Science (Physics),工程技术学士（系统与安全） / 理学学士（物理学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-engineering-technology-systems-security-bachelor-science-physics
+16,Bachelor of Exercise and Sport Science,运动与体育科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-exercise-sport-science
+16,Bachelor of Film and Television (Screen Industries),电影与电视学士（影视产业）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-film-television-screen-industries
+16,Bachelor of Film and Television (Screen Production),电影与电视学士（影视制作）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-film-television-screen-production
+16,Bachelor of Game Design,游戏设计学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-game-design
+16,Bachelor of Geospatial Information Systems,地理空间信息系统学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-geospatial-information-systems
+16,Bachelor of Geospatial Information Systems / Bachelor of Surveying,地理空间信息系统学士 / 测量学学士,bachelor,1,https://flinders.edu.au/study/courses/bachelor-geospatial-information-systems-bachelor-surveying
+16,Bachelor of Health Sciences,健康科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-health-sciences
+16,Bachelor of Health Sciences (Honours) 1 year,健康科学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-health-sciences
+16,Bachelor of Human Nutrition,人类营养学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-human-nutrition
+16,Bachelor of Information Technology,信息技术学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology
+16,Bachelor of Information Technology (Business and Information Systems),信息技术学士（商业与信息系统）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-business-information-systems
+16,Bachelor of Information Technology (Data Analytics),信息技术学士（数据分析）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-data-analytics
+16,Bachelor of Information Technology (Digital Forensics),信息技术学士（数字取证）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-digital-forensics
+16,Bachelor of Information Technology (Game Development),信息技术学士（游戏开发）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-game-development
+16,Bachelor of Information Technology (Machine Learning),信息技术学士（机器学习）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-machine-learning
+16,Bachelor of Information Technology (Network and Cybersecurity Systems),信息技术学士（网络与网络安全系统）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-information-technology-network-cybersecurity-systems
+16,Bachelor of Information Technology (Online),信息技术学士（在线）,bachelor,1,https://www.flinders.edu.au/online/courses/bachelor-information-technology
+16,Bachelor of International Relations and Political Science,国际关系与政治学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-international-relations-political-science
+16,Bachelor of International Relations and Political Science (Honours),国际关系与政治学学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-international-relations-political-science-honours
+16,Bachelor of International Relations and Political Science (Honours) 1 year,国际关系与政治学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-international-relations-political-science
+16,Bachelor of Laws (Honours) - Legal Practice Entry,法学学士（荣誉；Legal 实践 Entry）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-laws-honours
+16,Bachelor of Laws - Legal Practice Entry,法学学士（Legal 实践 Entry）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-laws
+16,Bachelor of Letters (Archaeology) (Graduate Entry),文学（Letters）学士（考古学；研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-letters-archaeology-graduate-entry
+16,Bachelor of Letters (Creative Writing) (Graduate Entry),文学（Letters）学士（创意写作；研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-letters-creative-writing-graduate-entry
+16,Bachelor of Letters (Health) (Graduate Entry),文学（Letters）学士（健康；研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-letters-health-graduate-entry
+16,Bachelor of Letters (History) (Graduate Entry),文学（Letters）学士（历史学；研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-letters-history-graduate-entry
+16,Bachelor of Mathematical Sciences,数学科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-mathematical-sciences
+16,Bachelor of Media and Communication,媒体与传播学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-media-communication
+16,Bachelor of Medical Science,医学科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-medical-science
+16,Bachelor of Medical Science (Honours),医学科学学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-medical-science-honours
+16,Bachelor of Medical Science (Honours) 1 year,医学科学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-medical-science
+16,Bachelor of Medical Science (Laboratory Medicine),医学科学学士（实验室医学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-of-medical-science-laboratory-medicine
+16,Bachelor of Medical Science (Laboratory Medicine)(Regional External Program),医学科学学士（实验室医学；区域外部项目）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-of-medical-science-laboratory-medicine-regional-external-program
+16,Bachelor of Midwifery (Post-Registration) (Registered Nurse),助产学学士（注册后；注册护士）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-midwifery-post-registration
+16,Bachelor of Midwifery (Preregistration),助产学学士（注册前）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-midwifery-preregistration
+16,Bachelor of Nursing (Graduate Entry),护理学学士（研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-nursing-graduate-entry
+16,Bachelor of Nursing (Online),护理学学士（在线）,bachelor,1,https://www.flinders.edu.au/online/courses/bachelor-nursing
+16,Bachelor of Nursing (Preregistration),护理学学士（注册前）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-nursing-preregistration
+16,Bachelor of Nursing (Preregistration) Riverland,护理学 Riverland学士（注册前）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-nursing-preregistration-riverland
+16,Bachelor of Nutrition and Dietetics,营养与膳食学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-nutrition-dietetics
+16,Bachelor of Nutrition and Exercise (Online),营养与运动学士（在线）,bachelor,1,https://www.flinders.edu.au/online/courses/bachelor-nutrition-exercise
+16,Bachelor of Paramedicine,急救医疗学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-paramedicine
+16,Bachelor of Paramedicine (Honours) 1 year,急救医疗学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-paramedicine
+16,Bachelor of Paramedicine (Northern Territory),急救医疗学士（北领地）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-paramedicine-nt
+16,Bachelor of Paramedicine (Regional External Program),急救医疗学士（区域外部项目）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-paramedicine-regional-external-program
+16,Bachelor of Performance (Acting),表演学士（Acting）,bachelor,1,https://flinders.edu.au/study/courses/bachelor-performance-acting
+16,Bachelor of Performance (Directing),表演学士（导演）,bachelor,1,https://flinders.edu.au/study/courses/bachelor-performance-directing
+16,Bachelor of Performance (Theatre Making),表演学士（戏剧创作）,bachelor,1,https://flinders.edu.au/study/courses/bachelor-performance-theatre-making
+16,Bachelor of Psychological Science,心理科学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-psychological-science
+16,Bachelor of Psychological Science (Honours) 1 year,心理科学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-psychology
+16,Bachelor of Psychological Studies (Graduate Entry),心理学研究学士（研究生入学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-psychological-studies-graduate-entry
+16,Bachelor of Psychology (Honours),心理学学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-psychology-honours
+16,Bachelor of Public Health,公共卫生学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-public-health
+16,Bachelor of Public Health (Honours),公共卫生学士（荣誉）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-public-health
+16,Bachelor of Science,理学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science
+16,Bachelor of Science (Advanced Science),理学学士（高级科学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-advanced-science
+16,Bachelor of Science (Animal Behaviour),理学学士（动物行为）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-animal-behaviour
+16,Bachelor of Science (Biodiversity and Conservation),理学学士（生物多样性与保护）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-biodiversity-conservation
+16,Bachelor of Science (Biotechnology),理学学士（生物技术）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-biotechnology
+16,Bachelor of Science (Chemical Sciences),理学学士（化学科学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-chemical-sciences
+16,Bachelor of Science (Environmental Science),理学学士（环境科学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-environmental-science
+16,Bachelor of Science (Forensic and Analytical Science Pathway),理学学士（法医与分析科学衔接路径）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-forensic-analytical-science-pathway
+16,Bachelor of Science (Forensic and Analytical Science),理学学士（法医与分析科学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-forensic-analytical-science
+16,Bachelor of Science (Honours) 1 year,理学学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-science
+16,Bachelor of Science (Marine Biology),理学学士（海洋生物学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-marine-biology
+16,Bachelor of Science (Palaeontology),理学学士（古生物学）,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-science-palaeontology
+16,Bachelor of Social Work,社会工作学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-social-work
+16,Bachelor of Speech Pathology,言语病理学学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-speech-pathology
+16,Bachelor of Sport and Active Recreation,运动与积极休闲学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-sport-active-recreation
+16,"Bachelor of Sport, Health and Physical Activity (Honours) 1 year",运动、健康与身体活动学士（荣誉，1 年）,bachelor,1,https://www.flinders.edu.au/study/courses/honours-bachelor-sport-health-physical-activity
+16,Bachelor of Urban and Regional Planning,城市与区域规划学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-urban-regional-planning
+16,Bachelor of Urban and Regional Planning (Online),城市与区域规划学士（在线）,bachelor,1,https://www.flinders.edu.au/online/courses/bachelor-urban-regional-planning
+16,Bachelor of Visual Effects and Entertainment Design,视觉特效与娱乐设计学士,bachelor,1,https://www.flinders.edu.au/study/courses/bachelor-visual-effects-entertainment-design
+16,Major in Ancient Studies,主修：古代研究,bachelor,1,https://www.flinders.edu.au/study/courses/major-ancient-studies
+16,Major in Applied Linguistics,主修：应用语言学,bachelor,1,https://www.flinders.edu.au/study/courses/major-applied-linguistics
+16,Major in Archaeology,主修：考古学,bachelor,1,https://www.flinders.edu.au/study/courses/major-archaeology
+16,Major in Creative Writing,主修：创意写作,bachelor,1,https://www.flinders.edu.au/study/courses/major-creative-writing
+16,Major in Critical Indigenous Studies,主修：批判性原住民研究,bachelor,1,https://www.flinders.edu.au/study/courses/major-critical-indigenous-studies
+16,Major in Digital Heritage,主修：数字遗产,bachelor,1,https://www.flinders.edu.au/study/courses/major-digital-heritage
+16,Major in Drama,主修：戏剧,bachelor,1,https://www.flinders.edu.au/study/courses/major-drama
+16,Major in English,主修：英语,bachelor,1,https://www.flinders.edu.au/study/courses/major-english
+16,Major in Film and Television,主修：电影与电视,bachelor,1,https://www.flinders.edu.au/study/courses/major-film-television-studies
+16,Major in French,主修：法语,bachelor,1,https://www.flinders.edu.au/study/courses/major-french
+16,Major in Gender Studies,主修：性别研究,bachelor,1,https://www.flinders.edu.au/study/courses/major-gender-studies
+16,Major in Geography and Environmental Studies,主修：地理与环境研究,bachelor,1,https://www.flinders.edu.au/study/courses/major-geography-environmental-studies
+16,Major in History,主修：历史学,bachelor,1,https://www.flinders.edu.au/study/courses/major-history
+16,Major in Indonesian,主修：印度尼西亚语,bachelor,1,https://www.flinders.edu.au/study/courses/major-indonesian
+16,Major in Italian,主修：意大利语,bachelor,1,https://www.flinders.edu.au/study/courses/major-italian
+16,Major in Medieval Studies,主修：中世纪研究,bachelor,1,https://www.flinders.edu.au/study/courses/major-medieval-studies
+16,Major in Nuclear Engineering,主修：核工程,bachelor,1,https://www.flinders.edu.au/study/courses/major-nuclear-engineering
+16,Major in Philosophy,主修：哲学,bachelor,1,https://www.flinders.edu.au/study/courses/major-philosophy
+16,Major in Political Science,主修：政治学,bachelor,1,https://www.flinders.edu.au/study/courses/major-political-science
+16,Major in Sociology,主修：社会学,bachelor,1,https://www.flinders.edu.au/study/courses/major-sociology
+16,Major in Spanish,主修：西班牙语,bachelor,1,https://www.flinders.edu.au/study/courses/major-spanish
+16,Major in Visual Arts,主修：视觉艺术,bachelor,1,https://www.flinders.edu.au/study/courses/major-visual-arts
+16,Medical Science / Engineering (Biomedical) (Honours),医学科学 / 工程（荣誉；生物医学）,bachelor,1,https://www.flinders.edu.au/study/courses/medical-science-engineering-biomedical-science-honours
+16,Master of Advanced Social Work Practice,高级社会工作实践硕士,master,1,https://www.flinders.edu.au/study/courses/master-of-advanced-social-work-practice
+16,"Master of Artificial Intelligence, Data Science and Cybersecurity (Online)",人工智能、数据科学与网络安全硕士（在线）,master,1,https://www.flinders.edu.au/online/courses/master-ai-data-science-cybersecurity
+16,Master of Arts by Research in Creative and Performing Arts at Flinders,文学硕士（研究型：创意与表演艺术）,master,1,https://www.flinders.edu.au/study/courses/master-arts-research-creative-performing-arts
+16,Master of Arts by Research in History and Archaeology at Flinders,文学硕士（研究型：历史与考古学）,master,1,https://www.flinders.edu.au/study/courses/master-arts-research-history-archaeology
+16,"Master of Arts by Research in Language, Literature and Culture",文学硕士（研究型：语言、文学与文化）,master,1,https://www.flinders.edu.au/study/courses/master-arts-research-language-literature-culture
+16,Master of Arts by Research in Social Sciences at Flinders,文学硕士（研究型：社会科学）,master,1,https://www.flinders.edu.au/study/courses/master-arts-research-social-sciences
+16,Master of Business Administration (Future Business) (MBA) (Online),工商管理硕士（未来商业；MBA；在线）,master,1,https://www.flinders.edu.au/online/courses/master-business-administration-future-business
+16,Master of Clinical Epidemiology,临床流行病学硕士,master,1,https://www.flinders.edu.au/study/courses/master-clinical-epidemiology
+16,Master of Clinical Epidemiology (Online),临床流行病学硕士（在线）,master,1,https://www.flinders.edu.au/online/courses/master-clinical-epidemiology
+16,Master of Education,教育硕士,master,1,https://www.flinders.edu.au/study/courses/master-education
+16,Master of Engineering,工程硕士,master,1,https://handbook.flinders.edu.au/courses/current/MENGR
+16,Master of Health and Clinical Research,健康与临床研究硕士,master,1,https://www.flinders.edu.au/study/courses/master-health-clinical-research
+16,Master of Inclusive and Specialised Education,融合与特殊教育硕士,master,1,https://www.flinders.edu.au/study/courses/postgraduate-inclusive-specialised-education
+16,Master of Laws,法学硕士,master,1,https://www.flinders.edu.au/study/courses/master-laws
+16,Master of Pallative Care,姑息治疗硕士,master,1,https://www.flinders.edu.au/study/courses/master-palliative-care
+16,Master of Professional Psychology,专业心理学硕士,master,1,https://www.flinders.edu.au/study/courses/postgraduate-professional-psychology
+16,Master of Project Management,项目管理硕士,master,1,https://www.flinders.edu.au/study/courses/master-project-management
+16,Master of Psychology (Clinical),心理学硕士（临床）,master,1,https://www.flinders.edu.au/study/courses/postgraduate-psychology-clinical
+16,Master of Public Health,公共卫生硕士,master,1,https://www.flinders.edu.au/study/courses/master-public-health
+16,Master of Public Health (Online),公共卫生硕士（在线）,master,1,https://www.flinders.edu.au/online/courses/master-public-health
+16,Master of Science,理学硕士,master,1,https://handbook.flinders.edu.au/courses/current/MSC
+16,Master of Social Work (Graduate Entry),社会工作硕士（研究生入学）,master,1,https://www.flinders.edu.au/study/courses/master-social-work-graduate-entry
+16,Master of Surgery,外科学硕士,master,1,https://handbook.flinders.edu.au/courses/current/MSURGR
+16,Master of Teaching (Birth to 5),教学硕士（出生至5岁）,master,1,https://www.flinders.edu.au/study/courses/master-teaching-birth-to-5
+16,Master of Teaching (Birth to 5) (Online+),教学硕士（出生至5岁；在线+）,master,1,https://www.flinders.edu.au/online/courses/master-teaching-birth-5
+16,Master of Teaching (Early Childhood),教学硕士（幼儿教育）,master,1,https://www.flinders.edu.au/study/courses/postgraduate-teaching-early-childhood
+16,Master of Teaching (Primary),教学硕士（小学教育）,master,1,https://www.flinders.edu.au/study/courses/postgraduate-teaching-primary
+16,Master of Teaching (Secondary),教学硕士（中学教育）,master,1,https://www.flinders.edu.au/study/courses/postgraduate-teaching-secondary

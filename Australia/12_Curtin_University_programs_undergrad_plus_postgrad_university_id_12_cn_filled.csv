@@ -1,0 +1,47 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+12,Bachelor of Arts,文学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-arts--b-arts/
+12,Bachelor of Arts (Honours),文学荣誉学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-arts-honours--bh-arts/
+12,Bachelor of Business Administration,工商管理学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-business-administration--b-busadm/
+12,Bachelor of Commerce,商学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-commerce--b-comrce/
+12,Bachelor of Commerce (Honours),商学荣誉学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-commerce-honours--bh-comm/
+12,Bachelor of Computing,计算学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-computing--b-comp/
+12,Bachelor of Design,设计学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-design--b-design/
+12,Bachelor of Education (Secondary Education),教育学学士（中学教育）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-education-secondary-education--b-edsc/
+12,Bachelor of Engineering (Honours),工程学荣誉学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-engineering-honours--bh-engr/
+12,Bachelor of Information Technology,信息技术学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-information-technology--b-inftec/
+12,Bachelor of Innovation,创新学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-innovation--b-innov/
+12,Bachelor of Laws,法学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-laws--b-laws/
+12,"Bachelor of Medicine, Bachelor of Surgery",医学学士/外科学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-medicine-bachelor-of-surgery--b-mbbs/
+12,Bachelor of Multidisciplinary Science,跨学科科学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-multidisciplinary-science--b-mtdsc/
+12,Bachelor of Psychology,心理学学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-psychology--b-psych/
+12,Bachelor of Science (Actuarial Science),理学学士（精算学）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-actuarial-science--b-actuar/
+12,Bachelor of Science (Nutrition),理学学士（营养学）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-nutrition--b-nutri/
+12,Bachelor of Science (Science),理学学士（科学）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-science--b-scnce/
+12,Bachelor of Science (Science) (Honours),理学荣誉学士（科学）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-science-honours--bh-scnce/
+12,Bachelor of Technology (Computer Systems and Networking),技术学士（计算机系统与网络）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-technology-computer-systems-and-networking--b-csysnt/
+12,Bachelor of Urban and Regional Planning,城市与区域规划学士,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-urban-and-regional-planning--b-urplan2/
+12,Bachelor of Applied Science (Interior Architecture) (Honours),应用科学荣誉学士（室内建筑）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-applied-science-interior-architecture-honours--bh-inarch/
+12,"Bachelor of Arts, Bachelor of Commerce",文学学士/商学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-arts-bachelor-of-commerce--bb-artcom/
+12,"Bachelor of Arts, Bachelor of Innovation",文学学士/创新学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-arts-bachelor-of-innovation--bb-artinn/
+12,"Bachelor of Engineering (Honours), Bachelor of Commerce",工程学荣誉学士/商学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-engineering-honours-bachelor-of-commerce--bb-engcom/
+12,"Bachelor of Engineering (Honours), Bachelor of Science",工程学荣誉学士/理学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-engineering-honours-bachelor-of-science--bb-engsci/
+12,"Bachelor of Laws, Bachelor of Arts",法学学士/文学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-laws-bachelor-of-arts--bb-lawart/
+12,"Bachelor of Laws, Bachelor of Commerce",法学学士/商学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-laws-bachelor-of-commerce--bb-lawcom/
+12,"Bachelor of Laws, Bachelor of Innovation",法学学士/创新学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-laws-bachelor-of-innovation--bb-lawinn/
+12,"Bachelor of Science, Bachelor of Arts",理学学士/文学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-bachelor-of-arts--bb-sciart/
+12,"Bachelor of Science, Bachelor of Commerce",理学学士/商学学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-bachelor-of-commerce--bb-scicom/
+12,"Bachelor of Science, Bachelor of Innovation",理学学士/创新学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-science-bachelor-of-innovation--bb-scinno/
+12,"Bachelor of Technology (Computer Systems and Networking), Bachelor of Information Technology",技术学士（计算机系统与网络）/信息技术学士（双学位）,bachelor,1,https://www.curtin.edu.au/study/offering/course-ug-bachelor-of-technology-computer-systems-and-networking-bachelor-of-information-technology--bb-csnbit/
+12,Master of Advanced Practice,高级实践硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-advanced-practice--mc-advprc/
+12,Master of Commerce,商学硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-commerce--mc-comm/
+12,Master of Computing,计算学硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-computing--mc-comp/
+12,Master of Environment and Climate Emergency,环境与气候危机硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-environment-and-climate-emergency--mc-envclm/
+12,Master of Global Engagement,全球参与硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-global-engagement--mc-globl/
+12,Master of International Relations,国际关系硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-international-relations--mc-intrel/
+12,Master of Occupational Therapy,职业治疗硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-occupational-therapy--mg-occt/
+12,Master of Professional Engineering,专业工程硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-professional-engineering--mc-proeng/
+12,Master of Project Management,项目管理硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-project-management--mc-projm2/
+12,Master of Psychology (Professional),心理学硕士（专业方向）,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-psychology-professional--mc-psychp/
+12,Master of Public Health,公共卫生硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-public-health--mc-pubhl/
+12,Master of Social Work (Qualifying),社会工作硕士（认证方向）,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-social-work-qualifying--mg-scwk/
+12,Master of Speech Pathology,言语病理学硕士,master,1,https://www.curtin.edu.au/study/offering/course-pg-master-of-speech-pathology--mg-sppath/

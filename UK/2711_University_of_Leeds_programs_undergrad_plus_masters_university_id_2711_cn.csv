@@ -1,0 +1,592 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+2711,Accounting and Finance BSc,会计与金融（BSc）,bachelor,1,https://courses.leeds.ac.uk/f834/accounting-and-finance-bsc
+2711,Actuarial Mathematics BSc,精算数学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f702/actuarial-mathematics-bsc
+2711,"Advanced Psychology MPsyc, BSc","高级心理学（MPsyc, BSc）",bachelor,1,https://courses.leeds.ac.uk/g492/advanced-psychology-mpsyc-bsc
+2711,Aeronautical and Aerospace Engineering (Industrial) BEng,航空航天工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/g662/aeronautical-and-aerospace-engineering-industrial-beng
+2711,"Aeronautical and Aerospace Engineering (Industrial) MEng, BEng","航空航天工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g285/aeronautical-and-aerospace-engineering-industrial-meng-beng
+2711,Aeronautical and Aerospace Engineering BEng,航空航天工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/a225/aeronautical-and-aerospace-engineering-beng
+2711,"Aeronautical and Aerospace Engineering MEng, BEng","航空航天工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f414/aeronautical-and-aerospace-engineering-meng-beng
+2711,Ancient History BA,古代史（BA）,bachelor,1,https://courses.leeds.ac.uk/i988/ancient-history-ba
+2711,Ancient History and History BA,古代史与历史学（BA）,bachelor,1,https://courses.leeds.ac.uk/g676/ancient-history-and-history-ba
+2711,Ancient History and Philosophy BA,古代史与哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/g678/ancient-history-and-philosophy-ba
+2711,Arabic and Chinese BA,阿拉伯语与中文（BA）,bachelor,1,https://courses.leeds.ac.uk/632/arabic-and-chinese-ba
+2711,Arabic and Japanese BA,阿拉伯语与日语（BA）,bachelor,1,https://courses.leeds.ac.uk/631/arabic-and-japanese-ba
+2711,Arabic and Russian BA,阿拉伯语与俄语（BA）,bachelor,1,https://courses.leeds.ac.uk/j945/arabic-and-russian-ba
+2711,"Arabic, Islamic, Middle Eastern and North African Studies BA",阿拉伯语、伊斯兰、中东与北非研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j555/arabic-islamic-middle-eastern-and-north-african-studies-ba
+2711,Architectural Engineering (Industrial) BEng,建筑工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/i143/architectural-engineering-industrial-beng
+2711,"Architectural Engineering (Industrial) MEng, BEng","建筑工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g652/architectural-engineering-industrial-meng-beng
+2711,Architectural Engineering BEng,建筑工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/a248/architectural-engineering-beng
+2711,"Architectural Engineering MEng, BEng","建筑工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f416/architectural-engineering-meng-beng
+2711,"Architecture (Industrial) MArch, MEng","建筑学（含工业实习）（MArch, MEng）",bachelor,1,https://courses.leeds.ac.uk/k126/architecture-industrial-march-meng
+2711,"Architecture (Industrial) MEng, BEng","建筑学（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/i870/architecture-industrial-meng-beng
+2711,"Architecture MArch, MEng","建筑学（MArch, MEng）",bachelor,1,https://courses.leeds.ac.uk/j930/architecture-march-meng
+2711,"Architecture MEng, BEng","建筑学（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g800/architecture-meng-beng
+2711,Art and Design BA,艺术与设计（BA）,bachelor,1,https://courses.leeds.ac.uk/f254/art-and-design-ba
+2711,Arts and Humanities with Foundation Year BA,艺术与人文（含预科年）（BA）,bachelor,1,https://courses.leeds.ac.uk/g294/arts-and-humanities-with-foundation-year-ba
+2711,Audiology BSc,听力学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j568/audiology-bsc
+2711,Automotive Engineering (Industrial) BEng,汽车工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/i038/automotive-engineering-industrial-beng
+2711,"Automotive Engineering (Industrial) MEng, BEng","汽车工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g287/automotive-engineering-industrial-meng-beng
+2711,Automotive Engineering BEng,汽车工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/4794/automotive-engineering-beng
+2711,"Automotive Engineering MEng, BEng","汽车工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f413/automotive-engineering-meng-beng
+2711,Bachelor Degree with Integrated International Foundation Year (Arts and Social Science) BA,本科（含综合国际预科）（人文与社会科学）（BA）,bachelor,1,https://courses.leeds.ac.uk/j054/bachelor-degree-with-integrated-international-foundation-year-arts-and-social-science-ba
+2711,Bachelor Degree with Integrated International Foundation Year (Business) BA,本科（含综合国际预科）（商业）（BA）,bachelor,1,https://courses.leeds.ac.uk/j055/bachelor-degree-with-integrated-international-foundation-year-business-ba
+2711,Bachelor Degree with Integrated International Foundation Year (Design) BA,本科（含综合国际预科）（设计）（BA）,bachelor,1,https://courses.leeds.ac.uk/j057/bachelor-degree-with-integrated-international-foundation-year-design-ba
+2711,Bachelor Degree with Integrated International Foundation Year (Engineering) BEng,本科（含综合国际预科）（工程）（BEng）,bachelor,1,https://courses.leeds.ac.uk/j058/bachelor-degree-with-integrated-international-foundation-year-engineering-beng
+2711,Bachelor Degree with Integrated International Foundation Year (Healthcare) BSc,本科（含综合国际预科）（医疗健康）（BSc）,bachelor,1,https://courses.leeds.ac.uk/j059/bachelor-degree-with-integrated-international-foundation-year-healthcare-bsc
+2711,Bachelor Degree with Integrated International Foundation Year (Science) BSc,本科（含综合国际预科）（科学）（BSc）,bachelor,1,https://courses.leeds.ac.uk/j061/bachelor-degree-with-integrated-international-foundation-year-science-bsc
+2711,Banking and Finance BSc,银行与金融（BSc）,bachelor,1,https://courses.leeds.ac.uk/g986/banking-and-finance-bsc
+2711,Biochemistry BSc,生物化学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3130/biochemistry-bsc
+2711,"Biochemistry MBiol, BSc","生物化学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g257/biochemistry-mbiol-bsc
+2711,Biological Sciences (Biotechnology with Enterprise) BSc,生物科学 （生物技术（企业）方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g377/biological-sciences-biotechnology-with-enterprise-bsc
+2711,"Biological Sciences (Biotechnology with Enterprise) MBiol, BSc","生物科学 （生物技术（企业）方向）（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g378/biological-sciences-biotechnology-with-enterprise-mbiol-bsc
+2711,Biological Sciences BSc,生物科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/e997/biological-sciences-bsc
+2711,"Biological Sciences MBiol, BSc","生物科学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g258/biological-sciences-mbiol-bsc
+2711,Biology BSc,生物学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3165/biology-bsc
+2711,"Biology MBiol, BSc","生物学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g259/biology-mbiol-bsc
+2711,Biology and History and Philosophy of Science BSc,生物学与历史学与哲学科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/4028/biology-and-history-and-philosophy-of-science-bsc
+2711,Biomedical Sciences BSc,生物医学科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j415/biomedical-sciences-bsc
+2711,"Biomedical Sciences MBiol, BSc","生物医学科学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/j416/biomedical-sciences-mbiol-bsc
+2711,Business Economics BSc,商业经济学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f835/business-economics-bsc
+2711,Business Management BA,工商管理（BA）,bachelor,1,https://courses.leeds.ac.uk/i475/business-management-ba
+2711,Business Management and Leadership BSc,工商管理与领导力（BSc）,bachelor,1,https://courses.leeds.ac.uk/i079/business-management-and-leadership-bsc
+2711,Business Management and the Human Resource BA,工商管理与人力资源（BA）,bachelor,1,https://courses.leeds.ac.uk/i477/business-management-and-the-human-resource-ba
+2711,Business Management with Marketing BA,工商管理（市场营销方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/i476/business-management-with-marketing-ba
+2711,Business Studies with Foundation Year BSc,商科（含预科年）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g150/business-studies-with-foundation-year-bsc
+2711,Chartered Manager (Degree) Apprenticeship BSc,特许经理 （学位） 学徒制（BSc）,bachelor,1,https://courses.leeds.ac.uk/ap07/chartered-manager-degree-apprenticeship-bsc
+2711,Chemical Engineering (Industrial) BEng,化学工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/g832/chemical-engineering-industrial-beng
+2711,"Chemical Engineering (Industrial) MEng, BEng","化学工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g702/chemical-engineering-industrial-meng-beng
+2711,Chemical Engineering BEng,化学工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/4810/chemical-engineering-beng
+2711,"Chemical Engineering MEng, BEng","化学工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f463/chemical-engineering-meng-beng
+2711,Chemistry BSc,化学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3220/chemistry-bsc
+2711,"Chemistry MChem, BSc","化学（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/f422/chemistry-mchem-bsc
+2711,Chemistry and Mathematics BSc,化学与数学（BSc）,bachelor,1,https://courses.leeds.ac.uk/4187/chemistry-and-mathematics-bsc
+2711,"Chemistry and Mathematics MChem, BSc","化学与数学（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/i040/chemistry-and-mathematics-mchem-bsc
+2711,Chemistry with Artificial Intelligence (International) BSc,化学（人工智能 （国际）方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k055/chemistry-with-artificial-intelligence-international-bsc
+2711,Chemistry with Artificial Intelligence (with Industrial Experience) BSc,化学（人工智能方向）（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k054/chemistry-with-artificial-intelligence-with-industrial-experience-bsc
+2711,"Chemistry with Artificial Intelligence (with Industrial Experience) MChem, BSc","化学（人工智能方向）（含工业实习）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/k057/chemistry-with-artificial-intelligence-with-industrial-experience-mchem-bsc
+2711,Chemistry with Artificial Intelligence BSc,化学（人工智能方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k048/chemistry-with-artificial-intelligence-bsc
+2711,"Chemistry with Artificial Intelligence MChem, BSc","化学（人工智能方向）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/k049/chemistry-with-artificial-intelligence-mchem-bsc
+2711,"Chemistry with Study Abroad MChem, BSc","化学（含海外学习）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/i114/chemistry-with-study-abroad-mchem-bsc
+2711,"Chemistry with a Year in Industry MChem, BSc","化学（含工业实习年）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/f423/chemistry-with-a-year-in-industry-mchem-bsc
+2711,Child and Family Studies BA,儿童与家庭研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j554/child-and-family-studies-ba
+2711,Childhood Studies BA,儿童研究（BA）,bachelor,1,https://courses.leeds.ac.uk/115/childhood-studies-ba
+2711,Chinese (Modern) BA,中文 （现代）（BA）,bachelor,1,https://courses.leeds.ac.uk/e315/chinese-modern-ba
+2711,Chinese and Japanese Studies BA,中文与日语研究（BA）,bachelor,1,https://courses.leeds.ac.uk/0080/chinese-and-japanese-studies-ba
+2711,Chinese and Russian BA,中文与俄语（BA）,bachelor,1,https://courses.leeds.ac.uk/j944/chinese-and-russian-ba
+2711,Chinese and Thai Studies BA,中文与泰语研究（BA）,bachelor,1,https://courses.leeds.ac.uk/g308/chinese-and-thai-studies-ba
+2711,Civil Engineering (Industrial) BEng,土木工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/j155/civil-engineering-industrial-beng
+2711,"Civil Engineering (Industrial) MEng, BEng","土木工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/j621/civil-engineering-industrial-meng-beng
+2711,Civil Engineering BEng,土木工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/i444/civil-engineering-beng
+2711,"Civil Engineering MEng, BEng","土木工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/i445/civil-engineering-meng-beng
+2711,Civil Engineering with Transport BEng,土木工程（交通运输方向）（BEng）,bachelor,1,https://courses.leeds.ac.uk/i058/civil-engineering-with-transport-beng
+2711,Civil and Environmental Engineering (Industrial) BEng,土木与环境工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/i064/civil-and-environmental-engineering-industrial-beng
+2711,"Civil and Environmental Engineering (Industrial) MEng, BEng","土木与环境工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g839/civil-and-environmental-engineering-industrial-meng-beng
+2711,Civil and Environmental Engineering BEng,土木与环境工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/4836/civil-and-environmental-engineering-beng
+2711,"Civil and Environmental Engineering MEng, BEng","土木与环境工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f443/civil-and-environmental-engineering-meng-beng
+2711,Civil and Structural Engineering (Industrial) BEng,土木与结构工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/i323/civil-and-structural-engineering-industrial-beng
+2711,"Civil and Structural Engineering (Industrial) MEng, BEng","土木与结构工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g653/civil-and-structural-engineering-industrial-meng-beng
+2711,Civil and Structural Engineering BEng,土木与结构工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/a252/civil-and-structural-engineering-beng
+2711,"Civil and Structural Engineering MEng, BEng","土木与结构工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f412/civil-and-structural-engineering-meng-beng
+2711,Classical Civilisation BA,古典文明（BA）,bachelor,1,https://courses.leeds.ac.uk/0090/classical-civilisation-ba
+2711,Classical Literature and English BA,古典文学与英语（BA）,bachelor,1,https://courses.leeds.ac.uk/856/classical-literature-and-english-ba
+2711,Communication and Media BA,传播与媒体（BA）,bachelor,1,https://courses.leeds.ac.uk/g199/communication-and-media-ba
+2711,Computer Science (Artificial Intelligence) (Industrial) BSc,计算机科学 （人工智能）（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k124/computer-science-artificial-intelligence-industrial-bsc
+2711,"Computer Science (Artificial Intelligence) (Industrial) MEng, BSc","计算机科学 （人工智能）（含工业实习）（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/i607/computer-science-artificial-intelligence-industrial-meng-bsc
+2711,Computer Science (Artificial Intelligence) BSc,计算机科学 （人工智能）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k108/computer-science-artificial-intelligence-bsc
+2711,"Computer Science (Artificial Intelligence) MEng, BSc","计算机科学 （人工智能）（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/j750/computer-science-artificial-intelligence-meng-bsc
+2711,"Computer Science (High-Performance Graphics and Games Engineering) (Industrial) MEng, BSc","计算机科学 （高性能图形与游戏工程）（含工业实习）（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/i698/computer-science-high-performance-graphics-and-games-engineering-industrial-meng-bsc
+2711,"Computer Science (High-Performance Graphics and Games Engineering) MEng, BSc","计算机科学 （高性能图形与游戏工程）（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/j751/computer-science-high-performance-graphics-and-games-engineering-meng-bsc
+2711,Computer Science (Industrial) BSc,计算机科学（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/3262/computer-science-industrial-bsc
+2711,"Computer Science (Industrial) MEng, BSc","计算机科学（含工业实习）（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/g098/computer-science-industrial-meng-bsc
+2711,Computer Science BSc,计算机科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3260/computer-science-bsc
+2711,"Computer Science MEng, BSc","计算机科学（MEng, BSc）",bachelor,1,https://courses.leeds.ac.uk/f919/computer-science-meng-bsc
+2711,Criminal Justice and Criminology BA,刑事司法与犯罪学（BA）,bachelor,1,https://courses.leeds.ac.uk/e989/criminal-justice-and-criminology-ba
+2711,Cultural and Media Studies BA,文化与媒体研究（BA）,bachelor,1,https://courses.leeds.ac.uk/g641/cultural-and-media-studies-ba
+2711,Data Science BSc,数据科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j747/data-science-bsc
+2711,Dental Hygiene and Dental Therapy BSc,口腔卫生与口腔治疗（BSc）,bachelor,1,https://courses.leeds.ac.uk/i125/dental-hygiene-and-dental-therapy-bsc
+2711,Dental Surgery BChD,口腔医学（BChD）,bachelor,1,https://courses.leeds.ac.uk/j926/dental-surgery-bchd
+2711,Diagnostic Radiography BSc,诊断放射影像学（BSc）,bachelor,1,https://courses.leeds.ac.uk/i102/diagnostic-radiography-bsc
+2711,Digital Media BA,数字媒体（BA）,bachelor,1,https://courses.leeds.ac.uk/g856/digital-media-ba
+2711,East Asian Studies BA,东亚研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j762/east-asian-studies-ba
+2711,East Asian Studies and International Relations BA,东亚研究与国际关系（BA）,bachelor,1,https://courses.leeds.ac.uk/j766/east-asian-studies-and-international-relations-ba
+2711,Ecology and Conservation Biology BSc,生态学与保护生物学（BSc）,bachelor,1,https://courses.leeds.ac.uk/i077/ecology-and-conservation-biology-bsc
+2711,"Ecology and Conservation Biology MBiol, BSc","生态学与保护生物学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/i078/ecology-and-conservation-biology-mbiol-bsc
+2711,Economics BSc,经济学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f836/economics-bsc
+2711,Economics and Finance BSc,经济学与金融（BSc）,bachelor,1,https://courses.leeds.ac.uk/g048/economics-and-finance-bsc
+2711,Economics and Geography BA,经济学与地理学（BA）,bachelor,1,https://courses.leeds.ac.uk/0930/economics-and-geography-ba
+2711,Economics and History BA,经济学与历史学（BA）,bachelor,1,https://courses.leeds.ac.uk/950/economics-and-history-ba
+2711,Economics and Mathematics BSc,经济学与数学（BSc）,bachelor,1,https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc
+2711,Economics and Politics BA,经济学与政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/1000/economics-and-politics-ba
+2711,Education BA,教育（BA）,bachelor,1,https://courses.leeds.ac.uk/g971/education-ba
+2711,Electronic and Electrical Engineering (Industrial) BEng,电子与电气工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/e917/electronic-and-electrical-engineering-industrial-beng
+2711,"Electronic and Electrical Engineering (Industrial) MEng, BEng","电子与电气工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g539/electronic-and-electrical-engineering-industrial-meng-beng
+2711,Electronic and Electrical Engineering BEng,电子与电气工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/5000/electronic-and-electrical-engineering-beng
+2711,"Electronic and Electrical Engineering MEng, BEng","电子与电气工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f456/electronic-and-electrical-engineering-meng-beng
+2711,Electronics and Computer Engineering (Industrial) BEng,电子与计算机工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/k000/electronics-and-computer-engineering-industrial-beng
+2711,"Electronics and Computer Engineering (Industrial) MEng, BEng","电子与计算机工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/k001/electronics-and-computer-engineering-industrial-meng-beng
+2711,Electronics and Computer Engineering BEng,电子与计算机工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/j749/electronics-and-computer-engineering-beng
+2711,"Electronics and Computer Engineering MEng, BEng","电子与计算机工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/j748/electronics-and-computer-engineering-meng-beng
+2711,English Language and Linguistics BA,英语语言与语言学（BA）,bachelor,1,https://courses.leeds.ac.uk/g326/english-language-and-linguistics-ba
+2711,English Language and Literature BA,英语语言与文学（BA）,bachelor,1,https://courses.leeds.ac.uk/290/english-language-and-literature-ba
+2711,English Literature BA,英语文学（BA）,bachelor,1,https://courses.leeds.ac.uk/g153/english-literature-ba
+2711,English Literature with Creative Writing BA,英语文学（创意写作方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/i438/english-literature-with-creative-writing-ba
+2711,English and Comparative Literature BA,英语与比较文学（BA）,bachelor,1,https://courses.leeds.ac.uk/g674/english-and-comparative-literature-ba
+2711,English and Film Studies BA,英语与电影研究（BA）,bachelor,1,https://courses.leeds.ac.uk/g558/english-and-film-studies-ba
+2711,English and History BA,英语与历史学（BA）,bachelor,1,https://courses.leeds.ac.uk/1100/english-and-history-ba
+2711,English and History of Art BA,英语与历史学艺术（BA）,bachelor,1,https://courses.leeds.ac.uk/1110/english-and-history-of-art-ba
+2711,English and Music BA,英语与音乐（BA）,bachelor,1,https://courses.leeds.ac.uk/1150/english-and-music-ba
+2711,English and Philosophy BA,英语与哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/1160/english-and-philosophy-ba
+2711,English and Sociology BA,英语与社会学（BA）,bachelor,1,https://courses.leeds.ac.uk/1220/english-and-sociology-ba
+2711,"English, Theatre and Performance BA",英语、戏剧与性能（BA）,bachelor,1,https://courses.leeds.ac.uk/j854/english-theatre-and-performance-ba
+2711,Environment and Business BA,环境与商业（BA）,bachelor,1,https://courses.leeds.ac.uk/a467/environment-and-business-ba
+2711,Environmental Geoscience BSc,环境地球科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j931/environmental-geoscience-bsc
+2711,Environmental Science BSc,环境科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3314/environmental-science-bsc
+2711,Fashion Design Innovation BA,时尚设计创新（BA）,bachelor,1,https://courses.leeds.ac.uk/j389/fashion-design-innovation-ba
+2711,Fashion Marketing BA,时尚市场营销（BA）,bachelor,1,https://courses.leeds.ac.uk/g186/fashion-marketing-ba
+2711,Film Studies BA,电影研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j392/film-studies-ba
+2711,"Film, Photography and Media BA",电影、摄影与媒体（BA）,bachelor,1,https://courses.leeds.ac.uk/g619/film-photography-and-media-ba
+2711,Financial Mathematics BSc,金融数学（BSc）,bachelor,1,https://courses.leeds.ac.uk/g139/financial-mathematics-bsc
+2711,Fine Art BA,纯艺术（BA）,bachelor,1,https://courses.leeds.ac.uk/e134/fine-art-ba
+2711,Fine Art with Contemporary Cultural Theory BA,纯艺术（当代文化理论方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g644/fine-art-with-contemporary-cultural-theory-ba
+2711,Fine Art with History of Art BA,纯艺术（历史学艺术方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g642/fine-art-with-history-of-art-ba
+2711,Food Science BSc,食品科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3335/food-science-bsc
+2711,"Food Science MSci, BSc","食品科学（MSci, BSc）",bachelor,1,https://courses.leeds.ac.uk/i254/food-science-msci-bsc
+2711,Food Science and Nutrition BSc,食品科学与营养学（BSc）,bachelor,1,https://courses.leeds.ac.uk/g414/food-science-and-nutrition-bsc
+2711,"Food Science and Nutrition MSci, BSc","食品科学与营养学（MSci, BSc）",bachelor,1,https://courses.leeds.ac.uk/i256/food-science-and-nutrition-msci-bsc
+2711,French BA,法语（BA）,bachelor,1,https://courses.leeds.ac.uk/315/french-ba
+2711,Gateway Year to Medicine MBChB,医学衔接年（MBChB）,bachelor,1,https://courses.leeds.ac.uk/i900/gateway-year-to-medicine-mbchb
+2711,Genetics BSc,遗传学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3360/genetics-bsc
+2711,"Genetics MBiol, BSc","遗传学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g261/genetics-mbiol-bsc
+2711,Geography BA,地理学（BA）,bachelor,1,https://courses.leeds.ac.uk/0330/geography-ba
+2711,Geography BSc,地理学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3380/geography-bsc
+2711,Geography with Environmental Mathematics BSc,地理学（环境数学方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/i073/geography-with-environmental-mathematics-bsc
+2711,Geography with Transport Studies BA,地理学（交通运输研究方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g864/geography-with-transport-studies-ba
+2711,Geology BSc,地质学（BSc）,bachelor,1,https://courses.leeds.ac.uk/i683/geology-bsc
+2711,Geophysical and Atmospheric Sciences BSc,地球物理与大气科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j932/geophysical-and-atmospheric-sciences-bsc
+2711,German BA,德语（BA）,bachelor,1,https://courses.leeds.ac.uk/340/german-ba
+2711,Global Creative Industries BA,全球创意产业（BA）,bachelor,1,https://courses.leeds.ac.uk/i991/global-creative-industries-ba
+2711,Global Development BA,全球发展（BA）,bachelor,1,https://courses.leeds.ac.uk/k039/global-development-ba
+2711,Graphic and Communication Design BA,平面与传播设计（BA）,bachelor,1,https://courses.leeds.ac.uk/j760/graphic-and-communication-design-ba
+2711,Healthcare Science (Cardiac Physiology) BSc,医疗健康科学 （心脏生理学）（BSc）,bachelor,1,https://courses.leeds.ac.uk/i104/healthcare-science-cardiac-physiology-bsc
+2711,History BA,历史学（BA）,bachelor,1,https://courses.leeds.ac.uk/370/history-ba
+2711,History and Philosophy BA,历史学与哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/1630/history-and-philosophy-ba
+2711,History and Sociology BA,历史学与社会学（BA）,bachelor,1,https://courses.leeds.ac.uk/1690/history-and-sociology-ba
+2711,History of Art BA,艺术史（BA）,bachelor,1,https://courses.leeds.ac.uk/380/history-of-art-ba
+2711,History of Art with Cultural Studies BA,艺术史（文化研究方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g645/history-of-art-with-cultural-studies-ba
+2711,Interdisciplinary Science with Foundation Year BSc,跨学科科学（含预科年）（BSc）,bachelor,1,https://courses.leeds.ac.uk/3430/interdisciplinary-science-with-foundation-year-bsc
+2711,Interdisciplinary Studies with Preparation for Higher Education BA,跨学科研究与预备（高等教育方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g193/interdisciplinary-studies-with-preparation-for-higher-education-ba
+2711,International Business BSc,国际商业（BSc）,bachelor,1,https://courses.leeds.ac.uk/f831/international-business-bsc
+2711,International Business and Finance BSc,国际商业与金融（BSc）,bachelor,1,https://courses.leeds.ac.uk/f833/international-business-and-finance-bsc
+2711,International Business and Marketing BSc,国际商业与市场营销（BSc）,bachelor,1,https://courses.leeds.ac.uk/g295/international-business-and-marketing-bsc
+2711,International History and Politics BA,国际历史学与政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/410/international-history-and-politics-ba
+2711,International Relations BA,国际关系（BA）,bachelor,1,https://courses.leeds.ac.uk/a753/international-relations-ba
+2711,"Islamic, Middle Eastern and North African Studies BA",伊斯兰、中东与北非研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j556/islamic-middle-eastern-and-north-african-studies-ba
+2711,Italian BA,意大利语（BA）,bachelor,1,https://courses.leeds.ac.uk/i990/italian-ba
+2711,Japanese BA,日语（BA）,bachelor,1,https://courses.leeds.ac.uk/417/japanese-ba
+2711,Japanese and Russian BA,日语与俄语（BA）,bachelor,1,https://courses.leeds.ac.uk/j946/japanese-and-russian-ba
+2711,Journalism BA,新闻学（BA）,bachelor,1,https://courses.leeds.ac.uk/j925/journalism-ba
+2711,Law (Graduate Programme) LLB,法学 （研究生项目）（LLB）,bachelor,1,https://courses.leeds.ac.uk/j771/law-graduate-programme-llb
+2711,Law LLB,法学（LLB）,bachelor,1,https://courses.leeds.ac.uk/3010/law-llb
+2711,Law with French Law LLB,法学（法语法学方向）（LLB）,bachelor,1,https://courses.leeds.ac.uk/g602/law-with-french-law-llb
+2711,Law with German Law LLB,法学（德语法学方向）（LLB）,bachelor,1,https://courses.leeds.ac.uk/g946/law-with-german-law-llb
+2711,Law with Hispanic Law LLB,法学（西语法系法方向）（LLB）,bachelor,1,https://courses.leeds.ac.uk/g947/law-with-hispanic-law-llb
+2711,Learning and Teaching with SEND BA,学习与教学（特殊教育需要与残障（SEND）方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/j553/learning-and-teaching-with-send-ba
+2711,Liberal Arts BA,博雅艺术（BA）,bachelor,1,https://courses.leeds.ac.uk/g809/liberal-arts-ba
+2711,Linguistics BA,语言学（BA）,bachelor,1,https://courses.leeds.ac.uk/j769/linguistics-ba
+2711,Linguistics and Philosophy BA,语言学与哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/e119/linguistics-and-philosophy-ba
+2711,Marketing BSc,市场营销（BSc）,bachelor,1,https://courses.leeds.ac.uk/k047/marketing-bsc
+2711,Materials Science and Engineering (Industrial) BEng,材料科学与工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/j955/materials-science-and-engineering-industrial-beng
+2711,"Materials Science and Engineering (Industrial) MEng, BEng","材料科学与工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/j999/materials-science-and-engineering-industrial-meng-beng
+2711,Materials Science and Engineering BEng,材料科学与工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/i984/materials-science-and-engineering-beng
+2711,"Materials Science and Engineering MEng, BEng","材料科学与工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/i981/materials-science-and-engineering-meng-beng
+2711,Mathematics BSc,数学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3440/mathematics-bsc
+2711,"Mathematics MMath, BSc","数学（MMath, BSc）",bachelor,1,https://courses.leeds.ac.uk/f417/mathematics-mmath-bsc
+2711,Mathematics and Music BSc,数学与音乐（BSc）,bachelor,1,https://courses.leeds.ac.uk/j645/mathematics-and-music-bsc
+2711,Mathematics and Philosophy BSc,数学与哲学（BSc）,bachelor,1,https://courses.leeds.ac.uk/4586/mathematics-and-philosophy-bsc
+2711,Mathematics and Statistics BSc,数学与统计学（BSc）,bachelor,1,https://courses.leeds.ac.uk/4627/mathematics-and-statistics-bsc
+2711,Mechanical Engineering (Industrial) BEng,机械工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/g894/mechanical-engineering-industrial-beng
+2711,"Mechanical Engineering (Industrial) MEng, BEng","机械工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g289/mechanical-engineering-industrial-meng-beng
+2711,Mechanical Engineering BEng,机械工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/5200/mechanical-engineering-beng
+2711,"Mechanical Engineering MEng, BEng","机械工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f411/mechanical-engineering-meng-beng
+2711,Mechatronics and Robotics Engineering (Industrial) BEng,机电一体化与机器人工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/k003/mechatronics-and-robotics-engineering-industrial-beng
+2711,"Mechatronics and Robotics Engineering (Industrial) MEng, BEng","机电一体化与机器人工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/k002/mechatronics-and-robotics-engineering-industrial-meng-beng
+2711,Mechatronics and Robotics Engineering BEng,机电一体化与机器人工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/j914/mechatronics-and-robotics-engineering-beng
+2711,"Mechatronics and Robotics Engineering MEng, BEng","机电一体化与机器人工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/j915/mechatronics-and-robotics-engineering-meng-beng
+2711,Medical Engineering (Industrial) BEng,医学工程（含工业实习）（BEng）,bachelor,1,https://courses.leeds.ac.uk/g931/medical-engineering-industrial-beng
+2711,"Medical Engineering (Industrial) MEng, BEng","医学工程（含工业实习）（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/g342/medical-engineering-industrial-meng-beng
+2711,Medical Engineering BEng,医学工程（BEng）,bachelor,1,https://courses.leeds.ac.uk/a239/medical-engineering-beng
+2711,"Medical Engineering MEng, BEng","医学工程（MEng, BEng）",bachelor,1,https://courses.leeds.ac.uk/f447/medical-engineering-meng-beng
+2711,Medical Ultrasound (Sonography) BSc,医学超声 （超声成像）（BSc）,bachelor,1,https://courses.leeds.ac.uk/j755/medical-ultrasound-sonography-bsc
+2711,Medicinal Chemistry BSc,药用化学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3497/medicinal-chemistry-bsc
+2711,"Medicinal Chemistry MChem, BSc","药用化学（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/f428/medicinal-chemistry-mchem-bsc
+2711,"Medicinal Chemistry with Study Abroad MChem, BSc","药用化学（含海外学习）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/i208/medicinal-chemistry-with-study-abroad-mchem-bsc
+2711,"Medicinal Chemistry with a Year in Industry MChem, BSc","药用化学（含工业实习年）（MChem, BSc）",bachelor,1,https://courses.leeds.ac.uk/f429/medicinal-chemistry-with-a-year-in-industry-mchem-bsc
+2711,Medicine and Surgery MBChB,临床医学（MBChB）,bachelor,1,https://courses.leeds.ac.uk/5580/medicine-and-surgery-mbchb
+2711,Microbiology BSc,微生物学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3500/microbiology-bsc
+2711,"Microbiology MBiol, BSc","微生物学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g266/microbiology-mbiol-bsc
+2711,Middle Eastern Studies and Politics BA,中东研究与政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/a571/middle-eastern-studies-and-politics-ba
+2711,Midwifery (Blended Learning) BSc,助产学 （混合式学习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/h824/midwifery-blended-learning-bsc
+2711,Modern Languages BA,现代语言（BA）,bachelor,1,https://courses.leeds.ac.uk/j036/modern-languages-ba
+2711,Modern Languages and Business BA,现代语言与商业（BA）,bachelor,1,https://courses.leeds.ac.uk/j037/modern-languages-and-business-ba
+2711,Modern Languages and Economics BA,现代语言与经济学（BA）,bachelor,1,https://courses.leeds.ac.uk/j038/modern-languages-and-economics-ba
+2711,Modern Languages and English BA,现代语言与英语（BA）,bachelor,1,https://courses.leeds.ac.uk/j039/modern-languages-and-english-ba
+2711,Modern Languages and Film Studies BA,现代语言与电影研究（BA）,bachelor,1,https://courses.leeds.ac.uk/j040/modern-languages-and-film-studies-ba
+2711,Modern Languages and History BA,现代语言与历史学（BA）,bachelor,1,https://courses.leeds.ac.uk/j041/modern-languages-and-history-ba
+2711,Modern Languages and International Relations BA,现代语言与国际关系（BA）,bachelor,1,https://courses.leeds.ac.uk/j042/modern-languages-and-international-relations-ba
+2711,Modern Languages and Linguistics BA,现代语言与语言学（BA）,bachelor,1,https://courses.leeds.ac.uk/j043/modern-languages-and-linguistics-ba
+2711,Modern Languages and Philosophy BA,现代语言与哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/j044/modern-languages-and-philosophy-ba
+2711,Modern Languages and Politics BA,现代语言与政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/j045/modern-languages-and-politics-ba
+2711,Music (Performance) BMus,音乐 （性能）（BMus）,bachelor,1,https://courses.leeds.ac.uk/j772/music-performance-bmus
+2711,Music BA,音乐（BA）,bachelor,1,https://courses.leeds.ac.uk/a004/music-ba
+2711,Music and Music Psychology BA,音乐与音乐心理学（BA）,bachelor,1,https://courses.leeds.ac.uk/i566/music-and-music-psychology-ba
+2711,Music and Music Technology BA,音乐与音乐技术（BA）,bachelor,1,https://courses.leeds.ac.uk/j543/music-and-music-technology-ba
+2711,Music with Enterprise BA,音乐（企业方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/g549/music-with-enterprise-ba
+2711,"Music, Multimedia and Electronics BSc",音乐、多媒体与电子（BSc）,bachelor,1,https://courses.leeds.ac.uk/a617/music-multimedia-and-electronics-bsc
+2711,Natural Sciences (International) BSc,自然科学 （国际）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g218/natural-sciences-international-bsc
+2711,"Natural Sciences (International) MNatSc, BSc","自然科学 （国际）（MNatSc, BSc）",bachelor,1,https://courses.leeds.ac.uk/j071/natural-sciences-international-mnatsc-bsc
+2711,Natural Sciences (with Industrial Experience) BSc,自然科学（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/i676/natural-sciences-with-industrial-experience-bsc
+2711,"Natural Sciences (with Industrial Experience) MNatSc, BSc","自然科学（含工业实习）（MNatSc, BSc）",bachelor,1,https://courses.leeds.ac.uk/i039/natural-sciences-with-industrial-experience-mnatsc-bsc
+2711,Natural Sciences BSc,自然科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f068/natural-sciences-bsc
+2711,"Natural Sciences BSc, MNatSc","自然科学（BSc, MNatSc）",bachelor,1,https://courses.leeds.ac.uk/f440/natural-sciences-bsc-mnatsc
+2711,Neuroscience BSc,神经科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3539/neuroscience-bsc
+2711,"Neuroscience MBiol, BSc","神经科学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g269/neuroscience-mbiol-bsc
+2711,Nursing (Adult) BSc,护理学 （成人）（BSc）,bachelor,1,https://courses.leeds.ac.uk/h820/nursing-adult-bsc
+2711,Nursing (Child) BSc,护理学 （儿童）（BSc）,bachelor,1,https://courses.leeds.ac.uk/h819/nursing-child-bsc
+2711,Nursing (Mental Health) BSc,护理学 （精神健康健康）（BSc）,bachelor,1,https://courses.leeds.ac.uk/h818/nursing-mental-health-bsc
+2711,Nursing Associate (Apprenticeship) FD,护理助理（学徒制）（FD）,bachelor,1,https://courses.leeds.ac.uk/ap06/nursing-associate-apprenticeship-fd
+2711,Nutrition BSc,营养学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f666/nutrition-bsc
+2711,"Nutrition MSci, BSc","营养学（MSci, BSc）",bachelor,1,https://courses.leeds.ac.uk/i258/nutrition-msci-bsc
+2711,Pharmacology BSc,药理学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3560/pharmacology-bsc
+2711,"Pharmacology MBiol, BSc","药理学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g270/pharmacology-mbiol-bsc
+2711,Philosophy BA,哲学（BA）,bachelor,1,https://courses.leeds.ac.uk/510/philosophy-ba
+2711,Philosophy and Politics BA,哲学与政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/2120/philosophy-and-politics-ba
+2711,"Philosophy, Ethics and Religion BA",哲学、伦理与宗教（BA）,bachelor,1,https://courses.leeds.ac.uk/g184/philosophy-ethics-and-religion-ba
+2711,"Philosophy, Politics and Economics BA",哲学、政治与经济学（PPE）（BA）,bachelor,1,https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba
+2711,"Philosophy, Psychology and Scientific Thought BA",哲学、心理学与科学思想（BA）,bachelor,1,https://courses.leeds.ac.uk/g075/philosophy-psychology-and-scientific-thought-ba
+2711,Physics (Industrial) BSc,物理学（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/3631/physics-industrial-bsc
+2711,"Physics (Industrial) MPhys, BSc","物理学（含工业实习）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/g512/physics-industrial-mphys-bsc
+2711,Physics (International) BSc,物理学 （国际）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g976/physics-international-bsc
+2711,"Physics (International) MPhys, BSc","物理学 （国际）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/g380/physics-international-mphys-bsc
+2711,Physics BSc,物理学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3580/physics-bsc
+2711,"Physics MPhys, BSc","物理学（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/f332/physics-mphys-bsc
+2711,Physics with Artificial Intelligence (Industrial) BSc,物理学（人工智能方向）（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k058/physics-with-artificial-intelligence-industrial-bsc
+2711,"Physics with Artificial Intelligence (Industrial) MPhys, BSc","物理学（人工智能方向）（含工业实习）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/k060/physics-with-artificial-intelligence-industrial-mphys-bsc
+2711,Physics with Artificial Intelligence (International) BSc,物理学（人工智能 （国际）方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k059/physics-with-artificial-intelligence-international-bsc
+2711,"Physics with Artificial Intelligence (International) MPhys, BSc","物理学（人工智能 （国际）方向）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/k061/physics-with-artificial-intelligence-international-mphys-bsc
+2711,Physics with Artificial Intelligence BSc,物理学（人工智能方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/k050/physics-with-artificial-intelligence-bsc
+2711,"Physics with Artificial Intelligence MPhys, BSc","物理学（人工智能方向）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/k051/physics-with-artificial-intelligence-mphys-bsc
+2711,Physics with Astrophysics (Industrial) BSc,物理学（天体物理方向）（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/3632/physics-with-astrophysics-industrial-bsc
+2711,"Physics with Astrophysics (Industrial) MPhys, BSc","物理学（天体物理方向）（含工业实习）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/i587/physics-with-astrophysics-industrial-mphys-bsc
+2711,Physics with Astrophysics (International) BSc,物理学（天体物理 （国际）方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g977/physics-with-astrophysics-international-bsc
+2711,"Physics with Astrophysics (International) MPhys, BSc","物理学（天体物理 （国际）方向）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/g381/physics-with-astrophysics-international-mphys-bsc
+2711,Physics with Astrophysics BSc,物理学（天体物理方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/3600/physics-with-astrophysics-bsc
+2711,"Physics with Astrophysics MPhys, BSc","物理学（天体物理方向）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/f334/physics-with-astrophysics-mphys-bsc
+2711,Politics BA,政治学（BA）,bachelor,1,https://courses.leeds.ac.uk/f552/politics-ba
+2711,Primary Education with Qualified Teacher Status (5-11) BA,小学教育（合格教师资格 （5-11）方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/k052/primary-education-with-qualified-teacher-status-5-11-ba
+2711,Product Design (Industrial) BSc,产品设计（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g893/product-design-industrial-bsc
+2711,Product Design BSc,产品设计（BSc）,bachelor,1,https://courses.leeds.ac.uk/a602/product-design-bsc
+2711,Professional Studies BA,专业研究（BA）,bachelor,1,https://courses.leeds.ac.uk/g835/professional-studies-ba
+2711,Psychology BSc,心理学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3670/psychology-bsc
+2711,Psychology with Education BSc,心理学（教育方向）（BSc）,bachelor,1,https://courses.leeds.ac.uk/i427/psychology-with-education-bsc
+2711,"Religion, Theology and Society BA",宗教、神学与社会（BA）,bachelor,1,https://courses.leeds.ac.uk/j939/religion-theology-and-society-ba
+2711,"Social Policy, Sociology & Crime BSc",社会政策、社会学与犯罪研究（BSc）,bachelor,1,https://courses.leeds.ac.uk/j476/social-policy-sociology-crime-bsc
+2711,Social Science (foundation year) BA,社会科学（含预科年）（BA）,bachelor,1,https://courses.leeds.ac.uk/a926/social-science-foundation-year-ba
+2711,Social Work BA,社会工作/实习（BA）,bachelor,1,https://courses.leeds.ac.uk/h810/social-work-ba
+2711,Social and Political Sciences BSc,社会与政治科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/j441/social-and-political-sciences-bsc
+2711,Sociology BA,社会学（BA）,bachelor,1,https://courses.leeds.ac.uk/580/sociology-ba
+2711,Spanish BA,西班牙语（BA）,bachelor,1,https://courses.leeds.ac.uk/f044/spanish-ba
+2711,"Spanish, Portuguese and Latin American Studies BA",西班牙语、葡萄牙语与拉丁语美国研究（BA）,bachelor,1,https://courses.leeds.ac.uk/f881/spanish-portuguese-and-latin-american-studies-ba
+2711,Sport and Exercise Sciences BSc,体育与运动科学（BSc）,bachelor,1,https://courses.leeds.ac.uk/f003/sport-and-exercise-sciences-bsc
+2711,Studies in Science with Foundation Year BSc,研究科学（含预科年）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g521/studies-in-science-with-foundation-year-bsc
+2711,Sustainability and Environmental Management BSc,可持续发展与环境管理（BSc）,bachelor,1,https://courses.leeds.ac.uk/g004/sustainability-and-environmental-management-bsc
+2711,Sustainable Fashion BA,可持续时尚（BA）,bachelor,1,https://courses.leeds.ac.uk/j391/sustainable-fashion-ba
+2711,Textile Innovation and Sustainability BSc,纺织创新与可持续发展（BSc）,bachelor,1,https://courses.leeds.ac.uk/j761/textile-innovation-and-sustainability-bsc
+2711,Thai Studies BA,泰语研究（BA）,bachelor,1,https://courses.leeds.ac.uk/g727/thai-studies-ba
+2711,Theatre and Performance BA,戏剧与性能（BA）,bachelor,1,https://courses.leeds.ac.uk/f007/theatre-and-performance-ba
+2711,Theatre and Performance with Enterprise BA,戏剧与性能（企业方向）（BA）,bachelor,1,https://courses.leeds.ac.uk/i264/theatre-and-performance-with-enterprise-ba
+2711,Theoretical Physics (Industrial) BSc,理论物理学（含工业实习）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g959/theoretical-physics-industrial-bsc
+2711,"Theoretical Physics (Industrial) MPhys, BSc","理论物理学（含工业实习）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/g898/theoretical-physics-industrial-mphys-bsc
+2711,Theoretical Physics (International) BSc,理论物理 （国际）（BSc）,bachelor,1,https://courses.leeds.ac.uk/g978/theoretical-physics-international-bsc
+2711,"Theoretical Physics (International) MPhys, BSc","理论物理 （国际）（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/g383/theoretical-physics-international-mphys-bsc
+2711,Theoretical Physics BSc,理论物理学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3686/theoretical-physics-bsc
+2711,"Theoretical Physics MPhys, BSc","理论物理学（MPhys, BSc）",bachelor,1,https://courses.leeds.ac.uk/f400/theoretical-physics-mphys-bsc
+2711,Zoology BSc,动物学（BSc）,bachelor,1,https://courses.leeds.ac.uk/3690/zoology-bsc
+2711,"Zoology MBiol, BSc","动物学（MBiol, BSc）",bachelor,1,https://courses.leeds.ac.uk/g273/zoology-mbiol-bsc
+2711,Zoology in Relation to Medicine and Veterinary Science BSc,动物学（与医学与兽医科学相关）（BSc）,bachelor,1,https://courses.leeds.ac.uk/e057/zoology-in-relation-to-medicine-and-veterinary-science-bsc
+2711,AI Ethics and Society MSc,人工智能伦理与社会（MSc）,master,1,https://courses.leeds.ac.uk/k164/ai-ethics-and-society-msc
+2711,Accounting and Finance MSc,会计与金融（MSc）,master,1,https://courses.leeds.ac.uk/f921/accounting-and-finance-msc
+2711,Advanced Chemical Engineering MSc,高级化学工程（MSc）,master,1,https://courses.leeds.ac.uk/i239/advanced-chemical-engineering-msc
+2711,Advanced Clinical Practice (Apprenticeship) MSc,高级临床实践（学徒制）（MSc）,master,1,https://courses.leeds.ac.uk/ap11/advanced-clinical-practice-apprenticeship-msc
+2711,Advanced Clinical Practice MSc,高级临床实践（MSc）,master,1,https://courses.leeds.ac.uk/h811/advanced-clinical-practice-msc
+2711,Advanced Computer Science (Artificial Intelligence) MSc,高级计算机科学 （人工智能）（MSc）,master,1,https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc
+2711,Advanced Computer Science (Cloud Computing) MSc,高级计算机科学 （云计算）（MSc）,master,1,https://courses.leeds.ac.uk/g313/advanced-computer-science-cloud-computing-msc
+2711,Advanced Computer Science (Data Analytics) MSc,高级计算机科学 （数据分析）（MSc）,master,1,https://courses.leeds.ac.uk/g314/advanced-computer-science-data-analytics-msc
+2711,Advanced Computer Science MSc,高级计算机科学（MSc）,master,1,https://courses.leeds.ac.uk/f753/advanced-computer-science-msc
+2711,Advanced Manufacturing and Automation MSc,先进制造与自动化（MSc）,master,1,https://courses.leeds.ac.uk/k068/advanced-manufacturing-and-automation-msc
+2711,Advanced Mechanical Engineering MSc (Eng),高级机械工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/f360/advanced-mechanical-engineering-msc-eng-
+2711,Advertising and Design MA,广告与设计（MA）,master,1,https://courses.leeds.ac.uk/f296/advertising-and-design-ma
+2711,Aerospace Engineering MSc,航天工程（MSc）,master,1,https://courses.leeds.ac.uk/g600/aerospace-engineering-msc
+2711,Applied Psychology of Music MA,应用心理学音乐（MA）,master,1,https://courses.leeds.ac.uk/g533/applied-psychology-of-music-ma
+2711,Applied Theatre and Social Change MA,应用戏剧与社会变革（MA）,master,1,https://courses.leeds.ac.uk/j845/applied-theatre-and-social-change-ma
+2711,Applied Translation Studies MA,应用翻译研究（MA）,master,1,https://courses.leeds.ac.uk/8257/applied-translation-studies-ma
+2711,Applied and Professional Ethics MA,应用与专业伦理（MA）,master,1,https://courses.leeds.ac.uk/f847/applied-and-professional-ethics-ma
+2711,Applied and Professional Ethics PGDip,应用与专业伦理（PGDip）,master,1,https://courses.leeds.ac.uk/f849/applied-and-professional-ethics-pgdip
+2711,Architecture Design MSc,建筑学设计（MSc）,master,1,https://courses.leeds.ac.uk/j928/architecture-design-msc
+2711,Architecture MArch,建筑学（MArch）,master,1,https://courses.leeds.ac.uk/j929/architecture-march
+2711,Art Gallery and Museum Studies MA,艺术美术馆与博物馆研究（MA）,master,1,https://courses.leeds.ac.uk/a241/art-gallery-and-museum-studies-ma
+2711,Artificial Intelligence (online) MSc,人工智能（在线）（MSc）,master,1,https://courses.leeds.ac.uk/d995/artificial-intelligence-online-msc
+2711,Artificial Intelligence (online) PGCert,人工智能（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/d997/artificial-intelligence-online-pgcert
+2711,Arts Fundraising and Philanthropy PGCert,艺术筹款与慈善事业（PGCert）,master,1,https://courses.leeds.ac.uk/g739/arts-fundraising-and-philanthropy-pgcert
+2711,Arts Management and Heritage Studies MA,艺术管理与文化遗产研究（MA）,master,1,https://courses.leeds.ac.uk/g646/arts-management-and-heritage-studies-ma
+2711,Astrophysics MSc,天体物理学（MSc）,master,1,https://courses.leeds.ac.uk/j790/astrophysics-msc
+2711,"Audiences, Engagement, Participation MA",受众、互动与参与（MA）,master,1,https://courses.leeds.ac.uk/i521/audiences-engagement-participation-ma
+2711,"Audiences, Engagement, Participation PGCert",受众、互动与参与（PGCert）,master,1,https://courses.leeds.ac.uk/i525/audiences-engagement-participation-pgcert
+2711,"Audiences, Engagement, Participation PGDip",受众、互动与参与（PGDip）,master,1,https://courses.leeds.ac.uk/i523/audiences-engagement-participation-pgdip
+2711,Audiovisual Translation and Localisation MA,视听翻译与本地化（MA）,master,1,https://courses.leeds.ac.uk/j548/audiovisual-translation-and-localisation-ma
+2711,Automotive Engineering MSc (Eng),汽车工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/8665/automotive-engineering-msc-eng-
+2711,Banking and International Finance MSc,银行与国际金融（MSc）,master,1,https://courses.leeds.ac.uk/g146/banking-and-international-finance-msc
+2711,Biodiversity and Conservation MSc,生物多样性与保护（MSc）,master,1,https://courses.leeds.ac.uk/x006/biodiversity-and-conservation-msc
+2711,Biodiversity and Conservation with African Field Course MSc,生物多样性与保护（含非洲野外课程）（MSc）,master,1,https://courses.leeds.ac.uk/g363/biodiversity-and-conservation-with-african-field-course-msc
+2711,Biomedical and Healthcare Ethics MA,生物医学与医疗健康伦理（MA）,master,1,https://courses.leeds.ac.uk/g607/biomedical-and-healthcare-ethics-ma
+2711,Biomedical and Healthcare Ethics PGDip,生物医学与医疗健康伦理（PGDip）,master,1,https://courses.leeds.ac.uk/g609/biomedical-and-healthcare-ethics-pgdip
+2711,Biopharmaceutical Development (Industrial Placement) MSc,生物制药开发（含工业实习）（MSc）,master,1,https://courses.leeds.ac.uk/i921/biopharmaceutical-development-industrial-placement-msc
+2711,Biopharmaceutical Development MSc,生物制药开发（MSc）,master,1,https://courses.leeds.ac.uk/i922/biopharmaceutical-development-msc
+2711,Bioscience MSc,生物科学（MSc）,master,1,https://courses.leeds.ac.uk/a990/bioscience-msc
+2711,Biotechnology with Business Enterprise MSc,生物技术（商业企业方向）（MSc）,master,1,https://courses.leeds.ac.uk/j480/biotechnology-with-business-enterprise-msc
+2711,Business Analytics and Decision Sciences MSc,商业分析与决策科学（MSc）,master,1,https://courses.leeds.ac.uk/g503/business-analytics-and-decision-sciences-msc
+2711,Cardiac Device and Rhythm Management PGCert,心脏器械与心律管理（PGCert）,master,1,https://courses.leeds.ac.uk/i414/cardiac-device-and-rhythm-management-pgcert
+2711,Cardiovascular Health and Disease MSc,心血管健康与疾病（MSc）,master,1,https://courses.leeds.ac.uk/202627/j650/cardiovascular-health-and-disease-msc
+2711,Chemistry MSc,化学（MSc）,master,1,https://courses.leeds.ac.uk/i588/chemistry-msc
+2711,Childhood Studies MA,儿童研究（MA）,master,1,https://courses.leeds.ac.uk/g573/childhood-studies-ma
+2711,Classics and Ancient History MA,古典学与古代史（MA）,master,1,https://courses.leeds.ac.uk/k149/classics-and-ancient-history-ma
+2711,"Climate Change: Science, Society and Policy MSc",气候变化: 科学、社会与政策（MSc）,master,1,https://courses.leeds.ac.uk/k174/climate-change-science-society-and-policy-msc
+2711,Climate and Atmospheric Science MRes,气候与大气科学（MRes）,master,1,https://courses.leeds.ac.uk/g223/climate-and-atmospheric-science-mres
+2711,Clinical Education (online) PGCert,临床教育（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/d070/clinical-education-online-pgcert
+2711,Clinical Education MEd,临床教育（MEd）,master,1,https://courses.leeds.ac.uk/c020/clinical-education-med
+2711,Clinical Education PGCert,临床教育（PGCert）,master,1,https://courses.leeds.ac.uk/c023/clinical-education-pgcert
+2711,Clinical Education PGDip,临床教育（PGDip）,master,1,https://courses.leeds.ac.uk/f635/clinical-education-pgdip
+2711,Clinical Embryology MSc,临床胚胎学（MSc）,master,1,https://courses.leeds.ac.uk/d027/clinical-embryology-msc
+2711,Clinical Embryology PGDip,临床胚胎学（PGDip）,master,1,https://courses.leeds.ac.uk/d321/clinical-embryology-pgdip
+2711,Clinical Embryology and Assisted Reproduction Technology MSc,临床胚胎学与辅助生殖技术（MSc）,master,1,https://courses.leeds.ac.uk/g634/clinical-embryology-and-assisted-reproduction-technology-msc
+2711,Clinical Embryology and Assisted Reproduction Technology PGDip,临床胚胎学与辅助生殖技术（PGDip）,master,1,https://courses.leeds.ac.uk/g635/clinical-embryology-and-assisted-reproduction-technology-pgdip
+2711,Cognitive Development and Disorders MSc,认知发展与疾病（MSc）,master,1,https://courses.leeds.ac.uk/i086/cognitive-development-and-disorders-msc
+2711,Communication and Media MA,传播与媒体（MA）,master,1,https://courses.leeds.ac.uk/g636/communication-and-media-ma
+2711,Communications and Signal Processing MSc (Eng),传播与信号处理 MSc （工程）,master,1,https://courses.leeds.ac.uk/g235/communications-and-signal-processing-msc-eng-
+2711,Conference Interpreting PGDip,会议口译（PGDip）,master,1,https://courses.leeds.ac.uk/i412/conference-interpreting-pgdip
+2711,Conference Interpreting and Translation Studies MA,会议口译与翻译研究（MA）,master,1,https://courses.leeds.ac.uk/i411/conference-interpreting-and-translation-studies-ma
+2711,"Conflict, Development and Peacebuilding MA",冲突、发展与和平建设（MA）,master,1,https://courses.leeds.ac.uk/j683/conflict-development-and-peacebuilding-ma
+2711,Consumer Analytics and Marketing Strategy MSc,消费者分析与市场营销战略（MSc）,master,1,https://courses.leeds.ac.uk/g963/consumer-analytics-and-marketing-strategy-msc
+2711,"Corporate Communications, Marketing and Public Relations MA",企业传播、市场营销与公共关系（MA）,master,1,https://courses.leeds.ac.uk/g921/corporate-communications-marketing-and-public-relations-ma
+2711,Creative Writing MA,创意写作（MA）,master,1,https://courses.leeds.ac.uk/j704/creative-writing-ma
+2711,Criminal Justice and Criminal Law LLM,刑事司法与刑法（LLM）,master,1,https://courses.leeds.ac.uk/g665/criminal-justice-and-criminal-law-llm
+2711,Criminal Justice and Criminology MSc,刑事司法与犯罪学（MSc）,master,1,https://courses.leeds.ac.uk/i129/criminal-justice-and-criminology-msc
+2711,Critical and Cultural Theory MA,批判与文化理论（MA）,master,1,https://courses.leeds.ac.uk/g528/critical-and-cultural-theory-ma
+2711,Critical and Experimental Composition MMus,批判与实验作曲（MMus）,master,1,https://courses.leeds.ac.uk/g523/critical-and-experimental-composition-mmus
+2711,"Culture, Creativity and Entrepreneurship MA",文化、创意与创业（MA）,master,1,https://courses.leeds.ac.uk/f018/culture-creativity-and-entrepreneurship-ma
+2711,Data Analytics and Human Resource Management MSc,数据分析与人力资源管理（MSc）,master,1,https://courses.leeds.ac.uk/i693/data-analytics-and-human-resource-management-msc
+2711,Data Science (Statistics) MSc,数据科学 （统计学）（MSc）,master,1,https://courses.leeds.ac.uk/d053/data-science-statistics-msc
+2711,Data Science and Analytics MSc,数据科学与分析（MSc）,master,1,https://courses.leeds.ac.uk/i071/data-science-and-analytics-msc
+2711,Data Science and Analytics for Health MRes,数据科学与分析（健康方向）（MRes）,master,1,https://courses.leeds.ac.uk/i927/data-science-and-analytics-for-health-mres
+2711,Deaf Education (Teacher of the Deaf Qualification) MA,聋人教育 （聋人教师资格）（MA）,master,1,https://courses.leeds.ac.uk/d329/deaf-education-teacher-of-the-deaf-qualification-ma
+2711,Deaf Education (Teacher of the Deaf Qualification) PGDip,聋人教育 （聋人教师资格）（PGDip）,master,1,https://courses.leeds.ac.uk/d330/deaf-education-teacher-of-the-deaf-qualification-pgdip
+2711,Dental Materials MSc,牙科/口腔材料（MSc）,master,1,https://courses.leeds.ac.uk/i585/dental-materials-msc
+2711,Dental Public Health MSc,牙科公共卫生（MSc）,master,1,https://courses.leeds.ac.uk/g579/dental-public-health-msc
+2711,Design MA,设计（MA）,master,1,https://courses.leeds.ac.uk/a672/design-ma
+2711,Digital Design Futures MA,数字设计未来（MA）,master,1,https://courses.leeds.ac.uk/j440/digital-design-futures-ma
+2711,Digital Humanities and Culture MA,数字人文与文化（MA）,master,1,https://courses.leeds.ac.uk/k087/digital-humanities-and-culture-ma
+2711,Digital Media MA,数字媒体（MA）,master,1,https://courses.leeds.ac.uk/j692/digital-media-ma
+2711,Digital and Automated Chemistry MSc,数字与自动化化学（MSc）,master,1,https://courses.leeds.ac.uk/j927/digital-and-automated-chemistry-msc
+2711,"Disability Studies, Rights and Inclusion (online) MSc",残障研究、权利与融合（在线）（MSc）,master,1,https://courses.leeds.ac.uk/d326/disability-studies-rights-and-inclusion-online-msc
+2711,"Disability Studies, Rights and Inclusion (online) PGCert",残障研究、权利与融合（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/d328/disability-studies-rights-and-inclusion-online-pgcert
+2711,"Disability Studies, Rights and Inclusion (online) PGDip",残障研究、权利与融合（在线）（PGDip）,master,1,https://courses.leeds.ac.uk/d327/disability-studies-rights-and-inclusion-online-pgdip
+2711,Drug Discovery and Development MSc,药物发现与发展（MSc）,master,1,https://courses.leeds.ac.uk/j478/drug-discovery-and-development-msc
+2711,Ecological Economics MSc,生态经济学（MSc）,master,1,https://courses.leeds.ac.uk/g867/ecological-economics-msc
+2711,Economics MSc,经济学（MSc）,master,1,https://courses.leeds.ac.uk/f922/economics-msc
+2711,Economics and Finance MSc,经济学与金融（MSc）,master,1,https://courses.leeds.ac.uk/f920/economics-and-finance-msc
+2711,Education MA,教育（MA）,master,1,https://courses.leeds.ac.uk/a591/education-ma
+2711,Electrical Engineering and Renewable Energy Systems MSc (Eng),电气工程与可再生能源系统 MSc （工程）,master,1,https://courses.leeds.ac.uk/f322/electrical-engineering-and-renewable-energy-systems-msc-eng-
+2711,Electronic and Electrical Engineering MSc (Eng),电子与电气工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/f054/electronic-and-electrical-engineering-msc-eng-
+2711,Embedded Systems Engineering MSc (Eng),嵌入式系统工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/f310/embedded-systems-engineering-msc-eng-
+2711,Energy and Environmental Engineering MSc,能源与环境工程（MSc）,master,1,https://courses.leeds.ac.uk/j984/energy-and-environmental-engineering-msc
+2711,Engineering Geology MSc,工程地质学（MSc）,master,1,https://courses.leeds.ac.uk/8290/engineering-geology-msc
+2711,Engineering Management (online) MSc,工程管理（在线）（MSc）,master,1,https://courses.leeds.ac.uk/d974/engineering-management-online-msc
+2711,Engineering Management (online) PGCert,工程管理（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/d989/engineering-management-online-pgcert
+2711,Engineering Project Management MSc (Eng),工程项目管理 MSc （工程）,master,1,https://courses.leeds.ac.uk/e430/engineering-project-management-msc-eng-
+2711,"Engineering, Technology and Business Management MSc (Eng)",工程、技术与工商管理 MSc （工程）,master,1,https://courses.leeds.ac.uk/g489/engineering-technology-and-business-management-msc-eng-
+2711,English Literature MA,英语文学（MA）,master,1,https://courses.leeds.ac.uk/7360/english-literature-ma
+2711,Enterprise and Entrepreneurship MSc,企业与创业（MSc）,master,1,https://courses.leeds.ac.uk/g183/enterprise-and-entrepreneurship-msc
+2711,Environmental Data Science and Analytics MSc,环境数据科学与分析（MSc）,master,1,https://courses.leeds.ac.uk/j838/environmental-data-science-and-analytics-msc
+2711,Environmental Engineering and Project Management MSc (Eng),环境工程与项目管理 MSc （工程）,master,1,https://courses.leeds.ac.uk/8768/environmental-engineering-and-project-management-msc-eng-
+2711,Environmental Science MSc,环境科学（MSc）,master,1,https://courses.leeds.ac.uk/j969/environmental-science-msc
+2711,Exploration Geophysics MSc,勘探地球物理（MSc）,master,1,https://courses.leeds.ac.uk/8310/exploration-geophysics-msc
+2711,"Fashion, Enterprise and Society MA",时尚、企业与社会（MA）,master,1,https://courses.leeds.ac.uk/g162/fashion-enterprise-and-society-ma
+2711,Film Studies MA,电影研究（MA）,master,1,https://courses.leeds.ac.uk/i898/film-studies-ma
+2711,"Film, Photography and Media MA",电影、摄影与媒体（MA）,master,1,https://courses.leeds.ac.uk/g638/film-photography-and-media-ma
+2711,Finance and Investment MSc,金融与投资（MSc）,master,1,https://courses.leeds.ac.uk/f840/finance-and-investment-msc
+2711,Financial Mathematics MSc,金融数学（MSc）,master,1,https://courses.leeds.ac.uk/e383/financial-mathematics-msc
+2711,Financial Risk Management MSc,金融风险管理（MSc）,master,1,https://courses.leeds.ac.uk/f839/financial-risk-management-msc
+2711,Fine Art MA,纯艺术（MA）,master,1,https://courses.leeds.ac.uk/a243/fine-art-ma
+2711,Food Product Innovation MSc,食品产品创新（MSc）,master,1,https://courses.leeds.ac.uk/j816/food-product-innovation-msc
+2711,Food Science (Food Biotechnology) MSc,食品科学 （食品生物技术）（MSc）,master,1,https://courses.leeds.ac.uk/8341/food-science-food-biotechnology-msc
+2711,Food Science MSc,食品科学（MSc）,master,1,https://courses.leeds.ac.uk/8320/food-science-msc
+2711,Food Science and Nutrition MSc,食品科学与营养学（MSc）,master,1,https://courses.leeds.ac.uk/e811/food-science-and-nutrition-msc
+2711,Full Time MBA MBA,全日制MBA（MBA）,master,1,https://courses.leeds.ac.uk/a992/full-time-mba
+2711,Gender Studies MA,性别研究（MA）,master,1,https://courses.leeds.ac.uk/7395/gender-studies-ma
+2711,Genomic Medicine with Data Science (online) MSc,基因组医学（数据科学方向）（在线）（MSc）,master,1,https://courses.leeds.ac.uk/d065/genomic-medicine-with-data-science-online-msc
+2711,Genomic Medicine with Data Science (online) PGCert,基因组医学（数据科学方向）（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/d067/genomic-medicine-with-data-science-online-pgcert
+2711,Geographical Information Science MSc,地理信息科学（MSc）,master,1,https://courses.leeds.ac.uk/j965/geographical-information-science-msc
+2711,Geotechnical Engineering Degree Apprenticeship MSc,岩土工程学位学徒制（MSc）,master,1,https://courses.leeds.ac.uk/ap15/geotechnical-engineering-degree-apprenticeship-msc
+2711,Geotechnical Engineering MSc (Eng),岩土工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/i581/geotechnical-engineering-msc-eng-
+2711,Global Conservation Science MSc,全球保护科学（MSc）,master,1,https://courses.leeds.ac.uk/j479/global-conservation-science-msc
+2711,Global Development MA,全球发展（MA）,master,1,https://courses.leeds.ac.uk/f823/global-development-ma
+2711,Global Development and Education MA,全球发展与教育（MA）,master,1,https://courses.leeds.ac.uk/f825/global-development-and-education-ma
+2711,Global Fashion Management MA,全球时尚管理（MA）,master,1,https://courses.leeds.ac.uk/i216/global-fashion-management-ma
+2711,Global Governance and Diplomacy MA,全球治理与外交（MA）,master,1,https://courses.leeds.ac.uk/i628/global-governance-and-diplomacy-ma
+2711,Global Health (online) MSc,全球健康（在线）（MSc）,master,1,https://courses.leeds.ac.uk/k072/global-health-online-msc
+2711,Global Health (online) PGCert,全球健康（在线）（PGCert）,master,1,https://courses.leeds.ac.uk/k074/global-health-online-pgcert
+2711,Global Performance and Cultural Industries MA,全球性能与文化产业（MA）,master,1,https://courses.leeds.ac.uk/j137/global-performance-and-cultural-industries-ma
+2711,Global Political Economy MA,全球政治经济（MA）,master,1,https://courses.leeds.ac.uk/j387/global-political-economy-ma
+2711,Global Strategy and Innovation Management MSc,全球战略与创新管理（MSc）,master,1,https://courses.leeds.ac.uk/i285/global-strategy-and-innovation-management-msc
+2711,Global Supply Chain Management MSc,全球供应链管理（MSc）,master,1,https://courses.leeds.ac.uk/g505/global-supply-chain-management-msc
+2711,Health Informatics with Data Science MSc,健康信息学（数据科学方向）（MSc）,master,1,https://courses.leeds.ac.uk/j140/health-informatics-with-data-science-msc
+2711,Health Informatics with Data Science PGCert,健康信息学（数据科学方向）（PGCert）,master,1,https://courses.leeds.ac.uk/j525/health-informatics-with-data-science-pgcert
+2711,Health Informatics with Data Science PGDip,健康信息学（数据科学方向）（PGDip）,master,1,https://courses.leeds.ac.uk/j523/health-informatics-with-data-science-pgdip
+2711,Health Research MSc,健康研究（MSc）,master,1,https://courses.leeds.ac.uk/k015/health-research-msc
+2711,Health Research PGCert,健康研究（PGCert）,master,1,https://courses.leeds.ac.uk/8455/health-research-pgcert
+2711,Health Research PGDip,健康研究（PGDip）,master,1,https://courses.leeds.ac.uk/8456/health-research-pgdip
+2711,High-Performance Graphics and Games Engineering MSc,高性能图形与游戏工程（MSc）,master,1,https://courses.leeds.ac.uk/i070/high-performance-graphics-and-games-engineering-msc
+2711,Human Resource Management MSc,人力资源管理（MSc）,master,1,https://courses.leeds.ac.uk/k194/human-resource-management-msc
+2711,Inclusive and Special Education MA,融合与特殊教育（MA）,master,1,https://courses.leeds.ac.uk/k175/inclusive-and-special-education-ma
+2711,Inequalities and Social Science MSc,不平等与社会科学（MSc）,master,1,https://courses.leeds.ac.uk/i229/inequalities-and-social-science-msc
+2711,"Infection, Immunity and Human Disease MSc",感染、免疫与人类疾病（MSc）,master,1,https://courses.leeds.ac.uk/g813/infection-immunity-and-human-disease-msc
+2711,Intellectual Property Law LLM,知识产权财产/地产法学（LLM）,master,1,https://courses.leeds.ac.uk/f379/intellectual-property-law-llm
+2711,International Banking and Finance Law LLM,国际银行与金融法学（LLM）,master,1,https://courses.leeds.ac.uk/f712/international-banking-and-finance-law-llm
+2711,International Business Law LLM,国际商业法学（LLM）,master,1,https://courses.leeds.ac.uk/e461/international-business-law-llm
+2711,International Business MSc,国际商业（MSc）,master,1,https://courses.leeds.ac.uk/e763/international-business-msc
+2711,International Communication MA,国际传播（MA）,master,1,https://courses.leeds.ac.uk/7155/international-communication-ma
+2711,International Construction Management and Engineering MSc (Eng),国际建设管理与工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/8810/international-construction-management-and-engineering-msc-eng-
+2711,International Corporate Law LLM,国际企业法学（LLM）,master,1,https://courses.leeds.ac.uk/f375/international-corporate-law-llm
+2711,International Health MSc,国际健康（MSc）,master,1,https://courses.leeds.ac.uk/f408/international-health-msc
+2711,International History MA,国际历史学（MA）,master,1,https://courses.leeds.ac.uk/j803/international-history-ma
+2711,International Human Rights Law LLM,国际人类权利法学（LLM）,master,1,https://courses.leeds.ac.uk/i325/international-human-rights-law-llm
+2711,International Journalism MA,国际新闻学（MA）,master,1,https://courses.leeds.ac.uk/e135/international-journalism-ma
+2711,International Law and Global Governance LLM,国际法学与全球治理（LLM）,master,1,https://courses.leeds.ac.uk/i889/international-law-and-global-governance-llm
+2711,International Marketing Management MSc,国际市场营销管理（MSc）,master,1,https://courses.leeds.ac.uk/7652/international-marketing-management-msc
+2711,International Relations MA,国际关系（MA）,master,1,https://courses.leeds.ac.uk/f819/international-relations-ma
+2711,International Security MA,国际安全（MA）,master,1,https://courses.leeds.ac.uk/k144/international-security-ma
+2711,International Trade Law LLM,国际贸易法学（LLM）,master,1,https://courses.leeds.ac.uk/e775/international-trade-law-llm
+2711,Language for Arts and Humanities ND,语言（艺术与人文方向）（ND）,master,1,https://courses.leeds.ac.uk/i014/language-for-arts-and-humanities
+2711,Language for Business (10 weeks) ND,语言（商业 （10 周）方向）（ND）,master,1,https://courses.leeds.ac.uk/k023/language-for-business-10-weeks-
+2711,Language for Business (6 weeks) ND,语言（商业 （6 周）方向）（ND）,master,1,https://courses.leeds.ac.uk/k022/language-for-business-6-weeks-
+2711,Language for Communication and Society ND,语言（传播与社会方向）（ND）,master,1,https://courses.leeds.ac.uk/i013/language-for-communication-and-society
+2711,Language for Education ND,语言（教育方向）（ND）,master,1,https://courses.leeds.ac.uk/i016/language-for-education
+2711,Language for Education and Linguistics (6 weeks) ND,语言（教育与语言学 （6 周）方向）（ND）,master,1,https://courses.leeds.ac.uk/k157/language-for-education-and-linguistics-6-weeks-
+2711,Language for Engineering ND,语言（工程方向）（ND）,master,1,https://courses.leeds.ac.uk/i193/language-for-engineering
+2711,Language for Law ND,语言（法学方向）（ND）,master,1,https://courses.leeds.ac.uk/i534/language-for-law
+2711,Language for Politics and Society ND,语言（政治学与社会方向）（ND）,master,1,https://courses.leeds.ac.uk/i669/language-for-politics-and-society
+2711,Language for Postgraduate Research ND,语言（研究生研究方向）（ND）,master,1,https://courses.leeds.ac.uk/i670/language-for-postgraduate-research
+2711,Language for Science ND,语言（科学方向）（ND）,master,1,https://courses.leeds.ac.uk/i204/language-for-science
+2711,Language for Science: Engineering ND,语言（科学: 工程方向）（ND）,master,1,https://courses.leeds.ac.uk/i194/language-for-science-engineering
+2711,Language for Science: General Science ND,语言（科学: 通用/综合科学方向）（ND）,master,1,https://courses.leeds.ac.uk/i203/language-for-science-general-science
+2711,Language for Social Science and Arts: Arts and Humanities ND,语言（社会科学与艺术: 艺术与人文方向）（ND）,master,1,https://courses.leeds.ac.uk/i005/language-for-social-science-and-arts-arts-and-humanities
+2711,Language for Social Science and Arts: Communication and Society ND,语言（社会科学与艺术: 传播与社会方向）（ND）,master,1,https://courses.leeds.ac.uk/i004/language-for-social-science-and-arts-communication-and-society
+2711,Language for Social Science and Arts: Education ND,语言（社会科学与艺术: 教育方向）（ND）,master,1,https://courses.leeds.ac.uk/i007/language-for-social-science-and-arts-education
+2711,Language for Social Science and Arts: Education and Linguistics (10 weeks) ND,语言（社会科学与艺术: 教育与语言学 （10 周）方向）（ND）,master,1,https://courses.leeds.ac.uk/k158/language-for-social-science-and-arts-education-and-linguistics-10-weeks-
+2711,Language for Social Science and Arts: Law ND,语言（社会科学与艺术: 法学方向）（ND）,master,1,https://courses.leeds.ac.uk/i533/language-for-social-science-and-arts-law
+2711,Language for Social Science and Arts: Politics and Society ND,语言（社会科学与艺术: 政治学与社会方向）（ND）,master,1,https://courses.leeds.ac.uk/i668/language-for-social-science-and-arts-politics-and-society
+2711,Law and Finance MSc,法学与金融（MSc）,master,1,https://courses.leeds.ac.uk/g085/law-and-finance-msc
+2711,Law and Social Justice LLM,法学与社会司法（LLM）,master,1,https://courses.leeds.ac.uk/i415/law-and-social-justice-llm
+2711,Linguistics MA,语言学（MA）,master,1,https://courses.leeds.ac.uk/7690/linguistics-ma
+2711,Linguistics for English Language Teaching MA,语言学（英语语言教学方向）（MA）,master,1,https://courses.leeds.ac.uk/j846/linguistics-for-english-language-teaching-ma
+2711,Management Consulting MSc,管理咨询（MSc）,master,1,https://courses.leeds.ac.uk/g962/management-consulting-msc
+2711,Management MSc,管理（MSc）,master,1,https://courses.leeds.ac.uk/a078/management-msc
+2711,Management of Information Systems and Digital Innovation MSc,管理信息系统与数字创新（MSc）,master,1,https://courses.leeds.ac.uk/j796/management-of-information-systems-and-digital-innovation-msc
+2711,Marketing Management with Advertising MSc,市场营销管理（广告方向）（MSc）,master,1,https://courses.leeds.ac.uk/j795/marketing-management-with-advertising-msc
+2711,Materials Science and Engineering MSc,材料科学与工程（MSc）,master,1,https://courses.leeds.ac.uk/g591/materials-science-and-engineering-msc
+2711,Mathematics MSc,数学（MSc）,master,1,https://courses.leeds.ac.uk/f669/mathematics-msc
+2711,Mechatronics and Robotics Engineering MSc(Eng),机电一体化与机器人工程 MSc（工程）,master,1,https://courses.leeds.ac.uk/j916/mechatronics-and-robotics-engineering-msc-eng-
+2711,Media Industries MA,媒体产业（MA）,master,1,https://courses.leeds.ac.uk/f579/media-industries-ma
+2711,Medical Engineering MSc,医学工程（MSc）,master,1,https://courses.leeds.ac.uk/e931/medical-engineering-msc
+2711,Medical Imaging MSc,医学影像（MSc）,master,1,https://courses.leeds.ac.uk/a086/medical-imaging-msc
+2711,Medical Imaging PGCert,医学影像（PGCert）,master,1,https://courses.leeds.ac.uk/a088/medical-imaging-pgcert
+2711,Medical Imaging PGDip,医学影像（PGDip）,master,1,https://courses.leeds.ac.uk/a090/medical-imaging-pgdip
+2711,Medicine MRes,医学（MRes）,master,1,https://courses.leeds.ac.uk/g176/medicine-mres
+2711,Medieval Studies MA,中世纪研究（MA）,master,1,https://courses.leeds.ac.uk/7820/medieval-studies-ma
+2711,Modern History MA,近现代史（MA）,master,1,https://courses.leeds.ac.uk/7885/modern-history-ma
+2711,Molecular Medicine MSc,分子医学（MSc）,master,1,https://courses.leeds.ac.uk/k163/molecular-medicine-msc
+2711,Musculoskeletal Medicine PGCert,肌肉骨骼医学（PGCert）,master,1,https://courses.leeds.ac.uk/d999/musculoskeletal-medicine-pgcert
+2711,Musculoskeletal Ultrasound PGCert,肌肉骨骼超声（PGCert）,master,1,https://courses.leeds.ac.uk/k183/musculoskeletal-ultrasound-pgcert
+2711,Music Management MA,音乐管理（MA）,master,1,https://courses.leeds.ac.uk/j849/music-management-ma
+2711,Music and Data Science MA,音乐与数据科学（MA）,master,1,https://courses.leeds.ac.uk/k133/music-and-data-science-ma
+2711,Music and Wellbeing MA,音乐与福祉（MA）,master,1,https://courses.leeds.ac.uk/i488/music-and-wellbeing-ma
+2711,Music and Wellbeing PGCert,音乐与福祉（PGCert）,master,1,https://courses.leeds.ac.uk/i492/music-and-wellbeing-pgcert
+2711,Music and Wellbeing PGDip,音乐与福祉（PGDip）,master,1,https://courses.leeds.ac.uk/i490/music-and-wellbeing-pgdip
+2711,Musicology MA,音乐学（MA）,master,1,https://courses.leeds.ac.uk/j842/musicology-ma
+2711,Neuroscience MRes,神经科学（MRes）,master,1,https://courses.leeds.ac.uk/i920/neuroscience-mres
+2711,Nutrition MSc,营养学（MSc）,master,1,https://courses.leeds.ac.uk/f884/nutrition-msc
+2711,Online Academic English Presessional (10 weeks) ND,在线学术英语学前 （10 周）（ND）,master,1,https://courses.leeds.ac.uk/j614/online-academic-english-presessional-10-weeks-
+2711,Online Academic English Presessional (6 weeks) ND,在线学术英语学前 （6 周）（ND）,master,1,https://courses.leeds.ac.uk/j615/online-academic-english-presessional-6-weeks-
+2711,Oral Surgery MSc,口腔外科（MSc）,master,1,https://courses.leeds.ac.uk/i603/oral-surgery-msc
+2711,Organizational Psychology and Business MSc,组织心理学与商业（MSc）,master,1,https://courses.leeds.ac.uk/j630/organizational-psychology-and-business-msc
+2711,Performance Design MA,性能设计（MA）,master,1,https://courses.leeds.ac.uk/g699/performance-design-ma
+2711,Performance MMus,性能（MMus）,master,1,https://courses.leeds.ac.uk/7957/performance-mmus
+2711,Performance PGDip,性能（PGDip）,master,1,https://courses.leeds.ac.uk/g298/performance-pgdip
+2711,Pharmacy Practice MSc,药学实践（MSc）,master,1,https://courses.leeds.ac.uk/h390/pharmacy-practice-msc
+2711,Pharmacy Practice PGDip,药学实践（PGDip）,master,1,https://courses.leeds.ac.uk/h391/pharmacy-practice-pgdip
+2711,Philosophy MA,哲学（MA）,master,1,https://courses.leeds.ac.uk/7965/philosophy-ma
+2711,Physics MSc,物理学（MSc）,master,1,https://courses.leeds.ac.uk/i252/physics-msc
+2711,Plant Science and Biotechnology MSc,植物科学与生物技术（MSc）,master,1,https://courses.leeds.ac.uk/g065/plant-science-and-biotechnology-msc
+2711,Political Communication MA,政治传播（MA）,master,1,https://courses.leeds.ac.uk/a920/political-communication-ma
+2711,Political Science MSc,政治科学（MSc）,master,1,https://courses.leeds.ac.uk/i675/political-science-msc
+2711,Postcolonial Studies MA,后殖民研究（MA）,master,1,https://courses.leeds.ac.uk/j841/postcolonial-studies-ma
+2711,Pre-sessional Language for Research: Postgraduate Research ND,预-课程语言（研究: 研究生研究方向）（ND）,master,1,https://courses.leeds.ac.uk/j375/pre-sessional-language-for-research-postgraduate-research
+2711,Pre-sessional Language for Science: Civil Engineering ND,预-课程语言（科学: 土木工程方向）（ND）,master,1,https://courses.leeds.ac.uk/j373/pre-sessional-language-for-science-civil-engineering
+2711,Precision Medicine: Genomic Data Science MSc,精准医学: 基因组数据科学（MSc）,master,1,https://courses.leeds.ac.uk/j679/precision-medicine-genomic-data-science-msc
+2711,Professional Language and Intercultural Studies MA,专业语言与跨文化研究（MA）,master,1,https://courses.leeds.ac.uk/f584/professional-language-and-intercultural-studies-ma
+2711,Promotional Media MA,推广媒体（MA）,master,1,https://courses.leeds.ac.uk/i321/promotional-media-ma
+2711,Psychological Approaches to Health MSc,健康心理学方法（MSc）,master,1,https://courses.leeds.ac.uk/g603/psychological-approaches-to-health-msc
+2711,Public Health (International) MPH,公共卫生 （国际）（MPH）,master,1,https://courses.leeds.ac.uk/i185/public-health-international-mph
+2711,Public Health (International) PGCert,公共卫生 （国际）（PGCert）,master,1,https://courses.leeds.ac.uk/i188/public-health-international-pgcert
+2711,Public Health (International) PGDip,公共卫生 （国际）（PGDip）,master,1,https://courses.leeds.ac.uk/i187/public-health-international-pgdip
+2711,Quantum Technologies MSc,量子技术（MSc）,master,1,https://courses.leeds.ac.uk/k147/quantum-technologies-msc
+2711,"Railway Operations, Management and Policy MSc",铁路运营、管理与政策（MSc）,master,1,https://courses.leeds.ac.uk/i611/railway-operations-management-and-policy-msc
+2711,Religion MA,宗教（MA）,master,1,https://courses.leeds.ac.uk/j546/religion-ma
+2711,Religion PGCert,宗教（PGCert）,master,1,https://courses.leeds.ac.uk/j549/religion-pgcert
+2711,Religion PGDip,宗教（PGDip）,master,1,https://courses.leeds.ac.uk/j551/religion-pgdip
+2711,Science and Technology for Sustainability MSc,科学与技术（可持续发展方向）（MSc）,master,1,https://courses.leeds.ac.uk/j840/science-and-technology-for-sustainability-msc
+2711,Social History of Art MA,社会历史学艺术（MA）,master,1,https://courses.leeds.ac.uk/i336/social-history-of-art-ma
+2711,Social Research MA,社会研究（MA）,master,1,https://courses.leeds.ac.uk/8125/social-research-ma
+2711,Social and Public Policy MA,社会与公共政策（MA）,master,1,https://courses.leeds.ac.uk/8111/social-and-public-policy-ma
+2711,"Society, Culture and Media MA",社会、文化与媒体（MA）,master,1,https://courses.leeds.ac.uk/i094/society-culture-and-media-ma
+2711,Sport and Exercise Medicine MSc,体育与运动医学（MSc）,master,1,https://courses.leeds.ac.uk/i210/sport-and-exercise-medicine-msc
+2711,"Sport, Exercise and Rehabilitation MRes",体育、运动与康复（MRes）,master,1,https://courses.leeds.ac.uk/i980/sport-exercise-and-rehabilitation-mres
+2711,Statistics MSc,统计学（MSc）,master,1,https://courses.leeds.ac.uk/f038/statistics-msc
+2711,Statistics with Applications to Finance MSc,统计学（应用金融方向）（MSc）,master,1,https://courses.leeds.ac.uk/f582/statistics-with-applications-to-finance-msc
+2711,Structural Engineering MSc (Eng),结构工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/f094/structural-engineering-msc-eng-
+2711,Sustainability and Business MSc,可持续发展与商业（MSc）,master,1,https://courses.leeds.ac.uk/g721/sustainability-and-business-msc
+2711,Sustainability and Consultancy MSc,可持续发展与咨询（MSc）,master,1,https://courses.leeds.ac.uk/g723/sustainability-and-consultancy-msc
+2711,Sustainability in Transport MSc,可持续发展交通运输（MSc）,master,1,https://courses.leeds.ac.uk/g816/sustainability-in-transport-msc
+2711,"Sustainability, Environment and Development MSc",可持续发展、环境与发展（MSc）,master,1,https://courses.leeds.ac.uk/j985/sustainability-environment-and-development-msc
+2711,Sustainable Agriculture and Food Production MSc,可持续农业与食品生产（MSc）,master,1,https://courses.leeds.ac.uk/j644/sustainable-agriculture-and-food-production-msc
+2711,Sustainable Business Leadership MSc,可持续商业领导力（MSc）,master,1,https://courses.leeds.ac.uk/d004/sustainable-business-leadership-msc
+2711,Sustainable Business Leadership PGCert,可持续商业领导力（PGCert）,master,1,https://courses.leeds.ac.uk/d005/sustainable-business-leadership-pgcert
+2711,Sustainable Cities MSc,可持续城市（MSc）,master,1,https://courses.leeds.ac.uk/i429/sustainable-cities-msc
+2711,Sustainable Food Systems and Food Security MSc,可持续食品系统与食品安全（MSc）,master,1,https://courses.leeds.ac.uk/j786/sustainable-food-systems-and-food-security-msc
+2711,Systemic Family Therapy MSc,系统性家庭治疗（MSc）,master,1,https://courses.leeds.ac.uk/a792/systemic-family-therapy-msc
+2711,Systemic Practice (Foundation) ND,系统性实践 （预科）（ND）,master,1,https://courses.leeds.ac.uk/i423/systemic-practice-foundation-
+2711,Systemic Practice (Intermediate) ND,系统性实践 （中级）（ND）,master,1,https://courses.leeds.ac.uk/i422/systemic-practice-intermediate-
+2711,Systemic Practice PGCert,系统性实践（PGCert）,master,1,https://courses.leeds.ac.uk/f805/systemic-practice-pgcert
+2711,TESOL Studies MA,对外英语教学（TESOL） 研究（MA）,master,1,https://courses.leeds.ac.uk/e828/tesol-studies-ma
+2711,Teaching English for Academic Purposes MA,学术英语教学（MA）,master,1,https://courses.leeds.ac.uk/j634/teaching-english-for-academic-purposes-ma
+2711,Teaching English for Academic Purposes PGCert,学术英语教学（PGCert）,master,1,https://courses.leeds.ac.uk/j675/teaching-english-for-academic-purposes-pgcert
+2711,Teaching English for Academic Purposes PGDip,学术英语教学（PGDip）,master,1,https://courses.leeds.ac.uk/j676/teaching-english-for-academic-purposes-pgdip
+2711,Teaching English to Speakers of Other Languages MA,对外英语教学（对外英语教学（TESOL））（MA）,master,1,https://courses.leeds.ac.uk/a613/teaching-english-to-speakers-of-other-languages-ma
+2711,Terrorism and Insurgency MA,恐怖主义与叛乱研究（MA）,master,1,https://courses.leeds.ac.uk/j684/terrorism-and-insurgency-ma
+2711,Textile Sustainability and Innovation MSc,纺织可持续发展与创新（MSc）,master,1,https://courses.leeds.ac.uk/i888/textile-sustainability-and-innovation-msc
+2711,Transport Economics MSc,交通运输经济学（MSc）,master,1,https://courses.leeds.ac.uk/g820/transport-economics-msc
+2711,Transport Infrastructure: Design and Construction MSc (Eng),交通运输基础设施: 设计与建设 MSc （工程）,master,1,https://courses.leeds.ac.uk/i579/transport-infrastructure-design-and-construction-msc-eng-
+2711,Transport Planning MSc,交通运输规划（MSc）,master,1,https://courses.leeds.ac.uk/8968/transport-planning-msc
+2711,Transport Planning and Engineering MSc (Eng),交通运输规划与工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/e420/transport-planning-and-engineering-msc-eng-
+2711,Transport Planning and the Environment MSc,交通运输规划与环境（MSc）,master,1,https://courses.leeds.ac.uk/a386/transport-planning-and-the-environment-msc
+2711,Urban Data Science and Analytics MSc,城市数据科学与分析（MSc）,master,1,https://courses.leeds.ac.uk/j135/urban-data-science-and-analytics-msc
+2711,"Water, Sanitation and Health Engineering MSc (Eng)",水、环境卫生与健康工程 MSc （工程）,master,1,https://courses.leeds.ac.uk/g062/water-sanitation-and-health-engineering-msc-eng-

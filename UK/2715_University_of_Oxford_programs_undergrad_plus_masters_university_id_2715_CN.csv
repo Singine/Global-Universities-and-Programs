@@ -1,0 +1,542 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+2715,Archaeology and Anthropology,考古学与人类学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/archaeology-and-anthropology
+2715,Asian and Middle Eastern Studies,亚洲与中东研究,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/asian-and-middle-eastern-studies
+2715,Biochemistry (Molecular and Cellular),生物化学（分子与细胞方向）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biochemistry-molecular-and-cellular
+2715,Biology,生物学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biology
+2715,Biomedical Sciences,生物医学科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/biomedical-sciences
+2715,Chemistry,化学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/chemistry
+2715,Classical Archaeology and Ancient History,古典考古学与古代史,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classical-archaeology-and-ancient-history
+2715,Classics,古典学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics
+2715,Classics and Asian and Middle Eastern Studies,古典学与亚洲与中东研究,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-asian-and-middle-eastern-studies
+2715,Classics and English,古典学与英语,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-english
+2715,Classics and Modern Languages,古典学与现代语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/classics-and-modern-languages
+2715,Computer Science,计算机科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science
+2715,Computer Science and Philosophy,计算机科学与哲学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science-and-philosophy
+2715,Earth Sciences (Geology),地球科学（Geology）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/earth-sciences-geology
+2715,Economics and Management,经济学与管理,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/economics-and-management
+2715,Engineering Science,工程科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/engineering-science
+2715,English Language and Literature,英语语言与文学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-language-and-literature
+2715,English and Modern Languages,英语与现代语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/english-and-modern-languages
+2715,European and Middle Eastern Languages,欧洲与中东东语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/european-and-middle-eastern-languages
+2715,Fine Art,Fine艺术,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fine-art
+2715,"Foundation Year (Chemistry, Engineering and Materials Science)",预科（化学、工程与材料科学）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fycems
+2715,Foundation Year (Humanities),预科（人文）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fyhumanities%20
+2715,Foundation Year (Law),预科（法学）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fylaw%20
+2715,Foundation Year (PPE),预科（PPE）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/fyPPE%20
+2715,Geography,地理学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/geography
+2715,History,历史,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history
+2715,History (Ancient and Modern),历史（古代与现代）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-ancient-and-modern
+2715,History and Economics,历史与经济学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-economics
+2715,History and English,历史与英语,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-english
+2715,History and Modern Languages,历史与现代语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-modern-languages
+2715,History and Politics,历史与政治学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-and-politics
+2715,History of Art,艺术史,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/history-art
+2715,Human Sciences,Human科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/human-sciences
+2715,Law (Jurisprudence),法学（Jurisprudence）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/law-jurisprudence
+2715,Materials Science,材料科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/materials-science
+2715,Mathematics,数学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics
+2715,Mathematics and Computer Science,数学与计算机科学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-computer-science
+2715,Mathematics and Philosophy,数学与哲学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-philosophy
+2715,Mathematics and Statistics,数学与统计学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/mathematics-and-statistics
+2715,Medicine,医学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine
+2715,Medicine (graduate entry),医学（研究生入学途径）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/medicine-accelerated
+2715,Modern Languages,现代语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages
+2715,Modern Languages and Linguistics,现代语言与语言学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/modern-languages-and-linguistics
+2715,Music,音乐,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/music
+2715,Philosophy and Modern Languages,哲学与现代语言,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-modern-languages
+2715,"Philosophy, Politics and Economics (PPE)",哲学、政治与经济学（PPE）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-politics-and-economics
+2715,Philosophy and Theology,哲学与神学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/philosophy-and-theology
+2715,Physics,物理学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics
+2715,Physics and Philosophy,物理学与哲学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics-and-philosophy
+2715,Psychology (Experimental),心理学（Experimental）,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-experimental
+2715,"Psychology, Philosophy and Linguistics",心理学、哲学与语言学,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/psychology-philosophy-and-linguistics
+2715,Religion and Asian and Middle Eastern Studies,宗教研究与亚洲与中东研究,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/religion-and-asian-and-middle-eastern-studies
+2715,Theology and Religion,神学与宗教研究,bachelor,1,https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/theology-and-religion
+2715,Advanced Computer Science (MSc),高级计算机科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-advanced-computer-science
+2715,African Studies (MSc),非洲研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-african-studies
+2715,Ancient History (DPhil),古代史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-ancient-history
+2715,Ancient History (DPhil),古代史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-ancient-history-pt
+2715,Ancient Philosophy (MSt),古代哲学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-ancient-philosophy
+2715,Anthropology (DPhil),人类学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology
+2715,Anthropology (DPhil),人类学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-anthropology-pt
+2715,Applied Cancer Science (MSc),应用肿瘤科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-cancer-science
+2715,Applied Digital Health (MSc),应用数字健康（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-digital-health
+2715,Applied Financial Economics (MSc),应用金融经济学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TM_FI9P1
+2715,Applied Landscape Archaeology (MSc),应用景观考古学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology
+2715,Applied Linguistics and Second Language Acquisition (MSc),应用语言学与二语习得（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-second-language-acq
+2715,Applied Linguistics for Language Teaching (MSc),语言教学应用语言学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-linguistics-for-language-teaching
+2715,Applied Theology (MTh),应用神学（MTh）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mth-applied-theology
+2715,Applied Theology (MTh),应用神学（MTh）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mth-applied-theology-pt
+2715,Applied Theology (PGDip),应用神学（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-applied-theology
+2715,Applied Theology (PGDip),应用神学（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-applied-theology-pt
+2715,Archaeological Science (DPhil),考古科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-archaeological-science
+2715,Archaeological Science (MSc),考古科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-archaeological-science
+2715,Archaeology (DPhil),考古学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-archaeology
+2715,Archaeology (DPhil),考古学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-archaeology-part-time
+2715,Archaeology (MSc),考古学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-archaeology
+2715,Architectural History (DPhil),Architectural历史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-architectural-history
+2715,Architectural History (PGCert),Architectural历史（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-architectural-history
+2715,Area Studies (Africa) (DPhil),Area研究（非洲）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-africa
+2715,Area Studies (Africa) (DPhil),Area研究（非洲）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-africa-pt
+2715,Area Studies (China) (DPhil),Area研究（China）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-china
+2715,Area Studies (China) (DPhil),Area研究（China）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-china-pt
+2715,Area Studies (Japan) (DPhil),Area研究（Japan）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-japan
+2715,Area Studies (Japan) (DPhil),Area研究（Japan）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-japan-pt
+2715,Area Studies (Latin America) (DPhil),Area研究（LatinAmerica）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-latin-america
+2715,Area Studies (Latin America) (DPhil),Area研究（LatinAmerica）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-latin-america-pt
+2715,Area Studies (Middle East) (DPhil),Area研究（中东East）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-middle-east
+2715,Area Studies (Middle East) (DPhil),Area研究（中东East）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-middle-east-pt
+2715,Area Studies (Russian and East Europe) (DPhil),Area研究（Russian与EastEurope）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-russian-and-east-europe
+2715,Area Studies (Russian and East Europe) (DPhil),Area研究（Russian与EastEurope）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-russian-and-east-europe-pt
+2715,Area Studies (South Asia) (DPhil),Area研究（SouthAsia）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-south-asia
+2715,Area Studies (South Asia) (DPhil),Area研究（SouthAsia）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-area-studies-south-asia-pt
+2715,Artificial Intelligence for Business (MSc),人工智能for商科（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-AI-Business
+2715,Artificial Intelligence for Business (PGDip),人工智能for商科（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TD_JM9P1
+2715,Asian and Middle Eastern Studies (DPhil),亚洲与中东研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-asian-middle-eastern-studies
+2715,Asian and Middle Eastern Studies (MSt),亚洲与中东研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-asian-middle-eastern-studies
+2715,Astrophysics (DPhil),天体物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-astrophysics
+2715,"Atmospheric, Oceanic and Planetary Physics (DPhil)",Atmospheric、Oceanic与Planetary物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-atmospheric-oceanic-and-planetary-physics
+2715,Atomic and Laser Physics (DPhil),Atomic与Laser物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-atomic-and-laser-physics
+2715,Autonomous Intelligent Machines and Systems (EPSRC CDT),自主智能机器与系统（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/autonomous-intelligent-machines-and-systems
+2715,Autonomous Intelligent Machines and Systems (EPSRC CDT),自主智能机器与系统（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/autonomous-intelligent-machines-and-systems-pt
+2715,Autonomous Robotics (MSc),自主Robotics（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-autonomous-robotics
+2715,Bachelor of Civil Law (BCL),BachelorCivil法学（BCL）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/bachelor-civil-law
+2715,Bible Interpretation (MSt),圣经诠释（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-bible-interpretation
+2715,Biochemistry (DPhil),生物化学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-biochemistry
+2715,Biochemistry (MSc by Research),生物化学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-biochemistry
+2715,Biochemistry (Skaggs-Oxford Programme) (DPhil),生物化学（Skaggs-Oxford项目）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-biochemistry-outsri
+2715,"Biodiversity, Conservation and Nature Recovery (MSc)",Biodiversity、Conservation与NatureRecovery（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-biodiversity-conservation-nature-recovery
+2715,Biology (DPhil),生物学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-biology
+2715,Biology (MSc by Research),生物学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-biology
+2715,Biomedical and Clinical Sciences (Oxford-GSK) (DPhil),生物医学与临床科学（Oxford-GSK）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-biomedical-and-clinical-sciences
+2715,Biomedical Sciences (NIH OxCam) (DPhil),生物医学科学（NIHOxCam）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-biomedical-sciences-nih-ou
+2715,Buddhist Studies (MPhil),Buddhist研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-buddhist-studies
+2715,Cancer Science (Biological background) (CDT),肿瘤科学（生物background）（CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/cancer-science-biological
+2715,Cancer Science (Clinician) (DPhil),肿瘤科学（Clinician）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-cancer-science-clinician
+2715,Cancer Science (Intercalation) (DPhil),肿瘤科学（Intercalation）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-cancer-science-intercalation
+2715,Cancer Science (Maths/Physics background) (CDT),肿瘤科学（Maths/物理学background）（CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/cancer-science-maths-physics
+2715,Celtic Studies (MPhil),Celtic研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-celtic-studies
+2715,Celtic Studies (MSt),Celtic研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-celtic-studies
+2715,Chemical Synthesis for a Healthy Planet (EPSRC CDT),化学SynthesisforaHealthyPlanet（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/chemical-synthesis-healthy-planet
+2715,Chemistry (DPhil),化学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry
+2715,Chemistry (MSc by Research),化学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-chemistry
+2715,Chemistry IDLA: Digital quantum simulation of quantum chemistry (DPhil),化学IDLA:数字quantumsimulationquantum化学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry-idla-quantum
+2715,Chemistry IDLA: GenAI-Accelerated Kinetic Modelling of Catalytic CO2 Valorisation (DPhil),化学IDLA:GenAI-AcceleratedKineticModellingCatalyticCO2Valorisation（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry-idla-genAI
+2715,Classical Archaeology (DPhil),古典考古学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-classical-archaeology
+2715,Classical Archaeology (MPhil),古典考古学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-classical-archaeology
+2715,Classical Archaeology (MSt),古典考古学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-classical-archaeology
+2715,Classical Armenian Studies (MSt),古典Armenian研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-classical-armenian-studies
+2715,Classical Hebrew Studies (MSt),古典Hebrew研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-classical-hebrew-studies
+2715,Classical Indian Religion (MPhil),古典Indian宗教研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-classical-indian-religion
+2715,Classical Languages and Literature (DPhil),古典语言与Literature（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-classical-languages-and-literature
+2715,Classical Languages and Literature (DPhil),古典语言与Literature（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-classical-languages-and-literature-pt
+2715,Clinical and Therapeutic Neuroscience (MSc),临床与Therapeutic神经科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-clinical-therapeutic-neuroscience
+2715,Clinical Embryology (MSc),临床Embryology（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-clinical-embryology
+2715,Clinical Epidemiology and Medical Statistics (DPhil),临床Epidemiology与医学统计学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-epidemiology-medical-statistics
+2715,Clinical Epidemiology and Medical Statistics (DPhil),临床Epidemiology与医学统计学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-epidemiology-medical-statistics-pt
+2715,Clinical Medicine (DPhil),临床医学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-medicine
+2715,Clinical Medicine (DPhil),临床医学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-medicine-pt
+2715,Clinical Neurosciences (DPhil),临床神经科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-neurosciences
+2715,Clinical Neurosciences (DPhil),临床神经科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-clinical-neurosciences-pt
+2715,Clinical Neurosciences (MSc by Research),临床神经科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-clinical-neurosciences
+2715,Clinical Neurosciences (MSc by Research),临床神经科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-clinical-neurosciences-pt
+2715,Clinical Psychology (DClinPsych),临床心理学（DClinPsych）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dclinpsych-clinical-psychology
+2715,Clinical Trials (MSc),临床Trials（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-clinical-trials
+2715,Cognitive Behavioural Therapy (DPhil),认知行为疗法（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-cognitive-behavioural-therapy
+2715,Cognitive Behavioural Therapy (PGDip),认知行为疗法（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-cognitive-behavioural-therapy
+2715,Cognitive Behavioural Therapy (PGCert),认知行为疗法（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-cognitive-behavioural-therapy
+2715,Cognitive Behavioural Therapy (Clinical) (MSc),认知行为疗法（临床）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-cognitive-behavioural-therapy-clinical
+2715,Cognitive Behavioural Therapy (Research) (MSc),认知行为疗法（研究）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-cognitive-behavioural-therapy-research
+2715,Cognitive Behavioural Therapy (Severe Mental Health Problems) (PGDip),认知行为疗法（SevereMental健康Problems）（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-cognitive-behavioural-therapy-smhp
+2715,Comparative Literature and Critical Translation (MSt),ComparativeLiterature与CriticalTranslation（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-comparative-literature-critical-translation
+2715,Comparative Social Policy (MPhil),Comparative社会政策（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-comparative-social-policy
+2715,Comparative Social Policy (MSc),Comparative社会政策（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-comparative-social-policy
+2715,Computer Science (DPhil),计算机科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science
+2715,Condensed Matter Physics (DPhil),CondensedMatter物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-condensed-matter-physics
+2715,Contemporary Chinese Studies (MSc),ContemporaryChinese研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-contemporary-chinese-studies
+2715,Creative Translation (MSt),创意翻译（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-creative-translation
+2715,Creative Writing (MSt),创意写作（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-creative-writing
+2715,Criminology (DPhil),犯罪学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-criminology
+2715,Criminology (DPhil),犯罪学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-criminology-pt
+2715,Criminology and Criminal Justice (MSc),犯罪学与CriminalJustice（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-criminology-and-criminal-justice
+2715,Criminology and Criminal Justice (MSc),犯罪学与CriminalJustice（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-criminology-and-criminal-justice-pt
+2715,Cuneiform Studies (MPhil),Cuneiform研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-cuneiform-studies
+2715,Development Studies (MPhil),Development研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-development-studies
+2715,Digital Scholarship (MSc),数字Scholarship（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-digital-scholarship
+2715,Diplomatic Studies (MSt),Diplomatic研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-diplomatic-studies
+2715,Early Childhood Education (PGDip),EarlyChildhood教育学（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-early-childhood-education
+2715,Earth Sciences (DPhil),地球科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-earth-sciences
+2715,Earth Sciences (MSc by Research),地球科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-earth-sciences
+2715,Eastern Christian Studies (MPhil),东Christian研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-eastern-christian-studies
+2715,Ecological Survey Techniques (PGCert),生态调查技术（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-ecological-survey-techniques
+2715,Economic and Social History (MPhil),经济与社会历史（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-economic-and-social-history
+2715,Economic and Social History (MSc),经济与社会历史（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-economic-and-social-history
+2715,Economics (combined MPhil and DPhil),经济学（MPhil+DPhil联合项目）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-dphil-economics
+2715,Economics (DPhil),经济学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-economics
+2715,Economics (DPhil),经济学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-economics-pt
+2715,Economics (MPhil),经济学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-economics
+2715,Economics for Development (MSc),经济学forDevelopment（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-economics-development
+2715,EcoWild (NERC CDT),生态与野生动物（生态与野生动物（EcoWild））（NERC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/ecowild
+2715,Ecowild (NERC CDT),生态与野生动物（生态与野生动物（EcoWild））（NERC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/ecowild-pt
+2715,Education (DPhil),教育学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-education
+2715,Education (DPhil),教育学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-education-pt
+2715,Education (Child Development and Education) (MSc),教育学（ChildDevelopment与教育学）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-child-development-and-education
+2715,Education (Comparative and International Education) (MSc),教育学（Comparative与International教育学）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-comparative-international-education
+2715,Education (Digital and Social Change) (MSc),教育学（数字与社会Change）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-digital-and-social-change
+2715,Education (Higher Education) (MSc),教育学（Higher教育学）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-higher-education
+2715,Education (Research Design and Methodology) (MSc),教育学（研究Design与Methodology）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-research-design-and-methodology
+2715,Education (Research Design and Methodology) (MSc),教育学（研究Design与Methodology）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-education-research-design-and-methodology-pt
+2715,Educational Assessment (MSc),教育评估（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-educational-assessment
+2715,Egyptology (MPhil),埃及学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-egyptology
+2715,Energy Systems (MSc),Energy系统（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-energy-systems
+2715,Energy Systems (MSc),Energy系统（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-energy-systems-pt2yr
+2715,Energy Systems (MSc),Energy系统（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-energy-systems-pt3yr
+2715,Engineering Biology (EPSRC and BBSRC CDT),工程生物学（EPSRC与BBSRCCDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/engineering-biology
+2715,Engineering Science (DPhil),工程科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science
+2715,Engineering Science (DPhil),工程科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science-pt
+2715,Engineering Science (MSc by Research),工程科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-engineering-science
+2715,Engineering Science iDLA: Gas Turbine Heat Management (DPhil),工程科学iDLA:GasTurbineHeat管理（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-idla-gas
+2715,English (DPhil),英语（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-english
+2715,English (DPhil),英语（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-english-pt
+2715,English (1550-1700) (MSt),英语（1550-1700）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-1550-1700
+2715,English (1700-1830) (MSt),英语（1700-1830）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-1700-1830
+2715,English (1830-1914) (MSt),英语（1830-1914）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-1830-1914
+2715,English (1900-Present) (MSt),英语（1900-Present）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-1900-present
+2715,English (​650-1550) (MSt),英语（​650-1550）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-650-1550
+2715,English and American Studies (MSt),英语与American研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-english-and-american-studies
+2715,English as an Additional Language (PGDip),英语asanAdditional语言（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-english-additional-language
+2715,English Local History (DPhil),英语Local历史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-english-local-history
+2715,English Local History (MSc),英语Local历史（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-english-local-history
+2715,English Studies (Medieval Period) (MPhil),英语研究（MedievalPeriod）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-english-studies-medieval-period
+2715,Enhanced Cognitive Behavioural Therapy (Psychological Trauma and Personality Development) (PGCert),Enhanced认知行为疗法（PsychologicalTrauma与PersonalityDevelopment）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-ecbt-ptpd
+2715,Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar) (PGCert),Enhanced认知行为疗法（Psychosis与Bipolar）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-ecbt-psychosis-bipolar
+2715,Environmental Change and Policy (MSc),环境Change与政策（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-environmental-change-policy
+2715,Evidence-Based Health Care (DPhil),Evidence-Based健康Care（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-evidence-based-health-care
+2715,Evidence-Based Health Care (MSc),Evidence-Based健康Care（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-evidence-based-health-care
+2715,Evidence-Based Health Care (Medical Statistics) (MSc),Evidence-Based健康Care（医学统计学）（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-evidence-based-health-care-medical-statistics
+2715,Evidence-Based Social Intervention and Policy Evaluation (MPhil),Evidence-Based社会干预与政策评估（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-social-intervention-policy-evaluation
+2715,Evidence-Based Social Intervention and Policy Evaluation (MSc),Evidence-Based社会干预与政策评估（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-social-intervention-policy-evaluation
+2715,Executive MBA (EMBA),高管工商管理硕士（Executive MBA）（EMBA）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TA_BA9P2
+2715,Experimental and Translational Therapeutics (MSc),Experimental与转化Therapeutics（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-experimental-and-translational-therapeutics
+2715,Experimental Psychology (DPhil),实验心理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-experimental-psychology
+2715,Experimental Psychology (DPhil),实验心理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-experimental-psychology-pt
+2715,Experimental Psychology (MSc by Research),实验心理学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-experimental-psychology
+2715,Experimental Psychology (MSc by Research),实验心理学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-experimental-psychology-pt
+2715,Film Aesthetics (MSt),电影美学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-film-aesthetics
+2715,Finance (DPhil),金融（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/RD_GS2
+2715,Financial Economics (MSc),金融经济学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TM_FN1
+2715,Financial Strategy (PGDip),金融Strategy（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TD_FS9P1
+2715,Fine Art (DPhil),Fine艺术（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-fine-art
+2715,Fine Art (DPhil),Fine艺术（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-fine-art-pt
+2715,Fine Art (MFA),Fine艺术（MFA）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mfa-fine-art
+2715,Fundamentals in AI (EIT CDT),人工智能基础（EIT CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/fundamentals-of-ai
+2715,Fusion Power (EPSRC CDT),聚变能源（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/fusion-power
+2715,Fusion Power (EPSRC CDT),聚变能源（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/fusion-power-pt
+2715,Generative Biology (EIT DTP),Generative生物学（EITDTP）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/generative-biology
+2715,Genomic Medicine (MSc),Genomic医学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-genomic-medicine
+2715,Genomic Medicine and Statistics (DPhil),Genomic医学与统计学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-genomic-medicine-and-statistics
+2715,Geography and the Environment (DPhil),地理学与the环境（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-geography-and-environment
+2715,Geography and the Environment (DPhil),地理学与the环境（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-geography-and-environment-pt
+2715,Global and Area Studies (MPhil),Global与Area研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-global-and-area-studies
+2715,Global and Imperial History (MSt),Global与Imperial历史（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-global-and-imperial-history
+2715,Global Business (PGDip),Global商科（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TD_GB9P1
+2715,Global Governance and Diplomacy (MSc),GlobalGovernance与Diplomacy（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-global-governance-and-diplomacy
+2715,Global Health Research (PGDip),Global健康研究（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-global-health-research
+2715,Global Health Science and Epidemiology (MSc),Global健康科学与Epidemiology（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology
+2715,Global Healthcare Leadership (MSc),全球医疗领导力（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TM_ND9P1
+2715,Global Women's Health (MSc),Global女性健康（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-global-womens-health
+2715,Greek and/or Latin Languages and Literature (MPhil),Greekand/orLatin语言与Literature（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-greek-andor-latin-languages-and-literature
+2715,Greek and/or Latin Languages and Literature (MSt),Greekand/orLatin语言与Literature（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-greek-andor-latin-languages-and-literature
+2715,Greek and/or Roman History (MPhil),Greekand/orRoman历史（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-greek-andor-roman-history
+2715,Greek and/or Roman History (MSt),Greekand/orRoman历史（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-greek-andor-roman-history
+2715,Health Research (PGDip),健康研究（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-health-research
+2715,Health Research (PGCert),健康研究（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-health-research
+2715,Health Service Improvement and Evaluation (MSc),健康ServiceImprovement与评估（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-health-service-improvement-evaluation
+2715,Healthcare Data Science (EPSRC CDT),Healthcare数据科学（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/healthcare-data-science
+2715,Historical Studies (MSt),Historical研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-historical-studies
+2715,Historical Studies (PGCert),Historical研究（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-historical-studies
+2715,History (DPhil),历史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-history
+2715,History (DPhil),历史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-history-pt
+2715,History (British and European History 1700-1850) (MPhil),历史（British与欧洲历史1700-1850）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-british-european
+2715,History (British and European History 1700-1850) (MSt),历史（British与欧洲历史1700-1850）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-british-european
+2715,History (British and European History 1700-1850) (MSt),历史（British与欧洲历史1700-1850）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-british-european-pt
+2715,History (Early Modern History 1500-1700) (MPhil),历史（Early现代历史1500-1700）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-early-modern
+2715,History (Early Modern History 1500-1700) (MSt),历史（Early现代历史1500-1700）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-early-modern
+2715,History (Early Modern History 1500-1700) (MSt),历史（Early现代历史1500-1700）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-early-modern-pt
+2715,History (Economic and Social History) (DPhil),历史（经济与社会历史）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-economic-and-social-history
+2715,History (Economic and Social History) (DPhil),历史（经济与社会历史）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-economic-and-social-history-pt
+2715,History (History of War) (MPhil),历史（HistoryWar）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-war
+2715,History (History of War) (MSt),历史（HistoryWar）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-of-war
+2715,History (History of War) (MSt),历史（HistoryWar）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-of-war-pt
+2715,History (Intellectual History) (MPhil),历史（Intellectual历史）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-intellectual
+2715,History (Intellectual history) (MSt),历史（Intellectual历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-intellectual
+2715,History (Intellectual History) (MSt),历史（Intellectual历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-intellectual-pt
+2715,History (Medieval History) (MPhil),历史（Medieval历史）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-medieval
+2715,History (Medieval History) (MSt),历史（Medieval历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-medieval
+2715,History (Medieval History) (MSt),历史（Medieval历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-medieval-pt
+2715,History (Modern British History 1850-present) (MPhil),历史（现代British历史1850-present）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-modern-british
+2715,History (Modern British History 1850-present) (MSt),历史（现代British历史1850-present）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-modern-british
+2715,History (Modern British History 1850-present) (MSt),历史（现代British历史1850-present）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-modern-british-pt
+2715,History (Modern European History 1850-present) (MPhil),历史（现代欧洲历史1850-present）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-modern-european
+2715,History (Modern European History 1850-present) (MSt),历史（现代欧洲历史1850-present）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-modern-european
+2715,History (Modern European History 1850-present) (MSt),历史（现代欧洲历史1850-present）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-modern-european-pt
+2715,History (US History) (MPhil),历史（US历史）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-us
+2715,History (US History) (MSt),历史（US历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-us
+2715,History (US History) (MSt),历史（US历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-us-pt
+2715,"History (Women's, Gender and Queer History) (MPhil)",历史（女性、性别与Queer历史）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-womens-gender-queer
+2715,"History (Women's, Gender and Queer History) (MSt)",历史（女性、性别与Queer历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-womens-gender-queer
+2715,"History (Women's, Gender and Queer History) (MSt)",历史（女性、性别与Queer历史）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-womens-gender-queer-pt
+2715,History of Art (DPhil),艺术史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-history-art
+2715,History of Art (DPhil),艺术史（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-history-art-pt
+2715,History of Art and Visual Culture (MSt),艺术史与VisualCulture（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-history-art-and-visual-culture
+2715,History of Design (MSt),设计史（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-the-history-design
+2715,"History of Science, Medicine and Technology (MPhil)",HistoryScience、医学与Technology（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-history-science-medicine-and-technology
+2715,"History of Science, Medicine and Technology (MSc)",HistoryScience、医学与Technology（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-history-science-medicine-and-technology
+2715,Inflammatory and Musculoskeletal Disease (DPhil),Inflammatory与MusculoskeletalDisease（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-inflammatory-and-musculoskeletal-disease
+2715,"Information, Communication and the Social Sciences (DPhil)",Information、Communication与the社会科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-information-communication-social-sciences
+2715,"Information, Communication and the Social Sciences (DPhil)",Information、Communication与the社会科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-information-communication-and-social-sciences-pt
+2715,Inorganic Materials for Advanced Manufacturing (EPSRC CDT),Inorganic材料for高级Manufacturing（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/inorganic-materials-advanced-manufacturing
+2715,Integrated Immunology (MSc),综合免疫学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-integrated-immunology
+2715,Integrated Immunology (MSc),综合免疫学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-integrated-immunology-pt
+2715,Intellectual Property (MSc),知识产权（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-intellectual-property
+2715,Intellectual Property Law and Practice (PGDip),知识产权法学与Practice（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-intellectual-property-law-and-practice
+2715,Intelligent Earth (AI for the Environment) (UKRI CDT),智能地球（AIforthe环境）（UKRI CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/intelligent-earth-cdt
+2715,Intelligent Earth (AI for the Environment) (UKRI CDT),智能地球（AIforthe环境）（UKRI CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/intelligent-earth-cdt-pt
+2715,Interdisciplinary Life and Environmental Science (DPhil),InterdisciplinaryLife与环境科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-interdisciplinary-life-environmental-science
+2715,Interdisciplinary Life and Environmental Science (DPhil),InterdisciplinaryLife与环境科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-interdisciplinary-life-environmental-science-pt
+2715,International Development (DPhil),国际发展（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-international-development
+2715,International Development (DPhil),国际发展（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-international-development-pt
+2715,International Health and Tropical Medicine (MSc),International健康与Tropical医学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-international-health-and-tropical-medicine
+2715,International Human Rights Law (MSc),InternationalHumanRights法学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-international-human-rights-law
+2715,International Relations (DPhil),国际关系（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-international-relations
+2715,International Relations (DPhil),国际关系（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-international-relations-pt
+2715,International Relations (MPhil),国际关系（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-international-relations
+2715,Islamic Art and Architecture (MPhil),Islamic艺术与Architecture（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-islamic-art-and-architecture
+2715,Islamic Art and Architecture (MSt),Islamic艺术与Architecture（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-islamic-art-and-architecture
+2715,Islamic Studies and History (MPhil),Islamic研究与历史（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-islamic-studies-and-history
+2715,Islamic Studies and History (MSt),Islamic研究与历史（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-islamic-studies-and-history
+2715,Japanese Studies (MPhil),Japanese研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-japanese-studies
+2715,Japanese Studies (MSc),Japanese研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-japanese-studies
+2715,Jewish Studies (MPhil),Jewish研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-jewish-studies
+2715,Jewish Studies (MSt),Jewish研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-jewish-studies
+2715,Jewish Studies in the Graeco-Roman Period (MPhil),Jewish研究intheGraeco-RomanPeriod（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-jewish-studies-graeco-roman-period
+2715,Jewish Studies in the Graeco-Roman Period (MSt),Jewish研究intheGraeco-RomanPeriod（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-jewish-studies-graeco-roman-period
+2715,Judaism and Christianity in the Graeco-Roman World (MPhil),Judaism与ChristianityintheGraeco-RomanWorld（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-judaism-and-christianity-graeco-roman-world
+2715,Korean Studies (MSt),Korean研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-korean-studies
+2715,Late Antique and Byzantine Studies (MPhil),LateAntique与Byzantine研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-late-antique-and-byzantine-studies
+2715,Late Antique and Byzantine Studies (MSt),LateAntique与Byzantine研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-late-antique-and-byzantine-studies
+2715,Latin American Studies (MPhil),LatinAmerican研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-latin-american-studies
+2715,Latin American Studies (MSc),LatinAmerican研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-latin-american-studies
+2715,Law (DPhil),法学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-law
+2715,Law (DPhil),法学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-law-pt
+2715,Law (MPhil),法学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-law
+2715,Law and Finance (MSc),法学与金融（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-law-and-finance
+2715,Learning and Teaching (MSc),学习与Teaching（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-learning-and-teaching
+2715,Learning and Teaching Mandarin (PGDip),学习与Teaching普通话（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-learning-teaching-mandarin
+2715,"Linguistics, Philology and Phonetics (DPhil)",语言学、语文学与语音学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-linguistics-philology-phonetics
+2715,"Linguistics, Philology and Phonetics (DPhil)",语言学、语文学与语音学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-linguistics-philology-phonetics-pt
+2715,"Linguistics, Philology and Phonetics (MPhil)",语言学、语文学与语音学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-linguistics-philology-phonetics
+2715,"Linguistics, Philology and Phonetics (Advanced Study) (MSt)",语言学、语文学与语音学（高级研究）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-linguistics-philology-phonetics-advanced-study
+2715,"Linguistics, Philology and Phonetics (Research Preparation) (MSt)",语言学、语文学与语音学（研究Preparation）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-linguistics-philology-phonetics-research-prep
+2715,Literature and Arts (DPhil),Literature与Arts（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-literature-and-arts
+2715,Literature and Arts (MSt),Literature与Arts（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-literature-and-arts
+2715,Magister Juris (MJur),法学硕士（MJur）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/magister-juris
+2715,Major Programme Management (MSc),Major项目管理（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TM_PB9P1
+2715,Management (DPhil),管理（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/RD_MG2
+2715,Master of Business Administration (MBA),工商管理硕士（MBA）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TA_BA1
+2715,Master of Business Administration (Oxford 1+1 MBA programme),工商管理硕士（牛津1+1MBA项目）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mba-1plus1
+2715,Materials (DPhil),材料（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-materials
+2715,Materials (MSc by Research),材料（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-materials
+2715,Materials 4.0 (EPSRC CDT),材料4.0（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/materials-4-0
+2715,Materials 4.0 (EPSRC CDT),材料4.0（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/materials-4-0-pt
+2715,Materials IDLA: Enhanced Recyclability of Aluminium from Low-Grade Scrap (DPhil),材料IDLA:EnhancedRecyclabilityAluminiumfromLow-GradeScrap（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-materials-idla-aluminium
+2715,Mathematical and Computational Finance (MSc),数学与Computational金融（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-computational-finance
+2715,Mathematical and Theoretical Physics (MSc),数学与Theoretical物理学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-and-theoretical-physics
+2715,Mathematical Modelling and Scientific Computing (MSc),数学Modelling与ScientificComputing（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-modelling-scientific-computing
+2715,Mathematical Sciences (MSc),数学科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematical-sciences
+2715,Mathematics (DPhil),数学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-mathematics
+2715,Mathematics (MSc by Research),数学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-mathematics
+2715,Mathematics and Foundations of Computer Science (MSc),数学与Foundations计算机科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-mathematics-and-foundations-computer-science
+2715,"Mathematics of Random Systems: Analysis, Modelling and Algorithms (CDT)",MathematicsRandom系统:Analysis、Modelling与Algorithms（CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mathematics-random-systems
+2715,Medical Anthropology (MPhil),医学人类学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-medical-anthropology
+2715,Medical Anthropology (MSc),医学人类学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-medical-anthropology
+2715,Medical Education (MSc),医学教育学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-medical-education
+2715,Medical Physics with Radiobiology (MSc),医学物理学与放射生物学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-medical-physics-with-radiobiology
+2715,Medical Sciences (DPhil),医学科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-medical-sciences
+2715,Medical Sciences (DPhil),医学科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-medical-sciences-pt
+2715,Medical Sciences (MSc by Research),医学科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-medical-sciences
+2715,Medical Sciences (MSc by Research),医学科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-medical-sciences-pt
+2715,Medicine (BM BCh (Graduate entry)),医学（BMBCh（研究生入学途径））,master,1,https://www.ox.ac.uk/admissions/graduate/courses/medicine
+2715,Medicine (DM),医学（DM）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dm-doctor-of-medicine
+2715,Medieval and Modern Languages (DPhil),Medieval与现代语言（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-medieval-and-modern-languages
+2715,Medieval and Modern Languages (DPhil),Medieval与现代语言（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-medieval-and-modern-languages-pt
+2715,Medieval Studies (MSt),Medieval研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-medieval-studies
+2715,Migration Studies (DPhil),Migration研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-migration-studies
+2715,Migration Studies (DPhil),Migration研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-migration-studies-pt
+2715,Migration Studies (MSc),Migration研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-migration-studies
+2715,Mindfulness Based Cognitive Therapy (MSt),MindfulnessBased认知疗法（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-mindfulness-based-cognitive-therapy
+2715,Modelling for Global Health (MSc),ModellingforGlobal健康（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-modelling-for-global-health
+2715,Modern Chinese Studies (MPhil),现代Chinese研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-modern-chinese-studies
+2715,Modern Languages (MPhil),现代语言（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-modern-languages
+2715,Modern Languages (MSt),现代语言（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-modern-languages
+2715,Modern Middle Eastern Studies (MPhil),现代中东研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-modern-middle-eastern-studies
+2715,Modern Middle Eastern Studies (MSc),现代中东研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-modern-middle-eastern-studies
+2715,Modern South Asian Studies (MPhil),现代South亚洲研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-modern-south-asian-studies
+2715,Modern South Asian Studies (MSc),现代South亚洲研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-modern-south-asian-studies
+2715,Molecular and Cellular Medicine (DPhil),Molecular与Cellular医学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-molecular-and-cellular-medicine
+2715,Molecular and Cellular Medicine (DPhil),Molecular与Cellular医学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-molecular-and-cellular-medicine-pt
+2715,Molecular and Cellular Medicine (MSc by Research),Molecular与Cellular医学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-molecular-and-cellular-medicine
+2715,Molecular and Cellular Medicine (MSc by Research),Molecular与Cellular医学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-molecular-and-cellular-medicine-pt
+2715,Molecular Cell Biology in Health and Disease (DPhil),MolecularCell生物学in健康与Disease（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-molecular-cell-biology-in-health-and-disease
+2715,Musculoskeletal Sciences (DPhil),Musculoskeletal科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-musculoskeletal-sciences
+2715,Musculoskeletal Sciences (DPhil),Musculoskeletal科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-musculoskeletal-sciences-pt
+2715,Musculoskeletal Sciences (MSc),Musculoskeletal科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-musculoskeletal-sciences
+2715,Musculoskeletal Sciences (MSc by Research),Musculoskeletal科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-musculoskeletal-sciences
+2715,Musculoskeletal Sciences (MSc by Research),Musculoskeletal科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-musculoskeletal-sciences-pt
+2715,Music (DPhil),音乐（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-music
+2715,Music (DPhil),音乐（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-music-pt
+2715,Music (Composition) (MPhil),音乐（作曲）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-music-composition
+2715,Music (Composition) (MSt),音乐（作曲）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-music-composition
+2715,Music (Musicology) (MPhil),音乐（音乐学）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-music-musicology
+2715,Music (Musicology) (MSt),音乐（音乐学）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-music-musicology
+2715,Music (Performance) (MPhil),音乐（演奏）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-music-performance
+2715,Music (Performance) (MSt),音乐（演奏）（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-music-performance
+2715,Nanotechnology (PGCert),纳米技术（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-nanotechnology
+2715,Nanotechnology for Medicine and Health Care (MSc),纳米技术for医学与健康Care（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-nanotechnology-for-medicine-and-health-care
+2715,"Nature, Society and Environmental Governance (MSc)",Nature、Society与环境Governance（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-nature-society-and-environmental-governance
+2715,Neuroscience (combined MSc and DPhil),神经科学（联合MSc与DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-neuroscience
+2715,Neuroscience (MSc),神经科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-neuroscience
+2715,Oncology (DPhil),肿瘤学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-oncology
+2715,Oncology (MSc by Research),肿瘤学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-oncology
+2715,Organisational Leadership (PGDip),组织领导力（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TD_LD9P1
+2715,Paediatric Infectious Diseases (MSc),儿科传染病（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-paediatric-infectious-diseases
+2715,Paediatric Infectious Diseases (PGDip),儿科传染病（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-paediatric-infectious-diseases
+2715,Paediatric Infectious Diseases (PGCert),儿科传染病（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-paediatric-infectious-diseases
+2715,Paediatrics (DPhil),儿科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-paediatrics
+2715,Paediatrics (MSc by Research),儿科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-paediatrics
+2715,Pain Neurosciences (MSc),Pain神经科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-pain-neurosciences
+2715,Particle Physics (DPhil),Particle物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-particle-physics
+2715,Patient Safety and Quality Improvement (PGCert),PatientSafety与QualityImprovement（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-patient-safety
+2715,PGCE (Biology) (PGCert),教师教育证书（PGCE）（生物学）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-biology
+2715,PGCE (Chemistry) (PGCert),教师教育证书（PGCE）（化学）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-chemistry
+2715,PGCE (English) (PGCert),教师教育证书（PGCE）（英语）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-english
+2715,PGCE (Geography) (PGCert),教师教育证书（PGCE）（地理学）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-geography
+2715,PGCE (History) (PGCert),教师教育证书（PGCE）（历史）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-history
+2715,PGCE (Mandarin) (PGCert),教师教育证书（PGCE）（普通话）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-mandarin
+2715,PGCE (Mathematics) (PGCert),教师教育证书（PGCE）（数学）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-mathematics
+2715,PGCE (Modern Languages) (PGCert),教师教育证书（PGCE）（现代语言）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-modern-languages
+2715,PGCE (Physics) (PGCert),教师教育证书（PGCE）（物理学）（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgce-physics
+2715,Pharmacology (DPhil),药理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-pharmacology
+2715,Pharmacology (MSc),药理学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-pharmacology
+2715,Pharmacology (MSc by Research),药理学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-pharmacology
+2715,Philosophical Theology (MPhil),Philosophical神学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-philosophical-theology
+2715,Philosophical Theology (MSt),Philosophical神学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophical-theology
+2715,Philosophy (DPhil),哲学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-philosophy
+2715,Philosophy (BPhil),哲学（BPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/bphil-philosophy
+2715,Philosophy of Physics (MSt),物理学哲学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-philosophy-physics
+2715,"Physiology, Anatomy and Genetics (DPhil)",Physiology、Anatomy与Genetics（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-physiology-anatomy-and-genetics
+2715,"Physiology, Anatomy and Genetics (MSc by Research)",Physiology、Anatomy与Genetics（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-physiology-anatomy-and-genetics
+2715,Political Theory Research (MSc),PoliticalTheory研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-political-theory-research
+2715,Politics (DPhil),政治学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-politics
+2715,Politics (DPhil),政治学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-politics-pt
+2715,Politics (Comparative Government) (MPhil),政治学（ComparativeGovernment）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-politics-comparative-government
+2715,Politics (European Politics and Society) (MPhil),政治学（欧洲政治学与Society）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-politics-european-politics-and-society
+2715,Politics (Political Theory) (MPhil),政治学（PoliticalTheory）（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-politics-political-theory
+2715,Politics Research (MSc),政治学研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-politics-research
+2715,Population Health (DPhil),Population健康（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-population-health
+2715,Population Health (DPhil),Population健康（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-population-health-pt
+2715,Practical Ethics (MSt),实践伦理学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-practical-ethics
+2715,Precision Cancer Medicine (MSc),PrecisionCancer医学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-precision-cancer-medicine
+2715,Primary Health Care (DPhil),Primary健康Care（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-primary-health-care
+2715,Primary Health Care (DPhil),Primary健康Care（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-primary-health-care-pt
+2715,Psychiatry (DPhil),精神病学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry
+2715,Psychiatry (DPhil),精神病学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-psychiatry-pt
+2715,Psychiatry (MSc by Research),精神病学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-psychiatry
+2715,Psychiatry (MSc by Research),精神病学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-psychiatry-pt
+2715,Psychodynamic Counselling (PGCert),心理动力学咨询（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-psychodynamic-counselling
+2715,Psychodynamic Practice (MSt),心理动力学实践（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-psychodynamic-practice
+2715,Psychodynamic Practice (PGDip),心理动力学实践（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-psychodynamic-practice
+2715,Public Policy (DPhil),公共政策（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-public-policy
+2715,Public Policy (DPhil),公共政策（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-public-policy-pt
+2715,Public Policy (1+1 (MPP + MSc)),公共政策（1+1（MPP+MSc））,master,1,https://www.ox.ac.uk/admissions/graduate/courses/public-policy-1plus1-programme
+2715,Public Policy (MPP),公共政策（MPP）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/master-public-policy
+2715,Public Policy Research (MSc),公共政策研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-public-policy-research
+2715,Qualitative Health Research Methods (PGCert),Qualitative健康研究Methods（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-qualitative-health-research-methods
+2715,Quantum Technologies (MSc),量子技术（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-quantum-technologies
+2715,Radiobiology (MSc),放射生物学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-radiobiology
+2715,Refugee and Forced Migration Studies (MSc),Refugee与ForcedMigration研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-refugee-and-forced-migration-studies
+2715,Reproductive Genetics (MSc),生殖遗传学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-reproductive-genetics
+2715,Robotics and AI for Net Zero (EPSRC CDT),Robotics与AIforNetZero（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/robotics-ai-net-zero
+2715,Russian and East European Studies (MPhil),俄罗斯与东欧研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-russian-and-east-european-studies
+2715,Russian and East European Studies (MSc),俄罗斯与东欧研究（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-russian-and-east-european-studies
+2715,Slavonic Studies (MPhil),Slavonic研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-slavonic-studies
+2715,Slavonic Studies (MSt),Slavonic研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-slavonic-studies
+2715,Sleep Medicine (MSc),Sleep医学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-sleep-medicine
+2715,Sleep Medicine (PGDip),Sleep医学（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-sleep-medicine
+2715,Social Anthropology (MPhil),社会人类学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-social-anthropology
+2715,Social Anthropology (MSc),社会人类学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-social-anthropology
+2715,Social Data Science (DPhil),社会数据科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-data-science
+2715,Social Data Science (DPhil),社会数据科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-data-science-pt
+2715,Social Data Science (MSc),社会数据科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-social-data-science
+2715,Social Intervention and Policy Evaluation (DPhil),社会干预与政策评估（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-intervention
+2715,Social Intervention and Policy Evaluation (DPhil),社会干预与政策评估（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-intervention-pt
+2715,Social Policy (DPhil),社会政策（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-policy
+2715,Social Policy (DPhil),社会政策（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-social-policy-pt
+2715,Social Science of the Internet (MSc),社会SciencetheInternet（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-social-science-internet
+2715,Social Science of the Internet (MSc),社会SciencetheInternet（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-social-science-internet-pt
+2715,Socio-Legal Research (MPhil),Socio-Legal研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-socio-legal-research
+2715,Socio-Legal Studies (DPhil),Socio-Legal研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-socio-legal-studies
+2715,Socio-Legal Studies (DPhil),Socio-Legal研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-socio-legal-studies-pt
+2715,Sociology (DPhil),社会学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-sociology
+2715,Sociology (DPhil),社会学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-sociology-pt
+2715,Sociology (MSc),社会学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-sociology
+2715,Sociology (MSc),社会学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-sociology-pt
+2715,Sociology and Demography (MPhil),社会学与Demography（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-sociology-demography
+2715,Software and Systems Security (MSc),Software与系统Security（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-software-and-systems-security
+2715,Software Engineering (MSc),Software工程（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-software-engineering
+2715,Statistical Science (MSc),统计科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-statistical-science
+2715,Statistical Science (PGDip),统计科学（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-statistical-science
+2715,Statistics (DPhil),统计学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-statistics
+2715,Statistics (MSc by Research),统计学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-statistics
+2715,Statistics and Epidemiology (PGCert),统计学与Epidemiology（PGCert）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgcert-statistics-epidemiology
+2715,Statistics and Machine Learning (EPSRC CDT),统计学与机器学习（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/statistics-machine-learning
+2715,Statistics and Machine Learning (EPSRC CDT),统计学与机器学习（EPSRC CDT）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/statistics-statistical-machine-learning-pt
+2715,Statistics IDLA: Model uncertainty and model fusion using statistical AI (DPhil),统计学IDLA:Modeluncertainty与modelfusionusing统计AI（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-statistics-idla-stat-ai
+2715,Statistics IDLA: Uncertainty quantification and robust decision analysis (DPhil),统计学IDLA:Uncertaintyquantification与robustdecisionanalysis（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-statistics-idla-uqrda
+2715,Strategy and Innovation (PGDip),Strategy与Innovation（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/TD_NF6A9P1
+2715,Study of Religions (MSt),宗教研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-study-religions
+2715,Superconductivity (EPSRC CDT) (DPhil),超导（EPSRC CDT）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/superconductivity-enabling-transformative-tech
+2715,Superconductivity (EPSRC CDT) (DPhil),超导（EPSRC CDT）（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/superconductivity-enabling-transformative-technologies-pt
+2715,Surgical Science and Practice (MSc),Surgical科学与Practice（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-surgical-science-and-practice
+2715,Surgical Sciences (DPhil),Surgical科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-surgical-sciences
+2715,Surgical Sciences (MSc by Research),Surgical科学（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-surgical-sciences
+2715,"Sustainability, Enterprise and the Environment (MSc)",Sustainability、Enterprise与the环境（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainability-enterprise-environment
+2715,Sustainable Urban Development (DPhil),可持续城市发展（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-sustainable-urban-development
+2715,Sustainable Urban Development (MSc),可持续城市发展（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-sustainable-urban-development
+2715,Syriac Studies (MSt),Syriac研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-syriac-studies
+2715,Taxation (MSc),税务（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-taxation
+2715,Teacher Education (MSc),Teacher教育学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-teacher-education
+2715,Theology (MPhil),神学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-theology
+2715,Theology (MSt),神学（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-theology
+2715,Theology and Religion (DPhil),神学与宗教研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-theology-and-religion
+2715,Theology and Religion (DPhil),神学与宗教研究（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-theology-and-religion-pt
+2715,Theology and Religion (PGDip),神学与宗教研究（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-theology-and-religion
+2715,Theology and Religion (PGDip),神学与宗教研究（PGDip）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/pgdip-theology-and-religion-pt
+2715,Theoretical and Computational Chemistry (MSc),Theoretical与Computational化学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-theoretical-and-computational-chemistry
+2715,Theoretical Physics (DPhil),Theoretical物理学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-theoretical-physics
+2715,Tibetan and Himalayan Studies (MPhil),Tibetan与Himalayan研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-tibetan-and-himalayan-studies
+2715,Traditional China (MSt),传统中国研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-traditional-china
+2715,Traditional East Asia (MPhil),传统东亚研究（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-traditional-east-asia
+2715,Translational Health Sciences (DPhil),转化健康科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-translational-health-sciences
+2715,Translational Health Sciences (DPhil),转化健康科学（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-translational-health-sciences-pt
+2715,Translational Health Sciences (MSc),转化健康科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-translational-health-sciences
+2715,Translational Health Sciences (MSc),转化健康科学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-translational-health-sciences-pt
+2715,"Visual, Material and Museum Anthropology (MPhil)",Visual、Material与Museum人类学（MPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mphil-visual-material-and-museum-anthropology
+2715,"Visual, Material and Museum Anthropology (MSc)",Visual、Material与Museum人类学（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-visual-material-and-museum-anthropology
+2715,"Water Science, Policy and Management (MSc)",Water科学、政策与管理（MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-water-science-policy-and-management
+2715,Women's and Reproductive Health (DPhil),女性与Reproductive健康（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-womens-and-reproductive-health
+2715,Women's and Reproductive Health (DPhil),女性与Reproductive健康（DPhil）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/dphil-womens-and-reproductive-health-pt
+2715,Women's and Reproductive Health (MSc by Research),女性与Reproductive健康（研究型MSc）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/msc-research-womens-and-reproductive-health
+2715,"Women's, Gender, and Sexuality Studies (MSt)",女性、性别、Sexuality研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-womens-gender-sexuality-studies
+2715,World Literatures in English (MSt),WorldLiteraturesin英语（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-world-literatures-english
+2715,Yiddish Studies (MSt),Yiddish研究（MSt）,master,1,https://www.ox.ac.uk/admissions/graduate/courses/mst-yiddish-studies

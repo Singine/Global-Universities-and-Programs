@@ -1,0 +1,348 @@
+﻿university_id,degree_level,major_name_en,major_name_cn,is_active,notes
+29,bachelor,"Bachelor of Agricultural Sciences - Roseworthy Campus, Waite Campus",农业科学学士（罗斯沃西校区、韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bags_bagricsci.html
+29,bachelor,"Bachelor of Applied Data Analytics - North Terrace Campus, Waite Campus",应用数据分析学士（北台地校区、韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bada_bapda.html
+29,bachelor,Bachelor of Architectural Design,建筑设计学士,1,https://www.adelaide.edu.au/degree-finder/2025/bdest_bdesignst.html
+29,bachelor,Bachelor of Arts,文学学士,1,https://www.adelaide.edu.au/degree-finder/2025/barts_bart.html
+29,bachelor,Bachelor of Arts (Advanced),文学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/barta_bartadv.html
+29,bachelor,Bachelor of Biotechnology,生物技术学士,1,https://www.adelaide.edu.au/degree-finder/2025/bbio_bbiotec.html
+29,bachelor,Bachelor of Biotechnology (Honours),生物技术（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hbio_hbbiotec.html
+29,bachelor,Bachelor of Business,商学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bbus_bbusiness.html
+29,bachelor,Bachelor of Commerce,商学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcom_bcom.html
+29,bachelor,Bachelor of Commerce - Melbourne Campus,商学学士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bcom_bcommelb.html
+29,bachelor,Bachelor of Computer Science,计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcomp_bcmpsci.html
+29,bachelor,Bachelor of Computer Science (Advanced),计算机科学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcmsa_bcmpscadv.html
+29,bachelor,Bachelor of Construction Management,施工管理学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcm_bconsmgt.html
+29,bachelor,Bachelor of Construction Management (Honours),施工管理（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hcm_hbcm.html
+29,bachelor,Bachelor of Criminology,犯罪学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcrim_bcrim.html
+29,bachelor,Bachelor of Dental Surgery,牙科外科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bds_bds.html
+29,bachelor,Bachelor of Economics,经济学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bec_becon.html
+29,bachelor,Bachelor of Economics (Advanced),经济学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/beca_beconadv.html
+29,bachelor,Bachelor of Engineering (Honours) - Engineering Pathway,工程（荣誉）学士（工程衔接课程）,1,https://www.adelaide.edu.au/degree-finder/2025/behep_behengpath.html
+29,bachelor,Bachelor of Engineering (Honours) - Flexible Entry,工程（荣誉）学士（灵活入学）,1,https://www.adelaide.edu.au/degree-finder/2025/behf_behflex.html
+29,bachelor,Bachelor of Engineering (Honours)(Architectural and Structural),工程（荣誉）（建筑与结构）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_beha&ss1.html
+29,bachelor,Bachelor of Engineering (Honours)(Chemical),工程（荣誉）（化学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behchems1.html
+29,bachelor,Bachelor of Engineering (Honours)(Civil),工程（荣誉）（土木）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behcivs1.html
+29,bachelor,Bachelor of Engineering (Honours)(Electrical and Electronic),工程（荣誉）（电气与电子）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behe&es1.html
+29,bachelor,Bachelor of Engineering (Honours)(Mechanical),工程（荣誉）（机械）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behmechs1.html
+29,bachelor,Bachelor of Engineering (Honours)(Mining),工程（荣誉）（采矿）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behmins1.html
+29,bachelor,Bachelor of Engineering (Honours)(Petroleum),工程（荣誉）（石油）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behpets1.html
+29,bachelor,Bachelor of Engineering (Honours)(Petroleum) with major,工程（荣誉）（石油）学士（含主修方向）,1,https://www.adelaide.edu.au/degree-finder/2025/behpe_behpetrol.html
+29,bachelor,Bachelor of Engineering (Honours)(Software),工程（荣誉）（软件）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behsoftws1.html
+29,bachelor,Bachelor of Engineering(Honours)(Environmental and Climate Solutions),工程（荣誉）（环境与气候解决方案）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bengh_behecs.html
+29,bachelor,Bachelor of Environmental Policy and Management,环境政策与管理学士,1,https://www.adelaide.edu.au/degree-finder/2025/benvs_benvs.html
+29,bachelor,Bachelor of Finance and Banking,金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bfb_bfinbank.html
+29,bachelor,"Bachelor of Food and Nutrition Science - North Terrace Campus, Waite Campus, Regency Park",食品与营养理学学士（北台地校区、韦特校区、里金西公园园区（Regency Park））,1,https://www.adelaide.edu.au/degree-finder/2025/bfsct_bfoodsct.html
+29,bachelor,"Bachelor of Food and Nutrition Science (Honours) - North Terrace Campus, Waite Campus",食品与营养理学（荣誉）学士（北台地校区、韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/hfnsc_hbfnsc.html
+29,bachelor,Bachelor of Health Service Management - Online,卫生服务管理学士（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/bhsm_bhsmoua.html
+29,bachelor,Bachelor of Health and Medical Sciences,健康与医学科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bhms_bhlthmsc.html
+29,bachelor,Bachelor of Health and Medical Sciences (Advanced),健康与医学科学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bhmsa_bhlthmsca.html
+29,bachelor,Bachelor of Information Technology,信息技术学士,1,https://www.adelaide.edu.au/degree-finder/2025/bit_binftech.html
+29,bachelor,Bachelor of Information Technology - Melbourne Campus,信息技术学士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bit_bintecmelb.html
+29,bachelor,Bachelor of International Business - Online,国际商学学士（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/bib_bintbusoua.html
+29,bachelor,Bachelor of International Development,国际发展学士,1,https://www.adelaide.edu.au/degree-finder/2025/bdvst_bdevstud.html
+29,bachelor,Bachelor of International Relations,国际关系学士,1,https://www.adelaide.edu.au/degree-finder/2025/bintr_bintlrel.html
+29,bachelor,Bachelor of Languages,语言学士,1,https://www.adelaide.edu.au/degree-finder/2025/blang_blang.html
+29,bachelor,Bachelor of Laws,法学学士,1,https://www.adelaide.edu.au/degree-finder/2025/blaws_llb.html
+29,bachelor,Bachelor of Marine and Wildlife Conservation,海洋与野生动物保护学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmwc_bmwcons.html
+29,bachelor,Bachelor of Mathematical Sciences,数学理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmasc_bmathsci.html
+29,bachelor,Bachelor of Mathematical Sciences (Advanced),数学理学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmsad_bmathscadv.html
+29,bachelor,Bachelor of Mathematical Sciences (Honours),数学理学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmsc_hbmathsc.html
+29,bachelor,Bachelor of Mathematical and Computer Sciences,数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bscms_bscm&cs.html
+29,bachelor,Bachelor of Media,媒体学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmedi_bmedia.html
+29,bachelor,Bachelor of Medical Studies,医学研究学士,1,https://www.adelaide.edu.au/degree-finder/2025/bms_bmedstud.html
+29,bachelor,Bachelor of Medicine and Bachelor of Surgery,医学与外科学士（MBBS）,1,https://www.adelaide.edu.au/degree-finder/2025/bmbbs_bmbbs.html
+29,bachelor,Bachelor of Music (Advanced)(Classical Performance),音乐（高级）（古典表演/演奏）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmadv_bmusacp.html
+29,bachelor,Bachelor of Music (Advanced)(Creative Practice),音乐（高级）（创意实务）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmadv_bmusacrp.html
+29,bachelor,Bachelor of Music (Advanced)(Jazz Performance),音乐（高级）（爵士表演/演奏）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmadv_bmusajp.html
+29,bachelor,Bachelor of Music (Advanced)(Music Education),音乐（高级）（音乐教育学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmadv_bmusame.html
+29,bachelor,Bachelor of Music (Classical Performance),音乐（古典表演/演奏）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmus_bmuscp.html
+29,bachelor,Bachelor of Music (Creative Practice),音乐（创意实务）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmus_bmuscrp.html
+29,bachelor,Bachelor of Music (Jazz Performance),音乐（爵士表演/演奏）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmus_bmusjp.html
+29,bachelor,Bachelor of Music (Music Education),音乐（音乐教育学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmus_bmusme.html
+29,bachelor,Bachelor of Music Theatre,音乐剧学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmuth_bmusthtre.html
+29,bachelor,"Bachelor of Nursing - North Terrace Campus, Teaching Hospitals",护理学学士（北台地校区、教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/bnurs_bnursing.html
+29,bachelor,Bachelor of Occupational Therapy (Honours),职业治疗（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hocth_hboccther.html
+29,bachelor,Bachelor of Oral Health,口腔健康学士,1,https://www.adelaide.edu.au/degree-finder/2025/boral_boralhlth.html
+29,bachelor,"Bachelor of Philosophy, Politics and Economics",哲学、政治与经济学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bppe_bphilpolec.html
+29,bachelor,Bachelor of Physiotherapy (Honours),物理治疗（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hphys_hbphys.html
+29,bachelor,Bachelor of Project Management,项目管理学士,1,https://www.adelaide.edu.au/degree-finder/2025/bpm_bprojmgt.html
+29,bachelor,Bachelor of Psychological Science,心理科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bpsyc_bpsyc.html
+29,bachelor,Bachelor of Psychology (Advanced)(Honours),心理学（高级）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hpsya_hbpsycadv.html
+29,bachelor,Bachelor of Science,理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bsci.html
+29,bachelor,Bachelor of Science (Advanced),理学（高级）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscadv.html
+29,bachelor,Bachelor of Science (Advanced)(Honours),理学（高级）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hscia_hbsciadv.html
+29,bachelor,Bachelor of Science (Animal Behaviour) - Roseworthy Campus,理学（动物行为）学士（罗斯沃西校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscab.html
+29,bachelor,Bachelor of Science (Animal Science) - Roseworthy Campus,理学（动物科学）学士（罗斯沃西校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscas.html
+29,bachelor,Bachelor of Science (Biomedical Science),理学（生物医学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscibiomed.html
+29,bachelor,Bachelor of Science (High Performance Computational Physics)(Honours),理学（高性能计算物理）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hschp_hschp.html
+29,bachelor,Bachelor of Science (Honours),理学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hsci_hbsci.html
+29,bachelor,Bachelor of Science (Mineral Geoscience),理学（矿物地球科学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscmige.html
+29,bachelor,Bachelor of Science (Space Sc & Astrophysics),理学（空间科学与天体物理学）学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsc_bscssap.html
+29,bachelor,"Bachelor of Science (Veterinary Bioscience) - North Terrace Campus, Roseworthy Campus",理学（兽医生物科学）学士（北台地校区、罗斯沃西校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bscpv_bscaspv.html
+29,bachelor,Bachelor of Sociology,社会学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bsoc_bsociol.html
+29,bachelor,Bachelor of Speech Pathology (Honours),言语病理学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hsppa_hbsppath.html
+29,bachelor,Bachelor of Veterinary Technology - Roseworthy Campus,兽医技术学士（罗斯沃西校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bvt_bvettech.html
+29,bachelor,Bachelor of Viticulture and Oenology - Waite Campus,葡萄栽培与酿酒学学士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/bvito_bvitoenol.html
+29,bachelor,Bachelor of Viticulture and Oenology (Honours) - Waite Campus,葡萄栽培与酿酒学（荣誉）学士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/hvito_hbvitoen.html
+29,bachelor,Associate Degree in Construction Management,施工管理副学士,1,https://www.adelaide.edu.au/degree-finder/2025/adcm_adconstmgt.html
+29,bachelor,Diploma in Arts,文学文凭,1,https://www.adelaide.edu.au/degree-finder/2025/darts_diparts.html
+29,bachelor,Diploma in Arts (Specialisation),文学（专业方向）文凭,1,https://www.adelaide.edu.au/degree-finder/2025/darsp_dipartsp.html
+29,bachelor,Diploma in Business,商学文凭,1,https://www.adelaide.edu.au/degree-finder/2025/dbus_dipbus.html
+29,bachelor,Diploma in Engineering,工程文凭,1,https://www.adelaide.edu.au/degree-finder/2025/deng_dipeng.html
+29,bachelor,Diploma in Languages,语言文凭,1,https://www.adelaide.edu.au/degree-finder/2025/dilan_diplang.html
+29,bachelor,Bachelor of Arts (Advanced) with Bachelor of Laws,文学（高级）学士与法学学士,1,https://www.adelaide.edu.au/degree-finder/2025/baabl_baadvbl.html
+29,bachelor,Bachelor of Arts (Advanced) with Bachelor of Laws (Honours),文学（高级）学士与法学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/haala_hbaadvblaw.html
+29,bachelor,Bachelor of Arts with Bachelor of Economics,文学学士与经济学学士,1,https://www.adelaide.edu.au/degree-finder/2025/babec_bartbec.html
+29,bachelor,Bachelor of Arts with Bachelor of Music,文学学士与音乐学士,1,https://www.adelaide.edu.au/degree-finder/2025/babmu_bartbmusd1.html
+29,bachelor,Bachelor of Arts with Bachelor of Science,文学学士与理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/babsc_bartbscd1.html
+29,bachelor,Bachelor of Criminology with Bachelor of Laws,犯罪学学士与法学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bcbl_bcrimblaw.html
+29,bachelor,Bachelor of Criminology with Bachelor of Laws (Honours),犯罪学学士与法学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hcrla_hbcrimblaw.html
+29,bachelor,Bachelor of Economics with Bachelor of Finance and Banking,经济学学士与金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bebfb_beconbfbd1.html
+29,bachelor,Bachelor of Engineering (Honours)(Chemical) with Bachelor of Biotechnology,工程（荣誉）（化学）学士与生物技术学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedsr_behchemd6.html
+29,bachelor,Bachelor of Engineering (Honours)(Chemical) with Bachelor of Finance and Banking,工程（荣誉）（化学）学士与金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedfo_behchemd5.html
+29,bachelor,Bachelor of Engineering (Honours)(Chemical) with Bachelor of Mathematical and Computer Sciences,工程（荣誉）（化学）学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedmn_behchemd4.html
+29,bachelor,Bachelor of Engineering (Honours)(Chemical) with Bachelor of Science,工程（荣誉）（化学）学士与理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedsm_behchemd3.html
+29,bachelor,Bachelor of Engineering (Honours)(Civil) with Bachelor of Finance and Banking,工程（荣誉）（土木）学士与金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedfp_behcivild5.html
+29,bachelor,Bachelor of Engineering (Honours)(Civil) with Bachelor of Mathematical and Computer Sciences,工程（荣誉）（土木）学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedmm_behcivild4.html
+29,bachelor,Bachelor of Engineering (Honours)(Electrical and Electronic) with Bachelor of Finance and Banking,工程（荣誉）（电气与电子）学士与金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedfq_behe&ed5.html
+29,bachelor,Bachelor of Engineering (Honours)(Electrical and Electronic) with Bachelor of Mathematical and Computer Sciences,工程（荣誉）（电气与电子）学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedmo_behe&ed4.html
+29,bachelor,Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Finance and Banking,工程（荣誉）（机械）学士与金融与银行学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedfs_behmechd5.html
+29,bachelor,Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Mathematical and Computer Sciences,工程（荣誉）（机械）学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedmp_behmechd4.html
+29,bachelor,Bachelor of Engineering (Honours)(Mechanical) with Bachelor of Science,工程（荣誉）（机械）学士与理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bedsn_behmechd3.html
+29,bachelor,Bachelor of Finance and Banking with Bachelor of Mathematical and Computer Sciences,金融与银行学学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bfbbm_bfbbmd1.html
+29,bachelor,Bachelor of International Relations with Bachelor of Arts,国际关系学士与文学学士,1,https://www.adelaide.edu.au/degree-finder/2025/birba_bintrebart.html
+29,bachelor,Bachelor of International Relations with Bachelor of Economics,国际关系学士与经济学学士,1,https://www.adelaide.edu.au/degree-finder/2025/birbe_bintrebec.html
+29,bachelor,Bachelor of International Relations with Bachelor of Media,国际关系学士与媒体学士,1,https://www.adelaide.edu.au/degree-finder/2025/birbm_bintrebmed.html
+29,bachelor,Bachelor of Media with Bachelor of Arts,媒体学士与文学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmeba_bmediabart.html
+29,bachelor,Bachelor of Media with Bachelor of Computer Sciences,媒体学士与计算机理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmbcs_bmediabcsc.html
+29,bachelor,Bachelor of Media with Bachelor of Criminology,媒体学士与犯罪学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmbc_bmediabcri.html
+29,bachelor,Bachelor of Media with Bachelor of Sociology,媒体学士与社会学学士,1,https://www.adelaide.edu.au/degree-finder/2025/bmbs_bmediabsoc.html
+29,bachelor,Bachelor of Teaching (Secondary) with Bachelor of Arts,教学（中学）学士与文学学士,1,https://www.adelaide.edu.au/degree-finder/2025/btsba_btchsecba.html
+29,bachelor,Bachelor of Teaching (Secondary) with Bachelor of Mathematical and Computer Sciences,教学（中学）学士与数学与计算机科学学士,1,https://www.adelaide.edu.au/degree-finder/2025/btsm_btchsecbm.html
+29,bachelor,Bachelor of Teaching (Secondary) with Bachelor of Music,教学（中学）学士与音乐学士,1,https://www.adelaide.edu.au/degree-finder/2025/btsbm_btchsecbmu.html
+29,bachelor,Bachelor of Teaching (Secondary) with Bachelor of Science,教学（中学）学士与理学学士,1,https://www.adelaide.edu.au/degree-finder/2025/btsbs_btchsecbsc.html
+29,bachelor,Bachelor of Architectural Design (Honours),建筑设计（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hdess_hbdesignst.html
+29,bachelor,Bachelor of Arts (Honours),文学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/harts_hbart.html
+29,bachelor,Bachelor of Commerce (Honours),商学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hcom_hbcom.html
+29,bachelor,Bachelor of Computer Science (Honours),计算机科学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hcomp_hbcompsc.html
+29,bachelor,Bachelor of Criminology (Honours),犯罪学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hcrim_hbcrim.html
+29,bachelor,Bachelor of Economics (Honours),经济学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hec_hbec.html
+29,bachelor,Bachelor of Environmental Policy and Management (Honours),环境政策与管理（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/henst_hbenvst.html
+29,bachelor,Bachelor of Finance (Honours),金融学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hfin_hbfin.html
+29,bachelor,Bachelor of Food and Nutrition Science (Honours) - Waite Campus,食品与营养理学（荣誉）学士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/hfsct_hbfsct.html
+29,bachelor,Bachelor of Health and Medical Sciences (Honours),健康与医学科学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hhmsc_hbhlthmeds.html
+29,bachelor,Bachelor of International Relations (Honours),国际关系（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hbinr_hbintlrel.html
+29,bachelor,Bachelor of Languages (Honours),语言（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hlang_hblang.html
+29,bachelor,Bachelor of Mathematical Sciences (Honours),数学理学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmasc_hbmathsci.html
+29,bachelor,Bachelor of Media (Honours),媒体（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmedi_hbmedia.html
+29,bachelor,Bachelor of Music (Classical Performance)(Honours),音乐（古典表演/演奏）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmus_hbmuscp.html
+29,bachelor,Bachelor of Music (Creative Practice)(Honours),音乐（创意实务）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmus_hbmuscrp.html
+29,bachelor,Bachelor of Music (Jazz Performance)(Honours),音乐（爵士表演/演奏）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmus_hbmusjp.html
+29,bachelor,Bachelor of Music (Music Education)(Honours),音乐（音乐教育学）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmus_hbmusme.html
+29,bachelor,Bachelor of Music (Musicology)(Honours),音乐（音乐学）（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hmus_hbmusicol.html
+29,bachelor,Bachelor of Psychological Science (Honours),心理科学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hpsy_hbpsyc.html
+29,bachelor,Bachelor of Science (Honours),理学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hsc_hbsc.html
+29,bachelor,Bachelor of Sociology (Honours),社会学（荣誉）学士,1,https://www.adelaide.edu.au/degree-finder/2025/hsoc_hbsocio.html
+29,bachelor,Honours Degree of Bachelor of International Development,国际发展荣誉学士,1,https://www.adelaide.edu.au/degree-finder/2025/hdvst_hbdevstud.html
+29,master,Master of Architecture with Master of Landscape Architecture,建筑硕士与景观建筑硕士,1,https://www.adelaide.edu.au/degree-finder/2025/marml_marc/mlarc.html
+29,master,Master of Planning (Urban Design) with Master of Landscape Architecture,规划（城市设计）硕士与景观建筑硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpmla_mlarcmplan.html
+29,master,Executive Master of Business Administration,高级工商管理硕士（EMBA）,1,https://www.adelaide.edu.au/degree-finder/2025/emba_exmbusad.html
+29,master,Master of Accounting - Melbourne Campus,会计学硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/maccg_maccmelb.html
+29,master,Master of Accounting,会计学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/maccg_maccntg.html
+29,master,Master of Accounting and Finance,会计学与金融学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/macfi_macfin.html
+29,master,Master of Accounting and Finance - Melbourne Campus,会计学与金融学硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/macfi_macfinmelb.html
+29,master,Master of Applied Finance,应用金融学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mapfn_mappfi.html
+29,master,Master of Applied Finance - Melbourne Campus,应用金融学硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mapfn_mappfimelb.html
+29,master,Master of Architecture by coursework,建筑学硕士（授课型）,1,https://www.adelaide.edu.au/degree-finder/2025/march_marchcswk.html
+29,master,Master of Artificial Intelligence and Machine Learning,人工智能与机器学习硕士,1,https://www.adelaide.edu.au/degree-finder/2025/maiml_maiml.html
+29,master,Master of Biopharmaceutical Engineering,生物制药工程硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mbe_mbiopeng.html
+29,master,Master of Biostatistics,生物统计学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mbst_mbiostats.html
+29,master,Master of Biotechnology (Biomedical),生物技术（生物医学）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mbib_mbibiom.html
+29,master,Master of Biotechnology (Biomedical)(Advanced),生物技术（生物医学）（高级）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mbba_mbbioadv.html
+29,master,Master of Business Administration - Online,工商管理硕士（MBA）（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/mbaol_mbaol.html
+29,master,Master of Business Administration,工商管理硕士（MBA）,1,https://www.adelaide.edu.au/degree-finder/2025/mbusa_mbusad.html
+29,master,Master of Business Administration (Health Management) - Online,工商管理硕士（MBA）（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/mbahm_mbahmol.html
+29,master,Master of Business Administration (International),国际工商管理硕士（MBA）,1,https://www.adelaide.edu.au/degree-finder/2025/mbain_mbusadi.html
+29,master,Master of Business Analytics,商学分析硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mbana_mbusana.html
+29,master,Master of Clinical Nursing - Teaching Hospitals,临床护理硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mclnu_mclinur.html
+29,master,Master of Computer Science,计算机科学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcoms_mcmpsci.html
+29,master,Master of Computing and Innovation - Melbourne Campus,计算与创新硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mcomi_mcominmelb.html
+29,master,Master of Computing and Innovation,计算与创新硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcomi_mcompinnov.html
+29,master,Master of Construction Management,施工管理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcmgt_mconmgt.html
+29,master,Master of Counselling and Psychotherapy,咨询与心理治疗硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcp_mcounpsy.html
+29,master,Master of Curatorial and Museum Studies,策展与博物馆研究硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcms_mcmusst.html
+29,master,Master of Cyber Security,网络安全硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mcsec_mcybsecu.html
+29,master,Master of Cyber Security - Online,网络安全硕士（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/mcsol_mcybsecol.html
+29,master,Master of Data Science,数据科学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mdsci_mdatasci.html
+29,master,Master of Data Science (Applied) - Online,数据科学（应用）硕士（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/mdsa_mdscapol.html
+29,master,Master of Economics and Resource Policy,经济学与资源政策硕士,1,https://www.adelaide.edu.au/degree-finder/2025/merp_mecrepol.html
+29,master,Master of Education,教育学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meduc_meduc.html
+29,master,Master of Engineering (Aerospace),工程（航空航天）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengaero.html
+29,master,Master of Engineering (Chemical),工程（化学）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengch.html
+29,master,Master of Engineering (Civil & Structural),工程（土木与结构）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengcivst.html
+29,master,Master of Engineering (Electrical),工程（电气）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengelec.html
+29,master,Master of Engineering (Electronic),工程（电子）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengelect.html
+29,master,Master of Engineering (Environmental),工程（环境）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengen.html
+29,master,Master of Engineering (Mechanical),工程（机械）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengmechan.html
+29,master,Master of Engineering (Mechatronic),工程（机电一体化）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengmecha.html
+29,master,Master of Engineering (Mining),工程（采矿）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/meng_mengmin.html
+29,master,Master of Environmental Policy and Management,环境政策与管理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/menpm_menvp&mgt.html
+29,master,Master of Finance,金融学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mfin_mfinance.html
+29,master,Master of Finance - Melbourne Campus,金融学硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mfin_mfinmelb.html
+29,master,Master of Finance and Business Economics,金融学与商学经济学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mfbe_mfbec.html
+29,master,Master of Food and Nutrition Science - Waite Campus,食品与营养理学硕士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mfns_mfoodns.html
+29,master,Master of Global Food and Nutrition Science - Waite Campus,全球食品与营养理学硕士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mgfn_mglobfns.html
+29,master,Master of Immersive Media Technologies,沉浸式媒体技术硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mimt_mimedtech.html
+29,master,Master of International Management,国际管理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mim_mintmgmt.html
+29,master,Master of International Security,国际安全硕士,1,https://www.adelaide.edu.au/degree-finder/2025/minse_mintsec.html
+29,master,Master of International and Security Law,国际与安全法学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/misl_mintsl.html
+29,master,Master of Landscape Architecture,景观建筑硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mlack_mlarchcswk.html
+29,master,Master of Laws,法学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mlawc_llmcwk.html
+29,master,Master of Maritime Engineering,海事工程硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmen_mmaren.html
+29,master,Master of Marketing,市场营销硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmark_mmarket.html
+29,master,Master of Materials Engineering,材料工程硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mme_mmateng.html
+29,master,Master of Mathematical Sciences,数学理学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmsci_mmasci.html
+29,master,Master of Media (Strategic Communication),媒体（战略传播）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmesc_mmesc.html
+29,master,Master of Medical Radiation Physics,医学放射物理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmrp_mmedradp.html
+29,master,Master of Minimally Invasive Surgery - Teaching Hospitals,微创外科硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mmis_mmininvsur.html
+29,master,Master of Music (Performance Studies),音乐（表演/演奏研究）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmups_mmuspest.html
+29,master,Master of Music (Performance and Pedagogy),音乐（表演/演奏与教学法）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mmupp_mmuspp.html
+29,master,Master of Nurse Practitioner,高级执业护理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mnp_mnurprac.html
+29,master,Master of Nursing Science - Teaching Hospitals,护理学理学硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurssc.html
+29,master,Master of Nursing Science (Acute Care Nursing) - Teaching Hospitals,护理学理学（急性护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscac.html
+29,master,Master of Nursing Science (Anaesthetics and Recovery Nursing) - Teaching Hospitals,护理学理学（麻醉与复苏护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscar.html
+29,master,Master of Nursing Science (Burns Nursing) - Teaching Hospitals,护理学理学（烧伤护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscbn.html
+29,master,Master of Nursing Science (Cardiac Nursing) - Teaching Hospitals,护理学理学（心脏护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnursccn.html
+29,master,Master of Nursing Science (Emergency Nursing) - Teaching Hospitals,护理学理学（急诊护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscen.html
+29,master,Master of Nursing Science (Intensive Care Nursing) - Teaching Hospitals,护理学理学（重症监护护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscic.html
+29,master,Master of Nursing Science (Mental Health Nursing) - Teaching Hospitals,护理学理学（精神健康护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscmh.html
+29,master,Master of Nursing Science (Oncology Nursing) - Teaching Hospitals,护理学理学（肿瘤护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscon.html
+29,master,Master of Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,护理学理学（骨科护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscor.html
+29,master,Master of Nursing Science (Perioperative Nursing) - Teaching Hospitals,护理学理学（围手术期护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscpn.html
+29,master,Master of Nursing Science (Renal Nursing) - Teaching Hospitals,护理学理学（肾脏护理）硕士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/mnusc_mnurscrn.html
+29,master,Master of Petroleum Engineering,石油工程硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpen_mpetroleng.html
+29,master,Master of Physician Assistant Studies,医师助理研究硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpas_mphysas.html
+29,master,Master of Planning (Urban Design),规划（城市设计）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpud_mplanud.html
+29,master,Master of Professional Accounting - Melbourne Campus,专业会计学硕士（墨尔本校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mprac_mproacmelb.html
+29,master,Master of Professional Accounting,专业会计学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mprac_mprofac.html
+29,master,Master of Project Management,项目管理硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpmt_mprojmgt.html
+29,master,Master of Project Management (Complex Systems),项目管理（复杂系统）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpmcs_mpmcomsy.html
+29,master,Master of Property,房地产硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mprop_mproperty.html
+29,master,Master of Psychology (Clinical),心理学（临床）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpsyc_mclinpsy.html
+29,master,Master of Psychology (Health),心理学（健康）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpsyh_mpsyhealth.html
+29,master,Master of Psychology (Organisational and Human Factors),心理学（组织与人因）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpohf_mpsychohm.html
+29,master,Master of Public Health,公共卫生硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mph_mpubhlt.html
+29,master,Master of Public Policy,公共政策硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mpup_mpubpoli.html
+29,master,Master of Science in Addiction Studies,成瘾研究理学硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mas_maddstud.html
+29,master,Master of Teaching (Secondary),教学（中学）硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mts_mteachs.html
+29,master,Master of Technology Innovation and Leadership,技术创新与领导力硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mtil_mtchinld.html
+29,master,Master of Viticulture and Oenology - Waite Campus,葡萄栽培与酿酒学硕士（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/mvo_mvitoenol.html
+29,master,Master of Wine Business,葡萄酒商务硕士,1,https://www.adelaide.edu.au/degree-finder/2025/mwb_mwinbus.html
+29,master,Executive Graduate Diploma in Business Administration,工商管理高管研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/egdba_exgdbusad.html
+29,master,Graduate Diploma in Addiction and Mental Health,成瘾与心理健康研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdamh_gdadmhlt.html
+29,master,Graduate Diploma in Artificial Intelligence and Machine Learning,人工智能与机器学习研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdaim_gdaiml.html
+29,master,Graduate Diploma in Biostatistics,生物统计学研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdbst_gdbiostat.html
+29,master,Graduate Diploma in Biotechnology (Biomedical),生物技术（生物医学）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdbib_gdbibiom.html
+29,master,Graduate Diploma in Business Administration - Online,工商管理研究生文凭（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gdbao_gdbaol.html
+29,master,Graduate Diploma in Business Analytics,商学分析研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdban_gdbusan.html
+29,master,Graduate Diploma in Business Law,商学法学研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdbla_gdbuslaw.html
+29,master,Graduate Diploma in Computer Science,计算机科学研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdcms_gdcompsci.html
+29,master,Graduate Diploma in Counselling and Psychotherapy,咨询与心理治疗研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdcp_gdcounpsy.html
+29,master,Graduate Diploma in Curatorial and Museum Studies,策展与博物馆研究研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdcum_gdcmusst.html
+29,master,Graduate Diploma in Cyber Security - Online,网络安全研究生文凭（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gdcso_gdcybsecol.html
+29,master,Graduate Diploma in Cyber Security,网络安全研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdcys_gdcysec.html
+29,master,Graduate Diploma in Data Science,数据科学研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gddsc_gddatasc.html
+29,master,Graduate Diploma in Data Science (Applied) - Online,数据科学（应用）研究生文凭（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gddsa_gddscapol.html
+29,master,Graduate Diploma in Economics and Resource Policy,经济学与资源政策研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gderp_gdecrepol.html
+29,master,Graduate Diploma in Education Studies,教育学研究研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdes_gdeducst.html
+29,master,Graduate Diploma in Engineering (Aerospace),工程（航空航天）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengaero.html
+29,master,Graduate Diploma in Engineering (Chemical),工程（化学）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengchem.html
+29,master,Graduate Diploma in Engineering (Civil & Structural),工程（土木与结构）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengcivst.html
+29,master,Graduate Diploma in Engineering (Electrical),工程（电气）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengelec.html
+29,master,Graduate Diploma in Engineering (Electronic),工程（电子）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengelect.html
+29,master,Graduate Diploma in Engineering (Environmental),工程（环境）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengen.html
+29,master,Graduate Diploma in Engineering (Mechanical),工程（机械）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengmech.html
+29,master,Graduate Diploma in Engineering (Mechatronic),工程（机电一体化）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengmecha.html
+29,master,Graduate Diploma in Engineering (Mining),工程（采矿）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdeng_gdengmin.html
+29,master,Graduate Diploma in Environmental Policy and Management,环境政策与管理研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdepm_gdenvp&m.html
+29,master,Graduate Diploma in Food and Nutrition Science - Waite Campus,食品与营养理学研究生文凭（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/gdfns_gdfoodns.html
+29,master,Graduate Diploma in Global Food and Nutrition Science - Waite Campus,全球食品与营养理学研究生文凭（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/gdgfn_gdglobfns.html
+29,master,Graduate Diploma in Immersive Media Technologies,沉浸式媒体技术研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdimt_gdimedtech.html
+29,master,Graduate Diploma in International Addiction Studies,国际成瘾研究研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdias_gdintadst.html
+29,master,Graduate Diploma in International Security,国际安全研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdins_gdintsec.html
+29,master,Graduate Diploma in Law,法学研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdlaw_gdlaw.html
+29,master,Graduate Diploma in Legal Practice,法律实务研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdlp_gdlegalpr.html
+29,master,Graduate Diploma in Maritime Engineering,海事工程研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdmen_gdmaren.html
+29,master,Graduate Diploma in Materials Engineering,材料工程研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdme_gdmateng.html
+29,master,Graduate Diploma in Media (Strategic Communication),媒体（战略传播）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdms_gdmedsc.html
+29,master,Graduate Diploma in Music (Performance and Pedagogy),音乐（表演/演奏与教学法）研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdmpp_gdmuspp.html
+29,master,Graduate Diploma in Music Performance,音乐表演/演奏研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdmup_gdmusperf.html
+29,master,"Graduate Diploma in Nursing Science - North Terrace Campus, Teaching Hospitals",护理学理学研究生文凭（北台地校区、教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdns.html
+29,master,Graduate Diploma in Nursing Science (Acute Care Nursing) - Teaching Hospitals,护理学理学（急性护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsaccare.html
+29,master,Graduate Diploma in Nursing Science (Anaesthetic and Recovery Nursing) - Teaching Hospitals,护理学理学（麻醉与复苏护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsanarec.html
+29,master,Graduate Diploma in Nursing Science (Cardiac Nursing) - Teaching Hospitals,护理学理学（心脏护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnscardia.html
+29,master,Graduate Diploma in Nursing Science (Emergency Nursing) - Teaching Hospitals,护理学理学（急诊护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsemergy.html
+29,master,Graduate Diploma in Nursing Science (Intensive Care Nursing) - Teaching Hospitals,护理学理学（重症监护护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsintcar.html
+29,master,Graduate Diploma in Nursing Science (Oncology Nursing) - Teaching Hospitals,护理学理学（肿瘤护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsoncol.html
+29,master,Graduate Diploma in Nursing Science (Orthopaedic Nursing) - Teaching Hospitals,护理学理学（骨科护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsorthop.html
+29,master,Graduate Diploma in Nursing Science (Perioperative Nursing) - Teaching Hospitals,护理学理学（围手术期护理）研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdnsc_gdnsperiop.html
+29,master,Graduate Diploma in Petroleum Engineering,石油工程研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdpe_gdpeteng.html
+29,master,Graduate Diploma in Project Management,项目管理研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdpm_gdpromgt.html
+29,master,Graduate Diploma in Psychology - Online,心理学研究生文凭（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gdps_gdpsychol.html
+29,master,Graduate Diploma in Psychology (Advanced) - Online,心理学（高级）研究生文凭（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gdpsa_gdpsaol.html
+29,master,Graduate Diploma in Public Health,公共卫生研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdpuh_gdpubhlth.html
+29,master,Graduate Diploma in Public Policy,公共政策研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdpup_gdpubpoli.html
+29,master,Graduate Diploma in Viticulture and Oenology - Waite Campus,葡萄栽培与酿酒学研究生文凭（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/gdvo_gdvitoenol.html
+29,master,Graduate Diploma in Forensic Odontology - Teaching Hospitals,法庭牙科学研究生文凭（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/gdfod_gdforodon.html
+29,master,Graduate Diploma in Wine Business,葡萄酒商务研究生文凭,1,https://www.adelaide.edu.au/degree-finder/2025/gdwib_gdwinebus.html
+29,master,Executive Graduate Certificate in Business Administration,工商管理高管研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/egcba_exgcbusad.html
+29,master,Graduate Certificate in Alcohol and Drug Studies,酒精与药物研究研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcads_gcalcdrugs.html
+29,master,Graduate Certificate in Artificial Intelligence and Machine Learning,人工智能与机器学习研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcaim_gcaiml.html
+29,master,Graduate Certificate in Biostatistics,生物统计学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcbst_gcbiostat.html
+29,master,Graduate Certificate in Biotechnology (Biomedical),生物技术（生物医学）研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcbib_gcbibiom.html
+29,master,Graduate Certificate in Business Administration - Online,工商管理研究生证书（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gcbao_gcbaol.html
+29,master,Graduate Certificate in Business Analytics,商学分析研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcban_gcbusan.html
+29,master,Graduate Certificate in Business Law,商学法学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcbla_gcbuslaw.html
+29,master,Graduate Certificate in Computer Science,计算机科学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gccms_gccompsco.html
+29,master,Graduate Certificate in Counselling and Psychotherapy,咨询与心理治疗研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gccp_gccounpsy.html
+29,master,Graduate Certificate in Curatorial and Museum Studies,策展与博物馆研究研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gccum_gccmusst.html
+29,master,Graduate Certificate in Cyber Security - Online,网络安全研究生证书（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gccse_gccsec.html
+29,master,Graduate Certificate in Cyber Security,网络安全研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gccys_gccysec.html
+29,master,Graduate Certificate in Cyber Security (Management),网络安全（管理）研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gccs_gccsmgt.html
+29,master,Graduate Certificate in Data Science,数据科学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcdsc_gcdatasc.html
+29,master,Graduate Certificate in Data Science (Applied) - Online,数据科学（应用）研究生证书（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gcdsa_gcdscapol.html
+29,master,Graduate Certificate in Economics and Resource Policy,经济学与资源政策研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcerp_gcecrepol.html
+29,master,Graduate Certificate in Education,教育学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gced_gceduc.html
+29,master,Graduate Certificate in Environmental Policy and Management,环境政策与管理研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcepm_gcenvp&m.html
+29,master,Graduate Certificate in Food and Nutrition Science - Waite Campus,食品与营养理学研究生证书（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/gcfns_gcfoodns.html
+29,master,Graduate Certificate in Global Food and Nutrition Science - Waite Campus,全球食品与营养理学研究生证书（韦特校区）,1,https://www.adelaide.edu.au/degree-finder/2025/gcgfn_gcglobfns.html
+29,master,Graduate Certificate in Immersive Media Technologies,沉浸式媒体技术研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcimt_gcimedtech.html
+29,master,Graduate Certificate in International Addiction Studies,国际成瘾研究研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcias_gcintadst.html
+29,master,Graduate Certificate in International Security,国际安全研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcins_gcintsec.html
+29,master,Graduate Certificate in Law,法学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gclaw_gclaw.html
+29,master,Graduate Certificate in Maritime Engineering,海事工程研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcmen_gcmaren.html
+29,master,Graduate Certificate in Materials Engineering,材料工程研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcme_gcmateng.html
+29,master,Graduate Certificate in Media (Strategic Communication),媒体（战略传播）研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcmsc_gcmedsc.html
+29,master,Graduate Certificate in Medical Physics,医学物理学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcmp_gcmedphys.html
+29,master,Graduate Certificate in Nursing Science (Infection Control Nursing) - Online,护理学理学（感染控制护理）研究生证书（线上）,1,https://www.adelaide.edu.au/degree-finder/2025/gcnsc_gcnsicnol.html
+29,master,Graduate Certificate in Oral Health Science,口腔健康理学研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcorh_gcorhlthsc.html
+29,master,Graduate Certificate in Petroleum Engineering,石油工程研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcpe_gcpeteng.html
+29,master,Graduate Certificate in Project Management,项目管理研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcpm_gcpromgt.html
+29,master,Graduate Certificate in Public Health,公共卫生研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcpuh_gcpubhlth.html
+29,master,Graduate Certificate in Public Policy,公共政策研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcpup_gcpubpoli.html
+29,master,Graduate Certificate in Radiation Management,辐射管理研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcrm_gcradmgt.html
+29,master,Graduate Certificate in Wine Business,葡萄酒商务研究生证书,1,https://www.adelaide.edu.au/degree-finder/2025/gcwib_gcwinebus.html
+29,master,Professional Certificate in Advisory Services,咨询服务专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcas_pcadserv.html
+29,master,Professional Certificate in Arbitration,仲裁专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcarb_pcarb.html
+29,master,Professional Certificate in Business Studies,商业研究专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcbs_pcbusst.html
+29,master,Professional Certificate in Defence Contracting Law,国防采购合同法专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcdcl_pcdefcl.html
+29,master,Professional Certificate in Defence Industry Leadership,国防工业领导力专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcdil_pcdefinl.html
+29,master,Professional Certificate in Education,教育学专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pced_pceduc.html
+29,master,Professional Certificate in Environmental Policy and Management,环境政策与管理专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcepm_pcenvp&m.html
+29,master,Professional Certificate in Nuclear Law,核法律专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcnl_pcnuclaw.html
+29,master,Professional Certificate in Operational Commercial Law,商业运营法专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcocl_pcopcomlaw.html
+29,master,Professional Certificate in Public Policy,公共政策专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcpup_pcpubpoli.html
+29,master,Professional Certificate in Space Law,航天法专业证书,1,https://www.adelaide.edu.au/degree-finder/2025/pcsl_pcspacelaw.html
+29,master,Doctor of Clinical Dentistry - Teaching Hospitals,临床牙科博士（教学医院）,1,https://www.adelaide.edu.au/degree-finder/2025/drcd_drclinden.html
+29,master,Doctor of Medicine,医学博士（MD）,1,https://www.adelaide.edu.au/degree-finder/2025/dmedi_dmedic.html
+29,master,Doctor of Veterinary Medicine - Roseworthy Campus,兽医医学博士（罗斯沃西校区）,1,https://www.adelaide.edu.au/degree-finder/2025/dvetm_drvetmedi.html

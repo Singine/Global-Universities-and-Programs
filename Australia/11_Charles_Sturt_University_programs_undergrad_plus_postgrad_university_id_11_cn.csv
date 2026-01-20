@@ -1,0 +1,55 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+11,Bachelor of Accounting,会计学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-accounting
+11,Bachelor of Adult and Vocational Education (with specialisations),成人与职业教育学士（含专业方向）,bachelor,1,https://study.csu.edu.au/courses/bachelor-adult-vocational-education
+11,Bachelor of Agricultural Business Management,农业商业管理学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-agricultural-business-management
+11,Bachelor of Arts,文学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-arts
+11,Bachelor of Business,商学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-business
+11,Bachelor of Business Studies,商务研究学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-business-studies
+11,Bachelor of Computer Science,计算机科学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-computer-science
+11,Bachelor of Criminology,犯罪学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-criminology
+11,Bachelor of Education (K - 12),教育学学士（K-12）,bachelor,1,https://study.csu.edu.au/courses/bachelor-education-k-12
+11,Bachelor of Education (Technology and Applied Studies),教育学学士（技术与应用研究）,bachelor,1,https://study.csu.edu.au/courses/bachelor-education-technology-applied-studies
+11,Bachelor of Educational Studies,教育研究学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-educational-studies
+11,Bachelor of Equine Science,马科学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-equine-science
+11,Bachelor of Health Science (Mental Health),健康科学学士（心理健康）,bachelor,1,https://study.csu.edu.au/courses/bachelor-health-science-mental-health
+11,Bachelor of Human Services,人类服务学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-human-services
+11,Bachelor of Information Studies (with specialisations),信息研究学士（含专业方向）,bachelor,1,https://study.csu.edu.au/courses/bachelor-information-studies
+11,Bachelor of Information Technology,信息技术学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-information-technology
+11,Bachelor of Laws / Bachelor of Criminal Justice,法学与刑事司法学士（双学位）,bachelor,1,https://study.csu.edu.au/courses/bachelor-laws-bachelor-criminal-justice
+11,Bachelor of Medical Radiation Science (with specialisations),医学放射科学学士（含专业方向）,bachelor,1,https://study.csu.edu.au/courses/bachelor-medical-radiation-science
+11,Bachelor of Nursing,护理学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-nursing
+11,Bachelor of Paramedicine,院前急救学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-paramedicine
+11,Bachelor of Policing,警务学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-policing
+11,Bachelor of Policing (Investigations),警务学士（侦查）,bachelor,1,https://study.csu.edu.au/courses/bachelor-policing-investigations
+11,Bachelor of Policing and Public Safety,警务与公共安全学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-policing-public-safety
+11,Bachelor of Psychology,心理学学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-psychology
+11,Bachelor of Social Science (Psychology),社会科学学士（心理学）,bachelor,1,https://study.csu.edu.au/courses/bachelor-social-science-psychology
+11,Bachelor of Social Science (Psychology) (Honours),社会科学学士（心理学）（荣誉）,bachelor,1,https://study.csu.edu.au/courses/bachelor-social-science-psychology-honours
+11,Bachelor of Social Work,社会工作学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-social-work
+11,Bachelor of Wine Business,葡萄酒商务学士,bachelor,1,https://study.csu.edu.au/courses/bachelor-wine-business
+11,Master of Advanced Medical Radiation Practice,高级医学放射实践硕士,master,1,https://study.csu.edu.au/courses/master-advanced-medical-radiation-practice
+11,Master of Advanced Social Work Practice,高级社会工作实践硕士,master,1,https://study.csu.edu.au/courses/master-advanced-social-work-practice
+11,Master of Ageing and Health,老龄化与健康硕士,master,1,https://study.csu.edu.au/courses/master-ageing-health
+11,Master of Business Data Analytics,商业数据分析硕士,master,1,https://study.csu.edu.au/courses/master-of-business-data-analytics
+11,Master of Clinical Psychology,临床心理学硕士,master,1,https://study.csu.edu.au/courses/master-clinical-psychology
+11,Master of Cloud Computing and Virtualisation,云计算与虚拟化硕士,master,1,https://study.csu.edu.au/courses/master-cloud-computing-virtualisation
+11,Master of Critical Care Paramedicine,重症院前急救硕士,master,1,https://study.csu.edu.au/courses/master-paramedicine
+11,Master of Cyber Security,网络安全硕士,master,1,https://study.csu.edu.au/courses/master-cyber-security
+11,Master of Health Management and Leadership,健康管理与领导力硕士,master,1,https://study.csu.edu.au/courses/master-health-management-leadership
+11,Master of Inclusive Education,融合教育硕士,master,1,https://study.csu.edu.au/courses/master-inclusive-education
+11,Master of Information Technology (with specialisations),信息技术硕士（含专业方向）,master,1,https://study.csu.edu.au/courses/master-information-technology
+11,Master of Intelligence Analysis,情报分析硕士,master,1,https://study.csu.edu.au/courses/master-intelligence-analysis
+11,Master of Leadership in Human Services (with specialisations),人类服务领导力硕士（含专业方向）,master,1,https://study.csu.edu.au/courses/master-leadership-human-services
+11,Master of Medical Science (with specialisations),医学科学硕士（含专业方向）,master,1,https://study.csu.edu.au/courses/medical-science/master-medical-science
+11,Master of Ministry,事工硕士,master,1,https://study.csu.edu.au/courses/master-ministry
+11,Master of Networking and Systems Administration,网络与系统管理硕士,master,1,https://study.csu.edu.au/courses/master-networking-systems-administration
+11,Master of Pastoral Counselling,牧灵辅导硕士,master,1,https://study.csu.edu.au/courses/master-pastoral-counselling
+11,Master of Philosophy,哲学硕士,master,1,https://study.csu.edu.au/courses/master-philosophy
+11,Master of Professional Accounting,职业会计硕士,master,1,https://study.csu.edu.au/courses/master-professional-accounting
+11,Master of Professional Psychology,职业心理学硕士,master,1,https://study.csu.edu.au/courses/master-professional-psychology
+11,Master of Project Management,项目管理硕士,master,1,https://study.csu.edu.au/courses/master-project-management
+11,Master of Psychological Practice (with specialisations),心理实践硕士（含专业方向）,master,1,https://study.csu.edu.au/courses/master-psychological-practice
+11,Master of Social Work (Professional Qualifying),社会工作硕士（职业资格）,master,1,https://study.csu.edu.au/courses/master-social-work-professional-qualifying
+11,Master of Social and Organisational Leadership (with specialisations),社会与组织领导力硕士（含专业方向）,master,1,https://study.csu.edu.au/courses/master-social-organisational-leadership
+11,Master of Teaching (Primary),教学硕士（小学）,master,1,https://study.csu.edu.au/courses/master-teaching-primary
+11,Master of Terrorism and Security Studies,恐怖主义与安全研究硕士,master,1,https://study.csu.edu.au/courses/master-terrorism-security-studies

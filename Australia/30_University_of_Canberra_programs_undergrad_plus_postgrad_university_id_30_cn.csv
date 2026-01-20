@@ -1,0 +1,118 @@
+﻿university_id,degree_level,major_name_en,major_name_cn,is_active,notes
+30,bachelor,Bachelor of Arts,文学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-arts/3dad18b8137d129c0fe571d56de43878
+30,bachelor,Bachelor of Arts and Design (Honours),艺术与设计（荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-arts-and-design-honours/4d54ab214b861ba89e912a8af05cee66
+30,bachelor,Bachelor of Arts/Bachelor of Communication and Media,文学学士/传播与媒体学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-artsbachelor-of-communication-and-media/f6e58df6618540c701334adceb923355
+30,bachelor,Bachelor of Arts/Bachelor of Science in Psychology,文学学士/理学（心理学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-artsbachelor-of-science-in-psychology/f180199781281fa2929c338388595e4f
+30,bachelor,Bachelor of Building and Construction Management (Honours),建筑与施工管理（荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-building-and-construction-management-honours/7443b7b56c5d6a3cea7aeabe89ffd73a
+30,bachelor,Bachelor of Built Environment (Architecture)/ Bachelor of Built Environment (Interior Architecture),建成环境（建筑学）学士/建成环境（室内建筑）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-built-environment-architecture-bachelor-of-built-environment-interior-architecture/2c55eb9b23f49f0ec4ee30bc7e370337
+30,bachelor,Bachelor of Business,商业学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business/d0023daacf211b83765debcd21504b51
+30,bachelor,Bachelor of Business (Entrepreneurship and Innovation),商业（创业与创新）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-entrepreneurship-and-innovation/e1d9074a6ac772dd3a018d7ecd8d3be8
+30,bachelor,Bachelor of Business (Sport Management),商业（体育管理）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-sport-management/98de4d7dea571c1c5ca47ca49f3bf2ef
+30,bachelor,Bachelor of Business Informatics,商业信息学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-informatics/058794ed434e2efa5792cf3d47f436c1
+30,bachelor,"Bachelor of Business, Government and Policy (Honours)",商业、政府与政策（荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-government-and-policy-honours/668c26b99765a2c822c3d42876846e67
+30,bachelor,Bachelor of Business/ Bachelor of Arts,商业学士/文学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-bachelor-of-arts/52986baf2c6f2f32f6e8c459f8deb486
+30,bachelor,Bachelor of Business/ Bachelor of Business Informatics,商业学士/商业信息学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-bachelor-of-business-informatics/dffcf8961ba9b76747f27af807f9dcfa
+30,bachelor,Bachelor of Business/ Bachelor of Communication and Media,商业学士/传播与媒体学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-bachelor-of-communication-and-media/d74b50dd848cbde5bfdeb8fae564fe6f
+30,bachelor,Bachelor of Business/ Bachelor of Laws,商业学士/法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-bachelor-of-laws/e0263cd2fba3cc53f12eabc75af00629
+30,bachelor,Bachelor of Business/ Bachelor of Science in Psychology,商业学士/理学（心理学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-business-bachelor-of-science-in-psychology/1c50dd97923149bc298d93eba3c6862c
+30,bachelor,Bachelor of Commerce (Accounting),商学（会计）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-commerce-accounting/d7dd184fc0ae9fe64e9d4bc5c6aaa836
+30,bachelor,Bachelor of Commerce/ Bachelor of Information Technology,商学学士/信息技术学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-commerce-bachelor-of-information-technology/9a50c5d5fd7735915d6bdc0bfa098cb8
+30,bachelor,Bachelor of Commerce/ Bachelor of Laws,商学学士/法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-commerce-bachelor-of-laws/1535358289a0bc4d359196fe85fce0ea
+30,bachelor,Bachelor of Communication and Media,传播与媒体学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-communication-and-media/36f62a26be7f571cb856b1c3538db15f
+30,bachelor,Bachelor of Communication and Media/ Bachelor of Laws,传播与媒体学士/法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-communication-and-media-bachelor-of-laws/deb45e2fbf769da7298cad7211cd8499
+30,bachelor,Bachelor of Creative Industries (Acting and Performance),创意产业（表演与舞台艺术）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-creative-industries-acting-and-performance/e41da1b71d814148cd18e6f38b8dfdd2
+30,bachelor,Bachelor of Creative Industries (Applied Fashion),创意产业（应用时尚）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-creative-industries-applied-fashion/a44f3fff887672683de9fd353b08dea8
+30,bachelor,Bachelor of Creative Industries (Contemporary Music Practice),创意产业（当代音乐实践）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-creative-industries-contemporary-music-practice/1645929e97fe766b8d66bd083a2671e5
+30,bachelor,Bachelor of Creative Industries (Drama and Performance),创意产业（戏剧与表演）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-creative-industries-drama-and-performance/308a81aeeb066458d0423f4d0e84ca72
+30,bachelor,Bachelor of Creative Industries (Visual Arts),创意产业（视觉艺术）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-creative-industries-visual-arts/046c51af95fb6bce3c30c2a93bddeb1f
+30,bachelor,Bachelor of Design,设计学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-design/8d85d330431851d3a123b28b365548c2
+30,bachelor,Bachelor of Design (Game Development),设计（游戏开发）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-design-game-development/3e4168841925d9f9a5886cc73613b581
+30,bachelor,Bachelor of Design/Bachelor of Communication and Media,设计学士/传播与媒体学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-designbachelor-of-communication-and-media/9ecf4f85f748bf12fd42c55d5cbf58f1
+30,bachelor,Bachelor of Digital Design (Digital Media),数字设计（数字媒体）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-digital-design-digital-media/33e7a38fb193570c66e65fc3ac3ff366
+30,bachelor,Bachelor of Early Childhood Education (Birth to Five),幼儿教育（0-5岁教育）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-early-childhood-education-birth-to-five/89bca3a6f1989651f88ab050cd5d6737
+30,bachelor,Bachelor of Early Childhood and Primary Education,幼儿与小学教育学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-early-childhood-and-primary-education/7ed7d12bcff14f302b69c5a1494ab1f0
+30,bachelor,Bachelor of Engineering (Honours),工程学（荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-engineering-honours/9bd22b4d5afb0e2c425ada379a3c1e27
+30,bachelor,Bachelor of Engineering Technology,工程学技术学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-engineering-technology/8b2c1e69553586efa5c5e09df56bf7ea
+30,bachelor,Bachelor of Exercise Physiology and Rehabilitation,运动生理学与康复学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-exercise-physiology-and-rehabilitation/60427a49df13bc208bbe0ed69c2705b7
+30,bachelor,Bachelor of Film Production,电影制作学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-film-production/cc337e77b68a000d5f080b7ff25d814f
+30,bachelor,Bachelor of Government,政府学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-government/64b0be038e58f37ac6604fcd1b561360
+30,bachelor,Bachelor of Health Science,健康科学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-health-science/371c816597d810c3604b6e5f8963b51b
+30,bachelor,Bachelor of Health Science (Human Movement),健康科学（人体运动）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-health-science-human-movement/a842a73af28ecb02f9638f295b9ac94c
+30,bachelor,Bachelor of Health Science (Human Movement)/ Bachelor of Human Nutrition,健康科学（人体运动）学士/人类营养学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-health-science-human-movement-bachelor-of-human-nutrition/c96eefd0e0fd13809cf71812d7e36f9d
+30,bachelor,Bachelor of Health Sciences (Honours),健康科学（荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-health-sciences-honours/170b451dbb86e218975e77392d667907
+30,bachelor,Bachelor of Human Nutrition,人类营养学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-human-nutrition/d2e6611e2cd083e35fd53763bc4081c5
+30,bachelor,Bachelor of Information Technology,信息技术学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-information-technology/061fd9388b1beae648491fc7bd6c1c28
+30,bachelor,Bachelor of Justice Studies,司法研究学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-justice-studies/4cdaf76b5f81a93278f5c6fa37d75c73
+30,bachelor,Bachelor of Laws,法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-laws/5052654229b60a281bbe9f0da3dea114
+30,bachelor,Bachelor of Medical Radiation Science (Medical Imaging),医学放射科学（医学影像）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-medical-radiation-science-medical-imaging/40a993ea7d82ac00f7177c72081a38d9
+30,bachelor,Bachelor of Medical Science,医学理学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-medical-science/cf0ab35c708196587d489c1da6d705ad
+30,bachelor,Bachelor of Midwifery,助产学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-midwifery/b3b18c0a1dc592c53895f534b442da57
+30,bachelor,Bachelor of Nursing,护理学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-nursing/a7bca00c608fdcc792d976fe1b44fe35
+30,bachelor,Bachelor of Occupational Therapy,职业治疗学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-occupational-therapy/e8dbc664698f030db92104874c437769
+30,bachelor,Bachelor of Pharmacy,药学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-pharmacy/da327e7089d825950f1821929ffeda0a
+30,bachelor,Bachelor of Physiotherapy,物理治疗学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-physiotherapy/a15477655720ecdd321cd49dd1c0bc15
+30,bachelor,Bachelor of Politics and International Relations,政治与国际关系学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations/882a15c19fc74d685e3f601345c74263
+30,bachelor,Bachelor of Politics and International Relations/ Bachelor of Arts,政治与国际关系学士/文学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations-bachelor-of-arts/698e5a2238f6e84998f06777f7d72b5a
+30,bachelor,Bachelor of Politics and International Relations/ Bachelor of Business,政治与国际关系学士/商业学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations-bachelor-of-business/0edfa49c1bab36099fa5416bcbb440a6
+30,bachelor,Bachelor of Politics and International Relations/ Bachelor of Communication and Media,政治与国际关系学士/传播与媒体学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations-bachelor-of-communication-and-media/d98e9afffcac2a8878e5e5b6ab34fa75
+30,bachelor,Bachelor of Politics and International Relations/ Bachelor of Laws,政治与国际关系学士/法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations-bachelor-of-laws/14acc22bad564e9184b838c02bcd06da
+30,bachelor,Bachelor of Politics and International Relations/ Bachelor of Science in Psychology,政治与国际关系学士/理学（心理学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-politics-and-international-relations-bachelor-of-science-in-psychology/607475db78b8dce590431b7bd7a8e79a
+30,bachelor,Bachelor of Primary Education,小学教育学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-primary-education/23d369bb31dc40bf02a05c63661ae31c
+30,bachelor,Bachelor of Primary Education (Creative Arts),小学教育学（创意艺术）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-primary-education-creative-arts/23c7c59475c95c0f2ae85660adf372ff
+30,bachelor,Bachelor of Primary Education (Health and Physical Education),小学教育学（健康与体育教育）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-primary-education-health-and-physical-education/334121e641ebe31247766f7009e09018
+30,bachelor,Bachelor of Primary Education (STeM),小学教育学（科学、技术、工程与数学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-primary-education-stem/2bf19681a930022b68507a7986d25e9a
+30,bachelor,Bachelor of Science,理学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science/636d4096ffeb1280e1b3316d51d26157
+30,bachelor,Bachelor of Science (Biomedical Science),理学（生物医学科学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-biomedical-science/2e85f11bc85998cd3479c185f2d7cc2d
+30,bachelor,Bachelor of Science (Environmental Science),理学（环境科学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-environmental-science/3c6492ceae9e55126b1ea7d0ff714646
+30,bachelor,Bachelor of Science in Psychology,理学（心理学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-in-psychology/6574662e00d3e4a27af88ec51eca6008
+30,bachelor,Bachelor of Science in Psychology (Honours),理学（心理学、荣誉）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-in-psychology-honours/fdbcffa0049d9e64f2ff103eb7977e0b
+30,bachelor,Bachelor of Science in Psychology/ Bachelor of Health Science (Human Movement),理学（心理学）学士/健康科学（人体运动）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-in-psychology-bachelor-of-health-science-human-movement/987d1fe5e91d9290a4c91ca29fb21027
+30,bachelor,Bachelor of Science in Psychology/ Bachelor of Laws,理学（心理学）学士/法学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-science-in-psychology-bachelor-of-laws/5f2ac88005c1105888015c30dd06b6de
+30,bachelor,Bachelor of Secondary Education (Arts),中学教育学（文科）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-secondary-education-arts/cc68c9104e5fdf1ba6329e17b8147725
+30,bachelor,Bachelor of Secondary Education (Health and Physical Education),中学教育学（健康与体育教育）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-secondary-education-health-and-physical-education/2cf07d0b2839d03c3ae62c93b61000c2
+30,bachelor,Bachelor of Secondary Education (Science),中学教育学（理科）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-secondary-education-science/8cc50d1d14977d2bf80e1919483f67b7
+30,bachelor,Bachelor of Social and Economic Policy (Economic Policy),社会与经济政策（经济政策）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-social-and-economic-policy-economic-policy/5b3f4b5c9eb614c899b7dafcc99165bc
+30,bachelor,Bachelor of Social and Economic Policy (Sociology),社会与经济政策（社会学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-social-and-economic-policy-sociology/baadff805fab5df37d819cbd328655ae
+30,bachelor,Bachelor of Software Engineering,软件工程学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-software-engineering/6bc7c36b07e7b967962e1f28d9b2203f
+30,bachelor,Bachelor of Software Engineering/Bachelor of Business Informatics,软件工程学士/商业信息学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-software-engineeringbachelor-of-business-informatics/75f062565d2c9c93a0b303db3e522279
+30,bachelor,Bachelor of Sport and Exercise Science,运动与运动科学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-sport-and-exercise-science/b0419ac8d63f45f4f571a6e35373ef0b
+30,bachelor,Bachelor of Vision Science,视觉科学学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-vision-science/2a0c0a60b5e4208465f9aed74bdcfc41
+30,bachelor,Bachelor of the Built Environment (Architecture),the建成环境（建筑学）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-the-built-environment-architecture/78f8b97c060599b6eae11f9ecf553d4c
+30,bachelor,Bachelor of the Built Environment (Interior Architecture),the建成环境（室内建筑）学士,1,https://search.studyaustralia.gov.au/course/bachelor-of-the-built-environment-interior-architecture/5add78ac028269725ea412d102e64555
+30,master,Master of Applied Arts & Humanities (Research),应用艺术与人文（研究）硕士,1,https://search.studyaustralia.gov.au/course/master-of-applied-arts-humanities-research/ac15fbeff05ed6c2fcfa1e97cc6e6bed
+30,master,Master of Applied Science (Research),应用科学（研究）硕士,1,https://search.studyaustralia.gov.au/course/master-of-applied-science-research/fd39a79874fd4f1babfed9acd4dfc1d7
+30,master,Master of Architecture,建筑学硕士,1,https://search.studyaustralia.gov.au/course/master-of-architecture/74ef0ec0b497cdf32a741b65636e8982
+30,master,Master of Building and Construction Information Management,建筑与施工信息管理硕士,1,https://search.studyaustralia.gov.au/course/master-of-building-and-construction-information-management/ca7a52d6010e6f5184f42de66f0104e5
+30,master,Master of Business Administration,工商管理硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-administration/a98f1772a0e3a3dacbcb8b598ebea049
+30,master,Master of Business Administration (Bhutan),工商管理（不丹）硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-administration-bhutan/819f48e1bd4d9f3e2dc7b4a9ae345c75
+30,master,Master of Business Administration (Ningbo),工商管理（宁波）硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-administration-ningbo/0bcfff4016991c77121e2a82352f248a
+30,master,Master of Business Administration (Plus),工商管理（加强版）硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-administration-plus/d824317ad139f72ccd646aa87ab21757
+30,master,Master of Business Administration (Shanghai),工商管理（上海）硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-administration-shanghai/e83e664c43bddea02cf3995465e63b8b
+30,master,Master of Business Informatics,商业信息学硕士,1,https://search.studyaustralia.gov.au/course/master-of-business-informatics/8026f152f47e5baea377d3ad23a7c308
+30,master,Master of Clinical Psychology,临床心理学硕士,1,https://search.studyaustralia.gov.au/course/master-of-clinical-psychology/26339ea48afa513f80d7575e224349fd
+30,master,Master of Communication,传播学硕士,1,https://search.studyaustralia.gov.au/course/master-of-communication/c01d4d15cd3033a996a72cdc5b61089b
+30,master,Master of Creative Industries,创意产业硕士,1,https://search.studyaustralia.gov.au/course/master-of-creative-industries/5739ca1d4ae499a324f2b2e62267f7e6
+30,master,Master of Data Science,数据科学硕士,1,https://search.studyaustralia.gov.au/course/master-of-data-science/6b52784c84eaf5396c87ca95381f1e05
+30,master,Master of Education,教育学硕士,1,https://search.studyaustralia.gov.au/course/master-of-education/77201087fc62ed54f42cce2cf7ad933e
+30,master,Master of Education Studies,教育研究硕士,1,https://search.studyaustralia.gov.au/course/master-of-education-studies/18da7332959257f19aaf15faab64ed47
+30,master,Master of Educational Leadership and Management,教育领导与管理硕士,1,https://search.studyaustralia.gov.au/course/master-of-educational-leadership-and-management/0224e7c65f693b5dd784211b33e3da90
+30,master,Master of Engineering,工程学硕士,1,https://search.studyaustralia.gov.au/course/master-of-engineering/91aa254ab0577e360693e1616f17c728
+30,master,Master of Information Sciences (Research),信息科学（研究）硕士,1,https://search.studyaustralia.gov.au/course/master-of-information-sciences-research/df9c6c8d09a25bf45070a741d6918cf0
+30,master,Master of Information Technology and Systems,信息技术与系统硕士,1,https://search.studyaustralia.gov.au/course/master-of-information-technology-and-systems/e92d6abb05cb12d8561b6f2919ae626b
+30,master,Master of International Development,国际发展硕士,1,https://search.studyaustralia.gov.au/course/master-of-international-development/2580282cf5d063621b459e53c0332eac
+30,master,Master of Medical Imaging,医学影像硕士,1,https://search.studyaustralia.gov.au/course/master-of-medical-imaging/c1bd447ed09a1a6d2b710e427d013b53
+30,master,Master of Nursing Practice (Graduate Entry),护理实践（研究生入学）硕士,1,https://search.studyaustralia.gov.au/course/master-of-nursing-practice-graduate-entry/702fe027201a851f237f4c9aea81d9d7
+30,master,Master of Nutrition and Dietetics,营养与膳食学硕士,1,https://search.studyaustralia.gov.au/course/master-of-nutrition-and-dietetics/2e961231e6ad98b01186360aa222402d
+30,master,Master of Occupational Therapy,职业治疗硕士,1,https://search.studyaustralia.gov.au/course/master-of-occupational-therapy/3f063a20830266f2ab669069a87d3074
+30,master,Master of Optometry,视光学硕士,1,https://search.studyaustralia.gov.au/course/master-of-optometry/cf58adbe874464b7e57a50312f77ea47
+30,master,Master of Pharmacy,药学硕士,1,https://search.studyaustralia.gov.au/course/master-of-pharmacy/192f32397f24f8562afa13bde37656cd
+30,master,Master of Physiotherapy,物理治疗硕士,1,https://search.studyaustralia.gov.au/course/master-of-physiotherapy/7460096650dec90a4cd7aeb8deb3faf0
+30,master,Master of Primary Teaching,小学教育硕士,1,https://search.studyaustralia.gov.au/course/master-of-primary-teaching/d627c195d032179a63ebcf1b627ea533
+30,master,Master of Professional Accounting,专业会计硕士,1,https://search.studyaustralia.gov.au/course/master-of-professional-accounting/13d2b3094f46b209377810535af1f2e9
+30,master,Master of Professional Accounting (Bhutan),专业会计（不丹）硕士,1,https://search.studyaustralia.gov.au/course/master-of-professional-accounting-bhutan/4e301e8d54d4ed7c0ac6c7dea822ed87
+30,master,Master of Public Health,公共卫生硕士,1,https://search.studyaustralia.gov.au/course/master-of-public-health/e340210860f357d2f15f24307e74fd99
+30,master,Master of Public Health (Extended),公共卫生（延长）硕士,1,https://search.studyaustralia.gov.au/course/master-of-public-health-extended/74f4adc6488b51cf7f508d287fce94d0
+30,master,Master of Research,研究硕士,1,https://search.studyaustralia.gov.au/course/master-of-research/fedf22a16bb38b177d3188dbed8f3975
+30,master,Master of Secondary Teaching,中学教育硕士,1,https://search.studyaustralia.gov.au/course/master-of-secondary-teaching/90fd95ef950412852f7d1c6a281ea162
+30,master,Master of Speech Pathology,言语病理学硕士,1,https://search.studyaustralia.gov.au/course/master-of-speech-pathology/b6de70448e570d5c9904ba621085b6e5
+30,master,Master of Teaching English to Speakers of Other Languages (TESOL) & Foreign Language Teaching (FLT),对外英语教学与外语教学（对外英语教学、外语教学）硕士,1,https://search.studyaustralia.gov.au/course/master-of-teaching-english-to-speakers-of-other-languages-tesol-foreign-language-teaching-flt/54dbf49eb5a29d094459616c92f51e07

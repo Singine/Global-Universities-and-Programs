@@ -1,0 +1,133 @@
+﻿university_id,major_name_en,major_name_cn,degree_level,is_active,notes
+24,Bachelor of Science/Doctor of Veterinary Medicine,理学学士/兽医学博士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1330
+24,Bachelor of Science (Chiropractic Science/Bachelor of Clinical Chiropractic),理学学士（脊骨神经科学/临床脊骨神经医学学士）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1331
+24,Bachelor of Science (Psychology),理学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1339
+24,Bachelor of Laws (Graduate Entry),法学学士（学士后入学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1340
+24,Bachelor of Communication (Global Media and Communication),传播学学士（全球媒体与传播）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1342
+24,Bachelor of Communication (Journalism),传播学学士（新闻学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1342
+24,Bachelor of Communication (Strategic Communication),传播学学士（战略传播）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1342
+24,Bachelor of Communication (Web Communication),传播学学士（网络传播）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1342
+24,Bachelor of Creative Media (Games Art and Design),创意媒体学士（游戏美术与设计）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1343
+24,Bachelor of Creative Media (Graphic Design),创意媒体学士（平面设计）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1343
+24,Bachelor of Creative Media (Photography),创意媒体学士（摄影）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1343
+24,Bachelor of Creative Media (Screen Production),创意媒体学士（影视制作）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1343
+24,Bachelor of Creative Media (Sound),创意媒体学士（音频制作）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1343
+24,Bachelor of Communication/Bachelor of Creative Media,传播学学士/创意媒体学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1344
+24,Bachelor of Criminology (Crime Science),犯罪学学士（犯罪科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1345
+24,Bachelor of Criminology (Criminal Behaviour),犯罪学学士（犯罪行为）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1345
+24,Bachelor of Criminology (Legal Studies#),犯罪学学士（法律研究）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1345
+24,Bachelor of Criminology (White Collar and Corporate Crime),犯罪学学士（白领与公司犯罪）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1345
+24,Bachelor of Laws/Bachelor of Criminology,法学学士/犯罪学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1346
+24,Bachelor of Criminology/Bachelor of Arts (Psychology),犯罪学学士/文学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1347
+24,Bachelor of Sport and Exercise Science,Sport 与运动科学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1348
+24,Bachelor of Sport and Exercise Science/Bachelor of Science (Psychology),Sport 与运动科学学士/理学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1352
+24,Bachelor of Laws/Bachelor of Communication,法学学士/传播学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1353
+24,Bachelor of Laws/Bachelor of Arts (Psychology),法学学士/文学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1354
+24,Bachelor of Laws/Bachelor of Science (Psychology),法学学士/理学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1355
+24,Bachelor of Arts (Community Development),文学学士（社区发展）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (English and Creative Writing),文学学士（English 与 Creative Writing）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Global Challenges),文学学士（全球 Challenges）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Global Politics and Policy),文学学士（全球 Politics 与政策）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (History),文学学士（History）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (International Aid and Development),文学学士（国际 Aid 与发展）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Japanese),文学学士（Japanese）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Philosophy),文学学士（Philosophy）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Sociology),文学学士（Sociology）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Sustainable Development),文学学士（可持续发展）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Arts (Tourism and Events),文学学士（Tourism 与 Events）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1356
+24,Bachelor of Criminology/Bachelor of Science (Forensic Biology and Toxicology),犯罪学学士/理学学士（法医生物学与毒理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1360
+24,Bachelor of Criminology/Bachelor of Communication,犯罪学学士/传播学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1362
+24,"Bachelor of Global Security (Cyberspace, Policy and Security)","全球安全学士（Cyberspace, 政策与安全）",bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1363
+24,"Bachelor of Global Security (Environment, Conflict and Security)","全球安全学士（Environment, Conflict 与安全）",bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1363
+24,Bachelor of Global Security (Politics and International Studie s),全球安全学士（Politics 与国际 Studie s）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1363
+24,Bachelor of Global Security (Terrorism and Counter Terrorism Studies),全球安全学士（Terrorism 与 Counter Terrorism 研究）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1363
+24,Bachelor of Laws/Bachelor of Global Security,法学学士/全球安全学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1365
+24,Bachelor of Criminology/Bachelor of Global Security,犯罪学学士/全球安全学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1366
+24,Bachelor of Business,商学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1367
+24,Bachelor of Education (Secondary Teaching),教育学学士（中学教育教学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1368
+24,Bachelor of Laws/Bachelor of Business,法学学士/商学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1369
+24,Bachelor of Laws/Bachelor of Arts,法学学士/文学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1370
+24,Bachelor of Nursing (Nursing (Mandurah Campus)),护理学学士（曼杜拉校区）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1373
+24,Bachelor of Nursing (Nursing (Murdoch Campus)),护理学学士（默多克校区）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1373
+24,Bachelor of Laboratory Medicine,医学检验学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1374
+24,Bachelor of Information Technology and Business,信息技术与商学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1375
+24,"Bachelor of Science (Medical, Molecular and Forensic Sciences) (Biomedical Science)",理学学士（医学、分子与司法科学）（生物医学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1380
+24,"Bachelor of Science (Medical, Molecular and Forensic Sciences) (Clinical Laboratory Science)",理学学士（医学、分子与司法科学）（临床实验室科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1380
+24,"Bachelor of Science (Medical, Molecular and Forensic Sciences) (Forensic Biology and Toxicology)",理学学士（医学、分子与司法科学）（法医生物学与毒理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1380
+24,"Bachelor of Science (Medical, Molecular and Forensic Sciences) (Forensic Chemistry)",理学学士（医学、分子与司法科学）（法医化学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1380
+24,"Bachelor of Science (Medical, Molecular and Forensic Sciences) (Genetics and Molecular Biology)",理学学士（医学、分子与司法科学）（遗传学与分子生物学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1380
+24,Bachelor of Arts (Psychology),文学学士（心理学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1388
+24,Bachelor of Food Science and Nutrition,食品科学与营养学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1389
+24,Bachelor of Information Technology (Artificial Intelligence and Autonomous),信息技术学士（人工智能与 Autonomous）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Business Information Systems),信息技术学士（商业信息系统）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Computer Science),信息技术学士（计算机科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Cyber Security and Forensics),信息技术学士（网络安全与 Forensics）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Games Technology),信息技术学士（游戏技术）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Internetworking and Network Security),信息技术学士（Internetworking 与 Network 安全）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Information Technology (Systems),信息技术学士（Systems）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1390
+24,Bachelor of Agricultural Science (Animal Health),农业科学学士（动物健康）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1391
+24,Bachelor of Agricultural Science (Animal Science),农业科学学士（动物科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1391
+24,Bachelor of Agricultural Science (Crop and Pasture Science),农业科学学士（Crop 与 Pasture 科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1391
+24,Bachelor of Agricultural Science/Bachelor of Business,农业科学学士/商学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1393
+24,Bachelor of Agricultural Sciences/Bachelor of Business,农业科学学士/商学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1393
+24,Bachelor of Business/Bachelor of Entrepreneurship and Innovation,商学学士/Entrepreneurship 与 Innovation学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1394
+24,Bachelor of Laws,法学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1395
+24,Bachelor of Laws/Bachelor of Information Technology,法学学士/信息技术学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1398
+24,Bachelor of Science (Environmental and Conservation Sciences) (Conservation and Wildlife Biology),理学学士（环境与保护科学）（保护与野生动物生物学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1399
+24,Bachelor of Science (Environmental and Conservation Sciences) (Environmental Science and Management),理学学士（环境与保护科学）（环境科学与管理）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1399
+24,Bachelor of Science (Environmental and Conservation Sciences) (Marine Biology),理学学士（环境与保护科学）（海洋生物学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1399
+24,Bachelor of Sport and Exercise Science/Master of Clinical Exercise Physiology,Sport 与运动科学学士/临床运动 Physiology硕士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1400
+24,Bachelor of Data Analytics (Business Intelligence),数据分析学士（商务 Intelligence）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1401
+24,Bachelor of Education (Primary Teaching),教育学学士（小学教育教学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1404
+24,Bachelor of Education (Early Childhood and Primary Teaching),教育学学士（幼儿教育与小学教育教学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1405
+24,"Bachelor of Education (Primary, 1-10 Health and Physical Education)","教育学学士（小学教育, 1-10 健康与体育教育）",bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1406
+24,Bachelor of Engineering Technology (Electrical and Renewable Energy Engineering),工程技术学士（Electrical 与可再生 Energy 工程）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1408
+24,Bachelor of Engineering Technology (Engineering),工程技术学士（工程）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1408
+24,Bachelor of Engineering Technology (Environmental Engineering),工程技术学士（环境工程）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1408
+24,Bachelor of Engineering Technology (Industrial Control and Automation),工程技术学士（工业 Control 与 Automation）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1408
+24,Bachelor of Laws/Bachelor of Science,法学学士/理学学士,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1409
+24,Bachelor of Science (Mathematical Science) Mathematics and Statistics,理学学士（Mathematical 科学）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1410
+24,Bachelor of Science (Physical Sciences) Physics Chemistry,理学学士（体育 Sciences）,bachelor,1,https://www.murdoch.edu.au/course/undergraduate/b1411
+24,Master of Counselling,咨询硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1143
+24,Master of Applied Psychology in Clinical Psychology,Applied 心理学 in 临床心理学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1156
+24,Master of Public Policy and Management,公共政策与管理硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1194
+24,Master of Development Studies,发展研究硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1195
+24,Master of Environmental Science,环境科学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1210
+24,Master of Community Development,社区发展硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1212
+24,Master of Human Resources Management,人力资源管理硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1213
+24,Master of Sustainable Development,可持续发展硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1214
+24,Master of Information Technology,信息技术硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1220
+24,Master of Veterinary Clinical Studies,兽医临床研究硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1223
+24,Master of Teaching (Primary),教学硕士（小学教育）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1230
+24,Master of Education (Research),教育学硕士（Research）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1233
+24,Master of Applied Psychology (Professional),Applied 心理学硕士（专业）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1238
+24,Master of Biosecurity,Biosecurity硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1248
+24,Master of Forensic Science (Professional Practice),司法科学硕士（专业实践）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1255
+24,Master of Business Administration,商务行政管理硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1256
+24,"Master of Health Administration, Policy and Leadership",医疗管理、政策与领导力硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1267
+24,Master of Renewable and Sustainable Energy,可再生与可持续能源硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1268
+24,Master of Professional Accounting,专业会计硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1273
+24,Master of Professional Accounting (Advanced),专业会计硕士（高级）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1274
+24,Master of Exercise Science (Research),运动科学硕士（Research）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1275
+24,Master of Communication,传播硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1277
+24,Master of Business Administration (Global),商务行政管理硕士（全球）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1279
+24,Master of Teaching (Secondary),教学硕士（中学教育）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1284
+24,Master of Business Administration / Master of Human Resources Management,商务行政管理硕士/人力资源管理硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1288
+24,Master of Business Administration / Master of Information Technology,商务行政管理硕士/信息技术硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1289
+24,Master of Forensic Science (Professional Practice and Research),司法科学硕士（专业实践与 Research）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1292
+24,Master of Science in Information Technology,信息技术理学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1294
+24,Master of Business Administration / Master of Health Care Management,商务行政管理硕士/医疗管理硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1296
+24,Master of Creative Arts Therapies,创意艺术治疗硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1300
+24,Master of Food Security,食品安全硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1311
+24,Master of Education,教育学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1313
+24,Master of Criminology,犯罪学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1314
+24,Master of Clinical Exercise Physiology,临床运动 Physiology硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1325
+24,Master of Engineering Practice (Engineering),工程实践硕士（工程）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1330
+24,Master of Engineering Practice (Environmental and Sustainable Systems),工程实践硕士（环境与可持续 Systems）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1330
+24,Master of Engineering Practice (Intelligent Industrial Control and Autonomous),工程实践硕士（Intelligent 工业 Control 与 Autonomous）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1330
+24,Master of Engineering Practice (Smart and Renewable Electrical Power),工程实践硕士（Smart 与可再生 Electrical Power）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1330
+24,Master of Engineering Practice (Systems Engineering),工程实践硕士（Systems 工程）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1330
+24,Master of Health Care Management (Specialisation),医疗管理硕士（Specialisation）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1358
+24,Master of Education,教育学硕士,master,1,https://www.murdoch.edu.au/course/postgraduate/m1367
+24,Master of Food Science (Industry Practice),食品科学硕士（Industry 实践）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1371
+24,Master of Food Science (Industry Practice and Innovation),食品科学硕士（Industry 实践与 Innovation）,master,1,https://www.murdoch.edu.au/course/postgraduate/m1372
